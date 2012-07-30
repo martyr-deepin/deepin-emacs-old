@@ -23,6 +23,16 @@ Site-Lisp
  |
  |--- Packages/              LazyCat 收集和开发的 Emacs 扩展
  
+Configure-File               Deepin Emacs 扩展配置文件存放目录 
+
+Document                     一些文档文件
+
+Gnus                         Gnus 数据文件
+
+Mail                         Gnus 数据文件
+
+Image                        一些图片
+ 
 .emacs                       Deepin Emacs 配置文件, 放置在 HOME 目录下
 
 * 安装Emacs编译依赖: 
@@ -39,7 +49,7 @@ sudo make install
 sudo aptitude install gdb w3m w3m-img aspell aspell-en texinfo unclutter exuberant-ctags cscope global mplayer2 mp3info libnotify-bin imagemagick wget ghostscript ghostscript-x ghostscript-doc gs-cjk-resource findutils zsh archmage scrot xtrlock git git-core gnutls-bin stardict sdcv ttf-freefont mairix starttls getmail4 msmtp leafnode libotf0 libm17n-0 pyflakes npm -y && npm install jslint
 
 * 安装 Deepin Emacs:
-sudo cp ./Site-Lisp /usr/share/deepin-emacs/ && cp .emacs ~/
+sudo cp Configure-File Document Gnus Image Mail Site-Lisp /usr/share/deepin-emacs/ && cp .emacs ~/
 
 5> 启动 Emacs 开始玩吧! :)
 

@@ -1,0 +1,35 @@
+How to localize scim-bridge.el
+
+1. Copy scim-bridge-XX.el file
+
+   ex. The target language is Chinese
+
+   $ cp scim-bridge-XX.el scim-bridge-zh.el
+
+2. Replace some strings in that file
+
+   XX              -> language code of target language
+   TARGET_LANGUAGE -> target language
+   YEAR            -> year
+   MM              -> month
+   DD              -> day
+   TRANSLATOR      -> your name
+
+3. Translate the commentary section
+
+   Refer to the corresponding section in scim-bridge-en.el.
+
+4. Translate the documentation strings
+
+   Refer to the corresponding strings in scim-bridge-en.el.
+   If the string is left empty, the documentation string won't
+   be changed.
+
+5. Translate the custom-type options
+
+   Copy the options from scim-bridge-en.el, and then transcribe
+   the tags in them into target language.
+
+6. (Optional) Add function usefull for target language
+
+   See scim-bridge-ja.el.

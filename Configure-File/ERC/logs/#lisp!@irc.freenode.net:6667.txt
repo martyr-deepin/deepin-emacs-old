@@ -1,0 +1,262 @@
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #lisp: Common Lisp, the #1=(programmable . #1#) programming
+    language: <http://www.cliki.net/IRC>,
+    <http://paste.lisp.org/new/lisp>. common-lisp.net back in service, please
+    email problems to admin@common-lisp.net. New: SBCL 1.0.23, cl-net-snmp
+    5.19, yason-0.1, trivial-features 0.4, CFFI 0.10.3, series 2.2.10,
+    trivial-garbage 0.17, usocket 0.4.0  [03:24:41]
+*** #lisp: topic set by luis, 01:12:19 2008/12/02
+*** Users on #lisp: ManateeLazyCat wasabi_ araujo ehu` rme tritchey dialtone
+    Ragnaroek alley_cat mrsolo silenius sctb jlouis deximer athos beach
+    spiderbyte kib2 lispm_ Dynetrekk jfrancis phao_ jgracin jajcloz slyrus_
+    josemanuel george_ ikki cemerick amnesiac mulligan replor HET2 willb
+    sohail mattrepl phadthai CrazyEddy eirik PissedNumlock spacebat wgl johs
+    fnordus gz pierre_thierry keithr Patzy kmkaplan Cel adeht Fade retupmoca
+    prip minion j_king yango ianmcorvidae 
+*** Users on #lisp: pkhuong stassats kejsaren jestocost dto mejja tsuru alec
+    a-s billstclair jpcooper xjrn Nshag rpg rdd bpt postamar matimago auclairb
+    salex milanj oudeis jsnell benny sellout hkBst existentialmonk b4|hraban
+    Yuuhi antoszka malumalu dlowe jeremiah LiamH tc-rucho jewel Odin- Jasko
+    attila_lendvai jollygood AshyIsMe seelenquell Chrononaut kli lnostdal
+    pchrist|univ Athas jsoft ia Mr_SpOOn ths bdowning danlei` ``Erik Tristam
+    schme VityokOrgUa srcerer_ 
+*** Users on #lisp: Aankhen`` Harag S11001001 xinming_ abeaumont arbscht_
+    segv_ tarbo eliasm juturnas H4ns lillin authentic JuanDaugherty wlr
+    fe[nl]ix ebzzry madnificent dash__ BrianRice daniel kpreid ltbarcly hefner
+    borism tessier NoorDextor rumbleca mbac bfein gaja Zoba eno Jarvellis
+    jrockway te froog bombshelter13 Riastradh cmm- persi holymoo delYsid
+    free_tinker dfox ineiros xan huangjs eevar Soulmann |Soulman| tompa
+    Adrinael cYmen_ lichtblau CptPicard Balooga 
+*** Users on #lisp: _CitizenKane_ ahaas mathrick rread hefner_ wedgeV yahooooo
+    kidd1 Khisanth Draggor specbot lisppaste bohanlon mogunus foom clog _3b
+    chii qebab rey_ turbo24prg Xof aking Guest53748 jollygood_______ djkthx
+    mornfall housel meingbg thijso sbok djinni` pok technik dublpaws herbieB
+    jkantz_ zbigniew albino andrerav larstobi Partyzan1 merlincorey guenther__
+    michaelw r0bby mr_uggla sad0ur cods drewc jmcphers dostoyevsky agemo mcxx
+    felipe l4ndfo chandler 
+*** Users on #lisp: chawls ccl-logbot erg bobrown boyscared Starsie slyrus
+    rsynnott maxote bob_f froydnj emma Buganini scode simonb nasloc__ azuk
+    pwned DrForr e271 locklace mqt dcrawford Wombat1 rtoym kuwabara cipher
+    replaca Modius Ginei_Morioka UnwashedMeme vcgomes sykopomp rlpowell
+    andrewy abend_ buccia mbac_ koning_r1bot pragma_ luis akhilleus p8m
+    mikezor rotty mgr cmatei seb- tic spiaggia p_l dwave V-ille l_a_m _theHAM
+    Quadrescence lasts Ifur Eno_ xristos kleppari 
+*** Users on #lisp: vorian dmiles fihi09` joga mvilleneuve lucca sjbach tltstc
+    m4thrick pauleeallen52 galdor z0d Aisling kuhzoo sabetts grkz maskd
+    sktrdie Thas @antifuchs 
+<salex> (e.g. matlab replacement)
+*** #lisp modes: +nc  [03:25:03]
+*** #lisp was created on ‘ÐÇ‘ÆÚ‘Ò» 2003/08/04 05‘Ê±30‘·Ö32‘Ãë
+<Dynetrekk> salex: matlab I'd rather not learn, even if a lot of people use it
+                                                                     [03:25:14]
+<hefner_> learning matlab is on my short term agenda  [03:25:29]
+<Dynetrekk> salex: I basically need to evaluate a lot of spherical harmonics
+            and solve linear eqn systems right now  [03:25:35]
+<Dynetrekk> scipy is great for that  [03:25:38]
+<Dynetrekk> hefner: try scipy-python. if you're a programmer in any sense of
+            the word it will be vastly more appealing.  [03:25:58]
+<hefner_> nah, I hate python  [03:26:16]
+<salex> matlab is very, very good at a few things (none better, reawlly)
+                                                                     [03:26:33]
+<salex> and ranges from acceptable to really sucks at everything else
+                                                                     [03:26:49]
+<lispm_> Dynetrekk, you can also use math tools written in Lisp like Maxima or
+         Axiom  [03:26:55]
+<Dynetrekk> salex: such as reading a file with text comments not in matlabs
+                                                                     [03:27:20]
+<salex> right, for more symbolic needs  [03:27:22]
+<Dynetrekk> and if you want to write a function, it needs a separate
+            file. it's gross.  [03:27:44]
+<rsynnott> salex: tsk. You should be using fortran. That's what mathematicians
+           use :)  [03:28:00]
+<salex> rsynnott:  [03:28:12]
+<salex> nah.  truly, most mathematicians don't use anything  [03:28:25]
+<salex> followed by mathematica/maple  [03:28:34]
+<rsynnott> matlab has some terribly clever libraries which you don't really
+           see anywhere else, in particular  [03:28:43]
+<salex> and the hard-core numerical PDE types are split between fortran and
+        c++ these days  [03:28:56]
+<salex> there are a few lisp and APL holdouts  [03:29:08]
+<salex> (and a few new ones, like me)  [03:29:14]
+<Dynetrekk_> real programmers can write fortran in any language  [03:29:56]
+<rsynnott> for some reason, all chemistry students in my university were
+           taught fortran, and just about nothing else, for programming
+                                                                     [03:30:16]
+<tic> rsynnott, maybe because of LAPACK?  [03:31:25]
+<salex> yeah  [03:31:29]
+<Dynetrekk_> my phd supervisor is a fortran addict. don't know why  [03:31:30]
+<salex> Dynetrekk_: what area?  [03:31:38]
+<Dynetrekk_> tic: lapack you get in python  [03:31:39]
+<Dynetrekk_> salex: physics. applied optics-ish.  [03:31:50]
+<Dynetrekk_> salex: recently started it  [03:31:59]
+<salex> yeah, lapack is portable, but there are a metric ton of fortran libs
+        that aren't  [03:32:03]
+<tic> hefner_, [haskell] would you say it'd look less messy in efficient Lisp
+      w/ type declarations thrown in everywhere? (curious)  [03:32:11]
+<salex> it's still a pretty good numerical language  [03:32:14]
+<tic> hefner_, (as opposed to just sequencing certain operations in Haskell)
+                                                                     [03:32:24]
+<salex> if all you want to do is read data from a file, crunch it, write it
+        back out, fortran is pretty reasonable  [03:32:31]
+<Dynetrekk_> salex: probably. it does have some nice properties for numerics I
+             guess  [03:32:36]
+<Dynetrekk_> salex: sure. but anything else must be painful-ish?  [03:32:47]
+<salex> and there are very good, very solid, libraries with decades of testing
+                                                                     [03:32:48]
+<Dynetrekk_> salex: yeah, I call them from python :D  [03:33:01]
+<salex> Dynetrekk_: painfulishs less so now that fortran77 (no dynamic memory)
+                                                                     [03:33:09]
+<drewc> minion: f2cl?  [03:33:11]
+<minion> Sorry, I couldn't find anything in the database for ``f2cl''.
+                                                                     [03:33:12]
+<drewc> hrm.  [03:33:17]
+<rsynnott> there isn't, is there?  [03:33:31]
+<salex> but seriously, for much research code you really don't need anything
+        much more  [03:33:38]
+<rsynnott> oh, that's just sick  [03:33:42]
+<Dynetrekk_> salex: you mean "now  than fortran" ?  [03:33:43]
+<rsynnott> (f2cl)  [03:33:45]
+<Dynetrekk_> salex: I know  [03:33:47]
+<foom> C didn't used to have a local variable stack either. :)  [03:34:00]
+<salex> and most researchers in many of these areas will never be great
+        programmers, and it would be a waste of type  [03:34:02]
+<salex> time  [03:34:03]
+<drewc> rsynnott: indeed, f2cl is cool!  [03:34:05]
+<Dynetrekk_> salex: actually, for much stuff python is good enough
+             too. depends what you work on  [03:34:09]
+<salex> of course  [03:34:13]
+<salex> but that's a recent development  [03:34:21]
+<schme> fortran has the openmp going for it.  [03:34:32]
+<salex> and nobody trusts this stuff as much ast the stuff on GAMS say
+                                                                     [03:34:33]
+<salex> yet  [03:34:41]
+<salex> netlib etc.  [03:34:50]
+<Dynetrekk_> yeah, but it saves tons of hours of programming not having to
+             compile a fortran program  [03:34:55]
+<tic> Dynetrekk_, I think the thing about Lisp is the one of syntactic
+      abstraction and not really locking you into any specific way of writing
+      applications, be it procedural, object-oriented, etc.  Think Python, but
+      without having to fudge with the compiler/parser/runtime to add syntax.
+                                                                     [03:35:00]
+<Dynetrekk_> yeah, lapack etc  [03:35:01]
+<salex> really, matlab is an effort to do exactly that  [03:35:21]
+<Dynetrekk_> tic: right  [03:35:25]
+<salex> ages ago, it provided a wrapper on blas/lapack/etc  [03:35:36]
+<Dynetrekk_> salex: yeah. but I don't like it much in particular  [03:35:42]
+<salex> with nice dynamic properties and good linalg syntax  [03:35:51]
+<ianmcorvidae> I have a question for the various people in this chat who keep
+               linking interesting articles about Lisp: is there some central
+               repository of these I can go poke around in, by chance?
+                                                                     [03:35:58]
+<Dynetrekk_> salex: I'll give'm that  [03:36:00]
+<salex> so essentially doing the fortran coding without compiling fortran
+                                                                     [03:36:08]
+<hefner_> tic: yes.  [03:36:10]
+<dcrawford> basically nearly every place you write very similar code in other
+            languages is a place where "You're doing it wrong"  [03:36:11]
+<salex> h but it has it's own problems of course.  [03:36:21]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #lisp: Common Lisp, the #1=(programmable . #1#) programming language: <http://www.cliki.net/IRC>,
+    <http://paste.lisp.org/new/lisp>. common-lisp.net back in service, please email problems to admin@common-lisp.net. New: SBCL 1.0.23, cl-net-snmp
+    5.19, yason-0.1, trivial-features 0.4, CFFI 0.10.3, series 2.2.10, trivial-garbage 0.17, usocket 0.4.0  [14:19:47]
+*** #lisp: topic set by luis, 01:12:19 2008/12/02
+*** Users on #lisp: ManateeLazyCat rottcodd amnesiac dmiles_afk wasabi_ xinming bpt seelenquell_ jestocost appletizer mikezor lichtblau Modred tiesje
+    replor slyrus_ gtasso gigamonkey sabetts beach epoch mtd lukego notsonerdysunny sellout H4ns1 kpreid aja Tordek segv yangsx esden fe[nl]ix ebzzry
+    ths_ banisterfiend lemoinem kleppari bougyman birdsbite _CitizenKane_ dash_ manic12 JuanDaugherty cky persi ace4016 UnwashedMeme abeaumont Ifur_
+    lispm grkz lyte Krystof 
+*** Users on #lisp: daniel_ cracki araujo jlouis spiderbyte mulligan sohail phadthai CrazyEddy eirik PissedNumlock spacebat wgl johs fnordus gz
+    pierre_thierry keithr Patzy kmkaplan Cel adeht Fade retupmoca prip minion j_king yango ianmcorvidae pkhuong stassats dto alec billstclair jpcooper
+    xjrn rdd matimago jsnell benny b4|hraban antoszka jeremiah tc-rucho Chrononaut lnostdal pchrist|univ jsoft ia bdowning ``Erik Tristam schme
+    VityokOrgUa srcerer_ Harag arbscht_ 
+*** Users on #lisp: tarbo eliasm authentic wlr madnificent BrianRice ltbarcly hefner borism tessier NoorDextor rumbleca mbac bfein gaja Zoba eno
+    Jarvellis jrockway te froog bombshelter13 Riastradh cmm- holymoo delYsid free_tinker dfox ineiros xan huangjs eevar Soulmann |Soulman| tompa Adrinael
+    cYmen CptPicard Balooga ahaas mathrick rread hefner_ wedgeV yahooooo kidd1 Khisanth Draggor specbot lisppaste bohanlon mogunus Thas sktrdie maskd
+    kuhzoo Aisling z0d galdor 
+*** Users on #lisp: m4thrick tltstc sjbach lucca mvilleneuve joga fihi09` vorian xristos Eno_ lasts Quadrescence _theHAM l_a_m V-ille dwave p_l spiaggia
+    tic seb- cmatei mgr rotty p8m akhilleus luis pragma_ koning_r1bot Bucciarati abend_ andrewy sykopomp vcgomes Ginei_Morioka Modius replaca cipher
+    kuwabara rtoym Wombat1 dcrawford mqt locklace e271 DrForr pwned azuk nasloc__ simonb scode Buganini emma froydnj bob_f maxote rsynnott slyrus Starsie
+    boyscared bobrown 
+*** Users on #lisp: erg ccl-logbot chawls chandler l4ndfo felipe mcxx agemo dostoyevsky jmcphers drewc cods sad0ur mr_uggla r0bby michaelw guenther__
+    merlincorey foom clog _3b chii qebab rey_ turbo24prg Xof aking Guest53748 jollygood_______ djkthx mornfall housel meingbg thijso sbok djinni` pok
+    technik dublpaws herbieB jkantz_ zbigniew albino andrerav @antifuchs larstobi Partyzan1 
+*** #lisp modes: +nc  [14:20:20]
+*** #lisp was created on ‘ÐÇ‘ÆÚ‘Ò» 2003/08/04 05‘Ê±30‘·Ö32‘Ãë
+<fusss> good 1:25AM (morning? night?)  [14:25:34]
+<sykopomp> oh goodness. I've been at this for a while :(  [14:25:53]
+<sykopomp> I was hoping to sleep tonight, too.  [14:25:58]
+<fusss> debugging? sykopomp  [14:27:08]
+<sykopomp> writing JUnit unit-tests for homework  [14:27:39]
+<sykopomp> >:(  [14:27:43]
+<fusss> hahaha  [14:28:25]
+<fusss> you will be up til fiveAM  [14:28:47]
+<sykopomp> don't remind me ;_; I love fiveAM  [14:28:57]
+<sykopomp> saying fiveAM is even loosely based on JUnit is an insult  [14:29:12]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #lisp: Common Lisp, the #1=(programmable . #1#) programming language: <http://www.cliki.net/IRC>,
+    <http://paste.lisp.org/new/lisp>. common-lisp.net back in service, please email problems to admin@common-lisp.net. New: SBCL 1.0.23, cl-net-snmp
+    5.19, yason-0.1, trivial-features 0.4, CFFI 0.10.3, series 2.2.10, trivial-garbage 0.17, usocket 0.4.0  [22:50:25]
+*** #lisp: topic set by luis, 01:12:19 2008/12/02
+*** Users on #lisp: ManateeLazyCat yoshinori Krystof dbalcer malumalu jgracin elurin` billstclair ejs1 benny specbot minion lisppaste Tordek
+    existentialmonk nikodemus` athos Quadrescence kejsaren sellout topo dlowe jajcloz jollygood trebor_dki jewel dto nunb cemerick Jasko dwave ThomasI
+    phao ignas xan seelenquell kpreid Hun Eleanore mornfall banisterfiend Odin- ths Nshag kiuma rread jestocost ia eevar2 mega1 Aankhen`` HET2
+    attila_lendvai prxq silenius vsync 
+*** Users on #lisp: Anarki vtl toddoon fusss aerique timchen1` stassats` H4ns sabetts mishok13 pwned_ rullie ecraven jjong thom_logn kidd2 jeremiah wlr
+    froog BrianRice beach xinming_ eno cYmen ineiros te sktrdie jrockway bohanlon` _8david dmiles_afk bpt mikezor Modred slyrus_ gtasso gigamonkey epoch
+    mtd segv fe[nl]ix ebzzry lemoinem kleppari bougyman birdsbite _CitizenKane_ dash_ manic12 JuanDaugherty cky persi ace4016 UnwashedMeme Ifur_ lispm
+    grkz daniel spiderbyte 
+*** Users on #lisp: mulligan phadthai CrazyEddy eirik PissedNumlock spacebat wgl johs fnordus gz pierre_thierry keithr Patzy kmkaplan Cel adeht Fade
+    retupmoca prip j_king yango ianmcorvidae pkhuong alec jpcooper xjrn rdd matimago jsnell Chrononaut lnostdal pchrist|univ jsoft bdowning ``Erik
+    Tristam schme VityokOrgUa srcerer_ Harag arbscht_ tarbo eliasm authentic madnificent ltbarcly hefner borism tessier NoorDextor rumbleca mbac bfein
+    gaja Zoba Jarvellis bombshelter13 
+*** Users on #lisp: Riastradh cmm- holymoo delYsid free_tinker dfox huangjs eevar Soulmann |Soulman| tompa Adrinael CptPicard Balooga ahaas hefner_
+    wedgeV yahooooo Khisanth Draggor mogunus Thas kuhzoo Aisling z0d galdor m4thrick tltstc sjbach lucca mvilleneuve joga fihi09` vorian Eno_ lasts
+    _theHAM l_a_m V-ille p_l spiaggia tic seb- cmatei mgr rotty p8m akhilleus luis pragma_ koning_r1bot Bucciarati abend_ andrewy sykopomp vcgomes
+    Ginei_Morioka Modius replaca 
+*** Users on #lisp: cipher kuwabara rtoym Wombat1 dcrawford mqt locklace e271 DrForr azuk simonb scode Buganini emma froydnj bob_f maxote rsynnott slyrus
+    Starsie boyscared bobrown erg ccl-logbot chawls chandler l4ndfo felipe mcxx agemo dostoyevsky jmcphers drewc cods sad0ur mr_uggla r0bby michaelw
+    guenther__ merlincorey Partyzan1 larstobi chii _3b clog foom qebab rey_ turbo24prg Xof aking Guest53748 jollygood_______ djkthx housel meingbg thijso
+    sbok djinni`   [22:50:26]
+*** Users on #lisp: pok technik dublpaws herbieB @antifuchs zbigniew albino andrerav 
+*** #lisp: [freenode-info] why register and identify? your IRC nick is how people know you. http://freenode.net/faq.shtml#nicksetup  [22:50:34]
+*** #lisp modes: +nc  [22:50:54]
+*** #lisp was created on ‘ÐÇ‘ÆÚ‘Ò» 2003/08/04 05‘Ê±30‘·Ö32‘Ãë
+<tic> Xof, it also happens if the mouse is inside the top-level window, but outside of the text pane you want to type in.  [22:54:35]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #lisp: Common Lisp, the #1=(programmable . #1#) programming language: <http://www.cliki.net/IRC>,
+    <http://paste.lisp.org/new/lisp>. common-lisp.net back in service, please email problems to admin@common-lisp.net. New: SBCL 1.0.23, cl-net-snmp
+    5.19, yason-0.1, trivial-features 0.4, CFFI 0.10.3, series 2.2.10, trivial-garbage 0.17, usocket 0.4.0  [23:03:57]
+*** #lisp: topic set by luis, 01:12:19 2008/12/02
+*** Users on #lisp: ManateeLazyCat vasa willb davazp yoshinori Krystof malumalu jgracin billstclair ejs1 benny specbot minion lisppaste Tordek
+    existentialmonk nikodemus` athos Quadrescence kejsaren sellout topo dlowe jajcloz jollygood trebor_dki jewel dto nunb cemerick Jasko dwave ThomasI
+    phao ignas xan seelenquell kpreid Hun Eleanore mornfall banisterfiend Odin- ths Nshag kiuma rread jestocost ia eevar2 mega1 Aankhen`` HET2
+    attila_lendvai prxq silenius Anarki 
+*** Users on #lisp: vtl toddoon fusss aerique timchen1` stassats` H4ns sabetts mishok13 pwned_ rullie ecraven jjong thom_logn kidd2 chii _3b clog foom
+    qebab rey_ turbo24prg Xof aking Guest53748 jollygood_______ djkthx housel meingbg thijso sbok djinni` pok technik dublpaws herbieB zbigniew albino
+    andrerav larstobi Partyzan1 merlincorey guenther__ michaelw r0bby mr_uggla sad0ur cods drewc jmcphers dostoyevsky agemo mcxx felipe l4ndfo chandler
+    chawls ccl-logbot 
+*** Users on #lisp: erg bobrown boyscared Starsie slyrus rsynnott maxote bob_f froydnj emma Buganini scode simonb azuk DrForr e271 locklace mqt dcrawford
+    Wombat1 rtoym kuwabara cipher replaca Modius Ginei_Morioka vcgomes sykopomp andrewy abend_ Bucciarati koning_r1bot pragma_ luis akhilleus p8m rotty
+    mgr cmatei seb- tic spiaggia p_l V-ille l_a_m _theHAM lasts Eno_ vorian fihi09` joga mvilleneuve lucca sjbach tltstc m4thrick galdor z0d Aisling
+    kuhzoo Thas mogunus 
+*** Users on #lisp: Draggor Khisanth yahooooo wedgeV hefner_ ahaas Balooga CptPicard Adrinael tompa |Soulman| Soulmann eevar huangjs dfox free_tinker
+    delYsid holymoo cmm- Riastradh bombshelter13 Jarvellis Zoba gaja bfein mbac rumbleca NoorDextor tessier borism hefner ltbarcly madnificent authentic
+    eliasm tarbo arbscht_ Harag srcerer_ VityokOrgUa schme Tristam ``Erik bdowning jsoft pchrist|univ lnostdal Chrononaut jsnell matimago rdd xjrn
+    jpcooper alec pkhuong 
+*** Users on #lisp: ianmcorvidae yango j_king prip retupmoca Fade adeht Cel kmkaplan Patzy keithr pierre_thierry gz fnordus johs wgl spacebat
+    PissedNumlock eirik CrazyEddy phadthai mulligan spiderbyte daniel grkz lispm Ifur_ UnwashedMeme ace4016 persi cky JuanDaugherty manic12 dash_
+    _CitizenKane_ birdsbite bougyman kleppari lemoinem ebzzry fe[nl]ix segv mtd epoch gigamonkey gtasso slyrus_ Modred mikezor bpt dmiles_afk _8david
+    bohanlon` jrockway sktrdie te ineiros 
+*** Users on #lisp: cYmen eno xinming_ beach BrianRice froog @antifuchs jeremiah wlr 
+*** #lisp modes: +nc  [23:04:27]
+*** #lisp was created on ‘ÐÇ‘ÆÚ‘Ò» 2003/08/04 05‘Ê±30‘·Ö32‘Ãë
+<hefner> tic: oh. the accepting values things? that's all insane, and I don't expect any of it to work right.  [23:05:15]
+<hefner> anyway, I just stuck a second text edit gadget in the gadget test, and the focus assignment between them seems to work fine.  [23:05:38]
+<tic> alright.  [23:05:45]
+<hefner> hmm, maybe accepting values needs to be hacked to assign keyboard focus as you move through it. that's easy enough.  [23:06:14]
+<tic> I should it should grab keyboard focus as soon as it's displayed.  It's not like you want to do anything else with your keyboard immediately after
+      pressing enter  [23:06:48]
+<hefner> get on that, would you?  [23:07:52]

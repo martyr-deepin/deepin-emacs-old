@@ -1,0 +1,290 @@
+2009-01-30 13:43 ManateeLazyCat   /join 
+2009-01-30 13:43 calvino.freenode.net /topic 4.0r6 released /msg dpkg etch | /msg dpkg lenny status | /msg dpkg etch->lenny | FAQ: http://wiki.debian.org/DebianIRC | NO FLOOD: USE #flood or /msg dpkg paster | /msg bots NOT people | offtopic: #debian-offtopic (stew on Thu Jan 15 00:25:44 2009)
+2009-01-30 13:43 ChanServ         /notice [#debian] Welcome to #Debian. This is a discussion channel; if you have a question about Debian GNU/Linux, ask and we will try our best to answer it. Newcomers should read the channel's guidelines by typing "/msg dpkg guidelines". Please do not paste in the channel; use #flood instead. Thank you.
+2009-01-30 13:43 Mark_Jones       I know nothing of scripts
+2009-01-30 13:43 dclarke          /join 
+2009-01-30 13:43 Lagaro           Mark_Jones: . . . mmm . . .
+2009-01-30 13:43 elik             Lagaro, the thing is, some alternatives are more expensive than the XO itself...
+2009-01-30 13:44 dclarke          senseless question : has anyone ever set a world record for GCC bootstrap time ?  And I am referring to the longest time ever recorded because I am now well into day 3 of watching the bootstrap run
+2009-01-30 13:44 Lagaro           elik: lol aye
+2009-01-30 13:44 dmoerner         dclarke: what architecture?
+2009-01-30 13:44 dclarke          sparc
+2009-01-30 13:44 dclarke          I have ppc also
+2009-01-30 13:44 dclarke          cat /proc/cpuinfo
+2009-01-30 13:44 dclarke          clock           : 396.000000MHz
+2009-01-30 13:44 n-iCe            done Lagaro
+2009-01-30 13:45 Lagaro           n-iCe: and . .. the results?
+2009-01-30 13:45 n-iCe            Lagaro: the same
+2009-01-30 13:45 dclarke          that one is waaay quicker than 60MHz Sparc
+2009-01-30 13:45 dmoerner         i'm sure my 128 Mhz armel would be slower
+2009-01-30 13:45 Lagaro           n-iCe: for .mozilla/plugins?
+2009-01-30 13:45 dclarke          you have arm ?
+2009-01-30 13:45 dclarke          what is armel ?
+2009-01-30 13:45 dmoerner         little endian arm
+2009-01-30 13:45 dclarke          oh
+2009-01-30 13:45 dclarke          arm is a very nice proc
+2009-01-30 13:45 Lagaro           Mark_Jones: mmm . . . I'd suggest using Google to read something about bash scripting
+2009-01-30 13:46 dclarke          nice OPcode lists
+2009-01-30 13:46 nsadmin          dclarke: on a sparc (a few years before Linus made his experiment resulting in linux-0.0.1), I built gcc, it took all day
+2009-01-30 13:46 dclarke          it is good to hear old timers that still run such things
+2009-01-30 13:46 n-iCe            Lagaro: same
+2009-01-30 13:47 Lagaro           n-iCe: lol
+2009-01-30 13:47 dclarke          funny thing , the debian project was looking for a Alpha box and I recently acquiered a dual proc Alpha .. I send in an email to the debian hardware people but heard nothing back
+2009-01-30 13:47 Lagaro           n-iCe: hang on a few moments
+2009-01-30 13:47 nsadmin          "learning the bash shell" publ by orielly is good
+2009-01-30 13:47 jariep1_         /join 
+2009-01-30 13:48 jariep1_         /quit "Leaving"
+2009-01-30 13:48 Niamor           /join 
+2009-01-30 13:48 dclarke          I have a difficult question. how do I update my kernel rev?  I am not much of a Linux wiz.  So any pointers would help.  this is a powerpc machine by the way.
+2009-01-30 13:49 dclarke          uname -a
+2009-01-30 13:49 dclarke          Linux vesta 2.6.19-rc6-g9468d500-dirty #35 PREEMPT Mon Nov 27 20:48:16 CET 2006 ppc GNU/Linux
+2009-01-30 13:49 n-iCe            Lagaro: ./firefox
+2009-01-30 13:49 n-iCe            /home/lib/i386/libjavaplugin_nscp.so: cannot open shared object file: No such file or directory/home/lib/i386/libjavaplugin_nscp.so: cannot open shared object file: No such file or directory^C
+2009-01-30 13:49 n-iCe            maybe a clue?
+2009-01-30 13:49 pickcoder        dclarke: cat /etc/debian_version
+2009-01-30 13:49 Lagaro           n-iCe: http://forums.debian.net/viewtopic.php?t=28862 has something
+2009-01-30 13:49 dclarke          4.0
+2009-01-30 13:50 Lagaro           n-iCe: mmmmm . . . aye
+2009-01-30 13:50 Mark_Jones       /quit Read error: 104 (Connection reset by peer)
+2009-01-30 13:50 pickcoder        is that a custom kernel?
+2009-01-30 13:50 Lagaro           n-iCe: that might be something heh, hang on
+2009-01-30 13:50 dclarke          yes
+2009-01-30 13:50 pickcoder        you can get 2.6.26 from BPO
+2009-01-30 13:50 dclarke          for this weird hardware .. yeah
+2009-01-30 13:50 pickcoder        !tell dclarke about bpo
+2009-01-30 13:50 dclarke          but the sources have long since been pushed upstreap for the PowerPC hardware
+2009-01-30 13:51 Lagaro           n-iCe: mmmm .. . just a question, why firefox? what's wrong w/IceWeasel?
+2009-01-30 13:51 pickcoder        hm
+2009-01-30 13:52 dclarke          pickcoder: thanks for the heads up .. I was hoping that I could do a make universe or something like that. Isn't it possible to compile the kernel and then boot it ?
+2009-01-30 13:52 pickcoder        http://packages.debian.org/etch-backports/linux-image-2.6-powerpc
+2009-01-30 13:52 pickcoder        you can, if you want the latest kernel
+2009-01-30 13:52 pickcoder        but it won't be supported
+2009-01-30 13:53 pickcoder        grab the vanilla source and do make oldconfig on it
+2009-01-30 13:53 pickcoder        use make-kpkg
+2009-01-30 13:53 pickcoder        !tell dclarke about kp-mantra
+2009-01-30 13:53 n-iCe            Lagaro: Just doesnt work like firefox does.
+2009-01-30 13:53 n-iCe            Lagaro: by the way, I fixed it.
+2009-01-30 13:54 dclarke          oh God this looks complex
+2009-01-30 13:54 Lagaro           n-iCe: what was the problem?
+2009-01-30 13:54 n-iCe            Removed my /home/user/firefox/plugins folder
+2009-01-30 13:54 Lagaro           n-iCe: lol k
+2009-01-30 13:54 pickcoder        dclarke: if you've build a kernel before make-kpkg simplifies the kernel install
+2009-01-30 13:54 n-iCe            and used, ln -s /usr/lib/iceweasel/plugins/ /home/USER/firefox/
+2009-01-30 13:54 dclarke          pardon my blinding ignorance and blunt stupidity but what do you mean when you say "will not be supported" ?
+2009-01-30 13:55 pickcoder        non-distro kernels could break things that aren't broken in the current release
+2009-01-30 13:55 pickcoder        modules change
+2009-01-30 13:55 pickcoder        etc
+2009-01-30 13:55 dclarke          oh .. okay
+2009-01-30 13:55 Kathrin-26^away  /join 
+2009-01-30 13:55 dclarke          I'm willing to take a few chances
+2009-01-30 13:55 pickcoder        normally it's fine
+2009-01-30 13:56 pickcoder        and someone will probably help, but there's no guarantee
+2009-01-30 13:56 dclarke          I tried the whole Linux from Scratch prcoess on this and was doing very well .. up until I hit the "build a kernel " stage
+2009-01-30 13:56 dclarke          then I sort of stoped in my tracks
+2009-01-30 13:56 pickcoder        that kp-mantra command line builds the kernel .deb for you
+2009-01-30 13:56 dmoerner         /quit Remote closed the connection
+2009-01-30 13:57 pickcoder        it compiles the kernel source, bundles it, and prepares the needed modules for the initrd
+2009-01-30 13:57 dmoerner         /join 
+2009-01-30 13:57 pickcoder        all you do is dpkg -i <kernelfilename>.deb
+2009-01-30 13:57 dclarke          pickcoder: sounds like the swiss army knife of all time
+2009-01-30 13:57 dclarke          pickcoder: okay .. I'll look at that command line thing ..
+2009-01-30 13:57 dclarke          pickcoder: do I have to do that as root ? I hope not
+2009-01-30 13:58 batman_ramirez   /part #debian 
+2009-01-30 13:58 pickcoder        of course!
+2009-01-30 13:58 dclarke          I have to do the compile as root ?
+2009-01-30 13:58 dclarke          that seems ... odd
+2009-01-30 13:58 wobbly           /join 
+2009-01-30 13:58 dmoerner         use fakeroot
+2009-01-30 13:58 pickcoder        no.. but you can't install the kernel as a user
+2009-01-30 13:58 dmoerner         to use make-kpkg
+2009-01-30 13:58 pickcoder        so why not do it all in the same session
+2009-01-30 13:58 darkstego        /join 
+2009-01-30 13:58 debhelper        /mode +l 576
+2009-01-30 13:59 dclarke          oh I understand that I can't do the "install" stage .. but for the compile I was hoping to use all the up to date tools I created in my $HOME/local
+2009-01-30 13:59 wobbly           can someone help me fix etc/resolv.conf in kppp please
+2009-01-30 13:59 pickcoder        dclarke: you should use the tools provided under the release you're on
+2009-01-30 13:59 wobbly           it missing
+2009-01-30 13:59 Lagaro           wobbly: sure
+2009-01-30 13:59 Lagaro           wobbly: mmm . . . alright
+2009-01-30 13:59 dclarke          pickcoder: erk .. even though I have built GCC 4.3.3 and latest binutils etc ?
+2009-01-30 13:59 Lagaro           wobbly: create it with nothing but 'nameserver 208.67.222.222' in it
+2009-01-30 13:59 a2               /part #debian 
+2009-01-30 13:59 a2               /join 
+2009-01-30 14:00 Lagaro           wobbly: that will change your DNS server to OpenDNS
+2009-01-30 14:00 wobbly           how
+2009-01-30 14:00 pickcoder        dclarke: your GCC versions must match system-wide for the kernel modules
+2009-01-30 14:00 wobbly           noob here
+2009-01-30 14:00 Lagaro           wobbly: which is often faster then most PPP nameservers
+2009-01-30 14:00 pickcoder        but feel free to try it
+2009-01-30 14:00 dclarke          pickcoder: okay .. I see that there are nuances here .. I better just walks a straight line
+2009-01-30 14:00 pickcoder        worst case scenario is you'll end up booting back into the older kernel
+2009-01-30 14:00 dclarke          pickcoder: okay .. I'll do a su -
+2009-01-30 14:00 Lagaro           wobbly: well, as root, launch gedit or kedit . . .
+2009-01-30 14:01 pickcoder        bed time
+2009-01-30 14:01 pickcoder        /quit "Privileged op code abort"
+2009-01-30 14:01 dclarke          okay
+2009-01-30 14:01 dclarke          I am now root
+2009-01-30 14:01 dclarke          oh gee ... he left
+2009-01-30 14:01 dclarke          I'm not doing this blind
+2009-01-30 14:01 wobbly           largo kwrite ok
+2009-01-30 14:01 wobbly           largo do i just save
+2009-01-30 14:01 Lagaro           wobbly: then put 'nameserver 208.67.222.222' w/o the quotes into the file
+2009-01-30 14:02 Lagaro           wobbly: then save it as /etc/resolv.conf
+2009-01-30 14:02 wobbly           ok thanks
+2009-01-30 14:02 Lagaro           wobbly: then, as root, change the permissions of the file to 644
+2009-01-30 14:02 Lagaro           wobbly: (readwrite to owner, read for group, read for everyone else)
+2009-01-30 14:03 Lagaro           gah . . . I'm doing it again
+2009-01-30 14:03 Lagaro           !tell Lagaro about enter
+2009-01-30 14:03 wobbly           /part #debian 
+2009-01-30 14:05 dclarke          thanks folks
+2009-01-30 14:05 dclarke          /part #debian 
+2009-01-30 14:05 curvature        /join 
+2009-01-30 14:06 harpal           /join 
+2009-01-30 14:06 Lagaro           /action wonders how long it'll be untill the next question crops up
+2009-01-30 14:06 faffi            hi Lagaro
+2009-01-30 14:06 sepult           /join 
+2009-01-30 14:07 Lagaro           faffi: did building e1000 work?
+2009-01-30 14:07 deadcat          anyone uses bluetooth keyboard? i cant get the pin to work
+2009-01-30 14:07 faffi            Lagaro: havent tried yet, went out for an hour
+2009-01-30 14:08 Lagaro           faffi: alright heh
+2009-01-30 14:08 Lagaro           deadcat: anything on google?
+2009-01-30 14:08 lipsin           /join 
+2009-01-30 14:08 deadcat          Lagaro: ya. but those howtos say "When you hit enter, a dialog box will come up allowing you to enter the matching PIN " but it never did.
+2009-01-30 14:08 debhelper        /mode +l 571
+2009-01-30 14:09 Lagaro           deadcat: mmm . . . alright, I'll take a peek heh
+2009-01-30 14:09 deadcat          Lagaro: thanks. trying to get the apple wireless keyboard to work.
+2009-01-30 14:09 deadcat          Lagaro: i am assuming i enter the 4digit pin myself.
+2009-01-30 14:09 Lagaro           deadcat: alright
+2009-01-30 14:10 Lagaro           deadcat: yeah, probably
+2009-01-30 14:10 frankS2          /join 
+2009-01-30 14:11 Lagaro           deadcat: didja see 'http://game-sat.com/mod.php?name=Links&goid=48'?
+2009-01-30 14:12 deadcat          Lagaro: let me try it
+2009-01-30 14:12 Lagaro           deadcat: alright heh
+2009-01-30 14:12 Lagaro           /action is going away for a bite to eat, back in a minute or three
+2009-01-30 14:12 dmoerner         /quit Read error: 60 (Operation timed out)
+2009-01-30 14:12 cahoot           /join 
+2009-01-30 14:13 [biabia]         /join 
+2009-01-30 14:14 elik             question about startup scripts... why do they always use the full path to executables /usr/bin/blah... while I could just use blah
+2009-01-30 14:15 elik             And if I want to nice a process, do I have to /usr/bin/nice ... /usr/bin/blah
+2009-01-30 14:15 krux0            /join 
+2009-01-30 14:15 Lagaro           elik: well, the answer to the first is clarification
+2009-01-30 14:15 Lagaro           elik: if you have different versions of binaries installed, it's always nice to know which one's being used
+2009-01-30 14:16 faffi            Lagaro: should i get pciutils at the same time?
+2009-01-30 14:16 Lagaro           elik: and the answer to your second question: no
+2009-01-30 14:16 Lagaro           faffi: yeah, do
+2009-01-30 14:16 Lagaro           faffi: it's very useful being able to 'lspci -v'
+2009-01-30 14:16 elik             Lagaro, hum, ok, how would I go about that exactly?
+2009-01-30 14:16 sshy             /join 
+2009-01-30 14:17 Lagaro           elik: well, 'man nice oughta tell you something
+2009-01-30 14:17 sauvin           /join 
+2009-01-30 14:17 elik             Lagaro, right, the question was more, do I put full path as COMMAND?
+2009-01-30 14:17 deadcat          Lagaro: well. i dont know the 4digit pin, it doesnt say
+2009-01-30 14:17 Lagaro           elik: or, renice for already running processes
+2009-01-30 14:17 Lagaro           elik: no, you don't need to
+2009-01-30 14:18 Lagaro           elik: unless the executable is not in your path
+2009-01-30 14:18 Niamor           /quit Read error: 104 (Connection reset by peer)
+2009-01-30 14:18 Lagaro           deadcat: google . . . .
+2009-01-30 14:18 Niamor           /join 
+2009-01-30 14:18 elik             Lagaro, a'ight
+2009-01-30 14:18 krux0            /quit Client Quit
+2009-01-30 14:20 Lagaro           deadcat: 'And then when initializing the Bluetooth system I had to type in the PIN specified in the file on the keyboard blindly and eventually things worked.' . . . . from longman.deadsquid.com/?p=375
+2009-01-30 14:20 lymeca           /join 
+2009-01-30 14:20 faffi            Lagaro: will the base system install have apt-zip ?
+2009-01-30 14:21 Lagaro           faffi: I doubt it, you'll need to d/l that one through packages.debian.org
+2009-01-30 14:21 Lagaro           faffi: no depends on it though, so just the one d/l
+2009-01-30 14:21 faffi            awesome
+2009-01-30 14:21 lymeca           /quit Client Quit
+2009-01-30 14:21 faffi            and i dont need to compile? a deb?
+2009-01-30 14:22 x1250_           /join 
+2009-01-30 14:23 Lagaro           faffi: nope
+2009-01-30 14:23 deadcat          Lagaro: i kept getting "Can't create HID control channel: Connection refused" when i try to connect. i enter the same 4 digit i have in the config file.
+2009-01-30 14:23 Lagaro           faffi: I don't think so, anyhow . . .
+2009-01-30 14:24 Lagaro           deadcat: I've never used bluetooth at all, I'm just trying google heh . . . . sorry, but my only suggestion is to keep googling . . .
+2009-01-30 14:24 deadcat          Lagaro: thanks. i've never used bluetooth either
+2009-01-30 14:25 Wicked           when installing....is "standard system" including x?
+2009-01-30 14:25 Wicked           i want a headless server....
+2009-01-30 14:25 Lagaro           Wicked: nope
+2009-01-30 14:25 Lagaro           Wicked: "Graphical environment" is, IIRC
+2009-01-30 14:25 Kathrin-26^away  /quit Connection timed out
+2009-01-30 14:25 Lagaro           Wicked: "standard system" is stuff like 'less etc
+2009-01-30 14:25 Lagaro           Wicked: vim, etc
+2009-01-30 14:25 Wicked           Lagaro, ah ok. i did a dry install of debian a few weeks ago in a vm and somehow ended up with x...
+2009-01-30 14:25 Wicked           ah ok
+2009-01-30 14:25 Kathrin-26^away  /join 
+2009-01-30 14:26 Wicked           i just want a minimal system with openssh..then i can install everything else i need
+2009-01-30 14:28 x1250_           /quit Remote closed the connection
+2009-01-30 14:29 nsadmin          Wicked: then install the base followed by ssh
+2009-01-30 14:29 subir            /join 
+2009-01-30 14:29 faffi            Lagaro: what aptgetaction option do i use
+2009-01-30 14:29 a2               /part #debian 
+2009-01-30 14:29 a2               /join 
+2009-01-30 14:30 Wicked           nsadmin, yea. just booted to it now ;)
+2009-01-30 14:31 Wicked           hmm my source.list only has the install disks...is there a place to grab a list of repos
+2009-01-30 14:33 nsadmin          !mirrors
+2009-01-30 14:33 dpkg             methinks debian mirrors is http://www.debian.org/mirror/list or ftp://ftp.debian.org/debian/README.mirrors.txt | ask me about <apt-spy> or <netselect-apt>  | to make a mirror, see http://www.debian.org/mirrors/ or http://lists.debian.org/debian-mirrors/
+2009-01-30 14:33 Wicked           thanks :)
+2009-01-30 14:34 joshdavey        /join 
+2009-01-30 14:34 Wicked           hmm...what repositories should there be in sources.list?
+2009-01-30 14:35 cahoot           /quit Remote closed the connection
+2009-01-30 14:35 neobarn          /join 
+2009-01-30 14:35 scientes         /join 
+2009-01-30 14:35 amphi            /join 
+2009-01-30 14:36 PiousMinion      /join 
+2009-01-30 14:37 DimmuR           /join 
+2009-01-30 14:37 Eulex            /join 
+2009-01-30 14:37 PiousMinion      Is it possible to set up network boot to boot an ISO on the boot server?
+2009-01-30 14:38 Lagaro           faffi: it's apt-zip, not apt-get
+2009-01-30 14:38 w3rd_            /join 
+2009-01-30 14:38 Lagaro           PiousMinion: I've no idea
+2009-01-30 14:38 Lagaro           PiousMinion: possibly, though
+2009-01-30 14:39 sshy             /quit "暂离"
+2009-01-30 14:39 PiousMinion      Would be nice to have flavors of linux, windows, etc as ISOs on a boot server and install the one I want across the network.
+2009-01-30 14:39 Lagaro           Wicked: just the standard ones . . .
+2009-01-30 14:39 Lagaro           PiousMinion: aye lol
+2009-01-30 14:39 Wicked           Lagaro, yea..which are? could you possible paste bin it for me?
+2009-01-30 14:39 cafuego          /join 
+2009-01-30 14:39 Lagaro           Wicked: mmm. . . alright
+2009-01-30 14:39 Wicked           Lagaro, my sources.list only has the cdrom and security ones enabled
+2009-01-30 14:40 Lagaro           Wicked: you'll want the default debian one as well, and no CD
+2009-01-30 14:40 Wicked           Lagaro, thanks :) ...appreciate it
+2009-01-30 14:40 Wicked           Lagaro, yea
+2009-01-30 14:40 Lagaro           Wicked: 'deb http://ftp.us.debian.org/debian etch main contrib' and possibly 'non-free' on there as well
+2009-01-30 14:40 hark             !sources.list
+2009-01-30 14:40 dpkg             The list of repositories for installing packages is /etc/apt/sources.list and has lines like "deb http://ftp.<cc>.debian.org/debian etch main" and "deb http://security.debian.org/ etch/updates main" where <cc> is your country code. Be sure to run "aptitude update" after editing sources.list. Also see <mirrors> <apt-spy> <apt-setup> <etch security> <testing security> "man sources.list" and /usr/share/doc/apt/examples/sources.list
+2009-01-30 14:40 KC               How would I create a user agent switcher that makes websites see me as using firefox?
+2009-01-30 14:41 KC               getting sick of brain dead web programmers *cough* hotmail *cough
+2009-01-30 14:41 Lagaro           alright, everyone, I think I should get back to work :D
+2009-01-30 14:41 deadcat          KC: plugin/add-on
+2009-01-30 14:41 hark             KC: there's a user agent switcher addon, or configure it in about:config
+2009-01-30 14:41 GunsNRose        /join 
+2009-01-30 14:41 Lagaro           KC: IceWeasel is already "firefox" IIRC, and I know Konqueror supports it
+2009-01-30 14:41 elik             /quit "Leaving"
+2009-01-30 14:42 Lagaro           I'm AFK and away
+2009-01-30 14:42 KC               I have the plugin, it just doesn't have a setting for firefox (cause its a firefox plugin)
+2009-01-30 14:42 KC               it can have custom settings, but there are no instructions
+2009-01-30 14:42 deadcat          i cant possible be this stupid. shouldnt be that hard to setup a f'ing bluetooth keyboard.
+2009-01-30 14:43 bryno            /join 
+2009-01-30 14:43 mentor           /join 
+2009-01-30 14:43 KC               Speaking as someone who used to set them up for a living: yes, it is that hard
+2009-01-30 14:43 KC               doing it on Vista is worse
+2009-01-30 14:44 hark             KC: http://www.geticeweasel.org/useragent/
+2009-01-30 14:45 Wicked           do i replace contrib with non-free? or both main contrib so it would be deb http://ftp.us.debian.org/debian etch non-free ?
+2009-01-30 14:45 hark             KC: also http://wiki.debian.org/Iceweasel#head-2e81d71301a14061e109ed60e79615150b9088cc
+2009-01-30 14:45 hark             Wicked: they are separate
+2009-01-30 14:45 kadath           /join 
+2009-01-30 14:46 GunsNRose        /quit Client Quit
+2009-01-30 14:46 Wicked           hark, yea im aware. im just wondering the syntax to add the non-free
+2009-01-30 14:46 hark             !non-free sources
+2009-01-30 14:46 dpkg             extra, extra, read all about it, non-free sources is edit /etc/apt/sources.list, ensure that the two main debian mirror lines end with "main contrib non-free" rather than just "main", then aptitude update.  But bear in mind that you'll be installing <non-free> software.  These may have onerous terms; check the licenses.
+2009-01-30 14:47 KC               great, now the 'firefox 3.0.5' plugin isn't iceweasel 3.0.5 compatable
+2009-01-30 14:47 Wicked           ah ok
+2009-01-30 14:49 maurizio         /join 
+2009-01-30 14:49 node12345        are there any iceweasel developers in here
+2009-01-30 14:49 hark             KC: what firefox 3.0.5 plugin?
+2009-01-30 14:50 Kathrin-26^away  /quit Connection timed out
+2009-01-30 14:50 Kathrin-26^away  /join 
+2009-01-30 14:51 KC               the user agent switcher in the guide you linked
+2009-01-30 14:51 node12345        hark: do you work on iceweasel
+2009-01-30 14:51 hark             node12345: no, what's the issue?
+2009-01-30 14:52 Mndrk            /join 
+2009-01-30 14:52 Mndrk            On computer A there's an incomplete file - http://img91.imageshack.us/img91/8229/clipboard01vv1.png the red are zeroes, the missing parts, computer B has this file complete. How do I create a patch on computer B which will fix the file on A, using minimal traffic between computers?

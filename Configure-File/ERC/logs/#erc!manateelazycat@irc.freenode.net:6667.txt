@@ -1,0 +1,60 @@
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #erc: IRC client for Emacs <http://www.emacswiki.org/cgi-bin/wiki/ERC> || Latest ERC: v5.3 || ERC is now in a "QA testing" period,
+    with a 5.4 release being planned for Oct. 26  [13:40:04]
+*** #erc: topic set by mwolson, 11:23:18 2008/10/09
+*** Users on #erc: ManateeLazyCat offby1 mhm meandtheshell ovo` hober phuff fsbot CIA-28 tromey hroptatyr @ChanServ 
+*** #erc URL: http://www.emacswiki.org/cgi-bin/wiki/ERC  [13:40:06]
+*** #erc modes: +n  [13:40:27]
+*** #erc was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 15‘Ê±42‘·Ö40‘Ãë
+> /names #erc  [13:49:05]
+*** Users on #erc: ManateeLazyCat offby1 mhm meandtheshell ovo` hober phuff fsbot CIA-28 tromey hroptatyr @ChanServ 
+<ManateeLazyCat> Hi all, I have send a patch that make ERC use Tabbar display buffer name, but looks nobody reply me. :)  [13:49:54]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #erc: IRC client for Emacs <http://www.emacswiki.org/cgi-bin/wiki/ERC> || Latest ERC: v5.3 || ERC is now in a "QA testing" period, with a
+    5.4 release being planned for Oct. 26  [14:01:54]
+*** #erc: topic set by mwolson, 11:23:18 2008/10/09
+*** Users on #erc: ManateeLazyCat offby1 mhm meandtheshell ovo` hober phuff fsbot hroptatyr tromey CIA-28 @ChanServ 
+*** #erc URL: http://www.emacswiki.org/cgi-bin/wiki/ERC  [14:01:56]
+*** #erc modes: +n  [14:02:16]
+*** #erc was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 15‘Ê±42‘·Ö40‘Ãë
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #erc: IRC client for Emacs <http://www.emacswiki.org/cgi-bin/wiki/ERC> || Latest ERC: v5.3 || ERC is now in a "QA testing" period, with a
+    5.4 release being planned for Oct. 26  [23:03:57]
+*** #erc: topic set by mwolson, 11:23:18 2008/10/09
+*** Users on #erc: ManateeLazyCat lisppaste5 meyering meandtheshell hroptatyr tromey CIA-28 fsbot phuff ovo` mhm offby1 hober @ChanServ 
+*** #erc URL: http://www.emacswiki.org/cgi-bin/wiki/ERC
+*** #erc modes: +n  [23:04:22]
+*** #erc was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 15‘Ê±42‘·Ö40‘Ãë
+
+[‘Îå 12‘ÔÂ  5 2008]
+*** Topic for #erc: IRC client for Emacs <http://www.emacswiki.org/cgi-bin/wiki/ERC> || Latest ERC: v5.3 || ERC is now in a "QA testing" period, with a
+    5.4 release being planned for Oct. 26  [11:45:09]
+*** #erc: topic set by mwolson, 11:23:18 2008/10/09
+*** Users on #erc: ManateeLazyCat taruti offby1 grim_fandango meandtheshell rgr lisppaste5 meyering hober mhm phuff fsbot CIA-28 tromey hroptatyr
+    @ChanServ 
+*** #erc URL: http://www.emacswiki.org/cgi-bin/wiki/ERC
+*** #erc modes: +n  [11:45:35]
+*** #erc was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 15‘Ê±42‘·Ö40‘Ãë
+
+[‘Îå 12‘ÔÂ  5 2008]
+*** Topic for #erc: IRC client for Emacs <http://www.emacswiki.org/cgi-bin/wiki/ERC> || Latest ERC: v5.3 || ERC is now in a "QA testing" period, with a
+    5.4 release being planned for Oct. 26  [11:51:43]
+*** #erc: topic set by mwolson, 11:23:18 2008/10/09
+*** Users on #erc: ManateeLazyCat taruti offby1 meandtheshell rgr lisppaste5 meyering hober mhm phuff fsbot CIA-28 tromey hroptatyr @ChanServ 
+*** #erc URL: http://www.emacswiki.org/cgi-bin/wiki/ERC
+*** #erc: [freenode-info] why register and identify? your IRC nick is how people know you. http://freenode.net/faq.shtml#nicksetup
+*** #erc modes: +n  [11:52:09]
+*** #erc was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 15‘Ê±42‘·Ö40‘Ãë
+*** offby1` (n=user@q-static-138-125.avvanta.com) is now known as offby1  [12:20:19]
+
+[‘Îå 12‘ÔÂ  5 2008]
+*** Topic for #erc: IRC client for Emacs <http://www.emacswiki.org/cgi-bin/wiki/ERC> || Latest ERC: v5.3 || ERC is now in a "QA testing" period, with a
+    5.4 release being planned for Oct. 26  [21:40:47]
+*** #erc: topic set by mwolson, 11:23:18 2008/10/09
+*** Users on #erc: ManateeLazyCat offby1 meandtheshell rgr lisppaste5 meyering hober mhm fsbot CIA-28 tromey hroptatyr @ChanServ 
+*** #erc URL: http://www.emacswiki.org/cgi-bin/wiki/ERC
+*** #erc modes: +n  [21:41:14]
+*** #erc was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 15‘Ê±42‘·Ö40‘Ãë

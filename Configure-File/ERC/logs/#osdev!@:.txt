@@ -1,0 +1,61 @@
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev || tutorials: osdever.net & osdev.org || don't ask/act like a stupid  [15:11:44]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat sbahra_ lintrippz ghane jrydberg_ seb- nn coly_ replor Jaywalker SM0TVI tktech [com]buster banisterfiend ajonat
+    Electric_Monk TMM tantrika_ merck virtx ronny shackan Evil-Bill bughunter2 vai__ L33ckma magcius ejb transistor pireau clog Divine chii AlexExtreme
+    awilcox JoeSchmo jaskorpe geist courtc jaacoppi_ MT`AwAy meow` alamar ndim giszo milyges cippo ccfreak2k benk blound_ pragma_ _Lucretia_ gab mwk mur
+    bluehole xid hohum assem   [15:11:45]
+*** Users on #osdev: Obfuscate froggey sbahra[] tj Miller` 
+*** #osdev: [freenode-info] why register and identify? your IRC nick is how people know you. http://freenode.net/faq.shtml#nicksetup
+*** #osdev modes: +tn  [15:12:17]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+*** [alt]buster (n=Combuste@82-171-220-59.ip.telfort.nl) is now known as [com]buster  [15:44:04]
+<ggonzalez> morning  [16:40:52]
+<JackScott> Good morning  [16:41:59]
+<ggonzalez> hi JackScott  [16:43:07]
+<JackScott> How are you?  [16:43:38]
+<ggonzalez> fine and yourslef  [16:51:34]
+<ggonzalez> ?
+<JackScott> Yeah pretty good  [16:51:38]
+<ggonzalez> that's cool  [16:51:51]
+<JackScott> One more day to go until the weekend. Almost there.  [16:52:15]
+<ggonzalez> I hate weekens  [16:52:44]
+<ggonzalez> weekends  [16:52:47]
+<JackScott> ?!  [16:55:18]
+<JackScott> That's scary  [16:55:23]
+<JackScott> I live for them  [16:55:25]
+<ggonzalez> the absence of the daily routine plunge me into a deep hole of sleepiness  [17:02:57]
+<JackScott> Fair enough. That's what I like best, though.  [17:03:11]
+<JackScott> Not having to get up at 7am makes me a happy man.  [17:03:20]
+<ggonzalez> heh  [17:03:34]
+<ggonzalez> yeah, my problem is that I overload the weekend with too much work if I sleep too much I can't complete all the stuff and enter the
+            self-upseting world  [17:06:15]
+<JackScott> Ah. That can be a problem.  [17:06:51]
+*** sbahra_ (n=sbahra@c-68-48-169-133.hsd1.dc.comcast.net) is now known as sbahra  [17:16:31]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev || tutorials: osdever.net & osdev.org || don't ask/act like a stupid  [23:01:23]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat josip Guest89832 redblue eieio nn ZeXx86 [com]buster eXeCuTeR mwk Zoxc Orkie xlq L33ckma IRWolfie- banisterfiend
+    Gilgamesh pini geist SM0TVI ggonzalez sbahra lintrippz ghane jrydberg_ seb- coly_ Jaywalker tktech Electric_Monk TMM tantrika_ merck virtx ronny
+    Evil-Bill bughunter2 vai__ magcius ejb transistor pireau Miller` tj sbahra[] froggey Obfuscate assem hohum xid bluehole mur gab _Lucretia_ pragma_
+    blound_ benk ccfreak2k 
+*** Users on #osdev: cippo milyges chii Divine clog AlexExtreme awilcox JoeSchmo jaskorpe courtc jaacoppi_ MT`AwAy meow` alamar ndim giszo 
+*** Guest89832 (n=blah@lawn-128-61-120-26.lawn.gatech.edu) is now known as zateam  [23:01:29]
+*** #osdev modes: +tn  [23:01:52]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+
+[‘Îå 12‘ÔÂ  5 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev || tutorials: osdever.net & osdev.org || don't ask/act like a stupid  [09:59:45]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat jrydberg__ banisterfiend marik ArtVandalae CeleronBrain Walt redblue [com]buster tantrika courtc apples` sdschulz`
+    tktech replor cippo Mathis hohum shackan zateam mwk L33ckma SM0TVI sbahra lintrippz ghane seb- Jaywalker Electric_Monk TMM merck virtx ronny
+    Evil-Bill bughunter2 vai__ magcius ejb transistor pireau Miller` tj sbahra[] froggey Obfuscate assem xid bluehole mur gab _Lucretia_ pragma_ blound_
+    benk ccfreak2k milyges 
+*** Users on #osdev: giszo ndim alamar meow` MT`AwAy jaacoppi_ jaskorpe JoeSchmo awilcox clog Divine chii AlexExtreme 
+*** #osdev modes: +tn  [10:00:14]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+*** CeleronBrain (n=Comb@cpe-76-178-252-151.maine.res.rr.com) is now known as BarneyFacts  [10:46:05]
+*** BarneyFacts (n=Comb@cpe-76-178-252-151.maine.res.rr.com) is now known as TinkyWinky  [10:57:08]
+*** TinkyWinky (n=Comb@cpe-76-178-252-151.maine.res.rr.com) is now known as PowerComputing  [11:07:21]

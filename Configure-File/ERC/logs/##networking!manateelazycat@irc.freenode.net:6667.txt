@@ -1,0 +1,300 @@
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for ##networking: Interconnected nodes over generalised
+    protocols. Cite Standards, not Guidese t Apt introductory text: _Computer
+    Networks_ by Andrew S. Tanenbaum. Seminars and more:
+    http://intercom.nanoSouffle.net/networking  [03:40:43]
+*** ##networking: topic set by Capso, 03:36:01 2008/10/01
+*** Users on ##networking: ManateeLazyCat TheMystic_ rookie1 redblue
+    man_at_arms MasterOfDisaster error_developer_ nnull einval ideopathic Xjs
+    Inverted tonyyarusso delcoyote tris SpComb magyar rvsjoen nick125 cra
+    Apachez simon SanityInFlux |REM| paq7512 Mirthas rtru tazz Agiofws velicos
+    suppahsrv cl0ud FrFluffyBottom ctennis Epic| LiNERROR SeJo war9407 krphop
+    tek1024 tarbo CryWolf +chalco Dev_N00b EarlJr mxs ggeecko subwaygoboom
+    Midnigh2ker ktwilight__ robink 
+*** Users on ##networking: DuClare +Mxyzpltk Inssomniak martian67 lukecyca
+    lokai jeffspeff2 Lars_G +xand grndslm [biabia] biz Gecko +imMute bbelt16ag
+    +Rawplayer dmz Brownout robertj PZt _ssky_ lkthomas PeterFA AntiLiberal
+    kreg_ tonsofpcs iglo ubajas RJ2k truewiki nApsTer_ex djs PEBMAC CcSsNET
+    frozty_sa echinos acidchild fishsponge_ +x86 Stevethe1irate +danieldg
+    Schroeder +jakllsch +xai +StevenR micols MadChopr xous rnode FeliXdk bkuhl
+    Webu +sep Cprossu kevinsbot 
+*** Users on ##networking: emma raekism +Kevin` OzoNe raina nadio arthabaska
+    nick125_screen felipe Vadtec JyZyXEL +Sargun_Screen msbhvn wily mpr
+    nex-tek iascorga flokuehn jetole elcasey mrrx_ akira loceur hoodlum Gary
+    skymeyer 
+*** ##networking URL: http://intercom.nanoSouffle.net/networking
+*** ##networking modes: +tnc  [03:41:16]
+*** ##networking was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö47‘Ãë
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for ##networking: Interconnected nodes over generalised
+    protocols. Cite Standards, not Guidese t Apt introductory text: _Computer
+    Networks_ by Andrew S. Tanenbaum. Seminars and more:
+    http://intercom.nanoSouffle.net/networking  [03:43:56]
+*** ##networking: topic set by Capso, 03:36:01 2008/10/01
+*** Users on ##networking: ManateeLazyCat TheMystic_ rookie1 redblue
+    man_at_arms MasterOfDisaster error_developer_ nnull einval ideopathic Xjs
+    Inverted tonyyarusso delcoyote tris SpComb magyar rvsjoen nick125 cra
+    Apachez simon SanityInFlux |REM| paq7512 Mirthas rtru tazz Agiofws velicos
+    suppahsrv cl0ud FrFluffyBottom ctennis Epic| LiNERROR SeJo war9407 krphop
+    tek1024 tarbo CryWolf +chalco Dev_N00b EarlJr mxs ggeecko subwaygoboom
+    Midnigh2ker ktwilight__ robink DuClare 
+*** Users on ##networking: +Mxyzpltk Inssomniak martian67 lukecyca lokai
+    jeffspeff2 Lars_G +xand grndslm [biabia] biz Gecko +imMute bbelt16ag
+    +Rawplayer dmz Brownout robertj PZt _ssky_ lkthomas PeterFA AntiLiberal
+    kreg_ tonsofpcs iglo akira loceur hoodlum Gary skymeyer mrrx_ elcasey
+    jetole flokuehn iascorga nex-tek mpr wily msbhvn +Sargun_Screen JyZyXEL
+    Vadtec felipe nick125_screen arthabaska nadio raina OzoNe +Kevin` raekism
+    emma kevinsbot Cprossu +sep Webu bkuhl 
+*** Users on ##networking: FeliXdk rnode xous MadChopr micols +StevenR +xai
+    +jakllsch Schroeder +danieldg Stevethe1irate +x86 fishsponge_ acidchild
+    echinos frozty_sa CcSsNET PEBMAC djs nApsTer_ex truewiki RJ2k ubajas 
+*** ##networking URL: http://intercom.nanoSouffle.net/networking
+*** ##networking modes: +tnc  [03:44:29]
+*** ##networking was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö47‘Ãë
+<scientes_> what should be my broadcast addr for ipv6?  [04:00:13]
+<scientes_> or do i need to set one?  [04:00:21]
+<ManateeLazyCat>   [04:10:23]
+*** ChanServ (ChanServ@services.) has changed mode for ##networking to +v
+    Sargun  [04:41:40]
+<hochron> I have a xbox 360 connected to an xp box which I tweaked as a
+          router.  This xp box is wirelessly connected to the internet.  I
+          thought I needed a crossover cable and while looking for one I found
+          an old router. What would be the quickest way to get on xbox live?
+                                                                     [04:51:54]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for ##networking: Interconnected nodes over generalised
+    protocols. Cite Standards, not Guidese t Apt introductory text: _Computer
+    Networks_ by Andrew S. Tanenbaum. Seminars and more:
+    http://intercom.nanoSouffle.net/networking  [04:59:37]
+*** ##networking: topic set by Capso, 03:36:01 2008/10/01
+*** Users on ##networking: ManateeLazyCat aarcane hochron +Sargun senn redblue
+    CcSsNET TheMystic_ rookie1 man_at_arms MasterOfDisaster error_developer_
+    nnull einval ideopathic Xjs Inverted tonyyarusso delcoyote tris SpComb
+    magyar rvsjoen nick125 cra Apachez simon SanityInFlux |REM| paq7512
+    Mirthas rtru tazz Agiofws velicos suppahsrv cl0ud FrFluffyBottom ctennis
+    Epic| LiNERROR SeJo war9407 krphop tek1024 tarbo CryWolf +chalco Dev_N00b
+    EarlJr mxs ggeecko subwaygoboom 
+*** Users on ##networking: Midnigh2ker ktwilight__ robink DuClare +Mxyzpltk
+    Inssomniak martian67 lukecyca lokai jeffspeff2 Lars_G +xand grndslm
+    [biabia] biz Gecko +imMute bbelt16ag +Rawplayer dmz Brownout robertj PZt
+    _ssky_ lkthomas PeterFA AntiLiberal kreg_ tonsofpcs iglo ubajas RJ2k
+    truewiki nApsTer_ex djs PEBMAC frozty_sa echinos acidchild fishsponge_
+    +x86 Stevethe1irate +danieldg Schroeder +jakllsch +xai +StevenR micols
+    MadChopr xous rnode FeliXdk bkuhl Webu   [04:59:38]
+*** Users on ##networking: +sep Cprossu kevinsbot emma raekism +Kevin` OzoNe
+    raina nadio arthabaska nick125_screen felipe Vadtec JyZyXEL +Sargun_Screen
+    msbhvn wily mpr akira loceur hoodlum Gary skymeyer mrrx_ elcasey jetole
+    flokuehn iascorga nex-tek 
+*** ##networking URL: http://intercom.nanoSouffle.net/networking  [04:59:39]
+*** ##networking modes: +tnc  [05:00:06]
+*** ##networking was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö47‘Ãë
+<nnull> broadcast your pirate signal, and proceed to hack your way into the
+        matrix.  [05:00:21]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for ##networking: Interconnected nodes over generalised protocols. Cite Standards, not Guidese t Apt introductory text: _Computer
+    Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking  [13:40:12]
+*** ##networking: topic set by Capso, 03:36:01 2008/10/01
+*** Users on ##networking: ManateeLazyCat Ohmu mib_yih4g0 ryty NewCastleScott Apachez Gopaul huangjs ideopathic Siffy Niedar Dev_N00b berns CcSsNET
+    us3rsearch nick125 errordeveloper mxs SpaceBass JoeSomebody obcecado ctennis +chalco paq7512 senn MasterOfDisaster nnull einval Xjs Inverted
+    tonyyarusso delcoyote tris SpComb magyar rvsjoen cra simon |REM| suppahsrv cl0ud FrFluffyBottom Epic| LiNERROR SeJo krphop tek1024 tarbo
+    CryWolf EarlJr ggeecko subwaygoboom Midnigh2ker 
+*** Users on ##networking: ktwilight__ robink DuClare +Mxyzpltk Inssomniak martian67 lukecyca lokai jeffspeff2 Lars_G +xand grndslm [biabia] biz
+    Gecko +imMute bbelt16ag +Rawplayer dmz Brownout robertj PZt _ssky_ lkthomas PeterFA AntiLiberal tonsofpcs iglo ubajas RJ2k truewiki nApsTer_ex
+    djs PEBMAC frozty_sa echinos fishsponge_ +x86 Stevethe1irate +danieldg Schroeder +jakllsch +xai +StevenR micols MadChopr xous rnode FeliXdk
+    bkuhl Webu +sep Cprossu kevinsbot emma 
+*** Users on ##networking: raekism +Kevin` OzoNe raina arthabaska nick125_screen felipe Vadtec JyZyXEL +Sargun_Screen msbhvn wily mpr nex-tek
+    iascorga flokuehn jetole elcasey mrrx_ skymeyer Gary hoodlum loceur akira 
+*** ##networking URL: http://intercom.nanoSouffle.net/networking
+*** ##networking: [freenode-info] if you're at a conference and other people are having trouble connecting, please mention it to staff:
+    http://freenode.net/faq.shtml#gettinghelp
+*** ##networking modes: +tnc  [13:40:46]
+*** ##networking was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö47‘Ãë
+<Ohmu> I open 2 terminals, and ping www.google.com in termA:  [13:44:32]
+<Ohmu> 64 bytes from im-in-f104.google.com (209.85.153.104): icmp_seq=116 ttl=241 time=579 ms  [13:44:33]
+<Ohmu>  Now I 'ifup wlan0 -v' in termB.  This makes termA splutter:
+<Ohmu> From spud-laptop.local (10.1.2.10) icmp_seq=128 Destination Host Unreachable
+<Ohmu> From 10.1.2.10 icmp_seq=129 Destination Host Unreachable
+<Ohmu> 'ifdown wlan0' brings it back on track.  what's going on?
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for ##networking: Interconnected nodes over generalised protocols. Cite Standards, not Guidese t Apt introductory text: _Computer Networks_ by
+    Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking  [14:02:02]
+*** ##networking: topic set by Capso, 03:36:01 2008/10/01
+*** Users on ##networking: ManateeLazyCat Ohmu ryty NewCastleScott Apachez Gopaul huangjs ideopathic Siffy Niedar Dev_N00b berns CcSsNET us3rsearch
+    nick125 errordeveloper mxs SpaceBass JoeSomebody obcecado ctennis +chalco paq7512 senn MasterOfDisaster einval Xjs Inverted tonyyarusso delcoyote
+    tris SpComb magyar rvsjoen cra simon |REM| suppahsrv cl0ud FrFluffyBottom Epic| LiNERROR SeJo krphop tek1024 tarbo CryWolf EarlJr ggeecko
+    subwaygoboom Midnigh2ker ktwilight__ 
+*** Users on ##networking: robink DuClare +Mxyzpltk Inssomniak martian67 lukecyca lokai jeffspeff2 Lars_G +xand grndslm [biabia] biz Gecko +imMute
+    bbelt16ag +Rawplayer dmz Brownout robertj PZt _ssky_ lkthomas PeterFA AntiLiberal tonsofpcs iglo akira loceur hoodlum Gary skymeyer mrrx_ elcasey
+    jetole flokuehn iascorga nex-tek mpr wily msbhvn +Sargun_Screen JyZyXEL Vadtec felipe nick125_screen arthabaska raina OzoNe +Kevin` raekism emma
+    kevinsbot Cprossu +sep Webu 
+*** Users on ##networking: bkuhl FeliXdk rnode xous MadChopr micols +StevenR +xai +jakllsch Schroeder +danieldg Stevethe1irate +x86 fishsponge_ echinos
+    frozty_sa PEBMAC djs nApsTer_ex truewiki RJ2k ubajas 
+*** ##networking URL: http://intercom.nanoSouffle.net/networking
+*** ##networking modes: +tnc  [14:02:36]
+*** ##networking was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö47‘Ãë
+*** Gopaul_ (n=chatzill@59.97.120.250) is now known as Gopaul  [14:08:55]
+
+[‘Îå 12‘ÔÂ  5 2008]
+*** Topic for ##networking: Interconnected nodes over generalised protocols. Cite Standards, not Guidese t Apt introductory text: _Computer Networks_ by
+    Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking  [11:45:16]
+*** ##networking: topic set by Capso, 03:36:01 2008/10/01
+*** Users on ##networking: ManateeLazyCat Adamant bloodhound spree jltx Industrialist djs whistler szr Kalculus ctennis Miller` Tramp g-man[work]
+    Cyndrework xev\sleep scientes JyZyXEL aenaus EarlJr mistermocha +danieldg Schroeder Ohmu CcSsNET_ bbelt16ag mpr yango muscov einval Gecko
+    error_developer_ ktwilight Epic| PeterFA NewCastleScott nick125 mxs JoeSomebody +chalco paq7512 senn MasterOfDisaster Xjs Inverted tonyyarusso
+    delcoyote tris SpComb magyar cra simon 
+*** Users on ##networking: suppahsrv cl0ud FrFluffyBottom LiNERROR SeJo krphop tek1024 tarbo CryWolf ggeecko robink DuClare +Mxyzpltk Inssomniak
+    martian67 lokai Lars_G +xand grndslm [biabia] biz +imMute +Rawplayer dmz Brownout PZt _ssky_ lkthomas AntiLiberal tonsofpcs iglo ubajas RJ2k truewiki
+    nApsTer_ex PEBMAC frozty_sa echinos fishsponge_ +x86 Stevethepirate +jakllsch +xai +StevenR micols MadChopr xous FeliXdk bkuhl Webu +sep Cprossu
+    kevinsbot emma raekism +Kevin`   [11:45:19]
+*** Users on ##networking: OzoNe raina arthabaska nick125_screen felipe Vadtec +Sargun_Screen msbhvn wily nex-tek iascorga flokuehn jetole elcasey mrrx_
+    skymeyer Gary hoodlum loceur akira 
+*** ##networking URL: http://intercom.nanoSouffle.net/networking  [11:45:22]
+*** ##networking modes: +tnc  [11:45:47]
+*** ##networking was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö47‘Ãë
+
+[‘Îå 12‘ÔÂ  5 2008]
+*** Topic for ##networking: Interconnected nodes over generalised protocols. Cite Standards, not Guidese t Apt introductory text: _Computer Networks_ by
+    Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking  [11:51:49]
+*** ##networking: topic set by Capso, 03:36:01 2008/10/01
+*** Users on ##networking: ManateeLazyCat us3rsearch Adamant bloodhound spree jltx Industrialist djs whistler szr Kalculus ctennis Miller` Tramp
+    g-man[work] Cyndrework xev\sleep scientes JyZyXEL aenaus EarlJr mistermocha +danieldg Schroeder Ohmu CcSsNET_ bbelt16ag mpr yango muscov einval Gecko
+    error_developer_ ktwilight Epic| PeterFA NewCastleScott nick125 mxs JoeSomebody +chalco paq7512 senn MasterOfDisaster Xjs Inverted tonyyarusso
+    delcoyote tris SpComb magyar 
+*** Users on ##networking: cra simon suppahsrv cl0ud FrFluffyBottom LiNERROR SeJo krphop tek1024 tarbo CryWolf ggeecko robink DuClare +Mxyzpltk
+    Inssomniak martian67 lokai Lars_G +xand grndslm [biabia] biz +imMute +Rawplayer dmz Brownout PZt _ssky_ lkthomas AntiLiberal tonsofpcs iglo ubajas
+    RJ2k truewiki nApsTer_ex PEBMAC frozty_sa echinos fishsponge_ +x86 Stevethepirate +jakllsch +xai +StevenR micols MadChopr xous FeliXdk bkuhl Webu
+    +sep Cprossu kevinsbot emma 
+*** Users on ##networking: raekism +Kevin` OzoNe raina arthabaska nick125_screen felipe Vadtec +Sargun_Screen msbhvn wily nex-tek iascorga flokuehn
+    jetole elcasey mrrx_ skymeyer Gary hoodlum loceur akira 
+*** ##networking URL: http://intercom.nanoSouffle.net/networking
+*** ##networking: [freenode-info] help freenode weed out clonebots, please register your IRC nick and auto-identify:
+    http://freenode.net/faq.shtml#nicksetup
+*** ##networking modes: +tnc  [11:52:23]
+*** ##networking was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö47‘Ãë
+*** ChanServ (ChanServ@services.) has changed mode for ##networking to +v Sargun  [11:54:27]
+*** CcSsNET_ (n=ccssnet@pool-72-76-28-68.nwrknj.fios.verizon.net) is now known as CcSsNET  [12:22:24]
+*** us3rsearch_ (n=chatzill@209-18-32-116.cdptpa.rr.com) is now known as us3rsearch  [12:57:54]
+<dirkson> Hey all. Clearwire is selling 6mbit/s internet for $45 in my area, using wimax. (Wireless stuffs) Speakeasy sells the same speed, but through a
+          wired connection, for $105. Based on speakeasy's reputation, I'm actually torn on which one to go for. I use SSH ALL THE TIME, but do very
+          little else that might be latency-sensitive, and I only use about 30gb a month in bandwidth, well under even Clearwire's caps. I never call
+          customer s  [13:44:32]
+<simon> dirkson, I had Clearwire at 2mbps in Denmark and used it intensely with SSH. it sucked badly.  [13:48:27]
+<simon> dirkson, also, all bandwidth tests rated my 2mbps/160kbps at 1mbps tops. when I complained and had them adjust my subscription to a 1mbps/160kbps
+        line, my download effectively fell to 500kbps.  [13:49:13]
+<dirkson> simon: Aye, but I wonder if it's not different out here. It's a brand new deployment, and it's sitting on top of a fiber network. So far,
+          people are getting really decent speeds. (I.e. 7mbit/s). How was your latency to things? (I assume that was what made ssh difficult?)
+                                                                                                                                                [13:50:13]
+<simon> dirkson, the bandwidth they advertise is different from what you get, but that isn't really important for SSH since it uses very little. what
+        really sucks is the latency.  [13:50:15]
+<simon> yes  [13:50:32]
+<simon> I think it depends more on the geometry of the surrounding architecture  [13:51:02]
+<dirkson> simon: *nods* That would make sense.  [13:51:10]
+<simon> than on the reliability of the backbone.  [13:51:11]
+<simon> one inch would make a difference, and we literally had to duct tape the router to the upper corner of the window farthest in one direction.
+                                                                                                                                                [13:51:45]
+<dirkson> simon: I think I'll just get the guy to come out here, plug one in as a sample (He seemed friendly enough) and connect to the server I normally
+          ssh to and /see/ what it's like.  [13:52:06]
+<simon> if you can hack together a good antenna, I would say no problem. but with average equipment and much housing around you, it's a dead end.
+                                                                                                                                                [13:52:31]
+<simon> dirkson, yes, the great part with mobile broadband was actually moving it out of the house on occasion. :)  [13:53:01]
+<dirkson> simon: Admittedly, since I'm currently on comcast's network, and comcast's local equipment is /broken/, I'm sure that even a carrier pidgin
+          based tcp/ip setup would seem speedy by comparison, if the MTU was big enough ;)  [13:53:43]
+<simon> dirkson, clearwire had a big advertisement boom that died out. now the USB dongles are winning market because they're actually portable (with
+        regards to power supply, and don't require extra network cables)  [13:54:24]
+<simon> (mind you I'm speaking from local experience.)  [13:54:43]
+<dirkson> I'm getting 80ms pings from my router to comcast's closest router. That can't be normal.  [13:54:47]
+<dirkson> *nods*  [13:54:52]
+<dirkson> Well, I've already got a wasteful mobile internet device, so I'm mostly thinking for home use.  [13:55:17]
+<simon> if you don't plan on moving soon, nothing beats cabled internet. you'd probably set up an access point anyway.  [13:55:43]
+<dirkson> simon: Well, yes. My house is bathed in enough wifi to drown a horse : )  [13:56:14]
+<simon> the *only* advantage there is to wimax-like solutions is portability, and only if you plan to make portable LANs (as opposed to just powering one
+        laptop during public transportation) it makes sense over USB dongles.  [13:57:19]
+<simon> and that's a fairly narrow use case  [13:57:42]
+<simon> but still, it was pretty cool. I made some hackathons at a squatted house once :)  [13:58:06]
+<dirkson> *thinks* I could find a use for that, if I had it. "Well, time to go to my friend's house. Better bring my internet along."  [13:58:33]
+<simon> but accepting high latency is a bit easier when you have to accept broken toilets.  [13:58:40]
+<dirkson> Point  [13:58:47]
+<simon> dirkson, assuming your friend doesn't have internet.  [13:58:59]
+<simon> dirkson, also, if your school network is run by nazis, bringing your own along is kind of provocative. :)  [13:59:21]
+<simon> dirkson, but even then, I'd prefer an OpenVPN solution.  [13:59:36]
+<dirkson> Well, some of my friends are still living under 512kb/s dialup. That'd help. It'd also be neat to be able to take my internet to my uncle's
+          house when I fix his computer. Did you know that they still sell dialup in MAJOR CITIES?  [14:00:10]
+<chalco> 512Kbps is not dialup  [14:00:56]
+<dirkson> chalco: Two separate people- Friend, with 512kbps, uncle, with OH GOD WHY ARE YOU DOING THIS TO YOURSELF?!  [14:02:35]
+<chalco> "512kb/s dialup"  [14:02:55]
+<dirkson> Oh! Right. Sorry. I meant DSL.  [14:03:25]
+<chalco> ah  [14:03:33]
+<MaxHeadroom> Hello, am running an asus wl-520gu, using wpa-auto-personal and tkip+aes, sometimes when using my winxp toshiba laptop, I will loose the
+              connection, and then notice that my router isn't even available, only way to get it back is to disable the routers  radio, then re-enable
+              it.  How can I fix this?  [14:04:55]
+<whistler> firmware  [14:08:46]
+<MaxHeadroom> whistler: the router is running the latest asus firmware, did you mean using unofficial firmware? or the laptops wifi card firmware?
+                                                                                                                                                [14:15:02]
+<whistler> i meant router firmware, but it could be wifi  [14:15:29]
+<whistler> card that is  [14:15:48]
+<MaxHeadroom> the only newer wifi card firmware I can fine is on the czech atheros site, or on opendrivers.com, not sure if they would be ok  [14:18:54]
+<MaxHeadroom> whistler: any other ideas?  I will try installing one of those other wifi card firmwares, which ever is newest, if there isn't something
+              else to try, such as a setting in the router setups btw, the router is G, as is the laptop  [14:35:50]
+<Miller`> MaxHeadroom: updating the router firmware sounds like a good idea. http://sourceforge.net/projects/madwifi/ is the opensource atheros driver
+                                                                                                                                                [14:36:41]
+<Miller`> oh wait, windowss ok, ignore the 2nd part of that  [14:37:11]
+<whistler> no  [14:38:35]
+<MaxHeadroom> the asus router firmware is uptodate on official, I was thinking of trying dd-wrt, which I have never used before, but didn't think that
+              would be needed just to make the router more reliable
+<whistler> other than maybe backing down your firmware?  [14:38:50]
+<whistler> do you have another system to test with the router?  [14:39:23]
+<MaxHeadroom> not really, my other laptop has a B card only  [14:39:49]
+<MaxHeadroom> and the issue is not consistent, I don't really know when it will happen  [14:40:40]
+<whistler> does rebooting the laptop work, or only rebooting the router?  [14:41:18]
+<MaxHeadroom> rebooting the laptop doesn't help  [14:43:25]
+<MaxHeadroom> and I don't need to reboot the router, just going into setup, disabling wireless, then re-enabling  [14:43:55]
+<whistler> same diff  [14:44:22]
+<whistler> but i think its gotta be some firware issue  [14:44:29]
+<MaxHeadroom> well, if thats true then my only option is to take the dd-wrt plunge, was wanting to try it sometime to see about doing a chillispot
+                                                                                                                                                [14:49:32]
+<Ficthe> hi, silly question- I notice on IRC some users' ip address is displayed (i.e., x.x.x.x; x=1-255), and some users' hostname is displayedi what's
+         the difference? and is that something the user has control over, if so, how?  [14:50:55]
+
+[‘Îå 12‘ÔÂ  5 2008]
+*** Topic for ##networking: Interconnected nodes over generalised protocols. Cite Standards, not Guidese t Apt introductory text: _Computer Networks_ by
+    Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking  [21:40:57]
+*** ##networking: topic set by Capso, 03:36:01 2008/10/01
+*** Users on ##networking: ManateeLazyCat m0usep0t4t0 man_at_arms waKKu mib_fku32a Agiofws ctennis LiNERROR whistler kerframil scientes deny[all] Ohmu
+    samix +LT war9407 toddoon redblue Gecko EarlJr frozty_sa e32 bkuhl Ficthe Apachez MidnighToker tonswin CcSsNET ideopathic SanityInFlux +Sargun
+    bloodhound spree djs szr Kalculus Miller` g-man[work] aenaus mistermocha +danieldg Schroeder bbelt16ag mpr yango muscov einval error_developer_
+    ktwilight Epic| PeterFA 
+*** Users on ##networking: NewCastleScott nick125 mxs JoeSomebody +chalco senn Xjs Inverted tonyyarusso delcoyote tris SpComb magyar cra simon suppahsrv
+    cl0ud FrFluffyBottom SeJo krphop tek1024 tarbo CryWolf ggeecko robink DuClare +Mxyzpltk Inssomniak martian67 lokai Lars_G +xand grndslm [biabia] biz
+    +imMute +Rawplayer dmz Brownout PZt _ssky_ lkthomas AntiLiberal iglo ubajas RJ2k truewiki nApsTer_ex PEBMAC echinos +x86 Stevethepirate +jakllsch
+    +xai +StevenR 
+*** Users on ##networking: micols MadChopr xous FeliXdk Webu +sep Cprossu kevinsbot emma raekism +Kevin` OzoNe raina arthabaska nick125_screen felipe
+    Vadtec +Sargun_Screen msbhvn wily nex-tek iascorga flokuehn jetole elcasey mrrx_ skymeyer Gary akira loceur hoodlum 
+*** ##networking URL: http://intercom.nanoSouffle.net/networking
+*** ##networking modes: +tnc  [21:41:25]
+*** ##networking was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö47‘Ãë
+<bbelt16ag> morning peeps  [21:50:04]
+<bbelt16ag> does anybody know a place I can get good info on policies and procedures for networks  [21:51:09]
+<bbelt16ag> windows /linux   enviroment  [21:51:17]
+<man_at_arms> Center for Internet Security (CIS)  -> http://www.cisecurity.org/  [21:52:35]
+<bbelt16ag> what section  [21:56:00]
+*** Vadtec (i=vadtec@unaffiliated/vadtec) is now known as Vadtec[A]  [21:58:01]
+<man_at_arms> this is probably more what your looking for -> https://buildsecurityin.us-cert.gov/daisy/bsi/home.html  [22:01:24]
+<bbelt16ag> ok  [22:06:54]
+*** Vadtec[A] (i=vadtec@unaffiliated/vadtec) is now known as Vadtec  [22:09:03]
+<bbelt16ag> that s what I want  but for networking  [22:11:13]
+<bbelt16ag> like routers,  windows  server /xp linux  servers ,  [22:11:33]
+<bbelt16ag> etc  [22:11:34]
+<man_at_arms> that is pretty broad  [22:12:50]
+<bbelt16ag> well windows then.  [22:19:37]
+<man_at_arms> MS has an operations guide  [22:27:53]
+<man_at_arms> Windows Server 2003 Operations -> http://technet.microsoft.com/en-us/library/cc781752.aspx  [22:28:52]
+<man_at_arms> Its based on ITIL  [22:28:58]
+<man_at_arms> ITIL -> http://www.itil-officialsite.com  [22:29:11]
+<man_at_arms> actually that first link is not it this is a download for the guide ->
+              http://www.microsoft.com/downloads/details.aspx?FamilyId=AD3921FB-8224-4681-9064-075FDF042B0C&displaylang=en  [22:32:12]
+<Ohmu> can anyone help me get a WAP up and running from Ibex?  It was working in Heron.  Now I'm trying with wicd and it's glitching  [22:33:07]

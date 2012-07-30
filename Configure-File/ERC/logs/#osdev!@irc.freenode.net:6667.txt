@@ -1,0 +1,88 @@
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev ||
+    tutorials: osdever.net & osdev.org || don't ask/act like a stupid
+                                                                     [03:24:42]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat omegaman redblue TMM Ivanlef0u josip eddyb
+    replor [com]buster tantrika_ merck virtx Mathis Walt ronny__ sdschulz`
+    eieio coly_ shackan inflater TkTech jrydberg__ Zoxc Orkie SM0TVI zateam
+    Evil-Bill bughunter2 nn vai__ L33ckma EtherNet magcius lintripp1 sbahra
+    ejb transistor pireau clog Divine chii AlexExtreme awilcox JoeSchmo
+    jaskorpe geist courtc jaacoppi_ MT`AwAy meow` alamar ndim giszo milyges
+    cippo ccfreak2k benk blound_ pragma_ 
+*** Users on #osdev: _Lucretia_ gab mwk mur bluehole xid add hohum assem
+    Obfuscate froggey sbahra[] tj Miller` 
+*** #osdev modes: +tn  [03:25:06]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+<Kenaj_> hi all out there  [03:30:36]
+<Kenaj_> i want to make os with assembler  [03:30:47]
+<Kenaj_> which one book to read?  [03:30:52]
+<cippo> trolling for dummies?  [03:31:03]
+<Kenaj_> student with little money O.O  [03:31:04]
+<Kenaj_> i use nasm  [03:31:28]
+<nn> gas > nasm  [03:31:37]
+<TkTech> rofl, he doesn't get the joke  [03:31:38]
+<TkTech> nasm > gas  [03:31:42]
+<nn> nasm == epic fail syntax  [03:31:51]
+<Kenaj_> TkTech, what?  [03:31:52]
+<Kenaj_> nn, what other to use then?  [03:32:05]
+<TkTech> GAS == plain epic fail  [03:32:09]
+<TkTech> well, actually, fasm > nasm > gas  [03:32:29]
+<Kenaj_> i know fasm, same as nasm just newer  [03:32:46]
+<TkTech> not the same, not even close  [03:32:55]
+<Kenaj_> book for it? with protected mode explaning?  [03:33:01]
+<TkTech> http://wiki.osdev.org/Getting_Started  [03:33:19]
+<Kenaj_> that not for fasm  [03:33:36]
+<TkTech> no that for u  [03:33:50]
+<Kenaj_> why?  [03:34:04]
+<Kenaj_> i ask of book on protected mode programming book for assmebler
+                                                                     [03:34:20]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev || tutorials: osdever.net & osdev.org || don't ask/act like a stupid  [14:19:51]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat coly_ replor jrydberg__ Jaywalker SM0TVI tktech [com]buster piranha_ nn_ Gremlin banisterfiend zateam_ ajonat
+    ggonzalez ghane Electric_Monk TMM tantrika_ merck virtx ronny shackan Evil-Bill bughunter2 vai__ L33ckma magcius lintripp1 sbahra ejb transistor
+    pireau Miller` tj sbahra[] froggey Obfuscate assem hohum xid bluehole mur mwk gab _Lucretia_ pragma_ blound_ benk ccfreak2k cippo milyges giszo ndim
+    alamar meow` MT`AwAy jaacoppi_ 
+*** Users on #osdev: courtc geist jaskorpe JoeSchmo clog Divine chii AlexExtreme awilcox 
+*** #osdev modes: +tn  [14:20:23]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+<_01000101_> hey  [14:23:40]
+<nn> yo  [14:24:25]
+<nn> What up dawg? did u hear popeyes has a sale goin on?  [14:24:44]
+<_01000101_> as in the chicken fast-food place?  [14:25:23]
+<nn> ya G  [14:25:57]
+<_01000101_> there isn't one of those in many many many miles.  [14:26:54]
+<nn> next time you go, tell them you voted for obama  [14:26:59]
+<nn> they give you 20% off  [14:27:02]
+<_01000101_> lols but I didn't.  [14:27:08]
+<ccfreak2k> Isn't that illegal?  [14:28:44]
+<nn> why is it illegal?  [14:29:08]
+<nn> the "election" is over  [14:29:37]
+<_01000101_> it's stupid thoughs =)  [14:30:22]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev || tutorials: osdever.net & osdev.org || don't ask/act like a stupid  [22:50:29]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat josip Guest89832 redblue eieio nn ZeXx86 [com]buster eXeCuTeR mwk Zoxc Orkie xlq Walt L33ckma IRWolfie- banisterfiend
+    Gilgamesh pini geist SM0TVI ggonzalez Mikaku sbahra lintrippz ghane jrydberg_ seb- coly_ Jaywalker tktech Electric_Monk TMM tantrika_ merck virtx
+    ronny Evil-Bill bughunter2 vai__ magcius ejb transistor pireau Miller` tj sbahra[] froggey Obfuscate assem hohum xid bluehole mur gab _Lucretia_
+    pragma_ blound_ benk 
+*** Users on #osdev: ccfreak2k cippo milyges giszo ndim alamar meow` MT`AwAy jaacoppi_ courtc jaskorpe JoeSchmo chii Divine clog AlexExtreme awilcox 
+*** #osdev modes: +tn  [22:50:58]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev || tutorials: osdever.net & osdev.org || don't ask/act like a stupid  [23:04:01]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #OSdev: ManateeLazyCat josip zateam redblue eieio nn ZeXx86 [com]buster eXeCuTeR mwk Zoxc Orkie xlq L33ckma IRWolfie- banisterfiend
+    Gilgamesh pini geist SM0TVI ggonzalez sbahra chii Divine clog AlexExtreme awilcox JoeSchmo jaskorpe courtc jaacoppi_ MT`AwAy meow` alamar ndim giszo
+    milyges cippo ccfreak2k benk blound_ pragma_ _Lucretia_ gab mur bluehole xid hohum assem Obfuscate froggey sbahra[] tj Miller` pireau transistor ejb
+    magcius vai__ bughunter2 
+*** Users on #OSdev: Evil-Bill ronny virtx merck tantrika_ TMM Electric_Monk tktech Jaywalker coly_ seb- jrydberg_ ghane lintrippz 
+*** #osdev: [freenode-info] if you're at a conference and other people are having trouble connecting, please mention it to staff:
+    http://freenode.net/faq.shtml#gettinghelp  [23:04:19]
+*** #OSdev modes: +tn  [23:04:30]
+*** #OSdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë

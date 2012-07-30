@@ -1,0 +1,46 @@
+#!/bin/sh 
+HARE_VERSION=${1:-unknown}
+
+RELEASE_ROOT=`pwd`/..
+REFACTORER=${RELEASE_ROOT}/refactorer/pfe
+REFACTORER_CLIENT=${RELEASE_ROOT}/refactorer/pfe_client
+PRELUDE=${RELEASE_ROOT}/tools/base/tests/HaskellLibraries
+GHC_PATH=`ghc --print-libdir`
+MERGEFILEPATH=${RELEASE_ROOT}/refactorer/merging/mergecache.txt
+
+case `uname` in
+  CYGWIN*)
+    REFACTORER=`cygpath -wa ${REFACTORER} | sed 's/\( \|\\\\\)/\\\\\1/g'`
+    REFACTORER_CLIENT=`cygpath -wa ${REFACTORER_CLIENT} | sed 's/\( \|\\\\\)/\\\\\1/g'`
+    PRELUDE=`cygpath -wa ${PRELUDE} | sed 's/\( \|\\\\\)/\\\\\1/g'`
+    MERGEFILEPATH=`cygpath -wa ${MERGEFILEPATH} | sed 's/\( \|\\\\\)/\\\\\\1/g'`  
+    ;;
+  *)
+    CURRENT=`pwd`
+    cd `dirname ${REFACTORER}`; REFACTORER=`pwd`/pfe  
+    cd `dirname ${REFACTORER_CLIENT}`; REFACTORER_CLIENT=`pwd`/pfe_client
+    cd `dirname ${PRELUDE}`; PRELUDE=`pwd`/HaskellLibraries
+    cd ${CURRENT}
+    ;;
+esac
+cat >LocalSettings.hs <<SETTINGS
+module LocalSettings where
+
+hare_version="${HARE_VERSION}"
+release_root= showNoQuotes "${RELEASE_ROOT}"
+refactorer = showNoQuotes "${REFACTORER}"
+refactorer_client = showNoQuotes "${REFACTORER_CLIENT}"
+preludePath = "${PRELUDE}"
+
+reportFilePath = "./refactorer/duplicate/report.txt"
+answerFilePath = "./refactorer/duplicate/answers.txt"
+transFilePath  = "./refactorer/duplicate/transforms.txt"
+mergeFilePath  = "${MERGEFILEPATH}"
+ghcPath = "$GHC_PATH"
+
+
+(refactor_prg:refactor_args) = words refactorer -- for emacs
+showNoQuotes x = init $ tail $ show x
+SETTINGS
+
+

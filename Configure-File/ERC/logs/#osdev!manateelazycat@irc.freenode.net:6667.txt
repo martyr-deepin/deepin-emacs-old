@@ -1,0 +1,755 @@
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev ||
+    tutorials: osdever.net & osdev.org || don't ask/act like a stupid
+                                                                     [03:40:42]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat Kenaj_ xlq omegaman redblue TMM Ivanlef0u
+    josip replor [com]buster tantrika_ merck virtx Mathis Walt ronny__
+    sdschulz` eieio coly_ shackan inflater TkTech jrydberg__ Zoxc Orkie SM0TVI
+    zateam Evil-Bill bughunter2 nn vai__ L33ckma EtherNet magcius lintripp1
+    sbahra ejb transistor pireau Miller` tj sbahra[] froggey Obfuscate assem
+    hohum add xid bluehole mur mwk gab _Lucretia_ pragma_ blound_ benk
+    ccfreak2k cippo milyges giszo ndim 
+*** Users on #osdev: alamar meow` MT`AwAy jaacoppi_ courtc geist jaskorpe
+    JoeSchmo awilcox clog Divine chii AlexExtreme 
+<TkTech> I only promote it because its very simple to port to your own OS
+                                                                     [03:41:07]
+*** #osdev modes: +tn  [03:41:13]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev ||
+    tutorials: osdever.net & osdev.org || don't ask/act like a stupid
+                                                                     [03:43:52]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat Kenaj_ xlq omegaman redblue TMM Ivanlef0u
+    josip replor [com]buster tantrika_ merck virtx Mathis Walt ronny__ eieio
+    coly_ shackan inflater TkTech jrydberg__ Zoxc Orkie SM0TVI zateam
+    Evil-Bill bughunter2 nn vai__ L33ckma EtherNet magcius lintripp1 sbahra
+    ejb transistor pireau clog Divine chii AlexExtreme awilcox JoeSchmo
+    jaskorpe geist courtc jaacoppi_ MT`AwAy meow` alamar ndim giszo milyges
+    cippo ccfreak2k benk blound_ pragma_ 
+*** Users on #osdev: _Lucretia_ gab mwk mur bluehole xid add hohum assem
+    Obfuscate froggey sbahra[] tj Miller` 
+<Kenaj_> .code 16  [03:44:01]
+<Kenaj_> sprotected mode stuff  [03:44:08]
+<Kenaj_> ?!?  [03:44:12]
+<geist> sure  [03:44:24]
+*** #osdev modes: +tn  [03:44:26]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+<geist> 16bit protected mode is a valid mode, just not used by anyone
+                                                                     [03:44:39]
+<geist> it's even more rare than most of the other stuff that's rare on x86
+                                                                     [03:44:49]
+<Kenaj_> i will, haha
+<Kenaj_> 32 bit is scary  [03:44:56]
+<geist> it's essentially '286 mode'  [03:45:02]
+<Kenaj_> so much complicated  [03:45:07]
+<geist> uh. okay  [03:45:14]
+<geist> seems like 16 bit protected would be far worse  [03:45:24]
+<Kenaj_> half as scary HEHE  [03:45:36]
+<geist> you have all the complexity of32bit protected mode with the additional
+        headache of having to deal with a smaller address space  [03:45:40]
+<geist> which means you will never find a compiler that can use it, etc
+                                                                     [03:45:53]
+<geist> and you'll have to do all the size prefix overrides  [03:46:03]
+<Kenaj_> fasm can?  [03:46:05]
+<geist> well, gee if you're just going to write assembly i guess  [03:46:25]
+<geist> but you're also bitching about how complicated stuff is  [03:46:32]
+<Kenaj_> haha  [03:46:39]
+<geist> seems a little counter intuitive  [03:46:40]
+<Kenaj_> yes, assembler OS  [03:46:42]
+<Kenaj_> first one ever!  [03:46:47]
+<geist> *shrug* suit yourself  [03:46:48]
+<Kenaj_> cool project  [03:46:49]
+<geist> no, not by a long shot  [03:46:54]
+<Kenaj_> no`? name one!  [03:47:03]
+<geist> menuetos is the first one that comes to mind  [03:47:22]
+<Kenaj_> neither linux or windows use much assembler. i mean everyhing in as
+                                                                     [03:47:27]
+<geist> and essentially everything written before 1970  [03:47:29]
+<geist> and a lot of stuff afterwards  [03:47:36]
+<geist> lots of L4 implementations are almost pure assembly  [03:47:42]
+<geist> etc  [03:47:45]
+<geist> and lots of stuff written on microcontrollers  [03:48:16]
+<TkTech> geist: I commend your patience  [03:48:53]
+<geist> i'm a patient person today  [03:49:15]
+<geist> i'm even (gasp) going over my JIRA bugs today and cleaning them up
+                                                                     [03:49:32]
+<TkTech> o: What do you use JIRA for?  [03:49:44]
+<Kenaj_> i lost my internet connections  [03:49:45]
+<TkTech> Personal license version?  [03:49:51]
+<Kenaj_> what was it?
+<geist> it's our bug tracking system  [03:49:52]
+<geist> no, work  [03:49:55]
+<TkTech> I know what it is, I use it all the time  [03:49:59]
+<Kenaj_> menuetos is all assembler
+         :-((((((((((((((((((((((((((((((((((((((((((((((((((((((((((
+                                                                     [03:50:14]
+<TkTech> Where do you work?  [03:50:17]
+<Kenaj_> my life project is ruined  [03:50:18]
+<Kenaj_> what to do now?  [03:50:24]
+<geist> Kenaj_: here's the rest of what i said after you left  [03:50:27]
+<Kenaj_> in machine code  [03:50:30]
+<Kenaj_> haha  [03:50:33]
+<geist> 11:47 < geist> and essentially everything written before 1970
+                                                                     [03:50:36]
+<geist> 11:47 < geist> and a lot of stuff afterwards
+<geist> 11:47 < geist> lots of L4 implementations are almost pure assembly
+<geist> 11:47 < geist> etc
+<geist> 11:48 < geist> and lots of stuff written on microcontrollers
+<Kenaj_> arg  [03:50:47]
+<Kenaj_> ok  [03:50:49]
+<geist> look, if 32bit is too complicated, you probably have no business
+        trying to write an os in assembly  [03:51:08]
+<geist> i'd do it only if you're already an expert  [03:51:17]
+<geist> TkTech: Palm  [03:51:24]
+<TkTech> Oh!  [03:51:28]
+<TkTech> Oh god, I forgot the entire conversation we had.  [03:51:36]
+<TkTech> I need sleep ;(  [03:51:44]
+<geist> but my last company used it too  [03:51:45]
+<Kenaj_> ok, i kill my self now  [03:51:47]
+<geist> and they were quite a bit smaller  [03:51:48]
+<geist> that had better not be gr00ber  [03:52:00]
+<TkTech> nubCounterm;  [03:52:06]
+<geist> kind of looking like it though  [03:52:07]
+<TkTech> rofl  [03:52:08]
+<TkTech> *shiver* cpumaster  [03:52:22]
+<geist> 50cab3a6  [03:52:29]
+<geist> actually, yeah that was gr00ber  [03:52:34]
+<geist> fucker told me he wasn't going to do that agian  [03:52:42]
+<geist> goddamn that pisses me off  [03:52:46]
+<omegaman> ban?  [03:52:50]
+<TkTech> ban hamma  [03:52:57]
+<geist> doens't work on irc, you can always get around it  [03:52:58]
+<geist> he thinks it's real funny to come in as different newbies and troll us
+        for help  [03:53:20]
+<TkTech> h  [03:53:39]
+<geist> which i guess is kind of cute, but it really really pisses me off. I
+        only have so much helpfulness in me  [03:53:46]
+<geist> to use it up on that is just wrong
+<geist> he'll go on for hours with it too  [03:54:24]
+<zateam> lol, feeding the troll  [03:54:35]
+<geist> multiple accounts at the same time, sometimes he even helps himself to
+        try to lure others in  [03:54:36]
+<geist> yeah, pretty much  [03:54:41]
+<omegaman> weird  [03:54:47]
+<omegaman> he used my nick (and others) the other day, so i am going to ask
+           for a k-line  [03:54:59]
+<TkTech> Nippon geist  [03:55:01]
+<zateam> wow  [03:55:21]
+<omegaman> hmm, a self-feeding troll  [03:55:28]
+<zateam> that's pretty professional trolling heh  [03:55:31]
+<cippo> omegaman: isn't there an option in nickserv to kick anyone that uses
+        your nick within 30 secs if thye don't register?  [03:55:36]
+<geist> yeah, well he's manic, so when he gets into one of his other phases
+        he's not really controllable  [03:55:39]
+<geist> yeah, pretty much  [03:55:40]
+<omegaman> cippo, dunno, i'll check it out  [03:55:48]
+<geist> omegaman: yeah if you register your nick you can kick others
+                                                                     [03:56:02]
+<omegaman> good to know  [03:56:21]
+<TkTech> he'll have 5 minutes, then he'll be automaticly renamed  [03:56:25]
+<TkTech> however, he can just leave, /nick <name again> and come back
+                                                                     [03:56:40]
+<geist> you can also use it to reclaim your own nick if you get a stalled
+        connection  [03:56:48]
+<nn> #ifdef NULL_POINTER_NOT_ZERO  [03:56:50]
+<nn> Are there really OS with non-zero nulls?  [03:57:00]
+<cippo> hmm, there's and option SET ENFORCE
+<sbahra> nn, could you change your nickname to Samy for a second?  [03:57:04]
+<nn> no  [03:57:11]
+*** TkTech (n=chatzill@bas1-ottawa23-1167871338.dsl.bell.ca) is now known as
+    Samy  [03:57:15]
+<sbahra> Thanks  [03:57:22]
+<zateam> s  [03:57:27]
+<geist> haha  [03:57:44]
+<geist> nn: i think c++ even went farther and defined 0 as null  [03:58:04]
+<geist> or at least proclaimed it to be identical  [03:58:10]
+*** TkTech (n=chatzill@bas1-ottawa23-1167871338.dsl.bell.ca) is now known as
+    tktech  [03:58:12]
+<sbahra> nn, yes. In C, it is not necessary for NULL to *really* be 0 (outside
+         of C).  [03:58:25]
+<tktech> Bastard, lol.  [03:58:28]
+<nn> im looking over code thats been made too portable  [03:58:29]
+<sbahra> nn, only in C it's required for NULL to be a zero value.  [03:58:35]
+<geist> which means it's effectively 0, i guess  [03:58:55]
+<Tk_Tech> did it work?  [03:58:57]
+<tktech> Did what work.  [03:59:16]
+<Tk_Tech> when i changed my nick to Samy?  [03:59:31]
+<cippo> haha  [03:59:35]
+<Tk_Tech> i didn't get back in  [03:59:36]
+<tktech> Want to change your name back, or at least use a proxy so we all
+         can't just compare your ip?  [04:00:22]
+<zateam> so there isn't some hidden option to enable automatic nick switching
+         on freenode for someone who doesn't identify i take it?  [04:01:06]
+<Tk_Tech> good night  [04:01:16]
+<nn> zateam: theres automatic kill  [04:01:22]
+<nn> hang on  [04:01:25]
+<cippo> zateam: SET ENFORCE claims to do automatic protection of nick
+                                                                     [04:01:38]
+<nn> set enforce on  [04:01:39]
+<cippo> not sure how it works  [04:01:40]
+<zateam> kk  [04:01:45]
+<cippo> ops  [04:02:27]
+<zateam> most nets with nickserv have that on by default. weird  [04:03:16]
+<_Lucretia_> geist: seriously, I knew it gr00ber before his name was
+             mentioned. There has to be some way of banning that retard for
+             ever, surely?  [04:08:13]
+<zateam> nope  [04:08:27]
+<zateam> way too many ways to get new ips  [04:08:36]
+<zateam> he has his own botnet too from what i've heard  [04:08:45]
+<_Lucretia_> ah well  [04:08:48]
+<_Lucretia_> botnet?  [04:08:53]
+<geist> i normally catch it first, but i was lazy and didn't check the ip
+        address  [04:08:58]
+<_Lucretia_> I've got him on ignore, but only for his usual name  [04:09:14]
+<omegaman> best strategy is to ignore him  [04:09:24]
+<zateam> computers taken over by viruses and made to do things like spam
+         websites or act as proxies  [04:09:26]
+<zateam> ddos websites*  [04:09:33]
+<geist> that's what i found with these things. you're almost better off just
+        ignoring and not banning or whatnot
+<apples`> i heard he can shoot lightning bolts from his hands !!  [04:09:34]
+<zateam> that too  [04:09:39]
+<geist> because as soon as you start the arms race of banning or whatnot, it
+        gets impossible to ignore  [04:09:57]
+<zateam> but this is from a troll friend who apparently had a troll to troll
+         conversation with him  [04:10:04]
+<geist> either via /ignore, or just because now you have to participate in
+        their silly game  [04:10:10]
+<geist> best way to comabt a troll is to really ignore them  [04:10:21]
+<ManateeLazyCat>   [04:10:23]
+<geist> like, just deal with it  [04:10:24]
+<_Lucretia_> yeah  [04:10:27]
+<omegaman> the nick list seems rather stable though, maybe register-only is
+           the way to go?  [04:11:07]
+<geist> no no  [04:11:15]
+<omegaman> an annoyance, but better than a forum  [04:11:22]
+<geist> need to make it friendly for anyone to come in  [04:11:27]
+<_Lucretia_> then they get annoyed by him when first come here  [04:11:42]
+<geist> if we can keep the gr00bers and mathis's in check, it's not a bad
+        place for newbies to ask a question  [04:11:45]
+<_Lucretia_> and dont come back  [04:11:46]
+<zateam> it takes two seconds to reg a nick  [04:11:52]
+<_Lucretia_> is Mathis one too?  [04:11:58]
+<geist> gr00ber is mostly annoying to the old timers (me in particular)
+                                                                     [04:12:02]
+<omegaman> yeah
+<_Lucretia_> just shows how much i stick my head in here :D  [04:12:08]
+<zateam> it'll only discourage people who have nothing to do with the troll
+                                                                     [04:12:12]
+<geist> mathis is the one that really pisses off the newbies, since he just
+        sits around and insults anyone that dares ask a question  [04:12:20]
+* _Lucretia_ can't remember  [04:12:32]
+<_Lucretia_> geist: maybe it's got something to do elitism associated with
+             writing an os?  [04:14:09]
+<geist> yeah, he's also just a massive asshole  [04:14:29]
+<zateam> haha  [04:14:42]
+* zateam looks at hostmask  [04:14:51]
+<_Lucretia_> geist: that's a good un  [04:14:54]
+<zateam> sees tor
+<_Lucretia_> :P  [04:14:57]
+<_Lucretia_> geist: like the goat.se picture? :D  [04:15:21]
+<omegaman> the freenode ops regularily bans the entire tor network  [04:15:35]
+<geist> my eyes, they burn!  [04:15:37]
+* _Lucretia_ hands geist some cool water stuff  [04:15:56]
+* _Lucretia_ thinks he'll have to order an arseburner of a curry to try to get
+  rid of this cold  [04:16:24]
+<eXeCuTeR> anyone here?  [04:16:42]
+<geist> lots  [04:16:50]
+<geist> we all float down here  [04:16:54]
+<zateam> 74 people  [04:16:55]
+<zateam> actually  [04:16:57]
+<eXeCuTeR> oh that's coolswell, how you guys doing?  [04:17:11]
+<geist> he was asking me questions in #newos, so i told him to come here
+                                                                     [04:17:12]
+<eXeCuTeR> yeah, well my question basically was: could you explain me the
+           differences between real mode and protected mode and why should i
+           enter protected mode if i wanted to write a kernel?  [04:17:31]
+<_Lucretia_> geist: what you working on these days?  [04:17:40]
+<omegaman> wasn't the trolling about this very topic?  [04:17:49]
+* omegaman is dubious  [04:17:52]
+<_Lucretia_> eXeCuTeR: well, the biggest + for protected is that you get a
+             nice flat address space, but then if you've got a 64 it cpu,
+             maybe going long would be better? who knows  [04:18:15]
+<geist> _Lucretia_: hven't done much on newos in a few years, but i have a few
+        other little os projects  [04:18:40]
+<omegaman> long is protected mode too, and yeah, much nicer to work with
+<eXeCuTeR> yep, i know, in protected mode a segment is 4GB long, while in real
+           mode is 64KB  [04:18:44]
+<geist> last thing i started screwing with last week was writing a ray tracer
+                                                                     [04:18:54]
+<_Lucretia_> nice  [04:19:02]
+<eXeCuTeR> so why no one uses the protected mode for any program development?
+                                                                     [04:19:19]
+<geist> eXeCuTeR: plus the usual 32 > 16 thing  [04:19:21]
+<_Lucretia_> omegaman: long is 64 bit though, with more registers (only took
+             em 20 years!!!)  [04:19:26]
+<geist> eXeCuTeR: *everyone* uses protected mode  [04:19:28]
+<omegaman> _Lucretia_, yup  [04:19:36]
+<_Lucretia_> omegaman: I missed off "to match the regs on a m68k!!")
+                                                                     [04:19:56]
+<geist> essentially anything that runs on x86s that isn't just DOS is all
+        protected mode  [04:19:59]
+<geist> linux, windows, etc  [04:20:02]
+<eXeCuTeR> but there are certain things i've to do before i can enter the
+           protected mode  [04:20:10]
+<eXeCuTeR> the CR0, i have to change it to 1  [04:20:23]
+<_Lucretia_> eXeCuTeR: if you use grub, it puts you there  [04:20:30]
+<cippo> eXeCuTeR: use the GRUB to load your OS, it will drop you in pmode
+                                                                     [04:20:34]
+<zateam> ^^^  [04:21:16]
+<zateam> agreed  [04:21:17]
+<eXeCuTeR> my debian has recently crashed so grub is all screwed, and only
+           windows is booting normallysam i on protected mode anyways?
+                                                                     [04:21:18]
+<eXeCuTeR> i must say, you guys are great, sorry for all of these questions
+                                                                     [04:21:44]
+<omegaman> or another multiboot booter  [04:22:09]
+<cippo> so, where are you from eXeCuTeR ?  [04:23:03]
+<eXeCuTeR> israel :)  [04:23:18]
+<eXeCuTeR> you?  [04:23:21]
+<eXeCuTeR> probably american  [04:23:31]
+<cippo> ah, you probably have it warm and cosy then, i'm up in the cold north
+                                                                     [04:23:39]
+<cippo> norway to be precise  [04:23:45]
+<eXeCuTeR> oh yeah, heh :)  [04:24:00]
+<inflater_> fck lol  [04:24:05]
+<inflater_> something happened xD going off  [04:24:12]
+<eXeCuTeR> so anyways guys  [04:24:21]
+<eXeCuTeR> does windows also drop you to the pmode  [04:24:29]
+<omegaman> sure does :)  [04:24:42]
+<eXeCuTeR> oh  [04:24:48]
+<eXeCuTeR> alrightsthat's cool  [04:24:58]
+<tktech> OH HELL  [04:25:37]
+<geist> like i said, anything remotely recent is all protected mode  [04:25:40]
+<geist> windows, linux, *bsd, etc  [04:25:41]
+<geist> essentially until you enable protected mode you're an 8086
+<geist> ie, a 30 year old cpu
+<tktech> I work in 10 minutes  [04:25:42]
+<tktech> later  [04:25:44]
+<eXeCuTeR> the gdt is the global descriptor table that has different kind of
+           information about different segments, right?  [04:27:18]
+<geist> right  [04:27:25]
+* xlq has just caught up with scrollback  [04:27:41]
+<geist> btw, if you happen to be gr00ber, so help me i'll reach through the
+        internet and kill you  [04:27:49]
+<xlq> what? I was only reading scrollback.  [04:28:03]
+<geist> no, eXeCuTeR   [04:28:16]
+<xlq> oh.  [04:28:36]
+<eXeCuTeR> what is it then?  [04:29:09]
+<eXeCuTeR> i thought it holds information about segments  [04:29:20]
+<geist> what is what?
+<geist> yes  [04:29:23]
+<geist> that's what i said  [04:29:28]
+<geist> i agreeed with your statement  [04:29:37]
+<eXeCuTeR> alrights(in you previous message you said no, that's what made me
+           wonder)  [04:30:05]
+<xlq> that was to me  [04:30:27]
+<eXeCuTeR> alright  [04:30:36]
+<xlq> hi gr00ber  [04:33:23]
+<eXeCuTeR> and btw, i have never understood what paging is  [04:35:02]
+<eXeCuTeR> argh im annoyying O_O  [04:35:14]
+<geist> you will need to  [04:35:21]
+<ronny__> yo  [04:35:26]
+<ronny__> does anyone mind if i stab it?  [04:35:35]
+*** ronny__ (n=ronny@ronny.uberhost.de) is now known as ronny  [04:35:40]
+<geist> innocent until proven guilty  [04:36:09]
+<geist> when we start thinking that all newcomers are gr00ber, gr00ber has won
+                                                                     [04:37:32]
+<_Lucretia_> omegaman: are there any other multiboot loaders?  [04:39:08]
+<eXeCuTeR> lilo  [04:39:22]
+<eXeCuTeR> for example  [04:39:25]
+<omegaman> no  [04:39:29]
+<omegaman> lilo is not MB  [04:39:31]
+<eXeCuTeR> what's MB?  [04:39:36]
+<omegaman> _Lucretia_, MBLOAD for one  [04:39:42]
+<omegaman> eXeCuTeR, multiboot compliant  [04:39:47]
+<nn> lilo == trash  [04:39:50]
+<omegaman> _Lucretia_, maybe even Redboot is MB  [04:39:58]
+<nn> was useful in its day
+<nn> but its highly deprecated nowadays  [04:40:04]
+<eXeCuTeR> what does it mean?  [04:40:06]
+<omegaman> there are some other minor ones i think  [04:40:08]
+<omegaman> eXeCuTeR, it's sort of a standard for how to boot an OS  [04:40:18]
+<eXeCuTeR> i know how actually  [04:40:30]
+<_Lucretia_> omegaman: yeah but redboot aint for peecee's tho is it?
+<omegaman> i.e. the OS sets up a structure that any multiboot compliant loader
+           will grok  [04:40:38]
+<omegaman> _Lucretia_, embedded  [04:40:45]
+<omegaman> MBLOAD is for peecees  [04:40:51]
+<omegaman> though it's weird, since you boot via DOS  [04:41:01]
+<eXeCuTeR> you write to the boot sector a binary image, 512 bytes big with the
+           signature of 0xAA55 and load the os from there  [04:41:04]
+<_Lucretia_> omegaman: well yeah, not peecee
+<omegaman> but can be useful for testing  [04:41:06]
+<_Lucretia_> omegaman: got an url for mbload, google brings up buffin
+                                                                     [04:41:16]
+<_Lucretia_> nuffin  [04:41:18]
+<omegaman> _Lucretia_, i don't target peecee only  [04:41:19]
+<_Lucretia_> fairy nuff  [04:41:26]
+<omegaman> dunno, have it on my dev machine since years ago  [04:41:37]
+<_Lucretia_> got it  [04:41:54]
+<omegaman> referred to from here at least:
+           http://my.execpc.com/~geezer/code/index.txt  [04:42:03]
+<_Lucretia_> didn't know it was geist's (I think that's him)  [04:42:09]
+<omegaman> i think gieser wrote it  [04:42:26]
+<omegaman> _Lucretia_, it's not  [04:42:28]
+<_Lucretia_> the one on the wiki is a dead link :( looking at that one
+                                                                     [04:42:29]
+<_Lucretia_> ah, thought chris giese was geist  [04:42:55]
+<omegaman> heh  [04:43:02]
+<ronny> eXeCuTeR: bios bootsectors are NOT MB  [04:43:19]
+<eXeCuTeR> but lilo is a multiboot compliant also  [04:43:54]
+<omegaman> and there really isn't such a thing as bios boot sectors :)
+                                                                     [04:43:57]
+<omegaman> eXeCuTeR, no  [04:44:06]
+<eXeCuTeR> why not? the bios reads from the sectors  [04:44:21]
+<_Lucretia_> eXeCuTeR: pc's are archaic pieces of shit, multiboot is a way
+             around some problems with peecees
+<omegaman> it can boot multiple os's, but not according to the MB spec
+                                                                     [04:44:32]
+<_Lucretia_> eXeCuTeR: lilo is not multiboot compliant  [04:44:45]
+<omegaman> eXeCuTeR, http://www.gnu.org/software/grub/manual/multiboot/
+                                                                     [04:44:50]
+<omegaman> that spec  [04:44:54]
+<_Lucretia_> geist: you sure he's not groober?  [04:44:55]
+<eXeCuTeR> how old are you guys? you seem to have a very wide knowledge
+                                                                     [04:45:16]
+<geist> pretty sure. he at least traces back to where he claims to be from
+                                                                     [04:45:21]
+<_Lucretia_> :D  [04:45:27]
+<alexholowczak> lol  [04:45:29]
+<ronny> omegaman: im not exactly sure how the heck to make it understandable
+        to an entirely unknowing person  [04:45:39]
+<omegaman> geist, can't a proxy fix that?
+<_Lucretia_> eXeCuTeR: I've not actually written an os yet, just a few hello
+             world (or bare bones) kernels  [04:45:50]
+<omegaman> ronny, good points just nitpicking :)  [04:45:51]
+<xlq> I can't even trace to him, lol  [04:45:53]
+<_Lucretia_> eXeCuTeR: In Ada :D  [04:45:54]
+<eXeCuTeR> the only thing that i've written which is close to an operating
+           systems was this:  [04:46:35]
+<eXeCuTeR> http://pastebin.com/m61418765  [04:47:05]
+<nn> multiboot is a specification of the state the machine will be in and how
+     a kernel is passed information gathered while the loader is still in real
+     mode  [04:47:06]
+* geist shrugs  [04:47:18]
+<geist> i dont care. see the more we suspect everyone the more gr00ber wins
+                                                                     [04:47:29]
+<nn> i been spnding hours debugging this issue and it turns out to be far more
+     complicated than it seems  [04:47:48]
+<ronny> geist: i dont actually care if it is gr00ber, it acts anoyingly stupid
+        - i wana stab  [04:48:11]
+<cippo> bad day ronny ?  [04:48:26]
+<nn> configuration file must be loaded to set the tuning hints on the block
+     heap allocator, but listeners are dependant on the block heap allocator
+     as they use sockets and the config defines the listeners :\  [04:48:30]
+* _Lucretia_ hands ronny a peace pipe  [04:48:31]
+<ronny> _Lucretia_: with weed?  [04:48:48]
+<_Lucretia_> crack if ya want  [04:48:55]
+<_Lucretia_> mebbe some meth  [04:49:02]
+<ronny> no crack and meth for me  [04:49:07]
+<_Lucretia_> ronny: pour some o dis in ya pipe and smoke it:
+             http://www.healthinajiffy.co.uk/images/meths.jpg  [04:49:38]
+<_Lucretia_> bbiab  [04:49:47]
+<ronny> im all in for nice drugs every once in a while and i avoid all the
+        massive dammage things like a pest  [04:49:57]
+<nn> so time to rewrite the conf parser to be two-stage. First stage parses
+     the dconf stuff, second parses the list stuffi meh  [04:50:00]
+<eXeCuTeR> hey, do you guys have any recommendations to any kind of books on
+           operating systems?  [04:50:03]
+<ronny> meh, i never had any books on osdev  [04:50:48]
+<xlq> Anyone's os project under Git? Dunno why, I've suddenly developed a
+      fetish for Git.  [04:51:14]
+<ronny> but i suspect taocp 1-4 will be a nice reading  [04:51:25]
+<ronny> xlq: how the heck did you manage that much of mess ;P  [04:51:42]
+<ronny> i developed a extended hate for git when i tried to interface it
+                                                                     [04:52:15]
+<xlq> lol
+<xlq> really? Interesting.  [04:52:24]
+<xlq> Tell me more!  [04:52:28]
+<xlq> Convince me to hate Git again!  [04:52:40]
+<ronny> the documentation sucks for anything thats not an everyday command
+                                                                     [04:52:51]
+<eXeCuTeR> any of you guys have an msn account?  [04:52:57]
+* alexholowczak sings a Grease song thanks to xlq.  [04:52:58]
+<ronny> and the commands for interfacing with it from scripts are a huge pain
+                                                                     [04:53:17]
+<xlq> hmm.  [04:53:38]
+<ronny> hmm, i wonder why people develop this retarded longing for msn
+        accounts  [04:53:52]
+<apples`> because irc is tiring, duh  [04:54:09]
+<xlq> I gave up MSN and Windows a long time ago, along with drugs and alcohol.
+                                                                     [04:54:10]
+<eXeCuTeR> hehe  [04:54:23]
+<eXeCuTeR> but you still have clients in linux  [04:54:33]
+<nn> Ahh simple enough fix, just add another if to the already if heavy
+     config_load() and then call it with 0 for dictionary config (key=value)
+     or 1 for list based, that way i can load the tuning stuff (key=value)
+     then setup block heap allocator and list manager then finally load the
+     list shit *meh*  [04:54:43]
+<eXeCuTeR> like pidgin  [04:54:46]
+* alexholowczak uses Pidgin.  [04:54:53]
+<ronny> eXeCuTeR: doesnt mean anyone in their sane mind would sing up for msn
+                                                                     [04:55:04]
+<alexholowczak> I like Pidgin. So much metter than MSN as a Messenger client.
+                                                                     [04:55:15]
+<xlq> MSN is the network.  [04:55:25]
+* zateam_ uses pidgin too  [04:55:29]
+<alexholowczak> You know what I mean, xlq. :-P  [04:55:36]
+<xlq> I used bitlbee for a while, but dropped it completely since everyone I
+      know uses IRC now ;)  [04:55:41]
+<nn> msn and pidgin both annoy me  [04:55:45]
+<eXeCuTeR> i was just asking heh  [04:55:53]
+<alexholowczak> xlq: All three of us? :-P  [04:55:54]
+<ronny> i generaly prefer jabber  [04:56:03]
+<zateam_> alexholowczak, ouch :P  [04:56:19]
+<ronny> but its not that easy to convince non-tech friends to jabber
+                                                                     [04:56:26]
+<zateam_> none of my friends osdev  [04:56:33]
+<zateam_> which is sad  [04:56:34]
+<xlq> Also I didn't fancy all my conversations going straight through
+      Microsoft's servers all the time.  [04:56:42]
+<zateam_> none of them program eithers  [04:56:52]
+<eXeCuTeR> could any one explain me what's paging? i've always failed to
+           understand
+<alexholowczak> zateam_: I can say that because I know him in real life. :-P
+                                                                     [04:56:57]
+<zateam_> i figured  [04:57:04]
+*** zateam_ (i=blah@r45h88.res.gatech.edu) is now known as zateam  [04:57:10]
+<alexholowczak> :-)  [04:57:17]
+<ronny> eXeCuTeR: see http://en.wikipedia.org/wiki/Paging  [04:57:40]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev ||
+    tutorials: osdever.net & osdev.org || don't ask/act like a stupid
+                                                                     [04:59:33]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat Electric_Monk zateam redblue eXeCuTeR
+    Ivanlef0u apples` bluecode xlq omegaman TMM josip replor [com]buster
+    tantrika_ merck virtx Mathis Walt ronny eieio shackan jrydberg__ Zoxc
+    Orkie SM0TVI Evil-Bill bughunter2 nn vai__ L33ckma EtherNet magcius
+    lintripp1 sbahra ejb transistor pireau Miller` tj sbahra[] froggey
+    Obfuscate assem hohum add xid bluehole mur mwk gab _Lucretia_ pragma_
+    blound_ benk ccfreak2k cippo milyges giszo ndim 
+*** Users on #osdev: alamar meow` MT`AwAy jaacoppi_ courtc geist jaskorpe
+    JoeSchmo clog Divine chii AlexExtreme awilcox 
+*** #osdev modes: +tn  [04:59:59]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+<xlq> you should see his Java programs, lol  [05:00:23]
+<xlq> actually, you shouldn't  [05:00:27]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev ||
+    tutorials: osdever.net & osdev.org || don't ask/act like a stupid
+                                                                     [10:33:01]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat wcstok ArtVandalae Gremlin banisterfiend
+    Walt Guest123 marik zateam_ ajonat ggonzalez piranha ghane Electric_Monk
+    apples` TMM [com]buster tantrika_ merck virtx ronny shackan jrydberg__
+    Evil-Bill bughunter2 nn vai__ L33ckma magcius lintripp1 sbahra ejb
+    transistor pireau Miller` tj sbahra[] froggey Obfuscate assem hohum add
+    xid bluehole mur mwk gab _Lucretia_ pragma_ blound_ benk ccfreak2k cippo
+    milyges giszo ndim alamar meow` 
+*** Users on #osdev: MT`AwAy jaacoppi_ courtc geist jaskorpe JoeSchmo awilcox
+    AlexExtreme chii Divine clog 
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev || tutorials: osdever.net & osdev.org || don't ask/act like a stupid
+                                                                                                                                          [13:40:11]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat coly_ replor jrydberg__ Jaywalker SM0TVI tktech [com]buster piranha_ nn_ Gremlin banisterfiend Walt marik
+    zateam_ ajonat ggonzalez ghane Electric_Monk TMM tantrika_ merck virtx ronny shackan Evil-Bill bughunter2 vai__ L33ckma magcius lintripp1
+    sbahra ejb transistor pireau Miller` tj sbahra[] froggey Obfuscate assem hohum xid bluehole mur mwk gab _Lucretia_ pragma_ blound_ benk
+    ccfreak2k cippo milyges giszo ndim alamar meow` 
+*** Users on #osdev: MT`AwAy jaacoppi_ courtc geist jaskorpe JoeSchmo awilcox AlexExtreme clog Divine chii 
+<nn_> banisterfiend: i didnt like the look of erlang, not that im a C fan either, but i have a very strict C style i follow  [13:40:40]
+*** #osdev modes: +tn  [13:40:43]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+<banisterfiend> erlang's getting pretty big, writing an ircd would be a perfect excuse to learn it  [13:42:34]
+<MT`AwAy> tktech> it helped me a lot in implementing those, while it's useless if you don't understand what you are doing, it fills the gap between
+          theory and code  [13:47:28]
+<tktech> yeah, just trying to think of something functional I'd write that would justify using it  [13:52:09]
+<tktech> lol  [13:52:11]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev || tutorials: osdever.net & osdev.org || don't ask/act like a stupid  [14:02:01]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat coly_ replor jrydberg__ Jaywalker SM0TVI tktech [com]buster piranha_ nn_ Gremlin banisterfiend marik zateam_ ajonat
+    ggonzalez ghane Electric_Monk TMM tantrika_ merck virtx ronny shackan Evil-Bill bughunter2 vai__ L33ckma magcius lintripp1 sbahra ejb transistor
+    pireau clog Divine chii AlexExtreme awilcox JoeSchmo jaskorpe geist courtc jaacoppi_ MT`AwAy meow` alamar ndim giszo milyges cippo ccfreak2k benk
+    blound_ pragma_ _Lucretia_ 
+*** Users on #osdev: gab mwk mur bluehole xid hohum assem Obfuscate froggey sbahra[] tj Miller` 
+*** #osdev modes: +tn  [14:02:33]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+<nn_> CPU0: speed=600MHz tstate=T7 (12%) effective=72.00MHz temp: 64.80F (36.00C)  [14:05:23]
+<nn_> 72mhz. rofl.  [14:05:27]
+<geist> 72mhz is prtty fast homes  [14:06:06]
+<nn_> lol  [14:06:08]
+<nn_> still about 9x faster than my first machine  [14:06:19]
+<tktech> lol doesn't even compare to my blazzin sexy windows 3.1 Compaq with tabworks  [14:06:56]
+
+[‘Îå 12‘ÔÂ  5 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev || tutorials: osdever.net & osdev.org || don't ask/act like a stupid  [11:45:15]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat jrydberg_ geezusfreeek wcstok banisterfiend marik ArtVandalae PowerComputing Walt [com]buster tantrika courtc apples`
+    sdschulz` tktech cippo Mathis hohum shackan zateam mwk L33ckma SM0TVI sbahra lintrippz ghane seb- Electric_Monk TMM merck virtx ronny Evil-Bill vai__
+    magcius ejb transistor pireau Miller` tj sbahra[] froggey Obfuscate assem xid bluehole mur gab _Lucretia_ pragma_ blound_ benk ccfreak2k milyges
+    giszo ndim alamar 
+*** Users on #osdev: meow` MT`AwAy jaacoppi_ jaskorpe JoeSchmo awilcox AlexExtreme clog Divine chii 
+*** #osdev modes: +tn  [11:45:45]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+
+[‘Îå 12‘ÔÂ  5 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev || tutorials: osdever.net & osdev.org || don't ask/act like a stupid  [11:51:48]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat jrydberg_ geezusfreeek wcstok banisterfiend marik ArtVandalae PowerComputing Walt [com]buster tantrika courtc apples`
+    sdschulz` tktech cippo Mathis hohum shackan zateam mwk L33ckma SM0TVI sbahra lintrippz ghane seb- Electric_Monk TMM merck virtx ronny Evil-Bill vai__
+    magcius ejb transistor pireau Miller` tj sbahra[] froggey Obfuscate assem xid bluehole mur gab _Lucretia_ pragma_ blound_ benk ccfreak2k milyges
+    giszo ndim alamar 
+*** Users on #osdev: meow` MT`AwAy jaacoppi_ jaskorpe JoeSchmo awilcox AlexExtreme chii Divine clog 
+*** #osdev modes: +tn  [11:52:20]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+
+[‘Îå 12‘ÔÂ  5 2008]
+*** Topic for #osdev: Operating System DEVelopment || logs: qzx.com/osdev || tutorials: osdever.net & osdev.org || don't ask/act like a stupid  [21:40:52]
+*** #osdev: topic set by ronny, 18:29:30 2008/10/03
+*** Users on #osdev: ManateeLazyCat _coly Boney ZeXx86 Gilgamesh eXeCuTeR JamesM josip |Mathis| geist xlq redblue pireau assem magcius_ Jaywalker
+    jrydberg_ geezusfreeek banisterfiend marik ArtVandalae tantrika courtc sdschulz` tktech cippo hohum zateam mwk SM0TVI sbahra lintrippz ghane seb-
+    Electric_Monk TMM merck ronny Evil-Bill vai__ ejb transistor Miller` tj sbahra[] froggey Obfuscate xid bluehole mur gab _Lucretia_ pragma_ blound_
+    benk ccfreak2k milyges 
+*** Users on #osdev: giszo ndim alamar meow` MT`AwAy jaacoppi_ jaskorpe JoeSchmo awilcox clog Divine chii AlexExtreme 
+<eXeCuTeR> anyone here?  [21:41:17]
+*** #osdev modes: +tn  [21:41:21]
+*** #osdev was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö59‘Ãë
+<ronny> this is irc, if nothing is up, shut the fuck up and let us idle  [21:42:15]
+<eXeCuTeR> people can get so nice sometimes, that's amazing  [21:42:47]
+<xlq> what?  [21:43:14]
+<xlq> O_o  [21:43:17]
+<tktech> rofl  [21:49:36]
+<eXeCuTeR> The A20 Address Line is the physical representation of the 20th bit of any memory access. what does this mean?  [21:51:03]
+<eXeCuTeR> (im expecting a harsh comment)  [21:51:22]
+<tktech> It does exactly what it says.  [21:51:59]
+<eXeCuTeR> could you explain it to me in more simple words? my english is not very good  [21:52:51]
+<tktech> Whats your native language.  [21:55:38]
+<eXeCuTeR> hebrew  [21:55:54]
+<eXeCuTeR> would ya?  [21:57:06]
+<Gilgamesh> eXeCuTeR: it simply enables you to use 20 bit memory addresses  [22:19:35]
+<Gilgamesh> means that then you can access up to 1mb of memory  [22:19:45]
+<eXeCuTeR> what does 20bit memory addresses mean exactly?  [22:26:49]
+<tantrika> illiterate executer, you need to learn about memory addressing, do this while learning computer architecture, next learn assembler  [22:28:42]
+* xlq waves  [22:28:58]
+<tantrika> http://en.wikipedia.org/wiki/Main_memory  [22:29:58]
+<eXeCuTeR> smart tantrika, you are so kind1  [22:33:13]
+<tantrika> you need to be in #asm not #osdev  [22:33:29]
+<eXeCuTeR> tantrika you are so smart and cool!  [22:34:07]
+<eXeCuTeR> !give community anyop  [22:35:03]
+<eXeCuTeR> how old are you btw? just curious  [22:36:22]
+<tantrika> more than twice your age  [22:36:40]
+<Gilgamesh> now that is what i call a cool number haha  [22:37:35]
+<eXeCuTeR> i usually expect adults to be more respectful and nice than your behaviour  [22:37:48]
+<tantrika> well lower your expectations idiot child  [22:38:03]
+<Gilgamesh> myage + (2*myage+rand(1,50)) = yourage  [22:38:09]
+<tantrika> this room is for os developers, not illiterate children trying to learn how computers work  [22:38:59]
+<tantrika> #cartoons might be more appropriate  [22:39:48]
+<Gilgamesh> after all, none of those os developers were ever a "child" trying to learn how computers work :)  [22:39:53]
+<eXeCuTeR> yeah, they were all born geniouses like tantrika  [22:40:08]
+<eXeCuTeR> Gilgamesh, where are you from?  [22:43:40]
+<Gilgamesh> brazil  [22:43:51]
+<eXeCuTeR> how old are you?  [22:43:57]
+<Gilgamesh> 22  [22:44:23]
+<ronny> learning is something you dont try, you do it  [22:44:32]
+<ronny> bbl  [22:44:43]
+<Gilgamesh> in order to do you gotta try :)  [22:45:14]
+<xlq> osdev forum down?  [22:57:45]
+<tktech> for part of the world, lol  [22:58:14]
+<tktech> I can still proxy it  [22:58:16]
+<xlq> O_o  [22:58:24]
+<Jeko> hello  [23:03:32]
+<xlq> hello  [23:04:27]
+* xlq watches inflater get bigger and bigger  [23:23:10]
+* inflater is broken and non functional  [23:23:51]
+<xlq> lol  [23:24:28]
+* inflater assrapes xlq  [23:24:49]
+<tktech> o-o  [23:24:56]
+<xlq> :(  [23:24:59]
+<inflater> santa claus day here yay  [23:25:25]
+<inflater> you seem to have santa for xmas? we for something else .P  [23:25:43]
+<inflater> :P  [23:25:45]
+<inflater> something like halloweens but you won't go knock-knocking, it's a tradition to give.. candy? lol  [23:26:15]
+<xlq> semantic analysis failed.  [23:26:47]
+* inflater repairs itself and inflates  [23:27:58]
+<inflater> there we gos lol  [23:28:20]
+* JamesM giggles at inflater for getting himself banned from osdev.org  [23:35:19]
+<tktech> lol  [23:35:30]
+<xlq> ?  [23:35:35]
+* inflater laughs very hard  [23:35:38]
+<xlq> hmm  [23:35:50]
+<inflater> banned? ;)  [23:35:55]
+<ronny> wtf?  [23:35:57]
+<JamesM> yup  [23:36:01]
+<inflater> permanently? ;)  [23:36:06]
+<JamesM> Brendan banned him
+<JamesM> yes  [23:36:10]
+<inflater> nope :)  [23:36:13]
+* inflater laughs  [23:36:16]
+<JamesM> whether you're back in with another alias is a different matter  [23:36:19]
+<inflater> no, i'll be back as inflaters  [23:36:30]
+<inflater> heh heh  [23:36:31]
+<ronny> wtf?  [23:36:32]
+* inflater laughs manic  [23:36:35]
+<JamesM> we all know you can just change IP address and come back in - hell, thats what all the trolls do
+<eieio> sup sup  [23:37:03]
+<inflater> nopeh i'm not permanently banned :P hehe  [23:37:08]
+<ronny> does someone need a well-meant spoon-stabbing in the eyeball?  [23:37:09]
+* inflater laughs  [23:37:19]
+<JamesM> ronny: he got a temp ban, then came back under a different name trying to avoid the ban  [23:37:21]
+<inflater> false :P  [23:37:26]
+<froggey> truth!  [23:37:37]
+<JamesM> not according to Brendan, and I believe him over you  [23:37:42]
+* ronny gets a spoon  [23:37:48]
+<JamesM> so he got permabanned.  [23:37:49]
+<inflater> false :P :P  [23:37:55]
+<inflater> permbanned? we'll see :P  [23:38:02]
+<ronny> ok, people, stop forum-shittalk  [23:38:19]
+<eieio> ie over ff 4ever  [23:38:47]
+<inflater> yupi explanation: see my thread in the auto delete forum  [23:38:52]
+<inflater> permbanned. lol :P you'll be very surprised :P  [23:39:07]
+<inflater> mozilla 4ever   [23:39:12]
+<JamesM> I've seen your thread in teha utodelete forum  [23:39:27]
+<JamesM> most people are against you coming back.  [23:39:33]
+*** ChanServ (ChanServ@services.) has changed mode for #osdev to +o ronny  [23:39:39]
+<inflater> you saw it four days ago?  [23:39:45]
+<xlq> uh ohs  [23:39:47]
+<JamesM> interestingly enough however osdev.org is down atm  [23:39:48]
+<inflater> yup  [23:39:53]
+<ronny> IM ANOYED  [23:39:59]
+<inflater> so am I :)  [23:40:03]
+<inflater> wait, isn't that "annoyed" instead of "anoyed" ? lol  [23:40:19]
+<ronny> well, the forum got nothing to do with #osdev, and there is nothing we can do  [23:40:27]
+<inflater> but here you discuss everything - osdev related, are you?  [23:40:43]
+<ronny> and yes, being a legasthenic sucks  [23:40:45]
+<xlq> What's a legasthenic?  [23:40:56]
+<ronny> we cant even write our condition right on the first try  [23:40:57]
+<inflater> JamesM: try reading the newest posts in my threads knock knock  [23:41:22]
+<ronny> oh yeah right, i forgot to translate correct  [23:41:37]
+<eieio> i love big butts, i cannot lie  [23:41:52]
+<JamesM> inflater: its down  [23:42:01]
+<JamesM> I just said that.  [23:42:04]
+<ronny> http://en.wikipedia.org/wiki/Dyslexia  [23:42:06]
+<xlq> oh right  [23:42:20]
+<inflater> JamesM: as soon at it will get onlines :)  [23:42:22]
+<inflater> as it will gets my mistake. lol  [23:42:39]
+<inflater> ronny: still got the spoon?  [23:53:03]
+* ronny stabs inflater in the eyeball with a spoon  [23:58:22]
+* inflater dodges quickly  [23:58:36]
+<inflater> heh heh   [23:58:51]
+<ronny> i got op, this disables your enemy dodge cappability  [23:59:08]
+*** ronny (n=ronny@ronny.uberhost.de) has changed mode for #osdev to -o ronny  [23:59:25]
+<xlq> ssh  [23:59:30]
+
+[‘Áù 12‘ÔÂ  6 2008]
+<ronny> hmm  [00:00:04]

@@ -1,0 +1,50 @@
+2009-01-27  S. Trie
+	* Version0.7.4
+	* Modify description of installation
+2008-12-19  S. Irie
+	* Version0.7.3
+	* Add docstring:
+		scim-simultaneous-pressing-time (*)
+		scim-isearch-cursor-type (*)
+		scim-undo-command-list
+	* Modify docstring:
+		scim-cursor-color (*)
+		scim-cursor-type-for-candidate (*)
+		scim-bridge-timeout
+	* Delete docstring:
+		scim-key-release-delay
+		scim-bridge-wait-reply
+	[ (*) indicate that custom-type is added/modified together. ]
+2008-11-28  S. Irie
+	* Version0.7.2
+	* Add docstring:
+		scim-use-in-isearch-window
+		scim-use-minimum-keymap
+		scim-enable-isearch
+		scim-disable-isearch
+		scim-mode (function)
+	* Modify docstring:
+		scim-cursor-color
+		scim-focus-update-interval
+		scim-focus-update-interval-long
+	* Delete docstring:
+		scim-bridge-socket-use-script
+		scim-bridge-socket-script-path
+		scim-bridge-socket-script-name
+		scim-bridge-socket-script
+2008-10-14  S. Irie
+	* Version0.7.1
+	* Add docstring:
+		scim-imcontext-temporary-for-minibuffer
+		scim-config-file
+	* Modify docstring:
+		scim-cursor-color
+		scim-reset-imcontext-statuses
+2008-10-08  S. Irie
+	* Version0.7.0.1
+	* scim-bridge-zh-si.el (Simplified Chinese) newly created.
+	* scim-bridge-zh-tr.el (Traditional Chinese) newly created.
+2008-10-04  S. Irie
+	* Version0.7.0
+	* scim-bridge-XX.el (l10n template) newly created.
+	* scim-bridge-en.el (l10n sample) newly created.

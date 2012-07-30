@@ -1,0 +1,57 @@
+2009-05-08 10:01 ManateeLazyCat   /join 
+2009-05-08 10:01 ManateeLazyCat   /command /list
+2009-05-08 10:02 ManateeLazyCat   /command /help
+2009-05-08 10:02 ManateeLazyCat   /notice /mode /join /kick /all /nick /whois /reconnect /deopme /color /dim /names /unpounce /quote /keyword /topic /pounce /list /part /deop /talk-to /bright /msg /read-current-message /quit /ignore /oper /opme /query
+2009-05-08 10:02 ManateeLazyCat   /command /names
+2009-05-08 10:02 ircd.gimp.org    /names ManateeLazyCat sebasmagri leio mclasen benh ajhwb isak1 hub jmd aphax AfC vo fluder_ jrb Siavash jg Lupine marv bastiao_ Noya Rhamphoryncus kalikianafk karl ember_ paragn_ icez iulian gcorvala` Sonderblade rsampaio awalton_laptop cesar tm1 tristan manphiz mpt phako timj Morian_ asac andre Gyb Alex_B Ademan rotty zuh crdlb DaTa-MaN racarr lewin1 latexer grim les desowin Milosz tuvwx theorifice descender  ickle kov renato Eclipser Griffon26 cosimoc jdahlin jamesh wasabi artista_frustrado fargiolas bbr_ madewokherd mathrick xkr47 jaebird_ qball jeromeg sam mmeeks Robot101 barisione jhawkins mhwork|gone |chiz| cworth dom muks hp_away ronny danlucraft nichevo LimmON halfline derfel benzea alfauros desrt fredp ali mace bkor jones gwenael Chipzz StarkD kristian_m johans Trelane Jasu_M tuukkah purple_cow luisbg  emdash davyd charles_ Blafasel ohsix keithp Ionic ebassi|out nightm4re joh neo yosh zeenix Dorito Burrito robtaylor calvin  
+2009-05-08 10:02 marv             /quit Ping timeout: 600 seconds
+2009-05-08 10:03 scientes         /join 
+2009-05-08 10:03 ManateeLazyCat   I have two paned split current window, and i want use paned display different *tab*
+2009-05-08 10:03 ManateeLazyCat   				 of notebook. How to implement that?
+2009-05-08 10:03 ManateeLazyCat   Thanks
+2009-05-08 10:07 benh             /quit Leaving
+2009-05-08 10:07 Siavash          /quit Ping timeout: 600 seconds
+2009-05-08 10:10 cesar            /quit cesar
+2009-05-08 10:10 ManateeLazyCat   davyd: Yep
+2009-05-08 10:11 davyd            ManateeLazyCat: ok, you're going to have to hack something up
+2009-05-08 10:11 davyd            you'll have to use multiple notebooks with the same set of tabs
+2009-05-08 10:11 davyd            and reparent the page as appropriate
+2009-05-08 10:11 davyd            they won't be able to show the same tab
+2009-05-08 10:11 davyd            alternatively, you do it as a proper model-view setup
+2009-05-08 10:12 davyd            and you instantiate two copies of your view, connected to the same model
+2009-05-08 10:12 ManateeLazyCat   davyd: Can't show same tab?
+2009-05-08 10:12 davyd            the first way is the hack way, the second way is the neat way
+2009-05-08 10:36 behdad           /join 
+2009-05-08 10:37 mclasen_         /join 
+2009-05-08 10:41 mclasen          /quit Ping timeout: 600 seconds
+2009-05-08 10:43 Siavash          /join 
+2009-05-08 10:50 jg               /quit Ping timeout: 600 seconds
+2009-05-08 10:52 tjafk1           /join 
+2009-05-08 10:53 lepassive        /join 
+2009-05-08 10:54 lepassive        i don't get this part in the documentation Status bars in GTK+ maintain a stack of messages. The message at the top of the each bar's stack is the one that will currently be displayed. i created 2 unique context_idS but still only one is displayed ?
+2009-05-08 10:58 davyd            lepassive: context ids just let you find the messages of your type
+2009-05-08 10:58 davyd            lepassive: e.g. you might have a context id for menu help
+2009-05-08 10:58 tristan          /nick tristan|afk
+2009-05-08 10:58 davyd            and a context id for some sort of output status
+2009-05-08 10:58 davyd            etc.
+2009-05-08 10:59 lepassive        /quit Read error: 104 (Connection reset by peer)
+2009-05-08 11:02 timj             /quit Ping timeout: 600 seconds
+2009-05-08 11:02 msuman           /join 
+2009-05-08 11:06 vo               /quit Leaving.
+2009-05-08 11:14 paragn_          /nick paragn
+2009-05-08 11:15 kalikianafk      /quit Elende Internetausdrucker
+2009-05-08 11:26 paragn           /quit paragn
+2009-05-08 11:27 paragn           /join 
+2009-05-08 11:29 rsampaio         /quit Remote closed the connection
+2009-05-08 11:31 rsampaio         /join 
+2009-05-08 11:35 du               /join 
+2009-05-08 11:40 hansfbaier       /join 
+2009-05-08 11:53 hansfbaier       /quit Leaving.
+2009-05-08 11:55 lepassive        /join 
+2009-05-08 11:56 lepassive        how can i push multiple messages in statusbar ? i don't get this part in the documentation Status bars in GTK+ maintain a stack of messages. The message at the top of the each bar's stack is the one that will currently be displayed. i created 2 unique context_idS but still only one is displayed ?
+2009-05-08 12:04 davyd            lepassive: displayed at the same time? you can't afaik
+2009-05-08 12:08 lepassive        davyd, then what should i do ?
+2009-05-08 12:09 davyd            lepassive: have a look at what another app does that has a split status bar?
+2009-05-08 12:09 davyd            that's what I would do
+2009-05-08 12:10 lepassive        davyd, maybe i should dock a hbox to make it more easy
+2009-05-08 12:37 rcirc.el         /error irc.gnome.org: deleted (closed)

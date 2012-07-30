@@ -1,0 +1,1203 @@
+2008-10-31 20:07 dutche           /join 
+2008-10-31 20:19 hotdog           /join 
+2008-10-31 20:20 hotdog           /quit 
+2008-10-31 20:28 Ryback_          /join 
+2008-10-31 20:35 Chaser           /join 
+2008-10-31 20:45 Chaser           /quit Quit: Chaser
+2008-10-31 20:47 nm               /join 
+2008-10-31 20:48 Chaser           /join 
+2008-10-31 20:49 linville         /join 
+2008-10-31 20:50 nm_              /join 
+2008-10-31 20:51 nm               /quit Read error: Connection reset by peer
+2008-10-31 21:02 nm_              /quit Ping timeout: 480 seconds
+2008-10-31 21:06 bluefox          /join 
+2008-10-31 21:08 arnd             /join 
+2008-10-31 21:10 Chaser           /quit Ping timeout: 480 seconds
+2008-10-31 21:19 Chaser           /join 
+2008-10-31 21:29 leitao           /join 
+2008-10-31 21:32 nplanel          /join 
+2008-10-31 21:34 benou_           /join 
+2008-10-31 21:35 nplanel          /quit Remote host closed the connection
+2008-10-31 21:36 nplanel          /join 
+2008-10-31 21:57 bgola            /join 
+2008-10-31 21:59 ankita           /join 
+2008-10-31 22:04 mdomsch          /join 
+2008-10-31 22:13 ram              /join 
+2008-10-31 22:18 obiwan           /join 
+2008-10-31 22:24 bubu^            /join 
+2008-10-31 22:27 ram              /quit Quit: Leaving
+2008-10-31 22:27 ram              /join 
+2008-10-31 22:40 dino             /join 
+2008-10-31 22:42 Amorphous        /join 
+2008-10-31 22:44 damjan           Is there any reason to start the irq-balancer daemon on a multicore CPU
+2008-10-31 22:44 LordSarpedon     /join 
+2008-10-31 22:45 riel_ltp         /join 
+2008-10-31 22:45 LordSarpedon     I'm trying to diagnose an acpi sleep problem - ive tried turning on pm_trace, but for some reason I only get a hash match for file, not for device. The 'magic number' certainly has something for the device part. What could cause the device to not be matched?
+2008-10-31 22:46 aspotashev       /join 
+2008-10-31 22:46 erg0t            /join 
+2008-10-31 22:49 tcunha           /join 
+2008-10-31 22:57 valdis           /join 
+2008-10-31 23:00 shaggy           /join 
+2008-11-02 10:41 ManateeLazyCat   /join 
+2008-11-02 10:41 solenoid.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-02 10:41 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-02 10:44 mdomsch          /join 
+2008-11-02 10:45 rcirc.el         /error irc.oftc.net: deleted (closed)
+2008-11-02 12:13 ManateeLazyCat   /join 
+2008-11-02 12:13 osmotic.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-02 12:13 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-02 12:38 rcirc.el         /error irc.oftc.net: deleted (closed)
+2008-11-03 17:07 ManateeLazyCat   /join 
+2008-11-03 17:07 graviton.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-03 17:07 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-03 17:12 phe              /join 
+2008-11-03 17:13 cloud            /join 
+2008-11-03 17:13 xjrn_            /join 
+2008-11-03 17:14 xjrn_            /nick xjrn
+2008-11-03 17:18 arnd             /join 
+2008-11-03 17:23 ag-              /join 
+2008-11-03 17:34 casava           /join 
+2008-11-03 17:37 my007ms          /join 
+2008-11-03 18:05 hellwolf         /join 
+2008-11-03 18:07 nplanel          /join 
+2008-11-03 18:14 arnd             /quit Remote host closed the connection
+2008-11-03 18:15 kos_tom          /join 
+2008-11-03 18:25 casava           /quit 
+2008-11-03 18:35 nigelr           /join 
+2008-11-03 18:39 Dr_Jakob         /join 
+2008-11-03 18:39 Dr_Jakob         /quit 
+2008-11-03 18:42 Dr_Jakob         /join 
+2008-11-03 18:43 rvalles          /join 
+2008-11-03 18:49 valdis           /join 
+2008-11-03 18:49 arnd             /join 
+2008-11-03 18:52 emachado         /join 
+2008-11-03 18:55 Blaz             /join 
+2008-11-03 18:55 Blaz             /nick blaznyoght
+2008-11-03 18:58 amit_            /join 
+2008-11-03 19:09 rvalles          /quit Quit: test
+2008-11-03 19:16 Chaser           /join 
+2008-11-03 19:19 robfitz          /join 
+2008-11-03 19:21 rvalles          /join 
+2008-11-03 19:22 emachado_        /join 
+2008-11-03 19:23 emachado         /nick Guest1280
+2008-11-03 19:23 emachado_        /nick emachado
+2008-11-03 19:25 lokeshg          /join 
+2008-11-03 19:28 Guest1280        /quit Ping timeout: 480 seconds
+2008-11-03 19:35 sv               /join 
+2008-11-03 19:48 xl0              /join 
+2008-11-03 19:48 otubo            /join 
+2008-11-03 19:51 doener           /join 
+2008-11-03 19:51 dutche           /join 
+2008-11-03 19:53 Sachiel          /join 
+2008-11-03 19:56 edde             /join 
+2008-11-03 19:59 Chaser           /quit Ping timeout: 480 seconds
+2008-11-03 20:00 tor              /join 
+2008-11-03 20:10 boto             /join 
+2008-11-03 20:11 nigelr_          /join 
+2008-11-03 20:11 nigelr_          /quit 
+2008-11-03 20:11 Chaser           /join 
+2008-11-03 20:14 Ryback_          /join 
+2008-11-03 20:16 cyrillos         /join 
+2008-11-03 20:25 boto_            /join 
+2008-11-03 20:26 boto             /quit Ping timeout: 480 seconds
+2008-11-03 20:28 kalpak           /join 
+2008-11-03 20:31 lokeshg          /quit Quit: Leaving
+2008-11-03 20:33 boto_            /nick boto
+2008-11-03 20:37 luknets          /join 
+2008-11-03 20:39 erg0t            /join 
+2008-11-03 20:53 vcap             /join 
+2008-11-03 21:03 AlexTAI          /join 
+2008-11-03 21:03 ankita           /join 
+2008-11-03 21:03 ankita           /quit 
+2008-11-03 21:05 ankita           /join 
+2008-11-03 21:05 |AlexTAI|        /join 
+2008-11-03 21:06 AlexTAI          /quit 
+2008-11-03 21:13 otubo            /quit Ping timeout: 480 seconds
+2008-11-03 21:34 rsalveti         /join 
+2008-11-03 21:35 otubo            /join 
+2008-11-03 21:51 obiwan           /join 
+2008-11-06 01:02 ManateeLazyCat   /join 
+2008-11-06 01:02 oxygen.oftc.net  /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-06 01:02 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-06 01:11 arun             /join 
+2008-11-06 01:12 symtab           /join 
+2008-11-06 01:12 ram              /join 
+2008-11-06 01:16 bomber           /join 
+2008-11-06 01:16 Blaz             /join 
+2008-11-06 01:17 Blaz             /nick blaznyoght
+2008-11-06 01:31 graeme           /join 
+2008-11-06 01:42 bluefox          /join 
+2008-11-06 01:47 obiwan           /join 
+2008-11-08 22:31 ManateeLazyCat   /join 
+2008-11-08 22:31 osmotic.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-08 22:31 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-08 22:32 sieq             /join 
+2008-11-08 22:45 kalyan           /join 
+2008-11-08 22:45 kalyan           n
+2008-11-08 22:51 kalyan           /quit Read error: Connection reset by peer
+2008-11-08 22:56 arnd             /join 
+2008-11-08 23:02 zwane            /join 
+2008-11-08 23:05 whadar           /join 
+2008-11-08 23:10 sbhagat          /join 
+2008-11-08 23:34 reynaldo         /join 
+2008-11-08 23:47 sieq             /quit Quit: sieq
+2008-11-08 23:48 gonnet           /join 
+2008-11-08 23:49 tombs            /join 
+2008-11-08 23:51 garimella        /join 
+2008-11-08 23:51 garimella        hi everybody
+2008-11-09 00:00 RoyK             "GFS2 is currently (08/2008) only a technology preview and it is discouraged to use it in production environments."
+2008-11-09 00:00 RoyK             is this so?
+2008-11-09 00:03 sbhagat          RoyK, exactly
+2008-11-09 00:03 sbhagat          but this is the wrong channel to ask
+2008-11-09 00:04 sbhagat          RoyK, http://www.redhat.com/docs/en-US/Red_Hat_Enterprise_Linux/5.2/html/Release_Notes/ia64/ar01s07.html
+2008-11-09 00:05 mib_7rkdic       /join 
+2008-11-09 00:06 mib_7rkdic       /quit 
+2008-11-09 00:12 tcoppi           /join 
+2008-11-09 00:13 tcunha           /join 
+2008-11-09 00:19 coly             /join 
+2008-11-09 00:20 nm_              /join 
+2008-11-09 00:26 nm               /join 
+2008-11-09 00:27 sbhagat          /quit Quit: will be back soon
+2008-11-09 00:27 rcirc.el         /error irc.oftc.net: deleted (closed)
+2008-11-09 21:26 ManateeLazyCat   /join 
+2008-11-09 21:26 weber.oftc.net   /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-09 21:26 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-09 21:31 sono             /join 
+2008-11-09 21:37 evan1            /join 
+2008-11-09 21:45 my007ms          /join 
+2008-11-09 21:54 G__81            /join 
+2008-11-09 21:54 G__81            Hi can someone tell me what is a workqueue
+2008-11-09 21:54 G__81            i understand that tasklets and softirqs are deferrable functions . Just curious to know whats the difference between deferrable functions and workqueues
+2008-11-09 21:59 johanbr          /join 
+2008-11-09 22:04 termant3         /join 
+2008-11-09 22:13 evan1            /part #kernelnewbies 
+2008-11-09 22:21 hellwolf         /join 
+2008-11-09 22:22 tombs            /join 
+2008-11-09 22:23 qeed             /join 
+2008-11-09 22:27 obiwan           /join 
+2008-11-09 22:27 Sachiel          /join 
+2008-11-09 22:36 willie_w         /join 
+2008-11-09 22:39 my007ms          /quit Ping timeout: 480 seconds
+2008-11-09 22:39 johanbr          /quit Quit: Ex-Chat
+2008-11-09 22:41 extazy           /join 
+2008-11-09 22:42 bomber           /join 
+2008-11-11 09:13 ManateeLazyCat   /join 
+2008-11-11 09:13 magnet.oftc.net  /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-11 09:13 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-11 09:14 Chaser           /join 
+2008-11-11 09:29 ram              /join 
+2008-11-11 09:36 spacepup         /join 
+2008-11-11 10:11 gbeshers         /join 
+2008-11-11 10:14 gcchen           /join 
+2008-11-11 10:21 litost           /join 
+2008-11-11 10:25 gcchen           Hi. Are there any stability or performance issues(or other concerns) if I add a lot of system calls(say 2000) in sys_call_table? Thanks~~~
+2008-11-11 10:37 Amorphous        /join 
+2008-11-11 10:44 coly             /join 
+2008-11-11 10:45 Chaser           /quit Quit: Chaser
+2008-11-11 10:55 ram              /quit Quit: Leaving
+2008-11-11 10:55 valdis           /join 
+2008-11-11 10:56 valdis           Wow.  Somebody was doing some shrooms when they snuck this patch into linux-next:
+2008-11-11 10:57 valdis           Seen in a 'make silentoldconfig': Single-depth WCHAN output (SCHED_NO_NO_OMIT_FRAME_POINTER) [Y/n/?] (NEW) ?
+2008-11-11 11:09 prym             geez how big of a diff could omitting frame ptr make
+2008-11-11 11:10 prym             just makes it so you get no stacktrace
+2008-11-11 11:11 prym             linux src is kinda wack, i guess its chill for like running on, like, palm devices or whatever, all the trouble they goto to << instead of *=powo2 etc, its chill, but it also looks like an ancient relic
+2008-11-11 11:12 prym             also im sure gcc opt is smart for *= everytime
+2008-11-11 11:12 prym             but just recently i see pagesizes changing to pagebits
+2008-11-11 11:13 prym             and a comment about shifts verse mults and 'poorer code'
+2008-11-11 11:13 prym             i should go back and flame that guy about gcc optimization
+2008-11-11 11:14 coly             /quit Ping timeout: 480 seconds
+2008-11-11 15:41 ManateeLazyCat   /join 
+2008-11-11 15:41 graviton.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-11 15:41 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-11 15:43 RoyK             /join 
+2008-11-11 15:52 ego              /join 
+2008-11-11 16:03 Pip              /join 
+2008-11-11 16:11 phe              /join 
+2008-11-11 16:13 ivob             /join 
+2008-11-11 16:21 robfitz_         /join 
+2008-11-11 16:23 kalpak           /join 
+2008-11-11 16:45 sbhagat          /join 
+2008-11-11 17:16 Pip              /quit Quit: It's not my problem.
+2008-11-11 17:21 kalpak           /quit Read error: Connection reset by peer
+2008-11-11 17:29 cloud            /join 
+2008-11-11 17:39 kalpak           /join 
+2008-11-11 17:55 hellwolf         /join 
+2008-11-11 17:59 gonnet           /join 
+2008-11-11 18:13 kiran            /join 
+2008-11-11 18:17 Blaz             /join 
+2008-11-11 18:17 Blaz             /nick blaznyoght
+2008-11-11 18:22 kiran            /quit Remote host closed the connection
+2008-11-11 18:23 kiran            /join 
+2008-11-11 18:32 keir             /join 
+2008-11-11 18:33 keir             /quit 
+2008-11-11 18:34 keir             /join 
+2008-11-11 18:34 kiran            /quit Remote host closed the connection
+2008-11-11 18:35 keir             A couple of questions
+2008-11-11 18:35 keir             firstly, how do I print u32s using printk?
+2008-11-11 18:35 keir             (I'm needing some debug output)
+2008-11-11 18:36 keir             and secondly, how do I make the kernel only compile changes I have made to it, rather than recompiling the whole thing every time I change one file?
+2008-11-11 18:36 dwmw2            keir: uint32_t foo = 0x5a; printk(KERN_DEBUG "foo is %u\n", foo); 
+2008-11-11 18:36 keir             dwmw2: cheers :)
+2008-11-11 18:36 dwmw2            it shouldn't compile the whole thing every time you change one file. 
+2008-11-11 18:36 keir             well
+2008-11-11 18:36 keir             hmm
+2008-11-11 18:36 hnaz             dwmw2: sure, change mm.h :D
+2008-11-11 18:37 dwmw2            heh, ok :)
+2008-11-11 18:37 keir             maybe it's because i'm using make-kpkg
+2008-11-11 18:37 dwmw2            don't do that then
+2008-11-11 18:37 dwmw2            just use 'make'
+2008-11-11 18:37 keir             ok
+2008-11-11 18:37 dwmw2            if you've made the package once, and installed it, then you should be able to make simple changes and rebuild, then overwrite the files that the package installed
+2008-11-11 18:38 keir             dwmw2: yea, but I'm needing to test my kernel on multiple machines, so making debs greatly eases distribution
+2008-11-11 18:39 _peter           1. make it work 2. package it :)
+2008-11-11 18:41 keir             _peter: not that easy, am hacking about with mesh support, need consistent kernels on all my nodes
+2008-11-11 18:42 peterz           make them boot bare bzImage kernels
+2008-11-11 18:42 peterz           then just copy that around
+2008-11-11 18:42 peterz           initrd is overrated
+2008-11-11 18:42 keir             /action doesn't think he knows how to do that
+2008-11-11 18:43 kiran            /join 
+2008-11-11 18:45 tombs            /join 
+2008-11-11 18:45 dwmw2            er, use modules
+2008-11-11 18:46 dwmw2            peterz: you can change the bzImage and just use the existing initrd. 
+2008-11-11 18:46 keir             dwmw2: ?
+2008-11-11 18:47 peterz           dwmw2: never tried that, but ok, I'll try to remember
+2008-11-11 18:47 mb_              /join 
+2008-11-11 18:47 dwmw2            when playing with stuff based on Fedora kernels, I usually just do a local build of the package and isntall it 'properly'
+2008-11-11 18:47 dwmw2            then hack it around and rebuild stuff (vmlinux or modules) and just overwrite individual files then either reboot or reload the module, as appropriate
+2008-11-11 18:52 hnaz             hm, can't remember using an initrd ever
+2008-11-11 18:55 gonnet           /quit Quit: Quitte
+2008-11-11 18:55 vjsanjay         /join 
+2008-11-11 18:55 vjsanjay         /part #kernelnewbies 
+2008-11-11 18:55 kalpak           /quit Read error: Connection reset by peer
+2008-11-11 18:56 gonnet           /join 
+2008-11-11 18:57 LiangKun         /join 
+2008-11-11 18:58 psiborg          debian based systems do it
+2008-11-11 19:00 dwmw2            /action can only just remember using a debian-based system
+2008-11-11 19:00 dwmw2            very briefly in 1995
+2008-11-11 19:00 dwmw2            not a pleasant experience
+2008-11-11 19:01 psiborg          what do you use now?
+2008-11-11 19:02 ego              /quit Ping timeout: 480 seconds
+2008-11-11 19:02 LiangKun         I nevever used a debian-based system. What does it do ?
+2008-11-11 19:03 peterz           basically all distros use initrd these days
+2008-11-11 19:07 LiangKun         /quit Quit: Leaving.
+2008-11-11 19:08 kos_tom          /join 
+2008-11-11 19:13 dwmw2            psiborg: Fedora. 
+2008-11-11 19:14 psiborg          hm i guess i have the opposite experience ;)
+2008-11-11 19:14 kalpak           /join 
+2008-11-11 19:14 dwmw2            I tried installing Debian in the middle of the a.out -> ELF switch and it was basically impossible to get a working system
+2008-11-11 19:14 dwmw2            I learned to hate dpkg that way :)
+2008-11-11 19:14 psiborg          never used redhad based.. basically because that's the first thing i tried and the installer wouldn't work ;)
+2008-11-11 19:14 dwmw2            heh
+2008-11-11 19:15 psiborg          i guess it wouldn't have been any different for rpm?
+2008-11-11 19:15 dwmw2            well, the red hat folks managed to switch without going through a period of complete brokenness, iirc.
+2008-11-11 19:15 dwmw2            but it was a long time ago
+2008-11-11 19:15 balbir           /join 
+2008-11-11 19:19 psiborg          maybe that was the reason debian decided to have an ages old stable release ;)
+2008-11-11 19:20 hnaz             it's called `debian stale'
+2008-11-11 19:21 psiborg          i thought it's where you put your horses?
+2008-11-11 19:21 ego              /join 
+2008-11-11 19:22 hnaz             the dead ones
+2008-11-11 19:22 psiborg          to beat them
+2008-11-11 19:24 hnaz             with security fixes
+2008-11-11 19:25 Gandalf_         /join 
+2008-11-11 19:27 hnaz             and RNG patches :-)
+2008-11-11 19:27 emachado         /join 
+2008-11-11 19:35 nostoi           /join 
+2008-11-11 19:39 LiangKun         /join 
+2008-11-11 19:40 kalyan           /join 
+2008-11-11 19:41 LiangKun         /part #kernelnewbies 
+2008-11-11 19:43 kalyan           /quit 
+2008-11-11 19:43 coly             /join 
+2008-11-11 19:43 kalyan           /join 
+2008-11-11 19:48 dutche           /join 
+2008-11-11 19:48 dhaval_away      /join 
+2008-11-11 19:55 dhaval_away      /nick dhaval
+2008-11-11 19:55 kiran            /quit Ping timeout: 480 seconds
+2008-11-11 20:03 kalyan           /quit Quit: Leaving
+2008-11-11 20:05 kalyan           /join 
+2008-11-11 20:06 ego              /quit Ping timeout: 480 seconds
+2008-11-11 20:08 Ryback_          /join 
+2008-11-11 20:09 boto             /join 
+2008-11-11 20:13 Sachiel          /join 
+2008-11-11 20:14 ankita           /join 
+2008-11-11 20:21 kalpak           /quit Ping timeout: 480 seconds
+2008-11-11 20:27 rvalles          /join 
+2008-11-11 20:33 kalpak           /join 
+2008-11-11 20:34 kalyan           /quit Quit: Leaving
+2008-11-11 20:37 LiangKun         /join 
+2008-11-11 20:55 kiran            /join 
+2008-11-11 20:56 coly             /quit Ping timeout: 480 seconds
+2008-11-11 21:00 ManateeLazyCat   /join 
+2008-11-11 21:00 larich.oftc.net  /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-11 21:00 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-11 21:01 amit_            /join 
+2008-11-11 21:07 dhaval_away      /join 
+2008-11-11 21:08 dhaval_away      /nick dhaval
+2008-11-11 21:19 linville         /join 
+2008-11-11 21:21 muli             /join 
+2008-11-11 21:28 CrazyEddy        /join 
+2008-11-11 21:31 coly             /join 
+2008-11-11 21:45 kzak             /join 
+2008-11-11 21:50 faw              /join 
+2008-11-11 22:02 LiangKun         /part #kernelnewbies 
+2008-11-11 22:08 obiwan           /join 
+2008-11-11 22:17 arnd             /join 
+2008-11-11 22:18 kalpak_          /join 
+2008-11-11 22:22 johanbr_         /join 
+2008-11-11 22:22 coly             /quit Ping timeout: 480 seconds
+2008-11-11 22:24 kalpak_          /quit Quit: Exiting
+2008-11-11 22:25 fnordus          /join 
+2008-11-11 22:33 tdomhan          /join 
+2008-11-11 22:42 AlexTAI          /join 
+2008-11-11 22:46 arnd             /quit Remote host closed the connection
+2008-11-11 22:46 arnd             /join 
+2008-11-12 08:21 rcirc.el         /error irc.oftc.net: deleted (closed)
+2008-11-12 08:31 ManateeLazyCat   /join 
+2008-11-12 08:31 graviton.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-12 08:31 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-12 08:42 stroyan          /join 
+2008-11-12 08:54 stroyan          /quit Ping timeout: 480 seconds
+2008-11-12 08:59 pcacjr           /join 
+2008-11-12 09:03 stroyan          /join 
+2008-11-12 09:03 lenb             /join 
+2008-11-12 09:07 BugBlue          /join 
+2008-11-12 09:10 bartman          /join 
+2008-11-12 09:21 WOP              /join 
+2008-11-12 09:41 quintela_        /join 
+2008-11-12 09:56 amit_            /join 
+2008-11-12 10:00 BugBlue          /quit Read error: Connection reset by peer
+2008-11-12 10:00 BugBlue          /join 
+2008-11-12 10:10 johanbr_         /join 
+2008-11-15 21:51 ManateeLazyCat   /join 
+2008-11-15 21:51 weber.oftc.net   /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-15 21:51 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-15 21:53 rcirc.el         /error irc.oftc.net: deleted (closed)
+2008-11-16 22:36 ManateeLazyCat   /join 
+2008-11-16 22:36 weber.oftc.net   /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-16 22:36 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-16 22:37 me               /join 
+2008-11-16 22:42 bluefox          /join 
+2008-11-16 22:45 termant          /join 
+2008-11-17 08:01 rcirc.el         /error irc.oftc.net: deleted (closed)
+2008-11-17 10:06 ManateeLazyCat   /join 
+2008-11-17 10:06 larich.oftc.net  /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-17 10:06 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-17 10:08 coly             /join 
+2008-11-17 10:37 adminjiga        /join 
+2008-11-17 10:38 adminjiga        Tired of black people and their simian-like behavior?  Join us at http://www.niggermania.com and http://www.chimpout.com and join forces in the epic battle of HUMANS vs NIGGGERS.  We are not White Supremacists, but an alliance of Whites, Asians, and Hispanics (non-negroids).  Paid for by Chimpout.com. .............................................................Interested in a job in internet ma
+2008-11-17 10:38 adminjiga        rketing?  Contact Guillermo  Rodriguez at recluta@telvista.com.mx and reference the Experimental Internet Marketing Project.
+2008-11-17 10:38 Amorphous        /join 
+2008-11-17 10:38 mdomsch          /join 
+2008-11-17 10:39 adminjiga        Tired of black people and their simian-like behavior?  Join us at http://www.niggermania.com and http://www.chimpout.com and join forces in the epic battle of HUMANS vs NIGGGERS.  We are not White Supremacists, but an alliance of Whites, Asians, and Hispanics (non-negroids).  Paid for by Chimpout.com. .............................................................Interested in a job in internet marketing?  Contact Gu
+2008-11-17 10:39 adminjiga        illermo  Rodriguez at recluta@telvista.com.mx and reference the Experimental Internet Marketing Project.
+2008-11-17 10:41 adminjiga        Tired of black people and their simian-like behavior?  Join us at http://www.niggermania.com and http://www.chimpout.com and join forces in the epic battle of HUMANS vs NIGGGERS.  We are not White Supremacists, but an alliance of Whites, Asians, and Hispanics (non-negroids).  Paid for by Chimpout.com. .............................................................Interested in a job in internet marketing?  Contact Gu
+2008-11-17 10:41 adminjiga        illermo  Rodriguez at recluta@telvista.com.mx and reference the Experimental Internet Marketing Project.
+2008-11-17 10:41 trelane          /join 
+2008-11-17 10:45 adminjiga        /quit Read error: Connection reset by peer
+2008-11-17 10:48 vsrinivas        /join 
+2008-11-17 11:09 varun            /join 
+2008-11-17 11:14 DiSTANT          /join 
+2008-11-17 11:15 DiSTANT          wondering if there is someone here that might be able to help me with Hi Res Timers
+2008-11-17 11:19 DiSTANT          is anyone around?
+2008-11-17 11:22 DiSTANT          Well, if someone happens to see this that knows quite a bit about raising CONFIG_HZ could you please message me
+2008-11-17 11:22 DiSTANT          thanks
+2008-11-17 11:27 eclecticx        DiSTANT, AFAIK CONFIG_HZ has nothing to do w/ hi-res timers
+2008-11-17 11:40 mikster          /join 
+2008-11-17 11:40 lxrbot           ROOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOT has landed!
+2008-11-17 11:41 mikster          who could tell me that is the GAS in package binutils?
+2008-11-17 11:42 DiSTANT          /quit 
+2008-11-17 11:47 mikster          /quit Quit: Ex-Chat
+2008-11-17 12:01 sono             /join 
+2008-11-17 12:02 richard          /join 
+2008-11-17 12:04 AndyP            /join 
+2008-11-17 12:05 richard          list
+2008-11-17 12:07 richard          hi all
+2008-11-17 12:11 richard          /part #kernelnewbies Leaving
+2008-11-17 12:13 Pip              /join 
+2008-11-17 12:15 ankita           /join 
+2008-11-17 12:24 AlexTAI          /join 
+2008-11-17 12:40 Yeehaw           /join 
+2008-11-17 12:42 prerna           /join 
+2008-11-17 12:49 AlexTAI          /quit Quit: KVIrc 3.4.0 Virgo http://www.kvirc.net/
+2008-11-17 12:59 dhaval_away      /join 
+2008-11-17 12:59 dhaval_away      /nick dhaval
+2008-11-17 13:05 kalyan           /join 
+2008-11-17 13:08 jays             /join 
+2008-11-17 13:08 richard          /join 
+2008-11-17 13:11 coly             /quit Ping timeout: 480 seconds
+2008-11-17 13:13 dhaval           /nick dhaval_away
+2008-11-17 13:25 ijuz__           /join 
+2008-11-17 13:35 CrazyEddy        /join 
+2008-11-17 13:37 dino             /join 
+2008-11-17 13:45 sbhagat          /join 
+2008-11-17 13:47 Xtreme_Great     /join 
+2008-11-17 13:54 Pip              /quit Remote host closed the connection
+2008-11-17 14:03 Xtreme_Great_    /join 
+2008-11-17 14:03 Xtreme_Great_    /quit 
+2008-11-17 14:03 Xtreme_Great     /quit Read error: Connection reset by peer
+2008-11-17 14:05 jays             /quit Ping timeout: 480 seconds
+2008-11-17 14:07 mikster          /join 
+2008-11-17 14:07 lxrbot           ROOOOT has landed!
+2008-11-17 14:13 tiny             /join 
+2008-11-17 14:16 dhaval_away      /nick dhaval
+2008-11-17 14:35 dino             /quit Remote host closed the connection
+2008-11-17 14:37 varun            /quit Remote host closed the connection
+2008-11-17 14:42 kiran            /join 
+2008-11-17 14:42 dino             /join 
+2008-11-17 14:46 phe              /join 
+2008-11-17 14:53 jays             /join 
+2008-11-17 14:59 tiny             /quit Quit: Leaving
+2008-11-17 15:12 gonnet           /join 
+2008-11-17 15:16 gonnet           /quit 
+2008-11-17 15:17 coly             /join 
+2008-11-17 15:19 kalpak           /join 
+2008-11-17 15:29 tombs            /join 
+2008-11-17 15:29 dino             /quit Remote host closed the connection
+2008-11-17 15:36 nostoi           /join 
+2008-11-17 15:39 vortex           /join 
+2008-11-17 15:44 tor              /join 
+2008-11-17 15:50 hotdog           /join 
+2008-11-17 15:51 hotdog           /quit 
+2008-11-17 15:56 RoyK             /join 
+2008-11-17 15:58 CrazyEddy        /quit Ping timeout: 480 seconds
+2008-11-17 16:00 tombs            /quit Ping timeout: 480 seconds
+2008-11-17 16:02 CrazyEddy        /join 
+2008-11-17 16:04 cloud            /join 
+2008-11-17 16:10 drizzd           /join 
+2008-11-17 16:10 nostoi           /quit Quit: Verlassend
+2008-11-17 16:41 cloud            /quit Ping timeout: 480 seconds
+2008-11-17 16:44 tonacatecuhtli   /join 
+2008-11-17 16:45 cloud            /join 
+2008-11-17 16:49 tlahuizcalpantecuhtli /join 
+2008-11-17 16:52 bofur            /join 
+2008-11-17 16:53 tonacatecuhtli   /quit Ping timeout: 480 seconds
+2008-11-17 16:59 z3ro             /part #kernelnewbies 
+2008-11-17 16:59 dino             /join 
+2008-11-17 17:01 my007ms          /join 
+2008-11-17 17:05 ego              /join 
+2008-11-17 17:18 jays             /quit Quit: Leaving
+2008-11-17 17:18 jays             /join 
+2008-11-17 17:36 amit             /join 
+2008-11-17 17:37 jm               /join 
+2008-11-17 17:43 richard          /quit Quit: Leaving
+2008-11-17 17:46 hashbang         /join 
+2008-11-17 18:08 kiran            /quit Remote host closed the connection
+2008-11-17 18:10 kiran            /join 
+2008-11-17 18:12 kiran            /quit Remote host closed the connection
+2008-11-17 18:13 kiran            /join 
+2008-11-17 18:16 Chaser           /join 
+2008-11-17 18:26 hellwolf         /join 
+2008-11-17 18:26 mulix            /join 
+2008-11-17 18:39 arun             /join 
+2008-11-17 18:46 kalpak           /quit Ping timeout: 480 seconds
+2008-11-17 18:46 kalpak           /join 
+2008-11-17 18:53 Chaser           /quit Quit: Chaser
+2008-11-17 18:53 Chaser           /join 
+2008-11-17 18:55 kfoley           /join 
+2008-11-17 19:09 aspotashev       /join 
+2008-11-17 19:14 kalpak           /quit Ping timeout: 480 seconds
+2008-11-17 19:17 ricardobarbosa   /join 
+2008-11-17 19:24 spacepup         /join 
+2008-11-17 19:27 kalpak           /join 
+2008-11-17 19:28 prerna           /quit Quit: Leaving.
+2008-11-17 19:33 kiran            /quit Quit: Konversation terminated!
+2008-11-17 19:35 mulix            /quit Ping timeout: 480 seconds
+2008-11-17 19:39 hellwolf         /quit Ping timeout: 480 seconds
+2008-11-17 19:40 amit             /quit Ping timeout: 480 seconds
+2008-11-17 19:46 robfitz_         /join 
+2008-11-17 19:51 ego              /quit Ping timeout: 480 seconds
+2008-11-17 19:54 Sachiel          /join 
+2008-11-17 19:58 sbhagat          /quit Quit: will be back soon
+2008-11-17 19:58 squirrelpimp     /join 
+2008-11-17 20:00 kalyan           /quit Remote host closed the connection
+2008-11-17 20:02 Ryback_          /join 
+2008-11-17 20:02 coly             /quit Remote host closed the connection
+2008-11-17 20:03 ricardobarbosa   /quit Read error: Connection reset by peer
+2008-11-17 20:03 dutche           /join 
+2008-11-17 20:12 coly             /join 
+2008-11-17 20:14 ankita           /quit Quit: Ex-Chat
+2008-11-17 20:14 mikster          /quit Quit: Ex-Chat
+2008-11-17 20:15 spacepup         /quit Quit: Leaving.
+2008-11-17 20:26 Yeehaw           /quit Remote host closed the connection
+2008-11-17 20:28 gnuk             /join 
+2008-11-17 20:29 mb_              /join 
+2008-11-17 20:29 ricardobarbosa   /join 
+2008-11-17 20:31 S_A              /join 
+2008-11-17 20:31 S_A              Hi! How do we compile kernel so that the resulting modules are gzipped ?
+2008-11-17 20:34 emachado         /join 
+2008-11-17 20:39 aspotashev       S_A: have you googled it?
+2008-11-17 20:39 aspotashev       S_A: http://lwn.net/Articles/270876/
+2008-11-17 20:40 aspotashev       S_A: but it's not in linux-2.6
+2008-11-17 20:42 S_A              aspotashev: checking
+2008-11-17 20:42 S_A              aspotashev: what do you mean "not in 2.6" ?
+2008-11-17 20:42 aspotashev       I haven't tried that patch :)
+2008-11-17 20:43 aspotashev       I can't find this feature in linus' tree
+2008-11-17 20:43 aspotashev       It must have been rejected...:(
+2008-11-17 20:44 S_A              aspotashev: I also do not have much info on this. I just came to know that Mandriva Kernels are compressed in this way
+2008-11-17 20:44 sbhagat          /join 
+2008-11-17 20:46 jays             /quit Ping timeout: 480 seconds
+2008-11-17 20:46 rsalveti         /join 
+2008-11-17 20:48 mulix            /join 
+2008-11-17 20:59 mdomsch          /quit Quit: Leaving
+2008-11-17 21:00 mulix            /quit Quit: My damn controlling terminal disappeared!
+2008-11-17 21:02 reynaldo         /join 
+2008-11-17 21:03 ankita           /join 
+2008-11-17 21:03 keir             /join 
+2008-11-17 21:03 keir             hello
+2008-11-17 21:04 keir             can someone help me figure out why i cant see the output of my printks in dmesg?
+2008-11-17 21:10 cydork           /join 
+2008-11-17 21:10 aspotashev       keir: cat /proc/sys/kernel/printk
+2008-11-17 21:10 aspotashev       keir: what log level are you using?
+2008-11-17 21:11 keir             4	4	1	7
+2008-11-17 21:11 keir             I'm using KERN_WARNING and the default
+2008-11-17 21:16 aspotashev       hmm, KERN_ALERT or even KERN_EMERG should work anyway
+2008-11-17 21:17 keir             k
+2008-11-17 21:17 keir             was that the problem aspotashev? my level was too low?
+2008-11-17 21:19 aspotashev       keir: your kernel loglevel must be ok...
+2008-11-17 21:24 bluefox          /join 
+2008-11-17 21:25 aspotashev       keir: but... the first number is 4 for you, thus KERN_WARNING won't be printed
+2008-11-17 21:26 aspotashev       keir: try "echo 7 > /proc/sys/kernel/printk"
+2008-11-17 21:29 prerna           /join 
+2008-11-17 21:36 ankita           /quit Read error: Connection reset by peer
+2008-11-17 21:36 linville         /join 
+2008-11-17 21:37 dhaval           /nick dhaval_away
+2008-11-17 21:39 miku             hi. If i have dev_probe which does request_irq, in which will the handler run if the interrupt line is asserted during dev_probe ? after dev_probe returns or after request_irq returns ?
+2008-11-17 21:40 prerna           /quit Ping timeout: 480 seconds
+2008-11-17 21:41 keir             /quit Quit: Ex-Chat
+2008-11-17 21:43 kalpak           /quit Quit: Exiting
+2008-11-17 21:44 eclecticx        /quit Ping timeout: 480 seconds
+2008-11-17 21:47 reynaldo         /quit Quit: Lost terminal
+2008-11-17 21:49 pflanze          /join 
+2008-11-17 21:52 prerna           /join 
+2008-11-17 21:54 hellwolf         /join 
+2008-11-17 21:54 pflanze          Hm, crosscompiling a x86 kernel on a x86-64 system: do I even need another gcc for that?
+2008-11-17 21:55 pflanze          /action is looking at http://kernelnewbies.org/FAQ/KernelCrossCompilation but doesn't get a clearer view from that
+2008-11-17 21:55 pflanze          I mean, if I have CONFIG_X86_32=y in .config, wouldn't it choose -m32 or so anyway already?
+2008-11-17 21:57 ziggo            /join 
+2008-11-17 21:58 fdd-0            /join 
+2008-11-17 21:58 ankita           /join 
+2008-11-17 21:59 aspotashev       /quit Remote host closed the connection
+2008-11-17 22:00 aspotashev       /join 
+2008-11-17 22:04 ankita           /quit Read error: Connection reset by peer
+2008-11-17 22:06 leitao           /join 
+2008-11-17 22:06 prerna1          /join 
+2008-11-17 22:07 obiwan           /join 
+2008-11-17 22:09 prerna           /quit Ping timeout: 480 seconds
+2008-11-17 22:09 pflanze          seems that the answer is no: "make oldconfig" will ask for "Processor family" and does not seem to offer any 32 cpu
+2008-11-17 22:11 dhaval_away      /nick dhaval
+2008-11-17 22:12 prerna           /join 
+2008-11-17 22:12 prerna1          /quit Read error: Connection reset by peer
+2008-11-17 22:15 Chaser           Hi if TSO AND GSO are enabled on a network device that means that the kernel does not do GSO but instead let the driver do the TSO - is that correct ?
+2008-11-17 22:16 mulix            /join 
+2008-11-17 22:19 Einars           /join 
+2008-11-17 22:21 ankita           /join 
+2008-11-17 22:21 Einars           /quit 
+2008-11-17 22:21 prerna           /quit Ping timeout: 480 seconds
+2008-11-17 22:22 prerna           /join 
+2008-11-17 22:23 arun             /quit Remote host closed the connection
+2008-11-17 22:24 selckin1         /join 
+2008-11-17 22:25 fdd-0            /quit Quit: 10100011010.
+2008-11-17 22:30 arun             /join 
+2008-11-17 22:30 arun             /part #kernelnewbies 
+2008-11-17 22:30 johanbr          /join 
+2008-11-17 22:30 prerna           /quit Ping timeout: 480 seconds
+2008-11-17 22:31 hellwolf         /quit Quit: Don't follow me
+2008-11-17 22:32 prerna           /join 
+2008-11-17 22:39 prerna           /quit Quit: Leaving.
+2008-11-17 22:39 prerna           /join 
+2008-11-17 22:42 prerna1          /join 
+2008-11-17 22:42 prerna           /quit Read error: Connection reset by peer
+2008-11-17 22:43 ankita           /quit Ping timeout: 480 seconds
+2008-11-17 22:45 ankita           /join 
+2008-11-17 22:57 emachado         /quit Quit: Leaving
+2008-11-17 22:58 sbhagat          /quit Quit: will be back soon
+2008-11-17 22:58 emachado         /join 
+2008-11-17 23:04 obiwan           /quit Quit: obiwan
+2008-11-17 23:07 extazy           /join 
+2008-11-17 23:17 rcirc.el         /error irc.oftc.net: deleted (closed)
+2008-11-18 10:33 ManateeLazyCat   /join 
+2008-11-18 10:33 weber.oftc.net   /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (mjt!~mjt@nat.corpit.ru on Fri Oct 10 14:34:59 2008)
+2008-11-18 10:33 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-18 10:38 Amorphous        /join 
+2008-11-18 11:09 jm|earth         /join 
+2008-11-18 11:15 mdomsch          /join 
+2008-11-18 11:17 balbir           /join 
+2008-11-18 11:31 doener           /join 
+2008-11-18 11:32 rsalveti         /join 
+2008-11-18 11:49 zwane            /join 
+2008-11-18 11:57 varun            /join 
+2008-11-18 11:58 ankita           /join 
+2008-11-18 12:01 sono             /join 
+2008-11-18 12:08 ice              /join 
+2008-11-18 12:16 ice              /quit Quit: CGI:IRC (EOF)
+2008-11-18 12:16 zwane            /quit Ping timeout: 480 seconds
+2008-11-18 12:25 valdis           /part #kernelnewbies 
+2008-11-18 12:26 jays             /join 
+2008-11-18 12:29 kalpak           /join 
+2008-11-18 12:44 kalyan           /join 
+2008-11-18 12:45 drizzd           /join 
+2008-11-18 12:45 ndim             /join 
+2008-11-18 12:46 ice              /join 
+2008-11-18 12:47 ice              /quit 
+2008-11-18 12:50 mdomsch          /quit Ping timeout: 480 seconds
+2008-11-18 12:50 dhaval_away      /join 
+2008-11-18 12:50 dhaval_away      /nick dhaval
+2008-11-18 12:54 zwane            /join 
+2008-11-18 12:56 varun_c          /join 
+2008-11-18 12:57 prerna           /join 
+2008-11-18 12:58 varun            /quit Ping timeout: 480 seconds
+2008-11-18 13:00 kiran            /join 
+2008-11-18 13:04 ajonat           /join 
+2008-11-18 13:09 kalpak           /quit Quit: Exiting
+2008-11-18 13:13 varun_c          /quit Read error: Connection reset by peer
+2008-11-18 13:13 varun_c          /join 
+2008-11-18 13:25 ijuz_            /join 
+2008-11-18 13:28 bluefox          /join 
+2008-11-18 13:33 ice              /join 
+2008-11-18 13:34 kiran            /quit Remote host closed the connection
+2008-11-18 13:35 ice              hi,anybody here?
+2008-11-18 13:36 kiran            /join 
+2008-11-18 13:36 ice              /quit 
+2008-11-18 13:38 ice              /join 
+2008-11-18 13:45 ice              /quit Quit: CGI:IRC (EOF)
+2008-11-18 13:48 prerna           /quit Ping timeout: 480 seconds
+2008-11-18 13:51 prerna           /join 
+2008-11-18 13:56 vortex           /join 
+2008-11-18 13:58 ice              /join 
+2008-11-18 13:59 ice              hi,anyone here?
+2008-11-18 14:02 bluefox          /quit Ping timeout: 480 seconds
+2008-11-18 14:03 ice              /quit 
+2008-11-18 14:04 sbhagat          /join 
+2008-11-18 14:14 vaidy            /join 
+2008-11-18 14:14 prerna           /quit Ping timeout: 480 seconds
+2008-11-18 14:15 ego              /join 
+2008-11-18 14:17 kos_tom          /join 
+2008-11-18 14:21 prerna           /join 
+2008-11-18 14:27 Pip              /join 
+2008-11-18 14:32 prerna           /quit Ping timeout: 480 seconds
+2008-11-18 14:34 prerna           /join 
+2008-11-18 14:35 st               /join 
+2008-11-18 14:37 st               could anyone tell me the kernel compile option required for the VGA compatible controller Silicon Motion, Inc. SM712 LynxEM+ ?
+2008-11-18 14:40 mithlesh         /join 
+2008-11-18 14:40 mithlesh         /nick krypton
+2008-11-18 14:49 varun_c          /quit Ping timeout: 480 seconds
+2008-11-18 14:51 prerna           /quit Ping timeout: 480 seconds
+2008-11-18 14:53 kiran            /quit Remote host closed the connection
+2008-11-18 14:55 kiran            /join 
+2008-11-18 15:01 prerna           /join 
+2008-11-18 15:02 kos_tom          /quit Ping timeout: 480 seconds
+2008-11-18 15:04 rsalveti         /quit Ping timeout: 480 seconds
+2008-11-18 15:15 dfego            /join 
+2008-11-18 15:17 kalpak           /join 
+2008-11-18 15:18 tor              /join 
+2008-11-18 15:18 prerna           /quit Ping timeout: 480 seconds
+2008-11-18 15:19 ajonat           /quit Ping timeout: 480 seconds
+2008-11-18 15:20 Pip              /quit Quit: It's not my problem.
+2008-11-18 15:25 prerna           /join 
+2008-11-18 15:29 dfego            Is it possible to include a file into a "normal" kernel .c file that isn't in includes/ ?
+2008-11-18 15:44 phe              /join 
+2008-11-18 15:47 coly             /join 
+2008-11-18 15:49 hirofumi         /join 
+2008-11-18 15:51 vaidy            /quit Ping timeout: 480 seconds
+2008-11-18 15:52 dino             /join 
+2008-11-18 16:00 dfego            /quit Quit: Leaving
+2008-11-18 16:02 dino             /quit Ping timeout: 480 seconds
+2008-11-18 16:06 dino             /join 
+2008-11-18 16:10 drizzd_          /join 
+2008-11-18 16:13 prerna           /quit Ping timeout: 480 seconds
+2008-11-18 16:15 rcirc.el         /error irc.oftc.net: deleted (closed)
+2008-11-21 18:01 ManateeLazyCat   /join 
+2008-11-21 18:01 galapagos.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-11-21 18:01 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-21 18:03 nsldjngsajlgnf   /join 
+2008-11-21 18:14 Yeehaw           /join 
+2008-11-21 18:15 gnuk             /join 
+2008-11-21 18:27 fddfoo           /join 
+2008-11-21 18:31 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 18:31 nsldjngsajlgnf   /join 
+2008-11-21 19:06 kalpak           /join 
+2008-11-21 19:10 nisc             /join 
+2008-11-21 19:11 prym             can i use flock to do a safe file swap?
+2008-11-21 19:11 prym             fd=open("mytarg",O_RDWR); flock(fd,LOCK_EX); unlink(fd); rename("newtarg", "mytarg"); close(fd); ?
+2008-11-21 19:14 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 19:14 prym             hrm no i guess icant really
+2008-11-21 19:14 prym             if writer2 is going fd=open("mytarg",O_RDWR); flock(fd,LOCK_EX); write(fd,mydata,mdl); close(fd);
+2008-11-21 19:14 nsldjngsajlgnf   /join 
+2008-11-21 19:15 prym             i guess would be lost data
+2008-11-21 19:15 prym             how to safe swap?
+2008-11-21 19:15 Chaser           /join 
+2008-11-21 19:15 prym             i guess my flocking a lock file instead
+2008-11-21 19:17 ankita           /join 
+2008-11-21 19:19 erikm            prym: check rename(2). if newpath exists, the rename is atomically
+2008-11-21 19:20 kalpak           /quit Ping timeout: 480 seconds
+2008-11-21 19:22 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 19:22 nsldjngsajlgnf   /join 
+2008-11-21 19:26 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 19:26 nsldjngsajlgnf   /join 
+2008-11-21 19:27 dutche           /join 
+2008-11-21 19:31 otubo            /join 
+2008-11-21 19:35 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 19:35 nsldjngsajlgnf   /join 
+2008-11-21 19:37 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 19:37 nsldjngsajlgnf   /join 
+2008-11-21 19:38 kalpak           /join 
+2008-11-21 19:41 Ryback_          /join 
+2008-11-21 19:41 ankita           /quit Quit: Ex-Chat
+2008-11-21 19:44 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 19:45 nsldjngsajlgnf   /join 
+2008-11-21 19:46 tiny             /join 
+2008-11-21 19:51 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 19:51 nsldjngsajlgnf   /join 
+2008-11-21 19:56 sbhagat_         /join 
+2008-11-21 20:00 Sachiel          /join 
+2008-11-21 20:04 boto             /join 
+2008-11-21 20:06 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 20:06 nsldjngsajlgnf   /join 
+2008-11-21 20:09 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 20:09 nsldjngsajlgnf   /join 
+2008-11-21 20:11 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 20:11 prym             oh wow awesome
+2008-11-21 20:12 nsldjngsajlgnf   /join 
+2008-11-21 20:14 prym             well
+2008-11-21 20:14 prym             still tho, the other fd thats opened, im guessing at rename() the waiting flock() will return, and then the 2nd writer will write to a nameless file losing the record
+2008-11-21 20:14 dhaval           /join 
+2008-11-21 20:18 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 20:19 nsldjngsajlgnf   /join 
+2008-11-21 20:19 prym             maybe after flock returns on writer, i check fstat(fd) and stat(path) .st_inode is the same?
+2008-11-21 20:20 gonnet           /join 
+2008-11-21 20:22 fddfoo           /quit Read error: Connection reset by peer
+2008-11-21 20:24 bofur_           /join 
+2008-11-21 20:25 erikm            prym: check stevens
+2008-11-21 20:25 erikm            lxrbot: stevens?
+2008-11-21 20:25 lxrbot           erikm: are you smoking crack?
+2008-11-21 20:25 erikm            hmm, lost contact with db
+2008-11-21 20:26 Sachiel          ah, yes, for some time now
+2008-11-21 20:26 erikm            lxrbot: stevens?
+2008-11-21 20:26 lxrbot           i heard stevens is the late w. richard stevens, author of a couple of reference books, like "TCP/IP illustrated" and "Advanced programming in the Unix environment". the books are expensive, but worth every <insert-your-local-currency-here>
+2008-11-21 20:26 erikm            right
+2008-11-21 20:26 erikm            prym: the advanced programming book
+2008-11-21 20:29 dhaval           /quit Quit: Leaving
+2008-11-21 20:31 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 20:31 nsldjngsajlgnf   /join 
+2008-11-21 20:34 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 20:35 nsldjngsajlgnf   /join 
+2008-11-21 20:36 kalpak           /quit Quit: Exiting
+2008-11-21 20:40 fddfoo           /join 
+2008-11-21 20:44 kiran_           /join 
+2008-11-21 20:47 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 20:47 nsldjngsajlgnf   /join 
+2008-11-21 20:55 RoyK             /join 
+2008-11-21 20:56 Yeehaw           /quit Quit: Konversation terminated!
+2008-11-21 20:57 RoyK             /quit 
+2008-11-21 20:59 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-21 20:59 nsldjngsajlgnf   /join 
+2008-11-21 21:03 RoyK             /join 
+2008-11-21 21:13 tiny             /quit Quit: Leaving
+2008-11-21 21:16 jm               /join 
+2008-11-21 21:18 rsalveti         /join 
+2008-11-21 21:25 otubo            /quit Remote host closed the connection
+2008-11-21 21:31 otubo            /join 
+2008-11-21 21:37 kiran__          /join 
+2008-11-21 21:41 ajonat           /join 
+2008-11-21 21:42 kiran_           /quit Ping timeout: 480 seconds
+2008-11-21 21:43 spacepup         /join 
+2008-11-21 21:44 LaMs             /join 
+2008-11-21 21:47 linville         /join 
+2008-11-21 21:49 kiran__          /quit Remote host closed the connection
+2008-11-21 21:49 coly             /join 
+2008-11-21 21:53 nplanel          /join 
+2008-11-21 22:14 rsalveti         /quit Ping timeout: 480 seconds
+2008-11-21 22:19 termant          /join 
+2008-11-21 22:20 obiwan           /join 
+2008-11-21 22:20 bofur_           /quit Quit: Lost terminal
+2008-11-21 22:21 bofur_           /join 
+2008-11-21 22:22 erg0t            /join 
+2008-11-21 22:22 phanter          /join 
+2008-11-21 22:22 phanter          hi there...
+2008-11-21 22:25 phanter          you have to specify a license when writing a driver. Non open-source licenses are treated differently then open-source licenses. Which licenses are considered open-source by the kernel and what is the difference in treatment?
+2008-11-21 22:27 bofur_           /quit Quit: Lost terminal
+2008-11-21 22:29 erikm            phanter: gpl is considered open source
+2008-11-21 22:29 erikm            phanter: and BSD as well
+2008-11-21 22:29 bofur_           /join 
+2008-11-21 22:29 erikm            phanter: just have a look at the licenses of the different files in the kernel tarball. if it's in the kernel tarball, it's open source enough for the kernel to be used
+2008-11-21 22:30 phanter          that is a good point, but isn't there some document describing this?
+2008-11-21 22:31 bofur_           /quit Read error: Connection reset by peer
+2008-11-21 22:32 erikm            lxrbot: lxr license_is_gpl_compatible
+2008-11-21 22:33 lxrbot           license_is_gpl_compatible is Defined as a function in: include/linux/license.h, line 4 Referenced (in 3 files total) in: kernel/module.c, line 1511 include/linux/license.h, line 4 scripts/mod/modpost.c, line 1275
+2008-11-21 22:33 DrNick           include/linux/module.h
+2008-11-21 22:33 phanter          I was also very curious about what the difference is for the kernel in how the driver is treated.
+2008-11-21 22:33 erikm            DrNick: that file yeah
+2008-11-21 22:37 phanter          it seems that BSD is not a free license for the kernel. It is only if combined with GPL (if I understand correctly
+2008-11-21 22:38 erikm            phanter: yeah. sorry, I was wrong about that
+2008-11-21 22:38 Sachiel          is that because of the advertisement clause?
+2008-11-21 22:38 phanter          advert clause? Hmm, I must read that license quickly
+2008-11-21 22:39 phanter          (me=stupid -> license=lisence :))
+2008-11-21 22:40 bofur_           /join 
+2008-11-21 22:41 DrNick           phanter: if you link it with the kernel, it becomes GPL anyway
+2008-11-21 22:41 dfox             /join 
+2008-11-21 22:42 phanter          well, that is a controversial statement. It depends... AMD/ATI's drivers are not GPL for example
+2008-11-21 22:43 phanter          (BSD license does not have the advert.clause anymore...)
+2008-11-21 22:44 phanter          Of course, gpl wants all linked stuff to be GPL as well. Therefore there it is not possible to recognise other licenses as open (they cannot linked anyway as DrNick pointed out correctly)
+2008-11-21 22:44 phanter          hmm... i see your point now
+2008-11-21 22:46 phanter          and for your further info. There is no real big difference for the kernel between the licenses (source: http://www.linux.com/feature/35692)
+2008-11-21 22:46 phanter          thanks for your help :-)
+2008-11-21 22:47 phanter          actually is this also the right channel to come with questions about devicedrivers (I am just starting to explore this field of programming)
+2008-11-21 22:48 phanter          ?
+2008-11-21 23:00 erikm            phanter: there is no better channel, IMHO
+2008-11-21 23:01 johanbr          /join 
+2008-11-21 23:02 ron1n            /join 
+2008-11-21 23:08 reynaldo         /join 
+2008-11-21 23:17 mdomsch          /join 
+2008-11-21 23:19 dvhart           /join 
+2008-11-21 23:20 mb_              /join 
+2008-11-21 23:20 hellwolf         /join 
+2008-11-21 23:26 kalpak           /join 
+2008-11-21 23:26 obiwan           /quit Ping timeout: 480 seconds
+2008-11-21 23:30 reynaldo         /quit Quit: Lost terminal
+2008-11-21 23:32 tdomhan          /join 
+2008-11-21 23:35 obiwan           /join 
+2008-11-21 23:36 ankita           /join 
+2008-11-21 23:36 ankita           /quit 
+2008-11-21 23:37 coly             /quit Ping timeout: 480 seconds
+2008-11-21 23:43 fddfoo           /quit Quit: 10100011010.
+2008-11-21 23:46 erg0t            /quit Remote host closed the connection
+2008-11-22 18:03 ManateeLazyCat   /join 
+2008-11-22 18:03 kinetic.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-11-22 18:03 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-22 18:07 drizzd           /join 
+2008-11-22 18:12 nsldjngsajlgnf   /join 
+2008-11-22 18:22 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 18:22 nsldjngsajlgnf   /join 
+2008-11-22 18:26 dfox             /join 
+2008-11-22 18:28 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 18:28 nsldjngsajlgnf   /join 
+2008-11-22 18:29 tabgal           /join 
+2008-11-22 18:31 tombs            /join 
+2008-11-22 18:34 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 18:34 nsldjngsajlgnf   /join 
+2008-11-22 18:35 dhaval           /join 
+2008-11-22 18:50 erg0t            /join 
+2008-11-22 18:54 bomber           /join 
+2008-11-22 19:01 erg0t            /quit Remote host closed the connection
+2008-11-22 19:06 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 19:06 nsldjngsajlgnf   /join 
+2008-11-22 19:23 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 19:24 nsldjngsajlgnf   /join 
+2008-11-22 19:26 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 19:27 nsldjngsajlgnf   /join 
+2008-11-22 19:35 boos             /join 
+2008-11-22 19:45 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 19:45 nsldjngsajlgnf   /join 
+2008-11-22 19:49 Blaz             /join 
+2008-11-22 19:51 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 19:51 nsldjngsajlgnf   /join 
+2008-11-22 19:54 Blaz             /nick blaznyoght
+2008-11-22 20:00 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 20:01 nsldjngsajlgnf   /join 
+2008-11-22 20:03 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 20:03 nsldjngsajlgnf   /join 
+2008-11-22 20:07 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 20:08 nsldjngsajlgnf   /join 
+2008-11-22 20:13 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 20:13 nsldjngsajlgnf   /join 
+2008-11-22 20:14 phe              /join 
+2008-11-22 20:15 Iyepb0           /join 
+2008-11-22 20:16 kos_tom          /join 
+2008-11-22 20:19 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 20:20 nsldjngsajlgnf   /join 
+2008-11-22 20:20 Iyepb0           Hello...quite silent here...
+2008-11-22 20:29 cappicard        /join 
+2008-11-22 20:32 trem             /join 
+2008-11-22 20:40 nsldjngsajlgnf   /quit Read error: Connection reset by peer
+2008-11-22 20:40 nsldjngsajlgnf   /join 
+2008-11-22 20:42 Iyepb0           /part #kernelnewbies 
+2008-11-22 20:43 kos_tom          /quit Ping timeout: 480 seconds
+2008-11-22 20:46 dhaval           /quit Ping timeout: 480 seconds
+2008-11-22 20:51 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 20:51 nsldjngsajlgnf   /join 
+2008-11-22 20:52 bubu^            /join 
+2008-11-22 20:54 niki             /join 
+2008-11-22 21:01 boos             /quit Quit: Leaving
+2008-11-22 21:05 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 21:06 nsldjngsajlgnf   /join 
+2008-11-22 21:06 gnuk             /join 
+2008-11-22 21:08 jm               /join 
+2008-11-22 21:10 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 21:10 nsldjngsajlgnf   /join 
+2008-11-22 21:15 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 21:15 nsldjngsajlgnf   /join 
+2008-11-22 21:20 smooth_penguin   /join 
+2008-11-22 21:30 cappicard        /quit Read error: Connection reset by peer
+2008-11-22 21:32 rvv              /join 
+2008-11-22 21:38 tor              /join 
+2008-11-22 21:43 kos_tom          /join 
+2008-11-22 21:43 dhaval           /join 
+2008-11-22 21:46 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 21:47 balbir_desk      /join 
+2008-11-22 21:47 nsldjngsajlgnf   /join 
+2008-11-22 21:47 rvalles          /join 
+2008-11-22 21:52 prerna           /join 
+2008-11-22 21:53 cappicard        /join 
+2008-11-22 22:18 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-22 22:19 nsldjngsajlgnf   /join 
+2008-11-22 22:20 johanbr          /join 
+2008-11-22 22:21 drizzd           /quit Ping timeout: 480 seconds
+2008-11-22 22:22 hingwah          /join 
+2008-11-22 22:27 niki             /quit Quit: Leaving
+2008-11-22 22:29 drizzd           /join 
+2008-11-22 22:31 nsldjngsajlgnf   /quit Read error: Connection reset by peer
+2008-11-22 22:32 nsldjngsajlgnf   /join 
+2008-11-22 22:32 balbir_desk      /quit Read error: Connection reset by peer
+2008-11-22 22:37 niki             /join 
+2008-11-23 21:07 ManateeLazyCat   /join 
+2008-11-23 21:07 graviton.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-11-23 21:07 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-23 21:07 dfox             /join 
+2008-11-23 21:12 balbir_desk      /join 
+2008-11-23 21:17 rsalveti         /join 
+2008-11-23 21:18 tigggra          /join 
+2008-11-23 21:20 tigggra          Hi! Please advise me some book or tutorial about Linux VFS and FS internals (developers guide, not high-level reference like `Unix filesystems`). Thanks!
+2008-11-23 21:21 jonh             have you looked in Documentation/filesystems ?
+2008-11-23 21:22 drizzd           /join 
+2008-11-23 21:25 tigggra          jonh: i do it about 3-4 days, but wanna read some more consolidated material, if it exists
+2008-11-23 21:28 willie_w         /join 
+2008-11-23 21:31 nsldjngsajlgnf   /join 
+2008-11-23 21:32 smooth_penguin   /join 
+2008-11-23 21:34 erikv            /join 
+2008-11-23 21:34 obiwan           /join 
+2008-11-23 21:37 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-23 21:38 Dr_Jakob         /join 
+2008-11-23 21:38 nsldjngsajlgnf   /join 
+2008-11-23 21:39 zwane            /join 
+2008-11-23 22:00 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-23 22:00 nsldjngsajlgnf   /join 
+2008-11-23 22:01 dhaval           /join 
+2008-11-23 22:05 zwane            /quit Ping timeout: 480 seconds
+2008-11-23 22:07 nsldjngsajlgnf   /quit Read error: Connection reset by peer
+2008-11-23 22:07 nsldjngsajlgnf   /join 
+2008-11-23 22:09 qeed             /join 
+2008-11-23 22:11 cydork           /join 
+2008-11-23 22:12 mb_              hm, I need to wait for an event in atomic context. So I need to spin and can't use completions. Is there some standard mechanism for this in the kernel, or do I need to implement it by hand using atomic_t and barriers?
+2008-11-23 22:14 zwane            /join 
+2008-11-23 22:16 jm               /join 
+2008-11-23 22:16 drizzd           I think something like that is usually done using spinlocks
+2008-11-23 22:18 mb_              sparse would complain, if you unlock spinlocks from another thread.
+2008-11-23 22:25 resonenc1        /join 
+2008-11-23 22:26 resonenc1        /part #kernelnewbies 
+2008-11-24 08:35 rcirc.el         /error irc.oftc.net: deleted (closed)
+2008-11-24 09:58 ManateeLazyCat   /join 
+2008-11-24 09:58 kilo.oftc.net    /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-11-24 09:58 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-24 10:02 amitg_           /join 
+2008-11-24 10:17 nsldjngsajlgnf   /join 
+2008-11-24 10:22 Administrador    /join 
+2008-11-24 10:22 Administrador    Tired of black people?  Join us at http://www.chimpout.com and learn more about these feral simian beasts!  This is not a skinhead or white supremacist organization.  Asians, Jews, Mexicans, and any non-congoloid ethnic group is welcome to unite.  HUMANS vs NIGGGERS  http://www.chimpout.com
+2008-11-24 10:27 Gandalf_         /join 
+2008-11-24 10:28 Administrador    /quit autokilled: This host violated network policy. If you feel an error has been made, please contact support@oftc.net, thanks. (2008-11-24 02:28:57)
+2008-11-24 10:33 osmosis          /join 
+2008-11-24 10:36 osmosis          /quit 
+2008-11-24 10:38 osmosis          /join 
+2008-11-24 10:42 osmosis          /quit 
+2008-11-24 10:42 Amorphous        /join 
+2008-11-24 10:43 osmosis          /join 
+2008-11-24 13:36 ManateeLazyCat   /join 
+2008-11-24 13:36 kilo.oftc.net    /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-11-24 13:36 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-24 13:38 kalpak           /join 
+2008-11-24 13:39 zwane            /join 
+2008-11-24 13:41 Gandalf          /join 
+2008-11-24 13:43 nsldjngsajlgnf   /join 
+2008-11-24 13:47 bluefox          /join 
+2008-11-25 11:47 ManateeLazyCat   /join 
+2008-11-25 11:47 kilo.oftc.net    /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-11-25 11:47 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-25 11:52 nsldjngsajlgnf   /join 
+2008-11-25 11:54 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-25 11:55 nsldjngsajlgnf   /join 
+2008-11-25 11:58 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-25 11:58 nsldjngsajlgnf   /join 
+2008-11-25 11:59 Yeehaw           /join 
+2008-11-25 12:01 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-25 12:01 nsldjngsajlgnf   /join 
+2008-11-25 12:02 faw0             /join 
+2008-11-25 12:05 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-25 12:06 nsldjngsajlgnf   /join 
+2008-11-25 12:09 chax             /join 
+2008-11-25 12:10 s0be             /part #kernelnewbies Leaving
+2008-11-25 12:17 Yeehaw           /quit Remote host closed the connection
+2008-11-25 12:19 jdiwnab          /join 
+2008-11-25 12:19 bluefox          /join 
+2008-11-25 12:21 jdiwnab          Is there a way I can make the kernel write to a file? I am new to kernel programming, so I applogize if this is a stupid question
+2008-11-25 12:23 valdis           Hang on a moment...
+2008-11-25 12:24 valdis           http://kernelnewbies.org/FAQ/WhyWritingFilesFromKernelIsBad
+2008-11-26 22:32 ManateeLazyCat   /join 
+2008-11-26 22:32 graviton.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-11-26 22:32 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-26 22:35 iwanbk           /part #kernelnewbies Leaving
+2008-11-26 22:36 valdis1          /join 
+2008-11-26 22:42 boos             /join 
+2008-11-26 22:45 cyrillos         /join 
+2008-11-26 22:48 Abraham          /join 
+2008-11-27 09:36 ManateeLazyCat   /join 
+2008-11-27 09:36 kilo.oftc.net    /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-11-27 09:36 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-27 09:52 ram              /join 
+2008-11-27 09:57 chl              /join 
+2008-11-27 09:59 nsldjngsajlgnf   /join 
+2008-11-27 10:05 ram              /quit Ping timeout: 480 seconds
+2008-11-27 10:13 amit             /join 
+2008-11-27 10:15 ram              /join 
+2008-11-27 10:18 Yeehaw           /join 
+2008-11-27 10:20 johanbr          /join 
+2008-11-27 10:43 chl              /quit Quit: Leaving.
+2008-11-27 10:44 Amorphous        /join 
+2008-11-27 10:57 Yeehaw           /quit Remote host closed the connection
+2008-11-27 11:00 quintela         /join 
+2008-11-27 11:26 Zylvain          /join 
+2008-11-27 11:51 johanbr          /quit Ping timeout: 480 seconds
+2008-11-27 12:01 bluefox          /join 
+2008-11-27 12:15 jays             /join 
+2008-11-27 12:16 ankita           /join 
+2008-11-27 12:20 prerna           /join 
+2008-11-27 12:30 amit             /quit Read error: Connection reset by peer
+2008-11-27 12:30 prerna           /quit Ping timeout: 480 seconds
+2008-11-27 12:33 prerna           /join 
+2008-11-27 12:41 _coly            /join 
+2008-11-27 12:42 chax             /join 
+2008-11-27 12:43 unsolo           /join 
+2008-11-27 12:44 prerna           /quit Ping timeout: 480 seconds
+2008-11-27 12:47 prerna           /join 
+2008-11-27 12:49 kalyan           /join 
+2008-11-27 12:52 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-27 12:52 nsldjngsajlgnf   /join 
+2008-11-27 12:57 _coly            /quit Ping timeout: 480 seconds
+2008-11-27 12:58 Yeehaw           /join 
+2008-11-27 12:59 prerna           /quit Ping timeout: 480 seconds
+2008-11-27 13:01 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-27 13:01 nsldjngsajlgnf   /join 
+2008-11-27 13:04 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-27 13:04 nsldjngsajlgnf   /join 
+2008-11-27 13:06 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-27 13:07 nsldjngsajlgnf   /join 
+2008-11-27 13:10 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-27 13:11 nsldjngsajlgnf   /join 
+2008-11-27 13:13 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-27 13:14 nsldjngsajlgnf   /join 
+2008-11-27 13:21 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-27 13:21 nsldjngsajlgnf   /join 
+2008-11-27 13:23 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-27 13:24 nsldjngsajlgnf   /join 
+2008-11-27 13:25 ijuz__           /join 
+2008-11-27 13:27 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-27 13:27 nsldjngsajlgnf   /join 
+2008-11-27 13:28 prerna           /join 
+2008-11-27 13:32 amit             /join 
+2008-11-27 13:37 _coly            /join 
+2008-11-27 13:38 prerna           /quit Ping timeout: 480 seconds
+2008-11-27 13:39 Yeehaw           /quit Remote host closed the connection
+2008-11-27 13:40 Yeehaw           /join 
+2008-11-27 13:42 amit             /quit Ping timeout: 480 seconds
+2008-11-27 13:44 zrajm            /join 
+2008-11-27 13:46 prerna           /join 
+2008-11-27 13:51 zrajm_           /join 
+2008-11-27 13:53 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-27 13:54 nsldjngsajlgnf   /join 
+2008-11-27 13:57 zrajm            /quit Ping timeout: 480 seconds
+2008-11-27 13:57 tazmania         /join 
+2008-11-27 13:58 tazmania         how can I have read/write access in squashfs filesystem?
+2008-11-27 14:01 prerna           /quit Ping timeout: 480 seconds
+2008-11-27 14:08 krypton          /join 
+2008-11-27 14:10 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-27 14:10 nsldjngsajlgnf   /join 
+2008-11-27 14:12 kiran            /join 
+2008-11-27 14:14 nsldjngsajlgnf   /quit Remote host closed the connection
+2008-11-27 14:15 nsldjngsajlgnf   /join 
+2008-11-27 14:16 tcunha           /join 
+2008-11-27 14:16 kiran            /quit Remote host closed the connection
+2008-11-27 14:22 prerna           /join 
+2008-11-27 14:22 nsldjngsajlgnf   /quit Read error: Connection reset by peer
+2008-11-27 14:22 tonacatecuhtli   /join 
+2008-11-27 14:22 nsldjngsajlgnf   /join 
+2008-11-27 14:24 kiran            /join 
+2008-11-27 14:31 kiran            /quit Remote host closed the connection
+2008-11-27 14:40 kiran            /join 
+2008-11-27 20:33 ManateeLazyCat   /join 
+2008-11-27 20:33 larich.oftc.net  /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-11-27 20:33 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-27 20:36 goodmen          Hi, here is a question on the kernel initialization: Why the kernel_init is designed as a kernel thread? Who can give me a reasonable explain?
+2008-11-27 20:37 fdd              /join 
+2008-11-27 20:39 goodmen          Those kernel thread finially became the init process. But I don't understand why does the kernel_init is called within that thread.
+2008-11-27 20:39 peterz           goodmen: I'm not understanding your questions
+2008-11-27 20:40 goodmen          peterz: the function kerenl_init do so many tasks. I don't understand why the auther made the function in a separated thread.
+2008-11-27 20:41 krypton          goodmen: are you asking why kernel_init was made a thread 
+2008-11-27 20:41 goodmen          krypton: Yes! Are your the auther?
+2008-11-27 20:41 krypton          hahaha no goodmen
+2008-11-27 20:41 goodmen          krypton: Do you know the design reason?
+2008-11-27 20:42 peterz           goodmen: its a thread because at that point the scheduler is running and you cannot do all that stuff form the idle thread
+2008-11-27 20:42 Ryback_          /join 
+2008-11-27 20:42 peterz           so you need a task context
+2008-11-27 20:42 sergiodj         /join 
+2008-11-27 20:44 goodmen          peterz: OK, I understand! may functions is designed as setup proc, and called in kernel_init
+2008-11-27 20:45 goodmen          peterz: some of those  functions will create other thread or call schedule() directly. So it is comfortable to run kernel_init as a thread.
+2008-11-27 20:45 goodmen          peterz: Is my explanation right ?
+2008-11-27 20:46 peterz           well, not only comfortable, mandatory, you cannot sleep the idle thread for obvious reasons
+2008-11-27 20:48 goodmen          peterz: Oh, I see! the start_kernel has initialized the scheduler, and it begin to work immediately.
+2008-11-27 20:51 goodmen          peterz: Thank you. I understand what you have said.
+2008-11-27 20:54 amit             /join 
+2008-11-27 21:13 amit             /quit Ping timeout: 480 seconds
+2008-11-27 21:25 otubo            /join 
+2008-11-27 21:29 goodmen          /part #kernelnewbies ERC Version 5.3 (IRC client for Emacs)
+2008-11-27 21:49 strawks          /join 
+2008-11-27 21:50 johanbr          /join 
+2008-11-27 21:57 qeed             /join 
+2008-11-27 21:59 obiwan           /join 
+2008-11-27 21:59 strawks          /quit Quit: Bye
+2008-11-27 22:13 rjs              /join 
+2008-11-27 22:16 krypton          /quit Remote host closed the connection
+2008-11-28 08:16 rcirc.el         /error irc.oftc.net: deleted (closed)
+2008-11-28 21:58 ManateeLazyCat   /join 
+2008-11-28 21:58 weber.oftc.net   /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-11-28 21:58 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-28 21:59 strix            /part #kernelnewbies 
+2008-11-28 22:15 nsldjngsajlgnf   /join 
+2008-11-28 22:18 pcacjr           /join 
+2008-11-29 23:11 ManateeLazyCat   /join 
+2008-11-29 23:11 graviton.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-11-29 23:11 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-11-29 23:14 hellwolf         /join 
+2008-11-29 23:17 balbir_          /join 
+2008-11-29 23:21 willie_w         /join 
+2008-11-29 23:27 mb_              /join 
+2008-11-29 23:30 boos             /join 
+2008-11-29 23:30 thoth            /join 
+2008-11-29 23:42 vjsanjay         /join 
+2008-11-30 00:01 rcirc.el         /error irc.oftc.net: deleted (closed)
+2008-12-02 21:02 ManateeLazyCat   /join 
+2008-12-02 21:02 graviton.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-12-02 21:02 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-12-02 21:28 johanbr          /join 
+2008-12-03 09:18 ManateeLazyCat   /join 
+2008-12-03 09:18 osmotic.oftc.net /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2008-12-03 09:18 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2008-12-03 09:42 bgola_           /join 
+2009-01-05 16:34 ManateeLazyCat   /join 
+2009-01-05 16:34 charm.oftc.net   /topic 2.{6.{27,26.6},4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (sushant!~sushant@218.248.67.69 on Wed Nov 19 18:59:32 2008)
+2009-01-05 16:34 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2009-01-05 16:42 drizzd           /join 
+2009-01-05 16:52 dwmw2_gone       /join 
+2009-01-05 16:52 SiO2             /join 
+2009-01-30 12:13 ManateeLazyCat   /join 
+2009-01-30 12:13 solenoid.oftc.net /topic 2.{6.28,4.{36.7,37-rc1},2.{26,27-rc2},0.40} | http://lwn.net/Articles/driver-porting | http://lwn.net/Articles/2.6-kernel-api | Please edit our wiki http://kernelnewbies.org | http://lxr.linux.no/source/ | http://users.sosdg.org/~qiyong/lxr/source/ | http://kxr.bitcanvas.net/ (Sachiel!~anaglyph@200.123.132.130 on Wed Jan 14 21:05:05 2009)
+2009-01-30 12:13 ChanServ         /notice [#kernelnewbies] welcome to the kernelnewbies channel. please try "/msg lxrbot rules" if you are new here
+2009-01-30 12:18 Shaun2222        /join 
+2009-01-30 12:21 balbir_          /join 
+2009-01-30 12:28 movement         /join 
+2009-01-30 12:33 flashkidd        /join 
+2009-01-30 12:36 nicesj           /join 
+2009-01-30 12:39 prerna           /join 
+2009-01-30 12:47 prerna           /part #kernelnewbies 
+2009-01-30 12:50 dvhart           /join 
+2009-01-30 12:51 prerna1          /join 
+2009-01-30 12:53 bluefox          /join 
+2009-01-30 12:57 gades            /join 
+2009-01-30 13:04 kiran            /join 

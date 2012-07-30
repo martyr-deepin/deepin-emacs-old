@@ -1,0 +1,2 @@
+;; -*- coding: utf-8 -*-
+(("[COULD NOT DOWNLOAD HEADLINES!]" "星期六, 11:10: Newsticker could not retrieve news from Solidot.\nReturn status: `exited abnormally with code 4\n'\nCommand was `(wget -q -O - --user-agent testing http://feeds.feedburner.com/solidot)'" "" (19493 28594 551800) old 0 nil nil nil) ("[COULD NOT DOWNLOAD HEADLINES!]" "星期六, 12:54: Newsticker could not retrieve news from Solidot.\nReturn status: `exited abnormally with code 4\n'\nCommand was `(wget -q -O - --user-agent testing http://feeds.feedburner.com/solidot)'" "" (19493 34836 27848) old 0 nil nil nil))

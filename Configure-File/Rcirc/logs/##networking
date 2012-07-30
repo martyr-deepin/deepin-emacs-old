@@ -1,0 +1,2025 @@
+2008-10-31 20:02 ctennis          /join 
+2008-10-31 20:16 velicos          /join 
+2008-10-31 20:25 cybane           /join 
+2008-10-31 20:35 Chaser           /join 
+2008-10-31 20:45 Chaser           /quit 
+2008-10-31 20:47 errordeveloper   /join 
+2008-10-31 20:48 Chaser_          /join 
+2008-10-31 20:54 bluedog          /join 
+2008-10-31 20:55 errordeveloper   /quit Read error: 104 (Connection reset by peer)
+2008-10-31 20:56 errordeveloper   /join 
+2008-10-31 21:01 smtms            /join 
+2008-10-31 21:01 OzoNe            /join 
+2008-10-31 21:20 Chaser_          /quit Read error: 110 (Connection timed out)
+2008-10-31 21:20 Chaser_          /join 
+2008-10-31 21:20 no_gatez_fan     /join 
+2008-10-31 21:24 deny[all]        /join 
+2008-10-31 21:25 man_at_arms      /join 
+2008-10-31 21:29 errordeveloper   /quit Read error: 54 (Connection reset by peer)
+2008-10-31 21:31 no_gatez_fan     /quit "Leaving"
+2008-10-31 21:36 illkitten        /join 
+2008-10-31 21:37 illkitten        /quit Client Quit
+2008-10-31 21:38 xev___           /join 
+2008-10-31 21:40 errordeveloper   /join 
+2008-10-31 21:41 xev              /join 
+2008-10-31 21:41 xev              /nick xev\sleep
+2008-10-31 21:52 rvsjoen          anyone have a clue if tcprewrite can rewrite a range of source addresses to a single destination address ?
+2008-10-31 21:56 mib_bs42vnfn     /join 
+2008-10-31 21:57 mib_bs42vnfn     /part ##networking 
+2008-10-31 21:57 xev__            /join 
+2008-10-31 21:58 xev___           /quit Read error: 110 (Connection timed out)
+2008-10-31 22:08 xev___           /join 
+2008-10-31 22:11 xev\sleep        /quit Read error: 110 (Connection timed out)
+2008-10-31 22:18 xev__            /quit Read error: 110 (Connection timed out)
+2008-10-31 22:19 rtru             /join 
+2008-10-31 22:28 xev___           /quit Read error: 110 (Connection timed out)
+2008-10-31 22:28 xev___           /join 
+2008-10-31 22:31 error_developer_ /join 
+2008-10-31 22:37 errordeveloper   /quit Read error: 110 (Connection timed out)
+2008-10-31 22:45 xev__            /join 
+2008-10-31 22:47 ctennis          /quit 
+2008-10-31 22:50 chalco           /join 
+2008-10-31 22:50 ChanServ         /mode +v chalco
+2008-10-31 22:50 ctennis          /join 
+2008-10-31 22:50 errordeveloper   /join 
+2008-10-31 22:57 Mirthas          /join 
+2008-10-31 22:57 xev___           /quit Read error: 110 (Connection timed out)
+2008-10-31 22:58 xev___           /join 
+2008-10-31 23:01 error_developer_ /quit Read error: 110 (Connection timed out)
+2008-11-02 10:41 ManateeLazyCat   /join 
+2008-11-02 10:41 clarke.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-02 10:41 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-02 12:13 ManateeLazyCat   /join 
+2008-11-02 12:13 brown.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-02 12:13 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-02 12:20 artagnon         Hi. I purchased some space at DreamHost and created myself an FTP/SSH account
+2008-11-02 12:20 Yo               I'm having a problem... I have an embedded server running OpenWRT (linux) with a VPN client connected to my University network at the same time it's serving the service by WIFI (Ap Mode) with DNSMask service running the problem is that all the clients which sends dns requests instead of resolve my openwrt server are sends throught the tunnel too :S
+2008-11-02 12:20 Yo               it has no sense for me
+2008-11-02 12:22 artagnon         but when I FTP and try to 'rm', I get 501: Not Implemented
+2008-11-02 12:22 chalco           artagnon, try sftp instead
+2008-11-02 12:23 redblue          /join 
+2008-11-02 12:24 artagnon         /action reads the manpage of lftp
+2008-11-02 12:39 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-11-03 17:08 ManateeLazyCat   /join 
+2008-11-03 17:08 brown.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-03 17:08 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-03 17:19 KermitTheFragger /join 
+2008-11-03 18:01 redb1ue          /join 
+2008-11-03 18:15 skymeyer_        /join 
+2008-11-03 18:25 mxs              /join 
+2008-11-03 18:39 Acid_Uk          /join 
+2008-11-03 19:16 Chaser_          /join 
+2008-11-03 19:16 jon__            /join 
+2008-11-03 19:26 xev__            /join 
+2008-11-03 19:32 foo-nix          /join 
+2008-11-03 19:52 peleg_           /join 
+2008-11-03 20:03 intrados1        /join 
+2008-11-03 20:09 Chaser_          /quit Read error: 113 (No route to host)
+2008-11-03 20:12 Chaser_          /join 
+2008-11-03 20:12 peleg_           /nick peleg
+2008-11-03 20:16 Acid_Uk          /quit "Leaving"
+2008-11-03 20:17 iascorga         /join 
+2008-11-03 20:32 s0what           /join 
+2008-11-03 20:36 s0what           I installed dd-wrt on lynksys wrt150. chillispot is active and I orientated to my server. chillispot +freeradius is working fine. But I need to catch packets according to mac adress on server. My problem is, tcpdump takes my mac address instead of clients. how can I solve that ?
+2008-11-03 20:41 Agiofws          /join 
+2008-11-03 21:02 ctennis          /join 
+2008-11-03 21:02 MasterOfDisaster /join 
+2008-11-03 21:02 MasterOfDisaster /quit Client Quit
+2008-11-03 21:02 MasterOfDisaster /join 
+2008-11-03 21:05 scampbell        /join 
+2008-11-03 21:09 Agiofws          /quit Read error: 110 (Connection timed out)
+2008-11-03 21:34 man_at_arms      /join 
+2008-11-03 21:40 array            /join 
+2008-11-03 21:40 array            /part ##networking 
+2008-11-03 21:48 s0what           /quit "Rainbow"
+2008-11-06 01:02 ManateeLazyCat   /join 
+2008-11-06 01:02 clarke.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-06 01:02 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-06 01:02 tazz             /join 
+2008-11-06 01:04 ideopathic_      /join 
+2008-11-06 01:07 EarlJr           /join 
+2008-11-06 01:11 mkMENTAL         /join 
+2008-11-06 01:14 mkMENTAL         If I place a machine to act as a firewall in between my dsl modem and my wireless/wired router, will I only have to set one route? The router has NAT & DHCP on it.
+2008-11-06 01:14 mkMENTAL         Or should I just have both NIC cards not online and only in promiscious mode without an address?
+2008-11-06 01:16 errordeveloper   /join 
+2008-11-06 01:18 skillz           /join 
+2008-11-06 01:26 countd           /join 
+2008-11-06 01:31 Mirthas          /join 
+2008-11-06 01:32 Mirthas          /quit Client Quit
+2008-11-06 01:39 peleg            /join 
+2008-11-08 22:31 ManateeLazyCat   /join 
+2008-11-08 22:31 brown.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-08 22:31 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-08 22:34 apinunt          x86: Do I have to make changes in both the modem and the router? The router had been working connected to a satellite modem connected to the WAN port previously, and now I have ADSL service but cannot access the ADSL modem through the routers WAN port.
+2008-11-08 22:35 x86              well if the modem is acting as a router, it's taking your external IP from your ISP
+2008-11-08 22:35 x86              and giving your router an internal IP
+2008-11-08 22:36 x86              (probably on the same subnet your router has on it's LAN interfaces, which is certainly not going to work)
+2008-11-08 22:36 x86              in bridge mode, you should be able to pass through the external IP that your ISP gives you to your router on the WAN interface
+2008-11-08 22:41 apinunt          x86: The modem receives a dynamic address from the ISP, and I have the modems IP address set to 192.168.1.2, instead of the default 192.168.1.1 which is the routers IP, and each computer has a static address assigned, 192.168.1.xxx. I set the TCP/IP gateway in each computer to 192.168.1.1 and the DNS also to 192.168.1.1 when trying to connect through the router to the modem, but cannot even...
+2008-11-08 22:41 apinunt          ...ping 192.168.1.2 when I do so.
+2008-11-08 22:42 x86              yeah that wont work
+2008-11-08 22:42 x86              you've got the same network (192.168.1.0/24) on both the WAN and LAN of the router
+2008-11-08 22:42 apinunt          x86: But that is essentially what was set up and working when I had satellite service.
+2008-11-08 22:44 x86              doubt it
+2008-11-08 22:50 apinunt          x86: I just looked back at some old notes, and I think you're right. It looks like the satellite was using 192.168.0.1 and the router was set to 192.168.1.1
+2008-11-08 22:50 apinunt          Should I be able to set the ADSL modem to 192.168.0.1?
+2008-11-08 22:55 apinunt          x86: If I am beginning to understand correctly, does this mean that between the computers and the router is like one network, and between the router and the ADSL is like another network, and both can't use 192.168.1 as their base address?
+2008-11-08 23:00 apinunt          x86: If you're still around, I have one additional question to ask, assuming I am making progress in my understanding.
+2008-11-08 23:24 datacut          /join 
+2008-11-08 23:26 apinunt          /part ##networking 
+2008-11-08 23:27 x86              gah
+2008-11-08 23:27 x86              was about to answer him
+2008-11-08 23:27 x86              people on IRC have no patience ;)
+2008-11-08 23:27 peleg            /join 
+2008-11-08 23:30 markee_          /join 
+2008-11-08 23:32 funburn          /join 
+2008-11-08 23:35 funburn          /quit Client Quit
+2008-11-08 23:51 StevenR          x86: but IRC is instant, right, so obviously, answers should be instant, right?
+2008-11-08 23:54 izua             well, if people weren't lazy/slacking off/busy, i guess, yeah.
+2008-11-08 23:54 izua             but people are busy, and slacking off ain't gonna do itself.
+2008-11-09 00:00 markee_          /quit "Leaving"
+2008-11-09 00:17 lexrex           /join 
+2008-11-09 00:22 tsrk             /join 
+2008-11-09 00:22 tsrk             When I'm setting up a static IP what's the broadcast address?
+2008-11-09 00:23 x86              that's a very vague question
+2008-11-09 00:23 x86              whats your network address and subnet mask?
+2008-11-09 00:26 tsrk             I'm trying to get a machine set up with a static IP on a router and I don't know what to put
+2008-11-09 00:26 tsrk             The IP is 192.168.2.200 and the subnet mask is 255.255.255.0
+2008-11-09 00:26 tsrk             (I don't know what the subnet mask is either though)
+2008-11-09 21:27 ManateeLazyCat   /join 
+2008-11-09 21:27 brown.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-09 21:27 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-09 21:31 skilledone       /join 
+2008-11-09 21:36 izua             /join 
+2008-11-09 21:38 jeffspeff        /join 
+2008-11-09 21:39 jeffspeff        /quit Connection reset by peer
+2008-11-09 21:40 jeffspeff        /join 
+2008-11-09 21:41 skilledone       /quit Read error: 104 (Connection reset by peer)
+2008-11-09 21:42 skilledone       /join 
+2008-11-09 21:42 skilledone       /quit Read error: 104 (Connection reset by peer)
+2008-11-09 21:44 jeffspeff        /quit Read error: 104 (Connection reset by peer)
+2008-11-09 21:45 jeffspeff        /join 
+2008-11-09 21:50 jeffspeff        /quit Read error: 131 (Connection reset by peer)
+2008-11-09 21:50 jeffspeff        /join 
+2008-11-09 21:52 jeffspeff        /quit Read error: 54 (Connection reset by peer)
+2008-11-09 21:53 jeffspeff        /join 
+2008-11-09 21:57 jeffspeff        /quit Read error: 104 (Connection reset by peer)
+2008-11-09 21:57 jeffspeff        /join 
+2008-11-09 22:04 UberOtaki        /join 
+2008-11-09 22:05 jeffspeff        /quit Read error: 54 (Connection reset by peer)
+2008-11-09 22:05 jeffspeff        /join 
+2008-11-09 22:12 rendar           /join 
+2008-11-09 22:23 jeffspeff        /quit Read error: 104 (Connection reset by peer)
+2008-11-09 22:24 jeffspeff        /join 
+2008-11-09 22:29 jeffspeff        /quit Read error: 104 (Connection reset by peer)
+2008-11-09 22:31 jeffspeff        /join 
+2008-11-09 22:34 jeffspeff        /quit Connection reset by peer
+2008-11-09 22:36 jeffspeff        /join 
+2008-11-09 22:41 ryuho-eeepc      /join 
+2008-11-09 22:41 ryuho-eeepc      /quit Client Quit
+2008-11-09 22:46 jeffspeff        /quit Read error: 104 (Connection reset by peer)
+2008-11-11 09:13 ManateeLazyCat   /join 
+2008-11-11 09:13 brown.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-11 09:13 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-11 09:14 Chaser_          /join 
+2008-11-11 09:19 THE_GFR          /part ##networking 
+2008-11-11 09:22 qubit            /join 
+2008-11-11 09:47 dsdf             /join 
+2008-11-11 09:47 dsdf             hello
+2008-11-11 09:48 dsdf             I've a question.....
+2008-11-11 09:51 dsdf             my scenario is a wired network and some wireless AP  on different places with some clients on each one.... my question is, just sniffing in one of those clients ( by ethereal or whatever) I'm going to get the pockets of everybody or just from the clients of my AP?
+2008-11-11 09:51 dsdf             and why...
+2008-11-11 09:51 chalco           the clients of the AP + broadcast traffic
+2008-11-11 09:52 chalco           the AP will only forward traffic destined to a wireless client, or a broadcast
+2008-11-11 09:52 Spo0nz           /join 
+2008-11-11 09:54 dsdf             ok right.... and if the client which is sniffing is connected directly on the wired network, in promiscuous mode... will it get all the packets of the network?
+2008-11-11 09:54 dsdf             I meant... the promiscuous mode in a wired network is just for sniff the clients conected to a switch or everybody?
+2008-11-11 09:56 Spo0nz           /quit Client Quit
+2008-11-11 09:56 chalco           a switch will only forward broadcasts and any packets destined for that host
+2008-11-11 09:56 chalco           (on a given port)
+2008-11-11 09:57 jeev             sup chalco
+2008-11-11 09:57 chalco           hello
+2008-11-11 09:58 jeev             othing
+2008-11-11 09:58 jeev             nothing much, getting quote from cable co
+2008-11-11 09:58 jeev             they tell me that it's all their equipment
+2008-11-11 09:58 jeev             and their routes are transparent
+2008-11-11 09:58 dsdf             aha... so promiscuous mode on wired networks is only useful and will be able to collect only the packets conected to a hub and broadcast, right?
+2008-11-11 09:58 jeev             so i'll just need a server, they'll even provide a media converter lol
+2008-11-11 09:59 chalco           I see
+2008-11-11 09:59 chalco           dsdf, correct
+2008-11-11 09:59 jeev             they're checking prices on lower commit.
+2008-11-11 09:59 jeev             but for gig PTP, they think it's 4k, possibly less
+2008-11-11 09:59 chalco           dsdf, you will still see all traffic coming to that node
+2008-11-11 09:59 jeev             and they may even cover buildout
+2008-11-11 10:00 d3               /join 
+2008-11-11 10:01 dsdf             so, for example.... if I have a switch and some clients connected to that switch, if someone is sniffing, will it see all packets or only broadcast and its own packets? :| that what it doesn't make sense
+2008-11-11 10:01 chalco           only broadcast and its own packets
+2008-11-11 10:01 dsdf             ok, I undestand now.... :)
+2008-11-11 10:01 jeev             chalco, i hope they give me a low low low price for the 50mbit commit for PTP
+2008-11-11 10:02 jeev             my god that'd be awesome to start with
+2008-11-11 10:02 chalco           I'm sure you do hope that
+2008-11-11 10:02 jeev             chalco, is it legal to start selling wimax like airband.com ?
+2008-11-11 10:02 jeev             ahaa
+2008-11-11 10:02 Sargun_Screen    Arp poisoning..
+2008-11-11 10:02 Sargun_Screen    Also, multicast
+2008-11-11 10:02 dsdf             chalco,  thank you
+2008-11-11 10:03 chalco           jeev, as far as I know. you might need spectrum licenses
+2008-11-11 10:03 jeev             mhmm
+2008-11-11 10:04 jeev             i'd do QoS and let my clients burst as much as they wanted
+2008-11-11 10:05 jeev             but it's too much to say that they can't use limewire and crap, right?
+2008-11-11 10:05 chalco           with all due respect, you don't know how to order a PtP link, and you are going to start an ISP?
+2008-11-11 10:05 jeev             i do know
+2008-11-11 10:05 jeev             i was confused
+2008-11-11 10:05 jeev             some turd told me the wrong terminology
+2008-11-11 10:05 jeev             i've alwys known what to get
+2008-11-11 10:05 Lars_G           /join 
+2008-11-11 10:08 Sargun_Screen    ....How much working cap do you have?
+2008-11-11 10:09 Sargun_Screen    jeev: your nick sounds familiar.
+2008-11-11 10:09 Sargun_Screen    where you the guy trying to do BGP over an SBC DSL line?
+2008-11-11 10:10 Capso_           Oh, what a poor idea
+2008-11-11 10:10 Capso_           haha, SBC DSL ;(
+2008-11-11 10:11 Sargun_Screen    /part ##networking 
+2008-11-11 10:11 Sargun_Screen    /join 
+2008-11-11 10:11 chalco           s/poor/impossible/
+2008-11-11 10:11 Sargun_Screen    :-
+2008-11-11 10:11 Sargun_Screen    :-(
+2008-11-11 10:12 ChanServ         /mode +v Sargun_Screen
+2008-11-11 10:12 jeev             no lol
+2008-11-11 10:12 jeev             i did do a failover with dsl/cable ??
+2008-11-11 10:12 jeev             and pfsense at home with two cable
+2008-11-11 10:12 Sargun_Screen    ok, how much working capital do you have?
+2008-11-11 10:12 jeev             but never done bgp heh
+2008-11-11 10:12 jeev             100k on this project
+2008-11-11 10:12 Sargun_Screen    For your ISP?
+2008-11-11 10:12 jeev             i'm gonna fund it myself
+2008-11-11 10:13 jeev             i have nobody to pay
+2008-11-11 10:13 Sargun_Screen    Are you in the US?
+2008-11-11 10:13 chalco           I worked for someone that did
+2008-11-11 10:13 jeev             Sargun_Screen, i'm gonna just outfit a building withj fiber and let htem buy service from me
+2008-11-11 10:13 jeev             yea
+2008-11-11 10:13 chalco           *did that
+2008-11-11 10:13 chalco           twice
+2008-11-11 10:13 jeev             chalco, successful?
+2008-11-11 10:13 jeev             succesful ?
+2008-11-11 10:13 chalco           it failed both times
+2008-11-11 10:13 jeev             damn
+2008-11-11 10:13 jeev             what did he try
+2008-11-11 10:13 jeev             i want to get the tenants in the building to commit to it
+2008-11-11 10:13 jeev             see if it meets theeir expectations
+2008-11-11 10:13 jeev             i'm not planning wimax really
+2008-11-11 10:13 jeev             until i perfect the building
+2008-11-11 10:14 Sargun_Screen    Are you in the US?
+2008-11-11 10:14 jeev             there is a single office with 4 t1's
+2008-11-11 10:14 jeev             just internet
+2008-11-11 10:14 jeev             yes.
+2008-11-11 10:14 jeev             i am in the US
+2008-11-11 10:14 Sargun_Screen    Where in the US?
+2008-11-11 10:14 jeev             so they pay i think 2k, cause they're overpaying
+2008-11-11 10:14 jeev             los angeles
+2008-11-11 10:14 Sargun_Screen    Yeah..
+2008-11-11 10:14 jeev             so i could bring a loop in there, offer them same price for 20mbit i guess
+2008-11-11 10:14 Sargun_Screen    Yeah, you're the same guy....
+2008-11-11 10:15 jeev             BGP ?
+2008-11-11 10:15 jeev             i've never tried bgp over sbc
+2008-11-11 10:15 jeev             heh
+2008-11-11 10:15 Sargun_Screen    No, no. you were trying to do something eccentric
+2008-11-11 10:16 chalco           buying a PtP fiber link isn't that eccentric
+2008-11-11 10:16 Sargun_Screen    chalco: He was trying to use a block of IPs he had 'purchased' from another provider
+2008-11-11 10:16 chalco           not when I spoke to him, at least
+2008-11-11 10:16 ktwilight        /join 
+2008-11-11 10:17 Sargun_Screen    anyways..
+2008-11-11 10:17 jeev             huh
+2008-11-11 10:17 jeev             ME?
+2008-11-11 10:17 Sargun_Screen    jeev: So, anyways, do you own a building or something?
+2008-11-11 10:17 jeev             no
+2008-11-11 10:17 jeev             hold up
+2008-11-11 10:17 jeev             that wasn't me dood
+2008-11-11 10:17 jeev             when was this?
+2008-11-11 10:17 jeev             i've been on freenode like a few months
+2008-11-11 10:18 Sargun_Screen    It's alright.
+2008-11-11 10:18 dsdf             /quit Connection reset by peer
+2008-11-11 10:18 jeev             i want to offer the landlord
+2008-11-11 10:18 jeev             the owner of te building
+2008-11-11 10:18 dsdf             /join 
+2008-11-11 10:19 jeev             well, i'm gonna tell him that i want to put fiber and it'll help in desireability
+2008-11-11 10:19 jeev             desirability
+2008-11-11 10:19 ktwilight        /quit Remote closed the connection
+2008-11-11 10:19 jeev             and there is someone upstairs that alone pays 2k.
+2008-11-11 10:19 jeev             so if i can commit a small commit at 1k/month
+2008-11-11 10:19 jeev             and bandwidth..
+2008-11-11 10:19 jeev             i can cover that and profit off rest.
+2008-11-11 10:20 Sargun_Screen    wait, are you also jeeves?
+2008-11-11 10:20 jeev             no
+2008-11-11 10:20 jeev             damnit
+2008-11-11 10:20 jeev             and plus, i already have a cage.. and shit at the datacenter
+2008-11-11 10:20 jeev             my cost is bandwidth and ptp
+2008-11-11 10:21 Sargun_Screen    what DC?
+2008-11-11 10:21 jeev             one wilshire
+2008-11-11 10:21 Sargun_Screen    Oh, neat.
+2008-11-11 10:21 jeev             yes.
+2008-11-11 10:21 jeev             tell me if i'm thinking wrong.
+2008-11-11 10:21 jeev             a) get pricing for PTP, including install, build out.. blablhahlab
+2008-11-11 10:22 jeev             b) i alreayde have bandwidth pricing.
+2008-11-11 10:22 jeev             c) price out my two routers. point A and B.
+2008-11-11 10:22 jeev             i'm gonna use linux or bsd.
+2008-11-11 10:22 jeev             simple shit.
+2008-11-11 10:22 jeev             i'll probably sell $30/mbit to the tenants, they'll like it cause it's symmetrical
+2008-11-11 10:22 Sargun_Screen    well, once you get IP to the building
+2008-11-11 10:22 jeev             and i'll also offer off site storage
+2008-11-11 10:22 Sargun_Screen    most people don't care if it is symmetrical
+2008-11-11 10:22 jeev             ahh
+2008-11-11 10:23 Sargun_Screen    $30/mbit, why would they pay that?
+2008-11-11 10:23 jeev             they want it man, people are yearning to tell ATT to fuck off
+2008-11-11 10:23 jeev             because, they're smart people here. they will pay it
+2008-11-11 10:23 jeev             for dedicated access?
+2008-11-11 10:23 Sargun_Screen    you can get oversubscribed T DSL for $12.95/Mbit/sec
+2008-11-11 10:23 jeev             multihomed dedicated internet
+2008-11-11 10:23 jeev             i'll also let them put their server at the datacenter for a fee, use as off site.
+2008-11-11 10:23 jeev             and pay cost+5 for loop.
+2008-11-11 10:23 jeev             simple as that.
+2008-11-11 10:24 Sargun_Screen    How many people have a server?
+2008-11-11 10:24 jeev             cheap off site back up managed by the company
+2008-11-11 10:24 Sargun_Screen    that they want offsite?
+2008-11-11 10:24 jeev             it's a big company upstairs
+2008-11-11 10:24 jeev             they have two floors and like 200 people
+2008-11-11 10:24 jeev             i'm sure
+2008-11-11 10:24 jeev             they have off site back up
+2008-11-11 10:25 jeev             why not secure it themselves at a cheap price
+2008-11-11 10:25 jeev             am i wrong or am i wrong
+2008-11-11 10:26 jeev             i could easily offer them 100mbit for 3k, dedicated
+2008-11-11 10:26 jeev             they'd take it
+2008-11-11 10:26 jeev             i'll guarantee it.
+2008-11-11 10:27 jeev             i just think the building is too small ;/
+2008-11-11 10:27 Sargun_Screen    /quit "Lost terminal"
+2008-11-11 10:28 Sargun_Screen    /join 
+2008-11-11 10:28 ChanServ         /mode +v Sargun_Screen
+2008-11-11 10:31 jeev             what are you thinking dood
+2008-11-11 10:31 jeev             you sound like
+2008-11-11 10:31 jeev             disappointed and think it's a dumb idear.
+2008-11-11 10:45 Chaser_          /quit 
+2008-11-11 10:52 superdude2k      /join 
+2008-11-11 10:56 Yo_              /join 
+2008-11-11 10:58 dsdf             /quit Read error: 104 (Connection reset by peer)
+2008-11-11 11:00 Yo__             /join 
+2008-11-11 11:03 nicbharadwaj     /join 
+2008-11-11 11:04 dsdf             /join 
+2008-11-11 11:04 Yo__             /quit Read error: 54 (Connection reset by peer)
+2008-11-11 11:07 redb1ue          /join 
+2008-11-11 11:09 d3               /quit Read error: 60 (Operation timed out)
+2008-11-11 11:14 d3               /join 
+2008-11-11 15:41 ManateeLazyCat   /join 
+2008-11-11 15:41 brown.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-11 15:41 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-11 15:48 sep              /join 
+2008-11-11 15:48 ChanServ         /mode +v sep
+2008-11-11 15:50 Haris1           /join 
+2008-11-11 15:50 Haris1           Hello people
+2008-11-11 15:54 Haris1           I am considering two devices, one is ASA 5510 and the other is Juniper SSG5. They have a significant price different. I have a Cisco background. I'm told, if you know Cisco, you can configure Juniper devices. What I'm looking for is a firewall and vpn server (20 connections) for small office of 60 people
+2008-11-11 16:02 Haris1           difference+
+2008-11-11 16:11 sep              /quit "Leaving"
+2008-11-11 16:11 Supaplex         Haris1: there's also j-series routers. JUNOS with enhanced services does all the above. vpn and firewall policy.  juniper.net has a podcast "JUNOS as a second language" for the Cisco audiance learning Juniper
+2008-11-11 16:16 qubit            /join 
+2008-11-11 16:21 moebius`home     /join 
+2008-11-11 16:22 foo-nix          /join 
+2008-11-11 16:31 OzoNe            /join 
+2008-11-11 16:57 war9407          /join 
+2008-11-11 17:05 izua             /join 
+2008-11-11 17:05 izua             /nick Guest9669
+2008-11-11 17:07 Guest9669        /quit Client Quit
+2008-11-11 17:07 yango            /join 
+2008-11-11 17:08 biatche          Anybody familiar with Dual NICs? I have a Intel PRO/1000 MT Server Adapter (PWLA8492MT). When I use DHCP, it gets weird different ips like 169.x.x.x when it should be 192.168.0.x.. I'm able to detect the mac address of the nics, but, hmm, nothing seems to be working. I don't even know where to begin.
+2008-11-11 17:12 redb1ue          /join 
+2008-11-11 17:15 shani^work       /join 
+2008-11-11 17:28 war9407          /quit "Leaving"
+2008-11-11 17:34 FrFluffyBottom   Haris1: JunOS is fairly different imho - and does require a bit of learning before you can run in and tackle it. Also, I'd consider looking at a 5505 if you're comparing it to an SSG5
+2008-11-11 17:34 FrFluffyBottom   Just a though
+2008-11-11 17:34 FrFluffyBottom   t
+2008-11-11 18:00 vishous          /join 
+2008-11-11 18:03 Blue_Mousey      /join 
+2008-11-11 18:04 doublehp         /join 
+2008-11-11 18:04 doublehp         http://villers.doublehp.org/plop.URGENT does this mean he craked my user password ?
+2008-11-11 18:05 doublehp         he tried to crak me hundred times, untill i filter IPs with Iptables; question is now; what did he do ? how much is this dangerous for my privacy ?
+2008-11-11 18:08 iascorga         doublehp: 86.69.23.133
+2008-11-11 18:09 iascorga         did log on as root, if that's what you mean.
+2008-11-11 18:10 doublehp         ? as root ? which line does tell you this ?
+2008-11-11 18:10 doublehp         i thought he just logged as user (what in fact for me, is worse
+2008-11-11 18:10 doublehp         )
+2008-11-11 18:11 iascorga         doublehp: yeah, sorry i'm not with it this morning.
+2008-11-11 18:11 doublehp         i only see 133.23.69-86.rev.gaoland.net loging as user; but, i want to know if he guessed my password, and, how ...
+2008-11-11 18:12 iascorga         is your password weak?
+2008-11-11 18:13 doublehp         from logs (i log everything), it's the first attempt against my user; 99,999999% attemps are against non existing users (root, admin, mail ... ). That day, Gaoland attacks my user "dhp", and get it firs shot. I am really surprised.
+2008-11-11 18:13 doublehp         IMHO, no :)
+2008-11-11 18:13 doublehp         7 letters, mix of small, caps, and numbers. Not that strong, but, not a thing that should be guessed "first shot"
+2008-11-11 18:14 doublehp         are derivated from a word that is not in the dictionary
+2008-11-11 18:15 doublehp         Gaoland is famous in Google. I just wonder what he usually does.
+2008-11-11 18:16 Muisje2          /join 
+2008-11-11 18:17 doublehp         GRRR I banned a /12, but Gaoland obviously own an other range !
+2008-11-11 18:24 shani^work       /quit Read error: 110 (Connection timed out)
+2008-11-11 18:24 Muisje2          doublehp, awhh
+2008-11-11 18:24 doublehp         Muisje2: ?
+2008-11-11 18:24 Muisje2          I feel sorry for you :o
+2008-11-11 18:25 Blue_Mousey      /quit Success
+2008-11-11 18:25 Muisje2          success?
+2008-11-11 18:25 Muisje2          lol
+2008-11-11 18:25 Muisje2          /nick MuisjeNL
+2008-11-11 18:25 Ficthe           /join 
+2008-11-11 18:27 biatche          Can anyone suggest good/stable 1gbit nics?
+2008-11-11 18:27 Ficthe           small, silly question: if behind my modem, I have 4 different machines, each with port 80 open and apache running.. what'll happen? o.0
+2008-11-11 18:27 doublehp         MuisjeNL: my questions were: did he guess my password ? what kind of things does Gaoland usually do ?
+2008-11-11 18:27 FrFluffyBottom   Ficthe: Nothing
+2008-11-11 18:27 Ficthe           I mean, how can I know which page of which machine shall be displayed by the ip address?
+2008-11-11 18:27 doublehp         Ficthe: depends
+2008-11-11 18:28 doublehp         Ficthe: depends hgow many IPs you have
+2008-11-11 18:28 doublehp         i meant, of course: PUBLIC IPs
+2008-11-11 18:28 MuisjeNL         You said, you banned a /12 which aint the range gaoland is in.
+2008-11-11 18:28 Ficthe           well, one, I suppose. I am talking residential modem
+2008-11-11 18:29 doublehp         Ficthe: then, on ly the machine have your only public IP will be visible
+2008-11-11 18:29 iascorga         doublehp: gaoland appears to be an open proxy.
+2008-11-11 18:29 redb1ue          /nick redblue
+2008-11-11 18:29 doublehp         i used to block only 77.192.1.1/12 and just added 86.64.0.0-86.77.255.255
+2008-11-11 18:31 doublehp         Ficthe: if the modem is doing NAT, and not forwarding: None. In the best case, one machine can be visible, if you activate port forwarding.
+2008-11-11 18:31 Ficthe           doublehp, my modem feeds the connection to my wrt54gl router - and suppose each of the 4 machines feeding of it have port 80 open.. well,  this assignment of public ip to a machine you speak of, this is probably something to be set on the router's settings page?
+2008-11-11 18:32 doublehp         Ficthe: either you have one public IP, or several. You can not have more web servers than public IPs
+2008-11-11 18:32 xev__            /join 
+2008-11-11 18:33 doublehp         most residential have only one (there are exceptions)
+2008-11-11 18:33 Ficthe           well I understand that, I was just curious which machine shall take precedence if the ip address is accessed on port 80 :)
+2008-11-11 18:34 doublehp         the one the router has forwarding set to.
+2008-11-11 18:34 doublehp         if unset => none
+2008-11-11 18:35 doublehp         MuisjeNL: what is the probability he craks me on first attempt ?
+2008-11-11 18:36 foo-nix          /quit Read error: 110 (Connection timed out)
+2008-11-11 18:36 MuisjeNL         That he guesses your password?
+2008-11-11 18:37 MuisjeNL         Depends on what passwords you use. If you use default passwords, i would say 90%
+2008-11-11 18:37 doublehp         1/(2^(26*2+10) = 1/ 4.6E18
+2008-11-11 18:37 robink           /join 
+2008-11-11 18:37 doublehp         7 mins, caps, numbers
+2008-11-11 18:38 doublehp         no, i was wrong; 3.5 E12
+2008-11-11 18:38 xev___           /join 
+2008-11-11 18:38 Blue_Mousey      /join 
+2008-11-11 18:39 MuisjeNL         /quit Nick collision from services.
+2008-11-11 18:39 Blue_Mousey      /nick MuisjeNL
+2008-11-11 18:39 Ficthe           oh I may as well ask: concepts of networking aren't exactly neat and tidy in my head, could someone suggest a good read so I can be a bit more well-informed? any specific resource?
+2008-11-11 18:40 Agiofws          /join 
+2008-11-11 18:42 xand             Ficthe: see the topic
+2008-11-11 18:44 Ficthe           well that was convenient, thanks!
+2008-11-11 18:45 Ficthe           /quit "night"
+2008-11-11 18:51 xev__            /quit Read error: 110 (Connection timed out)
+2008-11-11 18:57 xev__            /join 
+2008-11-11 18:57 xev___           /quit Read error: 110 (Connection timed out)
+2008-11-11 18:59 chadmaynard      /join 
+2008-11-11 18:59 FrFluffyBottom   Networking is a wet wire to connect servers together - it's easy
+2008-11-11 19:00 Agiofws          /quit Remote closed the connection
+2008-11-11 19:02 linus__^         /join 
+2008-11-11 19:03 xev__            /quit Read error: 60 (Operation timed out)
+2008-11-11 19:04 xev__            /join 
+2008-11-11 19:05 |moebius|        /join 
+2008-11-11 19:05 moebius`home     /quit Read error: 104 (Connection reset by peer)
+2008-11-11 19:05 Haris1           When I went through MCSE: Networking Essentials course, I was impressed on the layout and material of the course. It was extremely focussed and informative, leading the person who went through it, to know everything in the best possible way
+2008-11-11 19:08 linus__^         /nick rendar
+2008-11-11 19:11 sep              /join 
+2008-11-11 19:11 ChanServ         /mode +v sep
+2008-11-11 19:16 Oprtz            /join 
+2008-11-11 19:17 Oprtz            do anybody know the terminal commands to enable Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection (rev 02)  card ? thanks
+2008-11-11 19:21 xand             no
+2008-11-11 19:21 xand             maybe if you said what OS you were using
+2008-11-11 19:22 MuisjeNL         Oprtz, every heard of a manual maybe?
+2008-11-11 19:22 MuisjeNL         ever*
+2008-11-11 19:22 Oprtz            MuisjeNL:  :)
+2008-11-11 19:23 Oprtz            the manual is all about windowsXP
+2008-11-11 19:23 MuisjeNL         Not to be the standard RTFM guy but since you provide us with no information at all, it's kind of hard to give a different response
+2008-11-11 19:23 Oprtz            ahhh, i am using ubuntu 8.10,
+2008-11-11 19:26 sep              Oprtz, what gives you the idea that it needs to be enabled ? perhaps you have just not configured it yet ?
+2008-11-11 19:27 sep              nevermind me, i didn't see the "wireless" bit in there :) personaly i use network-manager for wireless interfaces
+2008-11-11 19:27 Oprtz            sep:  i am new to ubuntu OS, i tried to switch on the wirless adaptor, but the light is OFF,
+2008-11-11 19:27 sep              tried asking in #ubuntu ?
+2008-11-11 19:28 Oprtz            okie
+2008-11-11 19:28 Oprtz            thanks
+2008-11-11 19:28 sep              i use kde, and use knetwork manager
+2008-11-11 19:29 MuisjeNL         also Oprtz, google gave me this: http://ubuntuforums.org/archive/index.php/t-356928.html
+2008-11-11 19:30 MuisjeNL         Which might be exactly what you are looking for
+2008-11-11 19:30 Oprtz            MuisjeNL:  thanks alot dude
+2008-11-11 19:35 yango            /quit Read error: 104 (Connection reset by peer)
+2008-11-11 19:37 yango            /join 
+2008-11-11 19:44 yango            /quit Read error: 104 (Connection reset by peer)
+2008-11-11 19:48 yango            /join 
+2008-11-11 19:49 xev___           /join 
+2008-11-11 19:49 deny[all]        /join 
+2008-11-11 19:49 Siffy            /join 
+2008-11-11 19:49 chadmaynard      /quit "http://www.mibbit.com ajax IRC Client"
+2008-11-11 19:52 xev__            /quit Read error: 60 (Operation timed out)
+2008-11-11 20:02 Oprtz            /part ##networking 
+2008-11-11 20:02 MindTheGap       /join 
+2008-11-11 20:03 Agiofws          /join 
+2008-11-11 20:17 foo-nix          /join 
+2008-11-11 20:37 doublehp         /part ##networking 
+2008-11-11 20:38 slayer           /join 
+2008-11-11 20:42 wild_oscar       /join 
+2008-11-11 20:42 wild_oscar       hi there. does any of you know how to set up a WDS?
+2008-11-11 20:43 wild_oscar       is there an advantage of this over having two wireless points directly connected to the LAN?
+2008-11-11 20:43 wild_oscar       (wired, that is)
+2008-11-11 20:54 envirocbr        /join 
+2008-11-11 21:00 ManateeLazyCat   /join 
+2008-11-11 21:00 kubrick.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-11 21:00 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-11 21:02 agiofws_         /join 
+2008-11-11 21:04 OBcecado_        wild_oscar: imo cabling infrastructure is always better than wireless
+2008-11-11 21:07 OBcecado_        /nick obcecado
+2008-11-11 21:08 obcecado         /nick OBcecado
+2008-11-11 21:09 OBcecado         /nick obcecado
+2008-11-11 21:11 envirocbr        /join 
+2008-11-11 21:14 tazz             /join 
+2008-11-11 21:29 xand             I'd only use wireless when there's no other choice
+2008-11-11 21:29 xand             well, no other practical choice
+2008-11-11 21:32 scampbell        /join 
+2008-11-11 21:33 obcecado         /quit "leaving"
+2008-11-11 21:34 OBcecado         /join 
+2008-11-11 21:36 OBcecado         /quit Client Quit
+2008-11-11 21:37 OBcecado         /join 
+2008-11-11 21:37 OBcecado         /quit Client Quit
+2008-11-11 21:38 OBcecado         /join 
+2008-11-11 21:53 Hfuy             /join 
+2008-11-11 21:53 Hfuy             Hello.
+2008-11-11 21:53 Hfuy             Is there any way of discovering how much free space there is on a samba share, remotely? This is generally between windows clients, but may involve linux occasionally.
+2008-11-11 22:03 xev___           /join 
+2008-11-11 22:08 man_at_arms      /join 
+2008-11-11 22:08 peleg_           /join 
+2008-11-11 22:12 UberOtaki        /join 
+2008-11-11 22:15 MuisjeNL         If a RIP route becomes unreachable, how long will it take before the route is flushed? Time-out+flush timer right?
+2008-11-11 22:15 MuisjeNL         (with default values, would be 300 as timeout timer is 180 and flush 120)
+2008-11-11 22:20 Vadtec           /part ##networking 
+2008-11-11 22:20 Vadtec           /join 
+2008-11-11 22:38 xand             Hfuy: if you map it as a network drive on windows it'll show you
+2008-11-11 22:39 glacius          /join 
+2008-11-11 22:45 MuisjeNL         /nick Muisje
+2008-11-11 22:47 Muisje           /nick catnip
+2008-11-11 22:48 izua             /join 
+2008-11-11 22:50 catnip           /nick Muisje
+2008-11-12 08:21 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-11-12 08:31 ManateeLazyCat   /join 
+2008-11-12 08:31 leguin.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-12 08:31 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-12 08:36 xev__            /join 
+2008-11-12 08:40 xev___           /join 
+2008-11-12 08:42 Hfuy             Is there any way of discovering how much free space there is on a samba share, remotely? This is generally between windows clients, but may involve linux occasionally.
+2008-11-12 08:56 xev__            /quit Read error: 110 (Connection timed out)
+2008-11-12 08:58 z4v              /join 
+2008-11-12 09:19 CcSsNET          /join 
+2008-11-12 09:25 Niedar           /join 
+2008-11-12 09:29 Epic|||          /join 
+2008-11-12 09:32 Epic|||          /nick Epic|
+2008-11-12 09:47 malanm           /join 
+2008-11-12 09:50 malanm           /nick cherrytop
+2008-11-12 09:50 cherrytop        Netstat shows a great deal of listening sockets like this:    TCP    0.0.0.0:135            0.0.0.0:0              LISTENING        Can anyone speculate why the source and destination addresses are all zeros?
+2008-11-12 09:53 Hfuy             You're on Windows?
+2008-11-12 09:53 cherrytop        Yeah
+2008-11-12 09:53 Hfuy             try netstat /b, which should list the programs which opened the ports.
+2008-11-12 09:55 cherrytop        Yeah, they're all suspicious processes, but I don't understand why they're all zeros instead of a specific address?
+2008-11-12 09:55 Hfuy             Haven't the foggiest
+2008-11-12 09:55 chalco           0.0.0.0 means all addresses
+2008-11-12 09:56 Hfuy             I was about to say, isn' 0.0.0.0 the broadcast address
+2008-11-12 09:56 chalco           and 135 isn't suspicious, it's windows filesharing
+2008-11-12 09:56 chalco           no, 255.255.255.255 is the broadcast address
+2008-11-12 09:56 Hfuy             I don't know. Listen to chalco.
+2008-11-12 09:57 cherrytop        So it's listening on all addresses for connections from all addresses?
+2008-11-12 09:57 kidem            /join 
+2008-11-12 09:57 cherrytop        And when it makes a connection, a netstat should show the real source and destination, correct?
+2008-11-12 09:57 chalco           correct
+2008-11-12 09:58 cherrytop        Thanks!
+2008-11-12 09:58 chalco           You're welcome
+2008-11-12 10:01 cherrytop        /quit "Leaving"
+2008-11-12 10:07 jeev             hi chalco
+2008-11-12 10:08 chalco           hello
+2008-11-12 10:09 a1fa             /join 
+2008-11-12 10:09 a1fa             has anyone ever seen a blank hop in a traceroute?
+2008-11-12 10:09 a1fa             not due to dns failure
+2008-11-12 10:09 chalco           what do you mean, blank?
+2008-11-12 10:09 a1fa              1   8.78 ms  6.983 ms  8.251 ms
+2008-11-12 10:09 a1fa             like, literally no IP shows up
+2008-11-12 10:10 a1fa             i am doing a tcpdump now to see wtf
+2008-11-12 10:10 chalco           might be a firewall or something that decrements TTL, but doesn't route?
+2008-11-12 10:10 chalco           since it is #1, it is close to you
+2008-11-12 10:10 chalco           what environment are you in?
+2008-11-12 10:11 a1fa             openbsd on sun platform
+2008-11-12 10:11 a1fa             next hop is the router in my neighborhood
+2008-11-12 10:12 chalco           your ISP?
+2008-11-12 10:12 a1fa             aha
+2008-11-12 10:12 a1fa             cable
+2008-11-12 10:13 a1fa             hm this shit never happened before
+2008-11-12 10:13 a1fa             nexthop was always there
+2008-11-12 10:14 chalco           that *is* odd
+2008-11-12 10:14 chalco           but who knows what your ISP is doing
+2008-11-12 10:14 jeev             feds have something transparent
+2008-11-12 10:14 jeev             or trying to be transparent
+2008-11-12 10:14 jeev             OWNING YOU!
+2008-11-12 10:15 chalco           at the first hop? I doubt it.
+2008-11-15 21:51 ManateeLazyCat   /join 
+2008-11-15 21:51 lem.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-15 21:51 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-16 22:36 ManateeLazyCat   /join 
+2008-11-16 22:36 clarke.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-16 22:36 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-16 22:37 no_gatez_fan     /join 
+2008-11-16 22:37 mattS            I set up a wireless router as a switch once, I cant remember how, and some how am not getting much love from google. maybe switch isnt the right term... when connecting to the wireless router it is like I am part of the parent network, can do things like brows shared folders
+2008-11-17 08:01 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-11-17 10:06 ManateeLazyCat   /join 
+2008-11-17 10:06 kornbluth.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-17 10:06 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-17 10:11 xev\stoned       /join 
+2008-11-17 10:21 xev\sleep        /join 
+2008-11-17 10:36 xev\stoned       /quit Read error: 110 (Connection timed out)
+2008-11-17 10:37 xev\stoned       /join 
+2008-11-17 10:42 diegoviola       luke-jr: are you there?
+2008-11-17 10:42 diegoviola       guys can you help me with some network stuff
+2008-11-17 10:44 chalco           /action sighs
+2008-11-17 10:44 chalco           just ask the questions
+2008-11-17 10:53 DoYouKnow        /join 
+2008-11-17 10:54 xev\sleep        /quit Read error: 110 (Connection timed out)
+2008-11-17 11:00 xev\stoned       /quit Read error: 110 (Connection timed out)
+2008-11-17 11:04 Xedecimal        /join 
+2008-11-17 11:05 Xedecimal        anyone here familiar with an actiontec router, most specifically the verizon fios actiontec router
+2008-11-17 11:07 Xedecimal        when I'm adding a network protocol, it whines when I have two designated 'Any' tcp destinations... Yet if I have 500 'Any' source designations, it could care less, should I be using only destination or source? I was thinking that incoming port 80 would suggest a local webserver, and outgoing port 80 would suggest a local web browser right?
+2008-11-17 11:08 Xedecimal        and now that I'm sending information over port 6667 or whichever port this irc server is on, it seems as though qos is limiting ALL my network activity, because it falls under a low priority rule, is this how it is supposed to work? I was hoping to set QoS on only specific protocol activity, not ip based
+2008-11-17 11:11 viaSanctus       and in which case should you base it on ip?
+2008-11-17 11:11 Xedecimal        I can't think of any reason to base it on ip myself, but I do see what you're getting at, it's not limiting a specific ip for using a protocol that is deemed unworthy ?
+2008-11-17 11:12 Xedecimal        actually, I can, if you have a 14 year old in the house that likes to download viruses, that like to lag your network, chances are, you want to limit that ip
+2008-11-17 11:12 Xedecimal        a cheap hacky fix, but it would work
+2008-11-17 11:15 luke-jr          /join 
+2008-11-17 11:15 Xedecimal        geez, I think I get it now
+2008-11-17 11:16 Xedecimal        if I were to configure it that way, I would be configuring a qos rule for a dns server that does not exist here
+2008-11-17 11:16 Xedecimal        whether outgoing or incoming, it's almost always going to be the destination that defines the protocol
+2008-11-17 11:17 Xedecimal        I think that sorts out all my qos woes, and your suggestion rules out my paranoia, lol
+2008-11-17 11:17 Xedecimal        thanks viaSanctus
+2008-11-17 11:17 Xedecimal        /quit "ChatZilla 0.9.83 [Firefox 3.0.4/2008102920]"
+2008-11-17 11:26 viaSanctus       lol
+2008-11-17 11:29 elmer_jfudd      /join 
+2008-11-17 11:37 cl0ud            /join 
+2008-11-17 11:42 luke-jr          /quit "leaving"
+2008-11-17 11:42 diegoviola       i have to make people talk between two continents with voip
+2008-11-17 11:42 diegoviola       but hte latency and hte quality always suck
+2008-11-17 11:43 diegoviola       mostly between the US and UK
+2008-11-17 11:43 diegoviola       i need to figure out how to get a decent connection between those countries with no lag/delay
+2008-11-17 11:44 viaSanctus       lease dedicated bandwith?
+2008-11-17 11:44 viaSanctus       (pre vpn best practice)
+2008-11-17 11:46 Sargun           were you the guys who posted to nanog-ml
+2008-11-17 11:46 diegoviola       viaSanctus: pre vpn?
+2008-11-17 11:46 viaSanctus       well yeah companies used to lease dedicated lines to connect offices
+2008-11-17 11:46 viaSanctus       but then vpn came..
+2008-11-17 11:46 diegoviola       other people was recommending me tier-1 connections between the two continents
+2008-11-17 11:46 viaSanctus       its much cheaper
+2008-11-17 11:47 Sargun           uhm
+2008-11-17 11:47 Sargun           no.
+2008-11-17 11:47 diegoviola       how vpn will help with the bandwidth?
+2008-11-17 11:47 Sargun           just get huge jitter buffers
+2008-11-17 11:47 viaSanctus       wasnt the solution diego
+2008-11-17 11:48 viaSanctus       and tier 1...
+2008-11-17 11:48 Sargun           how much $ do you have?
+2008-11-17 11:49 viaSanctus       isnt that to avoind paying for data-load
+2008-11-17 11:49 viaSanctus       i dont know if that will gain you speed by using their network
+2008-11-17 11:49 viaSanctus       a leased dedicated line will be the fastest afaik
+2008-11-17 11:49 diegoviola       Sargun: my boss has a lot and i think he is willing to invest
+2008-11-17 11:50 Sargun           diegoviola, bury your own cable.
+2008-11-17 11:50 Sargun           land it in new york
+2008-11-17 11:50 viaSanctus       lol
+2008-11-17 11:50 viaSanctus       yeah
+2008-11-17 11:50 viaSanctus       thats better..
+2008-11-17 11:50 diegoviola       how much would it cost
+2008-11-17 11:51 viaSanctus       besides having to bribe the us president?
+2008-11-17 11:51 Sargun           uhm
+2008-11-17 11:51 Sargun           a few million dollars ?
+2008-11-17 11:51 Sargun           20-30
+2008-11-17 11:51 Sargun           million
+2008-11-17 11:51 diegoviola       well, i don't think he'd like to invest that much either
+2008-11-17 11:51 viaSanctus       i think there's a 10cm phiber line
+2008-11-17 11:51 viaSanctus       how much does glass cost?
+2008-11-17 11:52 viaSanctus       its about 6000 miles
+2008-11-17 11:52 viaSanctus       * 10cm * 10cm
+2008-11-17 11:52 viaSanctus       :p
+2008-11-17 11:59 diegoviola       voip sucks on public internet i think
+2008-11-17 12:03 diegoviola       Multiprotocol Label Switching
+2008-11-17 12:03 diegoviola       how about that
+2008-11-17 12:05 elmer_jfudd      /quit 
+2008-11-17 12:06 photon2          /join 
+2008-11-17 12:08 DoYouKnow        /quit "ChatZilla 0.9.83 [Firefox 3.0.3/2008092417]"
+2008-11-17 12:10 Sebboh           Oddly enough I make crystal clear trans-atlantic calls every day.
+2008-11-17 12:10 diegoviola       Sebboh: how?
+2008-11-17 12:10 diegoviola       Sebboh: what do you use?
+2008-11-17 12:11 Sebboh           Skype.  ...Which, as you know, sucks a lot.  It's closed, it's propietary, it's non-free.  There are security issues, and privacy issues..  But, the call quality is good, because, Skype cheats.  They bounce my call through other customer's PCs.  Skype is semi-P2P.
+2008-11-17 12:12 Sebboh           gotta reboot.  ps if you find a decent solution that isn't skype, let me know. :(
+2008-11-17 12:12 Sebboh           /quit "reboot"
+2008-11-17 12:12 diegoviola       yeah skype always sounds good for some reason
+2008-11-17 12:12 diegoviola       in voice quality
+2008-11-17 12:12 viaSanctus       i use voipcheap
+2008-11-17 12:13 viaSanctus       find it better than skype
+2008-11-17 12:13 viaSanctus       and cheaper
+2008-11-17 12:13 nnull            /join 
+2008-11-17 12:16 diegoviola       viaSanctus: how do you use that service?
+2008-11-17 12:16 diegoviola       viaSanctus: do you use it with many users?
+2008-11-17 12:16 diegoviola       viaSanctus: does it interact with the pstn?
+2008-11-17 12:16 diegoviola       i need some kind of conference platform that interacts with the pstn
+2008-11-17 12:17 diegoviola       and sip-to-sip calls too
+2008-11-17 12:17 diegoviola       the protocol doens't matter really, it only have to be good in quality
+2008-11-17 12:17 diegoviola       thats why i chose freeswitch but it sucks on the public internet
+2008-11-17 12:17 diegoviola       i started with asterisk but that was buggy as hell as well
+2008-11-17 12:18 Sargun           when was that
+2008-11-17 12:18 diegoviola       what?
+2008-11-17 12:19 diegoviola       when was what?
+2008-11-17 12:19 viaSanctus       diegoviola, i use their client
+2008-11-17 12:19 viaSanctus       for skype i wrote my own, but didnt like their network much
+2008-11-17 12:20 viaSanctus       and i never used it with more than 1 participant in a phone call (if you mean that)
+2008-11-17 12:20 viaSanctus       and yes you can call fixed phone lines
+2008-11-17 12:20 diegoviola       Sargun: when i tried asterisk and found buggy?
+2008-11-17 12:20 viaSanctus       at very cheap rates even
+2008-11-17 12:20 Sargun           how long ago was that?
+2008-11-17 12:20 diegoviola       Sargun: 5 months ago
+2008-11-17 12:21 viaSanctus       i tried to have a conference with skype with muliple participants once, only one could react, the others could listen only
+2008-11-17 12:21 Sargun           odd.
+2008-11-17 12:21 Sargun           I've been running asterisk alright
+2008-11-17 12:21 Sargun           for many years
+2008-11-17 12:22 viaSanctus       if your boss is willing to invest
+2008-11-17 12:22 viaSanctus       i'm planning to develop a new unified messaging system
+2008-11-17 12:22 viaSanctus       not with asterisk libs though
+2008-11-17 12:22 viaSanctus       brekeke sounds promising
+2008-11-17 12:22 diegoviola       Sargun: i had dtmf issues (but this was probably because of packet loss), i had this with freeswitch too... and some sound issues but this is probably because of the network as well, although i didn't had this with FS
+2008-11-17 12:22 diegoviola       Sargun: and what pissed me off is that i needed the ztdummy module that was a pain to install on XEN
+2008-11-17 12:23 diegoviola       asterisk is fine
+2008-11-17 12:23 viaSanctus       brekeke offers alot for the .net platform
+2008-11-17 12:23 diegoviola       its just the bandwidth the problem i have
+2008-11-17 12:23 viaSanctus       well its nice to have a callers id pop up on your pc screen, with all info on him from your company's db
+2008-11-17 12:24 viaSanctus       record his message, invite quiet participants..that sort of stuff
+2008-11-17 12:24 Sargun           diegoviola, I had Asterisk installed on Xen in like 20 minutes
+2008-11-17 12:24 diegoviola       Sargun: with conference working and ztdummy?
+2008-11-17 12:25 diegoviola       Sargun: app_meetme?
+2008-11-17 12:25 cl0ud            /quit Remote closed the connection
+2008-11-17 12:26 diegoviola       maybe i just didn't had too much patience with it
+2008-11-17 12:29 Sebboh           /join 
+2008-11-17 12:29 Asad2005         /join 
+2008-11-17 12:30 Sargun           yes.
+2008-11-17 12:30 Sargun           diegoviola, maybe you just weren't intelligent enough
+2008-11-17 12:30 Sargun           ;-P
+2008-11-17 12:31 diegoviola       i am
+2008-11-17 12:31 diegoviola       or maybe not
+2008-11-17 12:31 diegoviola       lol
+2008-11-17 12:31 Sebboh           Hi.  I can ping6 some.ipv6.host and get a response.  ...What does this mean?  Does my ISP support ipv6?  ...no way..  Not to mention..  How the hell does my consumer grade wireless router support it?  ..Who assigned me an IP address? .. basically, wtf? :)
+2008-11-17 12:31 diegoviola       Sargun: try freeswitch, it makes it easier as the mod_conference doesn't depend on any external module
+2008-11-17 12:32 Sargun           Sebboh, what OS?
+2008-11-17 12:32 Sargun           ping6 ipv6.google.com
+2008-11-17 12:32 Sargun           what does that say?
+2008-11-17 12:32 Sebboh           Debian Linux.
+2008-11-17 12:32 Sebboh           64 bytes from 2001:4860:0:2001::68: icmp_seq=1 ttl=54 time=282 ms
+2008-11-17 12:32 Sargun           holy shit.
+2008-11-17 12:32 Sargun           that's weird
+2008-11-17 12:32 Sargun           make a mtr -6
+2008-11-17 12:32 diegoviola       Sargun: do you have asterisk running fine on public internet?
+2008-11-17 12:33 Sargun           diegoviola, yes ma'am.
+2008-11-17 12:33 Sebboh           what's an MTR -6?
+2008-11-17 12:33 diegoviola       Sargun: but not between multiples continents i guess
+2008-11-17 12:33 Sargun           diegoviola, no..
+2008-11-17 12:33 Sargun           Sebboh, install MTR, apt-get install mtr
+2008-11-17 12:33 Sargun           then do mtr -6 www.kame.net
+2008-11-17 12:34 diegoviola       i can have asterisk/freeswitch or anything else running fine on public internet too, but the problem is between multiples continents
+2008-11-17 12:34 diegoviola       the delay
+2008-11-17 12:34 diegoviola       it piss me off
+2008-11-17 12:35 Sebboh           my ISP's DNS servers have been giving me AAAA records for all kindsa junk for almost a year, but normally I fail to connect to them (of course) so usually I disable ipv6 on all my boxen.. This one is new.. so I didn't.. and it .. seems to work..  Dude I must be using a tunnel or something because there's no way my netgear router supports ipv6. =P
+2008-11-17 12:35 Sebboh           It does need to, doesn't it?
+2008-11-17 12:36 Sargun           Sebboh, who is your isp
+2008-11-17 12:37 Sargun           Sebboh, what is your ipv6 address
+2008-11-17 12:37 Sebboh           Sargun: mtr is just traceroute6, right?  here's the output of traceroute6 www.kame.net
+2008-11-17 12:39 Sebboh           ... hold on. :)
+2008-11-17 12:39 Asad2005         /part ##networking "Leaving"
+2008-11-17 12:40 Sargun           he
+2008-11-17 12:40 Sargun           heh
+2008-11-17 12:40 Sebboh           I started unplugging cables and I lost IPv6..
+2008-11-17 12:42 Sargun           o.O
+2008-11-17 12:42 Sargun           unplugging cables tends to do that
+2008-11-17 12:42 Sebboh           Well I unplugged everything that wasn't my local ISP. :)
+2008-11-17 12:42 diegoviola       how do you avoid packet loss and shit like that for having a good voip system... between continents
+2008-11-17 12:42 diegoviola       impossible, right?
+2008-11-17 12:43 viaSanctus       diegoviola, if you really depend so much on IP telephony, create your own protocol
+2008-11-17 12:43 Sebboh           diegoviola: try your existing technology with a faster connection.  It's 2008.
+2008-11-17 12:43 diegoviola       viaSanctus: why a new protocol?
+2008-11-17 12:44 viaSanctus       "avoind packet loss" --> create a protocol that makes sure you don't have that
+2008-11-17 12:44 viaSanctus       have a fast enough line and bare with a couple of milisecs delay
+2008-11-17 12:44 viaSanctus       you'll have 0% package loss
+2008-11-17 12:44 diegoviola       like the "avoiding deadlock" in asterisk?
+2008-11-17 12:45 viaSanctus       thats why the own protocol
+2008-11-17 12:45 diegoviola       =p
+2008-11-17 12:45 Sebboh           sargun: http://pastebin.ca/raw/1258852
+2008-11-17 12:46 aarcane          /join 
+2008-11-17 12:47 Sargun           o.O
+2008-11-17 12:47 Sebboh           diegoviola: the difficulty that I see is that you keep asking us to support your theory that there just aren't any fast lines between the US and the UK.  ...And I'm having trouble supporting that, because.. there *are* fast lines.
+2008-11-17 12:47 Sargun           I am ocnfused
+2008-11-17 12:47 viaSanctus       didnt the guys from google buy a protocol from a student that made a voip protocol for fun ?
+2008-11-17 12:47 viaSanctus       Sebboh, but slow voip networks
+2008-11-17 12:48 diegoviola       Sebboh: recommend me some fast awesome line then
+2008-11-17 12:48 diegoviola       ;)
+2008-11-17 12:48 diegoviola       pls
+2008-11-17 12:48 Sebboh           Sargun, I have ipv6 connectivity though a VPN that leads to the other side of town.
+2008-11-17 12:48 Sebboh           But I didn't know that until very recently.
+2008-11-17 12:48 Sargun           HAhaha
+2008-11-17 12:49 Sargun           That's one thing I love about v6
+2008-11-17 12:49 Sebboh           viaSanctus: kindly explain to me what the heck the difference is between a "voip network" and the Internet?
+2008-11-17 12:49 diegoviola       whats a fast line between US and UK
+2008-11-17 12:49 diegoviola       for voip
+2008-11-17 12:50 Sebboh           sargun what's weird is that .. The ISP on the other end of town.. is the same ISP I use here..  ... I'm going to go unplug my router and plug my cable modem directly into the linux computer and see if I can get a ipv6 IP via dhcp.. =P
+2008-11-17 12:50 Sargun           IPv6 doesn't do dhcp
+2008-11-17 12:50 Sargun           it uses autconfigure
+2008-11-17 12:51 Sebboh           That's like saying "what's a fast road for oranges".  ..Nobody cares what you're going to ship, just take the highway.
+2008-11-17 12:51 diegoviola       well, whats a good line
+2008-11-17 12:52 diegoviola       between US-UK
+2008-11-17 12:52 Sebboh           Sargun, when you say autoconfigure, you don't mean .. like, the way windows "auto configures" a DHCP interface when no DHCP response is received.. do you? =P
+2008-11-17 12:56 Sebboh           diegoviola: I was unable to locate that information with a few google searches.  I recommend purchasing a line that is just fast in general, and then testing it to your UK office or whatever.  Or if you just call some big ISP and explain the situation I'm sure they'd be happy to give you a sales spiel.
+2008-11-17 12:58 cl0ud            /join 
+2008-11-17 12:58 diegoviola       nice yeah, i will do that thx
+2008-11-17 12:58 cl0ud            /quit Client Quit
+2008-11-17 12:58 cl0ud            /join 
+2008-11-17 13:03 Sebboh           Sargun, I got mtr now.  pasted here: http://rafb.net/p/iZCDGM75.html   .. wow, 90% loss on the second hop.  why is that?
+2008-11-17 13:04 diegoviola       /quit "leaving"
+2008-11-17 13:09 Sebboh           /quit "removing my router from the equation."
+2008-11-17 13:14 nnull            /quit Client Quit
+2008-11-17 13:32 xev\sleep        /join 
+2008-11-17 13:36 chalco           /quit "Leaving"
+2008-11-17 13:39 xev\stoned       /join 
+2008-11-17 13:46 redb1ue          /join 
+2008-11-17 13:50 xev\stoned       /quit Read error: 60 (Operation timed out)
+2008-11-17 13:50 xev\stoned       /join 
+2008-11-17 13:52 viaSanctus       /quit "Give a man a fish and he will eat for a day. Teach him how to fish, and he will sit in a boat and drink beer all day"
+2008-11-17 13:56 xev\stoned       /quit Read error: 60 (Operation timed out)
+2008-11-17 13:56 xev\stoned       /join 
+2008-11-17 13:57 xev\sleep        /quit Read error: 110 (Connection timed out)
+2008-11-17 14:02 xev\sleep        /join 
+2008-11-17 14:02 cl0ud            /quit Read error: 104 (Connection reset by peer)
+2008-11-17 14:02 cl0ud_           /join 
+2008-11-17 14:08 Xorlev           /join 
+2008-11-17 14:09 cl0ud_           /quit Remote closed the connection
+2008-11-17 14:10 cl0ud            /join 
+2008-11-17 14:11 [1]hi365         /join 
+2008-11-17 14:19 xev\stoned       /quit Read error: 110 (Connection timed out)
+2008-11-17 14:21 xev\sleep        /quit Read error: 110 (Connection timed out)
+2008-11-17 14:22 xev\sleep        /join 
+2008-11-17 14:23 obnauticus       /join 
+2008-11-17 14:31 Apachez          /join 
+2008-11-17 14:31 xev\sleep        /quit Read error: 145 (Connection timed out)
+2008-11-17 14:34 tonswin          /join 
+2008-11-17 14:34 xev\sleep        /join 
+2008-11-17 14:39 [1]hi365         /nick hi365
+2008-11-17 14:40 hi365            anyone know of a tool that can simulate dhcp requests, including dhcp inform requests?
+2008-11-17 14:48 xev\stoned       /join 
+2008-11-17 14:54 xev\sleep        /quit Read error: 110 (Connection timed out)
+2008-11-17 14:55 xev\sleep        /join 
+2008-11-17 15:08 maty             /join 
+2008-11-17 15:11 xev\stoned       /quit Read error: 110 (Connection timed out)
+2008-11-17 15:11 xev\stoned       /join 
+2008-11-17 15:15 xev\sleep        /quit Read error: 110 (Connection timed out)
+2008-11-17 15:28 xev\sleep        /join 
+2008-11-17 15:33 tonsofpcs        /join 
+2008-11-17 15:43 Sebboh           /join 
+2008-11-17 15:43 tonswin          /quit Connection timed out
+2008-11-17 15:44 Sebboh           So I'm using openVPN..  I run the server, and I am the client.  And my tap0 on a client has been assigned a global ipv6 address.  *it works*..  But I have *no idea* who is providing me this service.  I'm really confused.  Help?
+2008-11-17 15:45 Sebboh           Here's a more specific question: how can I monitor the process that happens when an ipv6 address is assigned or autoconfigured or whatever?  If I watch that process, I can tell where the IP is coming from, right?
+2008-11-17 15:46 Sargun           lol
+2008-11-17 15:46 xev\stoned       /quit Connection timed out
+2008-11-17 15:46 Sargun           Don't ask questions
+2008-11-17 15:46 Sargun           just be happy.
+2008-11-17 15:47 xev\stoned       /join 
+2008-11-17 15:49 xev\sleep        /quit Connection timed out
+2008-11-17 15:49 xev\sleep        /join 
+2008-11-17 15:57 Sebboh           no there's 90% packet loss over the link.  I suspect that it's coming from one of the other VPN clients..  And that's bad.  I don't need my local traffic being forwarded through unknown computers. :)
+2008-11-17 16:03 b4ggi0           /join 
+2008-11-17 16:06 b4ggi0           /quit Client Quit
+2008-11-17 16:07 xev\stoned       /quit Read error: 110 (Connection timed out)
+2008-11-17 16:10 xev\sleep        /quit Read error: 110 (Connection timed out)
+2008-11-17 16:22 Thorn            /join 
+2008-11-17 16:26 Sebboh           /quit "reboot"
+2008-11-17 16:27 Asad2005         /join 
+2008-11-17 16:28 xev\sleep        /join 
+2008-11-17 16:28 Agiofws          /join 
+2008-11-17 16:29 Asad2005         /part ##networking "Leaving"
+2008-11-17 16:29 Agiofws          hello
+2008-11-17 16:33 m0t3jl           /join 
+2008-11-17 16:33 m0t3jl           Hi, what does dhcpd mean by Unable to add forward map from arachne.m-k.cz. to 10.0.10.3: timed out? What did time out?
+2008-11-17 16:33 b4ggi0           /join 
+2008-11-17 16:34 xev\stoned       /join 
+2008-11-17 16:42 xev\stoned       /quit Read error: 60 (Operation timed out)
+2008-11-17 16:42 xev\stoned       /join 
+2008-11-17 16:52 xev\sleep        /quit Read error: 110 (Connection timed out)
+2008-11-17 16:58 war9407          /join 
+2008-11-17 17:03 shankara         /join 
+2008-11-17 17:11 Asad2005         /join 
+2008-11-17 17:12 Asad2005         /part ##networking "Leaving"
+2008-11-17 17:14 joshux           /join 
+2008-11-17 17:14 joshux           what's the most used socket library for c++ ?
+2008-11-17 17:15 m0t3jl           /quit "Odcházím"
+2008-11-17 17:15 Xorlev           /quit Remote closed the connection
+2008-11-17 17:16 Sargun           joshux, for what purpose
+2008-11-17 17:16 Sargun           use Qt.
+2008-11-17 17:17 joshux           thanks
+2008-11-17 17:17 KermitTheFragger /join 
+2008-11-17 17:19 Sargun           C++ is for the sick.
+2008-11-17 17:19 Sargun           ;-P
+2008-11-17 17:24 tazz             /join 
+2008-11-17 17:31 robink           /join 
+2008-11-17 17:35 obnauticus       /quit 
+2008-11-17 18:05 developerab      /join 
+2008-11-17 18:09 joshux           /quit Remote closed the connection
+2008-11-17 18:16 Chaser           /join 
+2008-11-17 18:16 developerab      /part ##networking 
+2008-11-17 18:30 toddoon          /join 
+2008-11-17 18:34 Cprossu          /join 
+2008-11-17 18:53 Chaser           /quit 
+2008-11-17 18:53 Chaser           /join 
+2008-11-17 18:56 agiofws_         /join 
+2008-11-17 19:02 Agiofws          /quit Read error: 145 (Connection timed out)
+2008-11-17 19:12 alex_alex        /join 
+2008-11-17 19:12 alex_alex        hi guys - question, i need to connect from my 1st machine (10.134.130.50) -> to a 2nd machine on ip of (10.134.131.23) (different subnet) .... to allow forwarding of the 192.168.5.0/24 range from the 1st so that it goes to the 2nd machine, via rotue or iptables .... is this possible?
+2008-11-17 19:22 Agiofws          /join 
+2008-11-17 19:31 agiofws_         /quit Read error: 110 (Connection timed out)
+2008-11-17 19:41 Thorn            /quit Read error: 145 (Connection timed out)
+2008-11-17 19:54 Haris1           /join 
+2008-11-17 19:54 Haris1           Hello people
+2008-11-17 19:54 Haris1           Are there any global providers, other than alter, seabone, gblx?
+2008-11-17 19:54 Haris1           that come into asia
+2008-11-17 19:58 ghaleb           /join 
+2008-11-17 19:58 Thorn            /join 
+2008-11-17 20:03 redb1ue          /quit Connection timed out
+2008-11-17 20:25 redblue          /join 
+2008-11-17 20:43 photon2          /nick photon
+2008-11-17 20:59 scampbell        /join 
+2008-11-17 21:01 xev\stoned       /quit Read error: 145 (Connection timed out)
+2008-11-17 21:10 maty             /quit Read error: 60 (Operation timed out)
+2008-11-17 21:10 ctennis          /join 
+2008-11-17 21:13 maty             /join 
+2008-11-17 21:23 SanityInFlux     /join 
+2008-11-17 21:26 rvsjoen          alex_alex : huh ?
+2008-11-17 21:26 xev\sleep        /join 
+2008-11-17 21:28 micols           /join 
+2008-11-17 21:36 Randy            /join 
+2008-11-17 21:36 Randy            hi
+2008-11-17 21:36 Randy            i've been getting sick of my old beta male self and trying to transform myself into an alpha male.
+2008-11-17 21:37 Randy            now, if beta males worship women (very common scenario), then these women are "alpha" and are worth studying
+2008-11-17 21:37 Randy            if the beta male wishes to become more desirable himself.
+2008-11-17 21:38 MasterOfDisaster /join 
+2008-11-17 21:38 Randy            women don't write songs like
+2008-11-17 21:39 Randy            "oh, it's what you do to me... times square don't shine as bright as you.."
+2008-11-17 21:39 Randy            etc.
+2008-11-17 21:39 Randy            no, they focus on being beautiful and the beta males go up to them and praise them.
+2008-11-17 21:39 Randy            importantly and for one, i am thinking that i should embrace materialism like pretty women do.
+2008-11-17 21:40 Randy            i should be spending more on myself.
+2008-11-17 21:40 Randy            what do you think of that?
+2008-11-17 21:40 Randy            does that make sense?
+2008-11-17 21:40 hi365            /part ##networking 
+2008-11-17 21:41 Randy            i'm looking to be to women as women are to average men.
+2008-11-17 21:41 Randy            i want to be "hot" and i want the women to praise me.
+2008-11-17 21:43 Randy            women seem to be naturally alpha.
+2008-11-17 21:43 Randy            i admire them like that.
+2008-11-17 21:44 Randy            there are guys all over youtube jerking their penises to anything "feminine."
+2008-11-17 21:45 Randy            somehow "femininity" has come to being associated with the "alpha" the average men fall to their knees and worship.
+2008-11-17 21:46 Randy            women have it so much easier than average beta male men. i just want to be the male version of that.
+2008-11-17 21:46 xev\sleep        /quit Connection timed out
+2008-11-17 21:46 man_at_arms      /join 
+2008-11-17 21:47 Randy            beautiful women end up as trophies to multimillionaires.
+2008-11-17 21:47 Randy            they lie by the pool all day.
+2008-11-17 21:47 Randy            i want to be a male trophy.
+2008-11-17 21:48 Vadtec           /join 
+2008-11-17 21:49 Randy            i'm really sick and tired of the beta role i've had with women.
+2008-11-17 21:49 Randy            i don't want to be the sucker supporting and praising some beautiful woman.
+2008-11-17 21:49 Randy            i want to be beautiful myself.
+2008-11-17 21:49 keith            /join 
+2008-11-17 21:55 Randy            i think it is not a coincidence that the most beautiful women are all quite heavily materialistic.
+2008-11-17 21:56 JyZyXEL          wtf r u talkin about :-D
+2008-11-17 21:56 JyZyXEL          *D
+2008-11-17 21:56 suppahsrv        :D
+2008-11-17 21:57 Randy            women spend almost all their money. they save very little.
+2008-11-17 21:57 Randy            i am thinking i need to spend more on myself and save and invest less.
+2008-11-17 21:57 Randy            that's what i'm asking about.
+2008-11-17 21:57 suppahsrv        no, you have to save to spend money with them :D
+2008-11-17 21:58 Randy            i don't want to spend money with women.
+2008-11-17 21:58 Randy            i want them to spend money on me.
+2008-11-17 21:59 Randy            i don't really want to meet women as friends or as equals.
+2008-11-17 21:59 Randy            i want them to admire me, to desire me, to lust me. to want to spend money on me.
+2008-11-17 21:59 rnst             /join 
+2008-11-17 21:59 Randy            i envision myself on a pedestal.
+2008-11-17 21:59 Randy            i mean that i want to be the prize!
+2008-11-17 21:59 man_at_arms      /quit "Leaving"
+2008-11-17 21:59 suppahsrv        (we lost him)
+2008-11-17 21:59 Randy            no
+2008-11-17 22:00 Randy            before i never cared about being lusted after or about having approval.
+2008-11-17 22:00 Randy            i just went about things my own way.
+2008-11-17 22:00 man_at_arms      /join 
+2008-11-17 22:00 Randy            i've been talking with so many women and not only do most of these hot women have 0 savings
+2008-11-17 22:01 Randy            most are subtantially in debt and in need of sugar daddies.
+2008-11-17 22:01 Randy            to sustain their high maintenance ways.
+2008-11-17 22:01 nicbharadwaj     /join 
+2008-11-17 22:01 Randy            it occurred to me--- why do all these hot women have zero savings??
+2008-11-17 22:02 Randy            i honestly ask them how much they have invested and they have the strangest look like i am an alien. they've never invested in anything but THEMSELVES.
+2008-11-17 22:02 Randy            i think that's the key.
+2008-11-17 22:02 Randy            they invest in the most important thing:: themselves!
+2008-11-17 22:03 Randy            i think i should be a vain adonis.
+2008-11-17 22:03 Randy            it's just so amazing to me how women do it.
+2008-11-17 22:04 nicbharadwaj     /part ##networking 
+2008-11-17 22:04 Randy            they were these noisy high heels and they strut every step they take. it's such a display of vanity. it's incredible.
+2008-11-17 22:05 Randy            even average women wear noisy high heels and have a very vain walk.
+2008-11-17 22:05 Randy            it's really interesting.
+2008-11-17 22:06 remoteCTR1       /join 
+2008-11-17 22:06 remoteCTR1       hi all!
+2008-11-17 22:07 remoteCTR1       can anyone please point me the way to a proper wiki that explains what reverse path forwarding and backroute verify are?
+2008-11-17 22:07 remoteCTR1       and also where both methods can not be applied?
+2008-11-17 22:07 Randy            women have social status mastered.
+2008-11-17 22:07 Randy            it comes naturally to them.
+2008-11-17 22:08 Randy            what makes a woman beautiful?
+2008-11-17 22:08 Randy            it's usually her vanity and her materialism.
+2008-11-17 22:09 Randy            i'll be sitting in a quiet room and all of a sudden i'll this CLACK CLACK CLACK CLACK
+2008-11-17 22:09 Randy            the most obnoxious sound. and you know what that is?
+2008-11-17 22:10 Randy            that's the sign of a confident woman calling all the men.
+2008-11-17 22:10 Randy            *look at me* she says.
+2008-11-17 22:10 Randy            and her walk is masterfully elegant.
+2008-11-17 22:10 Randy            and she all her clothing is perfectly selected and luxurious.
+2008-11-17 22:11 Randy            look, it's not just me noticing these things. when i hear that noisy CLACK CLACK, i see other men looking.
+2008-11-17 22:12 Randy            i can't stand to be one of those looking beta males anymore.
+2008-11-17 22:12 Randy            the more confident you are, the more vain you are and then the more materialistic you are?
+2008-11-17 22:12 Thorn            /quit Read error: 60 (Operation timed out)
+2008-11-17 22:13 Thorn            /join 
+2008-11-17 22:14 Chaser           Hi if TSO AND GSO are enabled on a network device that means that the kernel does not do GSO but instead let the driver do the TSO - is that correct ?
+2008-11-17 22:14 keith            /quit Read error: 110 (Connection timed out)
+2008-11-17 22:14 Chaser           for tcp ipv4/6 packets I mean
+2008-11-17 22:14 Randy            i put a chunk of my savings into my non-interest-bearing checking account.
+2008-11-17 22:15 Randy            so that it is completely liquid and so that i am better able to utilize it in the present now.
+2008-11-17 22:15 Randy            while i am young and developing.
+2008-11-17 22:15 Randy            i mean this month.
+2008-11-17 22:15 Chaser           sorry wrong IRC channel
+2008-11-17 22:16 Randy            i put $15K in my checking account.
+2008-11-17 22:16 remoteCTR1       Randy: are you on the wrong channel or what?
+2008-11-17 22:16 Randy            i don't want to invest so much in businesses anymore.
+2008-11-17 22:16 Randy            i want to invest in myself.
+2008-11-17 22:18 Randy            all my savings and investing was stifling my lifestyle NOW.
+2008-11-17 22:18 Randy            i don't want to be some rich geezer.
+2008-11-17 22:18 remoteCTR1       umm any non-trolls present also?
+2008-11-17 22:18 Randy            everythign women do revolves around their sex appeal!
+2008-11-17 22:18 Randy            that's something important i've observed.
+2008-11-17 22:19 Randy            beta males do nothing for their sex appeal!
+2008-11-17 22:19 remoteCTR1       !bot
+2008-11-17 22:19 remoteCTR1       !op
+2008-11-17 22:19 remoteCTR1       gawd
+2008-11-17 22:19 Chaser           !rules
+2008-11-17 22:19 Randy            we need to live the in the sexual if we are to be alpha men.
+2008-11-17 22:19 Chaser           !OT
+2008-11-17 22:19 remoteCTR1       adminnnnnnnn
+2008-11-17 22:20 Randy            /part ##networking 
+2008-11-17 22:20 Chaser           Jesus
+2008-11-17 22:38 viaSanctus       /join 
+2008-11-17 22:39 viaSanctus2      /join 
+2008-11-17 22:41 chalco           /join 
+2008-11-17 22:41 ChanServ         /mode +v chalco
+2008-11-17 22:47 xev\stoned       /join 
+2008-11-17 22:47 xev\stoned       /quit Remote closed the connection
+2008-11-17 22:53 Thorn            /quit Read error: 104 (Connection reset by peer)
+2008-11-17 22:55 MasterOfDisaster /quit "leaving"
+2008-11-17 22:57 viaSanctus       /quit Read error: 110 (Connection timed out)
+2008-11-17 23:03 intrados         /join 
+2008-11-17 23:05 Agiofws          /quit Remote closed the connection
+2008-11-17 23:18 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-11-18 10:33 ManateeLazyCat   /join 
+2008-11-18 10:33 verne.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-18 10:33 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-18 10:34 PeterFA          /join 
+2008-11-18 10:58 izua             /join 
+2008-11-18 11:05 redblue          /join 
+2008-11-18 11:35 redblue          /quit ""You cannot do a kindness too soon because you never know how soon it will be too late." -RWE"
+2008-11-18 11:39 redblue          /join 
+2008-11-18 11:44 tonswin          /join 
+2008-11-18 11:50 nicbharadwaj     /join 
+2008-11-18 11:50 nicbharadwaj     /part ##networking 
+2008-11-18 12:05 photon2          /join 
+2008-11-18 12:08 MicronXD         /join 
+2008-11-18 12:09 MicronXD         hi all
+2008-11-18 12:09 MicronXD         I need some networking help :)
+2008-11-18 12:16 Ac-town          dont ask to ask, just ask
+2008-11-18 12:18 izua             /quit "Do not press"
+2008-11-18 12:23 name_name        /join 
+2008-11-18 12:23 Xorlev           /join 
+2008-11-18 12:29 MicronXD         I have 8 people living in my house right now
+2008-11-18 12:29 MicronXD         I have highspeed internet
+2008-11-18 12:30 MicronXD         and I want to block 2 of the people from using it
+2008-11-18 12:30 MicronXD         but I still want them to be able to access eachother
+2008-11-18 12:30 MicronXD         how do I go about doing that
+2008-11-18 12:30 viaSanctus       /join 
+2008-11-18 12:31 MicronXD         ?*
+2008-11-18 12:33 Ac-town          i assume you have a router?
+2008-11-18 12:35 MicronXD         yep
+2008-11-18 12:36 aniseed          /join 
+2008-11-18 12:37 aniseed          /quit Client Quit
+2008-11-18 12:41 tonswin          /nick tonsofpcs
+2008-11-18 12:43 kreg_            /join 
+2008-11-18 12:44 Ac-town          are they wired or wireless?
+2008-11-18 12:52 votz             /join 
+2008-11-18 12:53 votz             I have a Linksys BEFW1154 wireless router that I'm putting through some heavy use. By that I mean it's downloading anywhere from 400 to 1000 kb/s all the time. I recently hooked up another machine to the router and it's performance is pretty bad, with huge ping spikes ( 20ms to 120ms ) to different servers. I'm almost sure it's not my connection, but the router. What could be going wrong?
+2008-11-18 12:54 ideopathic       /join 
+2008-11-18 12:56 Ac-town          are there any difference in the two computers hardware or anything to do with the connection to the router?
+2008-11-18 12:58 votz             Ac-town: ya the computers themselves are different hardware. There's a group of 4 machines on a hub that are all connected to one router LAN port, and I just added another machine to another one of the router's LAN ports
+2008-11-18 12:59 votz             I'm thinking I might be maxing out some router resource which would cause an increase in ping and spikes ( cpu, memory, something )
+2008-11-18 12:59 votz             It is a rather old router
+2008-11-18 13:00 votz             But I don't have another router on hand to swap out and try, so I'm here trying to see if anybody else knows other tests I can do to figure out what the problem is
+2008-11-18 13:01 Ac-town          I dont know of any tests off hand
+2008-11-18 13:01 Ac-town          have you tried to remove the hub and plug as much as you can into the router directly?
+2008-11-18 13:02 Ac-town          and see if that fixes anything?
+2008-11-18 13:02 votz             Ac-town: not enough ports unfortunately
+2008-11-18 13:02 votz             It's only a 5 port router
+2008-11-18 13:02 votz             *4 port
+2008-11-18 13:02 Ac-town          well, this would be to test to see if it could be the hub
+2008-11-18 13:03 votz             The machine that's having the performance issues isn't on the hub
+2008-11-18 13:03 votz             It's on the router that the hub is connected to
+2008-11-18 13:03 votz             If that makes sense
+2008-11-18 13:03 Ac-town          ok
+2008-11-18 13:03 Ac-town          have you tryed it on the hub and moved another machine directly to the router?
+2008-11-18 13:03 votz             The only reason I just realized the performance issues is because I joined a counter strike deathmatch game :)
+2008-11-18 13:03 Ac-town          lol
+2008-11-18 13:03 Ac-town          its is deathmatch
+2008-11-18 13:03 votz             And watched with net_graph my ping be twice as high
+2008-11-18 13:03 votz             and then it spiked all around
+2008-11-18 13:03 Ac-town          and 120ms ping is not too bad in cs
+2008-11-18 13:04 votz             The machines downloading aren't having any problems
+2008-11-18 13:04 votz             But I don't care if stuff spikes there, they just have to download their files
+2008-11-18 13:04 Ac-town          well were are they download from?
+2008-11-18 13:04 Ac-town          and where is the cs server?
+2008-11-18 13:04 votz             All over, theyre spiders
+2008-11-18 13:04 votz             cs server is in NYC, I usually ping 12-18 there
+2008-11-18 13:05 votz             Maybe it's their end or the network, I dont know, but  I didn't see anybody else spiking
+2008-11-18 13:05 Ac-town          it could be
+2008-11-18 13:05 votz             ill go do some more testing
+2008-11-18 13:05 Ac-town          try one on the hub and one on the router to the same game
+2008-11-18 13:05 Ac-town          it could be a bad net card, bad port on the router
+2008-11-18 13:05 votz             Hmm
+2008-11-18 13:06 Ac-town          or a faulty cable, but that very rare
+2008-11-18 13:06 Ac-town          i have only seen one busted net cable lol
+2008-11-18 13:06 votz             How much traffic can I router handle before performance starts to get jumpy like that?
+2008-11-18 13:06 votz             Or usually are routers so powerful that never really happens
+2008-11-18 13:06 Ac-town          well, what is your isp?
+2008-11-18 13:06 votz             university ISP
+2008-11-18 13:06 Ac-town          ah
+2008-11-18 13:06 samix            /join 
+2008-11-18 13:07 Ac-town          yeah, they might be throttling you
+2008-11-18 13:07 Ac-town          unless they dont have any rules in place about excess network usage
+2008-11-18 13:07 votz             I thought of that as well. I'ma try unplugging from the router directly to somewhere else and try again
+2008-11-18 13:07 Ac-town          cause 400-1000kbps all the time is alot
+2008-11-18 13:07 votz             Ya, it adds up ;)
+2008-11-18 13:08 Ac-town          lol yeah
+2008-11-18 13:08 votz             I'm testing my ping to different servers now
+2008-11-18 13:08 votz             off of the router
+2008-11-18 13:08 Ac-town          at the adverage of 600kbps in a day, its 6 gigs
+2008-11-18 13:08 votz             Is that a general rule of thumb?
+2008-11-18 13:08 votz             /action does the math
+2008-11-18 13:09 Ac-town          i rounded
+2008-11-18 13:09 votz             Ya
+2008-11-18 13:09 votz             ~5.1gb
+2008-11-18 13:09 votz             But close for that rule of thumb
+2008-11-18 13:09 Ac-town          	
+2008-11-18 13:09 Ac-town          (600 kbps) * 1 day = 6.17980957 gigabytes
+2008-11-18 13:10 votz             Ya something is definitely going on
+2008-11-18 13:10 votz             Two different servers my latency is spiking
+2008-11-18 13:10 votz             30ms to 120ms
+2008-11-18 13:10 votz             usually from 40-70ms
+2008-11-18 13:10 Ac-town          stop the downloads?
+2008-11-18 13:10 votz             then every once in a while it will jump to 120ms for a bit
+2008-11-18 13:10 votz             Ac-town: ya doing that now and trying again
+2008-11-18 13:10 Ac-town          ok
+2008-11-18 13:11 Ac-town          whats the server? i'd join lol
+2008-11-18 13:11 votz             You US-east?
+2008-11-18 13:11 Ac-town          na, but im bored and im slacking on homework
+2008-11-18 13:12 Ac-town          so might as well play some cs
+2008-11-18 13:12 votz             Stopping the downloads fixes it
+2008-11-18 13:12 votz             Ping drops back down to what it normally is
+2008-11-18 13:13 Ac-town          so you could find a balance to where the downloads can run at and still play cs
+2008-11-18 13:13 Ac-town          or just stop the downloads while you play
+2008-11-18 13:13 votz             Latter isn't really an option
+2008-11-18 13:13 votz             They're spiders that need to crawl
+2008-11-18 13:13 votz             Also it's not really cs that I care about
+2008-11-18 13:14 votz             That's just how I noticed it
+2008-11-18 13:14 Ac-town          ah
+2008-11-18 13:14 votz             The performance issues I mean
+2008-11-18 13:14 Ac-town          yeah
+2008-11-18 13:14 votz             I noticed my websites loading much more slowly, too
+2008-11-18 13:14 votz             but didn't really put two and two together
+2008-11-18 13:14 votz             Until I booted up cs for the first time in ages
+2008-11-18 13:14 votz             And saw that happening
+2008-11-18 13:15 Ac-town          what kind of spiders are you running?
+2008-11-18 13:16 votz             Web crawlers
+2008-11-18 13:16 votz             http
+2008-11-18 13:16 Ac-town          ah, good times
+2008-11-18 13:17 votz             Ac-town: are you us-east?
+2008-11-18 13:17 Ac-town          na, im on the west
+2008-11-18 13:18 votz             doh ><
+2008-11-18 13:19 Sargun           /join 
+2008-11-18 13:19 ChanServ         /mode +v Sargun
+2008-11-18 13:22 Adamant          /join 
+2008-11-18 13:37 DaSkreech        /join 
+2008-11-18 13:37 votz             Ac-town: thanks for your help, I think I'ma try a different router
+2008-11-18 13:37 votz             Ac-town: just can't do that now, but I'll try that later I mean
+2008-11-18 13:38 votz             Ac-town: have you ever experienced, or heard of, a router causing spikes like this because it can't support such throughput?
+2008-11-18 13:38 votz             I find this doubtful considering it is a 10/100 router, meaning it should be fully capable of speeds well above 600kb/s without causing spikes
+2008-11-18 13:38 DaSkreech        Can I flash a router without an IP address?
+2008-11-18 13:38 votz             There is no very little upload going on, mostly download
+2008-11-18 13:39 votz             DaSkreech: without an IP? what do you mean? Turn it on, plug in a laptop, and go to the router's IP and update the firmware ( flash it )
+2008-11-18 13:39 votz             that what you mean?
+2008-11-18 13:39 DaSkreech        I don't know the router's IP
+2008-11-18 13:39 DaSkreech        DHCP is off on it
+2008-11-18 13:39 votz             DaSkreech: what brand is your router? All router manufacturer's give their routers default IP's
+2008-11-18 13:39 DaSkreech        WRT54g
+2008-11-18 13:40 votz             DaSkreech: DHCP is only for the clients, not the router
+2008-11-18 13:40 votz             DaSkreech: What brand is that? Not the model number, but the brand
+2008-11-18 13:40 DaSkreech        Yes but I need to be on the same network
+2008-11-18 13:40 DaSkreech        Linksys
+2008-11-18 13:40 votz             DaSkreech: default linksys router ip is 192.168.1.1
+2008-11-18 13:40 votz             Plug in a machine into the router, open your browser, and go to 192.168.1.1
+2008-11-18 13:40 votz             should prompt you for the router username and password
+2008-11-18 13:41 DaSkreech        hmm
+2008-11-18 13:41 DaSkreech        ok
+2008-11-18 13:41 votz             make sure you have the flash image on the machine before you hook it up to the router
+2008-11-18 13:41 votz             unless that router has internet
+2008-11-18 13:41 votz             ( where you'd just download the image )
+2008-11-18 13:41 DaSkreech        I wouldn't know I can't get on the router
+2008-11-18 13:41 votz             lol
+2008-11-18 13:41 votz             Are you upgrading the firmware?
+2008-11-18 13:41 DaSkreech        It doesn't have DHCP turned on so I have to guess what network it's on
+2008-11-18 13:42 DaSkreech        No I just want to get to the configuration page somehow
+2008-11-18 13:42 votz             DaSkreech: that's not exactly what DHCP does
+2008-11-18 13:42 DaSkreech        Oh?
+2008-11-18 13:42 votz             DaSkreech: ya, plug a machine into the router
+2008-11-18 13:42 votz             DaSkreech: then on that machine, open a browser and go to 192.168.1.1
+2008-11-18 13:42 DaSkreech        Right and then set my IP on the machine
+2008-11-18 13:42 DaSkreech        my ip is 0.0.0.0
+2008-11-18 13:42 votz             DaSkreech: then login, probably with default username and password
+2008-11-18 13:42 DaSkreech        ok
+2008-11-18 13:42 DaSkreech        brb
+2008-11-18 13:43 votz             You should not need to have dhcp enabled to talk to the router
+2008-11-18 13:43 votz             and if that's the case, then set your ip statically in windows to something
+2008-11-18 13:43 votz             or linux
+2008-11-18 13:43 votz             192.168.1.100 or w/e
+2008-11-18 13:44 votz             I'll be back later, hopefully if you need further help someone else in here will be able to help you
+2008-11-18 13:45 Ac-town          votz, yeah, i dont see your router being the issue in this case, but it dosent hurt to try
+2008-11-18 13:45 votz             Ac-town: what else do you think it would be?
+2008-11-18 13:46 DaSkreech        Nope
+2008-11-18 13:46 DaSkreech        Not seeing anything
+2008-11-18 13:46 Ac-town          throttling would be my best guess from the information gathered
+2008-11-18 13:46 DaSkreech        Wait I know!
+2008-11-18 13:47 votz             Ac-town: hmm. that would cause spikes you think?
+2008-11-18 13:47 Ac-town          yeah
+2008-11-18 13:47 votz             Ac-town: so that would be network routers out of my control somehow adjusting my connection on the fly, hence causing latencies increase and spikes?
+2008-11-18 13:47 Ac-town          yeah
+2008-11-18 13:47 votz             Ya, alright
+2008-11-18 13:47 votz             I'll make some calls
+2008-11-18 13:48 Ac-town          cause its shared internet
+2008-11-18 13:48 votz             Ac-town: thanks my friend :) Maybe I'll see you in strike one day :D
+2008-11-18 13:48 Ac-town          lol maybe
+2008-11-18 13:48 DaSkreech        bah
+2008-11-18 13:49 DaSkreech        I'm thinking this thing is dead
+2008-11-18 13:49 Ac-town          DaSkreech, linux or windows?
+2008-11-18 13:49 DaSkreech        Linux
+2008-11-18 13:49 Ac-town          whats your local ip?
+2008-11-18 13:51 DaSkreech        When connected to the Internet modem 192.168.9.2
+2008-11-18 13:51 DaSkreech        When connected to the wireless router 0.0.0.0
+2008-11-18 13:53 Ac-town          download whatever you need to flash
+2008-11-18 13:53 DaSkreech        right
+2008-11-18 13:53 DaSkreech        then?
+2008-11-18 13:53 Ac-town          connect the modem into the router's uplink, your computer into the router's port, then flash it
+2008-11-18 13:53 DaSkreech        How ?
+2008-11-18 13:53 Ac-town          well i assume the modem is going directly to your computer?
+2008-11-18 13:54 DaSkreech        I just tried that and I see a 192.168.9.7 Ip address
+2008-11-18 13:54 DaSkreech        When I try to connect to that I get nothing
+2008-11-18 13:54 DaSkreech        yes
+2008-11-18 13:54 Ac-town          so list me the name's of the ports and plugins in the back of the router
+2008-11-18 13:54 DaSkreech        uplink and 4 ports
+2008-11-18 13:54 Ac-town          ok
+2008-11-18 13:55 DaSkreech        I connected uplink to the Modem and then I connected to the Modem as well
+2008-11-18 13:55 DaSkreech        Got the list of computers connected and saw two
+2008-11-18 13:55 Ac-town          modem->uplink, one of the 4 ports->your computer
+2008-11-18 13:55 DaSkreech        ok
+2008-11-18 13:55 Ac-town          connect into the router
+2008-11-18 13:55 DaSkreech        Ac-town: I don't know what IP address the router has
+2008-11-18 13:56 Ac-town          we will find out once you do what i said above :)
+2008-11-18 13:56 DaSkreech        ok
+2008-11-18 13:59 DaSkreech        next
+2008-11-18 13:59 DaSkreech        next
+2008-11-18 13:59 DaSkreech        hello?
+2008-11-18 13:59 DaSkreech        next
+2008-11-18 13:59 Ac-town          ok
+2008-11-18 13:59 Xorlev           /quit Remote closed the connection
+2008-11-18 13:59 Ac-town          so your connected into the router?
+2008-11-18 13:59 DaSkreech        Ok net died
+2008-11-18 14:00 Ac-town          its ok
+2008-11-18 14:00 Ac-town          i figured it would
+2008-11-18 14:00 stateful         /join 
+2008-11-18 14:00 Ac-town          so find the ip the wireless router is giving you
+2008-11-18 14:00 DaSkreech        0.0.0.0
+2008-11-18 14:01 Ac-town          restart the router?
+2008-11-18 14:01 DaSkreech        did
+2008-11-18 14:01 DaSkreech        Held down reset for 30 seconds as well
+2008-11-18 14:01 Ac-town          hm
+2008-11-18 14:01 Ac-town          release and renew from computer?
+2008-11-18 14:04 cyberjames       Hi! I am using vmware and Im planning to have this kind of setup. Host (192.168.1.2), Guest-a (192.168.1.3), Guest-b (192.168.2.1). Is it possible that the Guest-b will be able to reach those network at 192.168.1.0/24? How do I do that? by adding route?
+2008-11-18 14:05 DaSkreech        requests forever
+2008-11-18 14:05 Ac-town          yeah, hmm
+2008-11-18 14:05 Ac-town          the router might be foobar
+2008-11-18 14:06 DaSkreech        I was told that it was working
+2008-11-18 14:06 Ac-town          you could try another of one of the 4 ports on the router
+2008-11-18 14:06 Ac-town          to rule out the possibly of that port being bad
+2008-11-18 14:10 nicbharadwaj     /join 
+2008-11-18 14:13 DaSkreech        I guess :)
+2008-11-18 14:16 viaSanctus       /quit "IceChat - Keeping PC's cool since 2000"
+2008-11-18 14:22 nicbharadwaj     /part ##networking 
+2008-11-18 14:22 Haris1           /part ##networking "Time to jet!"
+2008-11-18 14:33 mynameisdeleted  /join 
+2008-11-18 14:34 mynameisdeleted  what are the recommended router specs to fully be able to manage traffic on 20mbps bi-directional and 50mbps bi
+2008-11-18 14:34 mynameisdeleted  if the lan is natted with a few ports forwarded
+2008-11-18 14:34 mynameisdeleted  and its over pppoe
+2008-11-18 14:34 mynameisdeleted  is 100mbps with vlan to seperate internal and external interfaces bad?
+2008-11-18 14:35 mynameisdeleted  should the pppoe and lan be on seperate 100mbps connections
+2008-11-18 14:35 mynameisdeleted  is a 2.0 GHZ P4 from 2001 still faster than most new hardware routers?
+2008-11-18 14:36 mynameisdeleted  I cant run gigabit ethernet simultaneously with the graphics card because it reservs too much pci bandwidth
+2008-11-18 14:37 mynameisdeleted  I have a mac mini I could make also function as a router which has built-in gigabit ethernet
+2008-11-18 14:37 mynameisdeleted  and keeps running 24/7
+2008-11-18 14:38 mynameisdeleted  it has an agp slot which basically cant run any graphics card newer than  a 5900
+2008-11-18 14:40 mynameisdeleted  does anyone know a consumer grade router that will route 50mbps bi-directional with 100 simultaneous streams without lagging?
+2008-11-18 14:40 mynameisdeleted  and supports gigabit ethernet and 802.11n
+2008-11-18 14:46 Sargun           /quit Remote closed the connection
+2008-11-18 14:49 TreeStump        /join 
+2008-11-18 14:49 TreeStump        hi guys
+2008-11-18 14:49 TreeStump        i was wondering if someone could help me out
+2008-11-18 14:52 Ac-town          go ahead and ask
+2008-11-18 14:52 Ac-town          and if we have an answer you will get it lol
+2008-11-18 14:54 TreeStump        i have a linux box im running as a router
+2008-11-18 14:54 TreeStump        i have set it up and forgotten how i did some of the simplest stuff lol
+2008-11-18 14:54 Ac-town          lol
+2008-11-18 14:54 Ac-town          like?
+2008-11-18 14:54 TreeStump        anyways in iptables i have enabled forwarding between eth0 and eth1, and eht1 and eth0(reverse)
+2008-11-18 14:55 Ac-town          ok
+2008-11-18 14:55 TreeStump        but i have just purchased a second ip range a /28 so on eth 1 i gave a virtual address eth1:1 xxx.xxx.xxx.xxx 255.255.255.240
+2008-11-18 14:56 TreeStump        you know the deal
+2008-11-18 14:56 TreeStump        all works fine
+2008-11-18 14:56 Ac-town          not really, but go ahead lol
+2008-11-18 14:56 TreeStump        but the ip's behine eth1 can talk to eth1:1
+2008-11-18 14:56 TreeStump        because i havent enabled in iptables to accept packets from eth1 to eth1:1
+2008-11-18 14:56 TreeStump        and in reverse
+2008-11-18 14:57 Ac-town          ok
+2008-11-18 14:57 MasterOfDisaster /join 
+2008-11-18 14:59 TreeStump        just doing some googling would it be 'iptables -t filter -A FORWARD -i eth1 -o eth1:1 -j ACCEPT'
+2008-11-18 14:59 Ac-town          ok, hold on
+2008-11-18 15:01 TreeStump        sorry i thought i would be coming on here asking some question as to why the router wouldnt route but figured out it was a iptables thing halfway through typing it lol
+2008-11-18 15:03 DaSkreech        /quit Remote closed the connection
+2008-11-18 15:06 Ac-townm         /join 
+2008-11-18 15:11 Ac-town          /quit Read error: 104 (Connection reset by peer)
+2008-11-18 15:18 Ac-town          /join 
+2008-11-18 15:18 Ac-townm         /quit Read error: 54 (Connection reset by peer)
+2008-11-18 15:20 name_name        /quit Read error: 110 (Connection timed out)
+2008-11-18 15:20 Agiofws          /join 
+2008-11-18 15:22 name_name        /join 
+2008-11-18 15:23 shani^work       /join 
+2008-11-18 15:28 Agiofws          hello
+2008-11-18 15:30 Ac-townm         /join 
+2008-11-18 15:30 Ac-town          /quit Read error: 104 (Connection reset by peer)
+2008-11-18 15:37 Ac-town          /join 
+2008-11-18 15:38 Ac-townm         /quit Read error: 104 (Connection reset by peer)
+2008-11-18 15:43 Agiofws          /quit Remote closed the connection
+2008-11-18 15:47 Agiofws          /join 
+2008-11-18 15:54 shani^v6         /join 
+2008-11-18 15:59 sep              ugha
+2008-11-21 18:01 ManateeLazyCat   /join 
+2008-11-21 18:01 kornbluth.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-21 18:01 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-21 18:03 Agiofws          hello
+2008-11-21 18:07 shankara         /join 
+2008-11-21 18:08 Qjimbo           /join 
+2008-11-21 18:09 Qjimbo           Hi, I'm trying to find if there is a way to run a DNS server that redirects the user to a webpage no matter what they type in, unless they are from a peticular IP, in which case it forwards the DNS request to the proper DNS server
+2008-11-21 18:10 Qjimbo           sort of like a dummy dns server
+2008-11-21 18:10 Qjimbo           just so I can convince my flatmates to pay their share of the internet bill by blocking their access
+2008-11-21 18:10 Qjimbo           =P
+2008-11-21 18:11 shankara         sounds like the 'captive portal' mechanism used in wifi hotspots ...
+2008-11-21 18:11 Qjimbo           yes, exactly that
+2008-11-21 18:11 Qjimbo           I'm on Mac OS X, though I do also have a Windows box I could use
+2008-11-21 18:12 redblue          /join 
+2008-11-21 18:13 shankara         I think squid allows you to set up a captive portal, you could try that?
+2008-11-21 18:14 shankara         or else you'd have to set up chillispot/monowall or one of the dedicated hotpot type applications, whcih you may not  strictly want.
+2008-11-21 18:16 Tim183           /join 
+2008-11-21 18:16 Qjimbo           ok, I'll look into that, thanks =)
+2008-11-21 18:17 Tim183           can anyone help a newbie here?
+2008-11-21 18:18 Tim183           I can't connect to networks, I can see them,  but not connect
+2008-11-21 18:19 Tim183           http://paste.ubuntu.com/75148/
+2008-11-21 18:20 Tim183           ubuntu 8.10 atheros ar5007eg minipci card with madwifi drivers
+2008-11-21 18:24 p1asma           Qjimbo: but squid is only a http proxy, to catch all dns request its a bit heavier, and im sure you must code/fork your own solution, at least when it comes to the ips that should be allowed
+2008-11-21 18:25 b4ggi0           /join 
+2008-11-21 18:25 p1asma           Tim183: what do you mean by "see them"?
+2008-11-21 18:25 shankara         Qjimbo: http://nocat.net/
+2008-11-21 18:25 Tim183           with networkmanager i can scan the available networks
+2008-11-21 18:26 b4ggi0           /quit SendQ exceeded
+2008-11-21 18:26 Tim183           witht heir relative strenghts
+2008-11-21 18:26 b4ggi0           /join 
+2008-11-21 18:27 p1asma           Tim183: are they encrypted?
+2008-11-21 18:27 Tim183           no, the home network is open
+2008-11-21 18:27 Tim183           i tried in my offic e as well, its open too, same result
+2008-11-21 18:31 Tim183           any ideas?
+2008-11-21 18:36 p1asma           uninstall the networkmanager and try it manually ;)
+2008-11-21 18:39 Tim183           can someone talk me through that?
+2008-11-21 18:39 Tim183           please
+2008-11-21 18:45 whits            /join 
+2008-11-21 18:46 whits            I'm trying to find a way to generate multicast MAC addresses for testing. Anyone know of such a thing?
+2008-11-21 18:48 suppahasrv       /join 
+2008-11-21 19:15 Chaser           /join 
+2008-11-21 19:59 CSSUser          /join 
+2008-11-21 20:00 z4v              /join 
+2008-11-21 20:05 shankara         /quit Remote closed the connection
+2008-11-21 20:06 shankara         /join 
+2008-11-21 20:11 Tim183           /part ##networking 
+2008-11-21 20:13 Agiofws          /quit Remote closed the connection
+2008-11-21 20:19 Agiofws          /join 
+2008-11-21 20:22 maha             /join 
+2008-11-21 20:22 shankara         /quit Remote closed the connection
+2008-11-21 20:24 shankara         /join 
+2008-11-21 20:39 Epic|            /join 
+2008-11-21 21:02 velicos          /join 
+2008-11-21 21:05 nicbharadwaj     /join 
+2008-11-21 21:15 Brownout         /join 
+2008-11-21 21:29 ctennis          /join 
+2008-11-21 21:43 MrNeutr0n        /join 
+2008-11-21 21:50 MrNeutr0n        /quit "Leaving"
+2008-11-21 21:58 zchaos           /join 
+2008-11-21 21:58 zchaos           hey anyone know if you can use a a jack which is wired for cat5 and phone for both at the sametime? or does it have to be punched down as cat5 OR phone... can't use for both?
+2008-11-21 21:59 xand             you can use cat5 for phones
+2008-11-21 22:04 zchaos           i know that
+2008-11-21 22:04 zchaos           but the question is this
+2008-11-21 22:04 zchaos           if the cable i punched down for networking can you sitll use it for telephone?
+2008-11-21 22:04 zchaos           this rogers techininian is saying
+2008-11-21 22:05 zchaos           to use it as networking you have to punch down 4 pairs
+2008-11-21 22:05 zchaos           to use it as phone you only punch down 1 pair
+2008-11-21 22:05 zchaos           can't use it as both for the sametime
+2008-11-21 22:08 xand             I don't know about american wiring
+2008-11-21 22:08 xand             (phone)
+2008-11-21 22:08 xand             here people use rj45<->phone adaptors each end
+2008-11-21 22:09 Vadtec           zchaos: i just wired my home using CAT5 for phone and internet
+2008-11-21 22:09 Vadtec           i just split it up as I needed
+2008-11-21 22:09 Thorn            /join 
+2008-11-21 22:09 Vadtec           all of the jacks are wired for 4 pair, what matters is how i hook them up on the other end
+2008-11-21 22:20 xchaos           /join 
+2008-11-21 22:20 redblue          /quit ""You cannot do a kindness too soon because you never know how soon it will be too late." -RWE"
+2008-11-21 22:24 xchaos           [09:09am] <Vadtec> zchaos: i just wired my home using CAT5 for phone and internet
+2008-11-21 22:24 xchaos           [09:09am] <Vadtec> i just split it up as I needed
+2008-11-21 22:24 xchaos           well right now i'm only connected on 3 pair
+2008-11-21 22:24 xchaos           and have internet access
+2008-11-21 22:24 xchaos           how the hell is that happening
+2008-11-21 22:24 xand             because, unless you use gigabit, you only use 2 pair
+2008-11-21 22:25 Vadtec           what xand said
+2008-11-21 22:25 xchaos           so i dont need to connect the 4th pair and there wont be any repercussions then?
+2008-11-21 22:26 xand             it's best practice to connect it, and if you want to use gigabit you'll need it
+2008-11-21 22:26 xchaos           sorry... but what do you mean gigabit
+2008-11-21 22:26 xchaos           gigabit connection?
+2008-11-21 22:26 Vadtec           1000mbit ethernet
+2008-11-21 22:27 xchaos           oh
+2008-11-21 22:27 xchaos           one more question
+2008-11-21 22:27 xchaos           because we only punched down 3 pairs
+2008-11-21 22:27 xchaos           the rogers tech has 1 pair left over
+2008-11-21 22:27 xchaos           so he was going to install a little telephoen jack next tot he rj45 jack
+2008-11-21 22:27 xchaos           so i can use the same cable for both networking and telephone
+2008-11-21 22:27 xchaos           because 1 pair is still free
+2008-11-21 22:27 xchaos           what do you think?
+2008-11-21 22:28 Vadtec           i think thats part of what twisted pair wiring is all about
+2008-11-21 22:28 xchaos           so its a good idea?
+2008-11-21 22:28 Vadtec           well im doing it right now...
+2008-11-21 22:28 Vadtec           the phone next to my PC is wired through the same line as its internet
+2008-11-21 22:29 xchaos           ahhhh
+2008-11-21 22:29 Vadtec           so yeah
+2008-11-21 22:29 xchaos           GREAT
+2008-11-21 22:29 xchaos           ;)
+2008-11-21 22:29 xchaos           everything is finally coming together
+2008-11-21 22:31 zchaos           /quit Read error: 110 (Connection timed out)
+2008-11-21 22:33 redblue          /join 
+2008-11-21 22:33 shankara         /quit Read error: 110 (Connection timed out)
+2008-11-21 22:44 zchaos           /join 
+2008-11-21 22:45 rendar           /join 
+2008-11-21 22:45 xchaos           /quit Read error: 104 (Connection reset by peer)
+2008-11-21 22:56 Agiofws          /quit Remote closed the connection
+2008-11-21 23:05 man_at_arms      /join 
+2008-11-21 23:06 kobi_foster      /join 
+2008-11-21 23:08 kobi_foster      what is the name of a network monitor I can use to see traffic, hopefully specifically from one aplication. Really I just want to know how msn messanger authenticates/logs in, really I just want to know how to sniff those passwords with cain. I've got the GET/POST and HTTPAuth sniffing down, cant find a good resource for other things (ie msn messenger)
+2008-11-21 23:09 kobi_foster      also, cain seems to do a really good job of automatically decoding https connections, why doesnt wireshark do that? is there an easy way to fix that?
+2008-11-21 23:10 ctennis          wireshark
+2008-11-21 23:10 ctennis          ah, should have read further
+2008-11-21 23:11 kobi_foster      thanks anyway
+2008-11-21 23:12 Agiofws          /join 
+2008-11-21 23:17 rtru             /join 
+2008-11-21 23:19 Mirthas          /join 
+2008-11-21 23:24 Hector__         /join 
+2008-11-21 23:31 d00fus_          /join 
+2008-11-21 23:33 CryWolf          kobi_foster: I believe ssldump will do that, but only on your own machine.
+2008-11-21 23:34 Thorn            hello. I have a web server with a public IP (and a domain that resolves to it). I want to add a second ISP link for redundancy. Is it viable without getting into peering? (I hear you can setup the DNS zone in some smart way)
+2008-11-21 23:39 kobi_foster      /quit 
+2008-11-21 23:41 shankara         /join 
+2008-11-22 18:03 ManateeLazyCat   /join 
+2008-11-22 18:03 niven.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-22 18:03 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-22 18:04 nicbharadwaj     /join 
+2008-11-22 18:27 Apachez          anyone with experience from f5 bigip around? :)
+2008-11-22 18:47 ktwilight_       /join 
+2008-11-22 18:53 foo-nix          /join 
+2008-11-22 18:53 Agiofws          /join 
+2008-11-22 18:57 xrtwenty         /join 
+2008-11-22 19:05 delcoyote        /action hi
+2008-11-22 19:08 maha             /join 
+2008-11-22 19:25 xrtwenty         /quit Client Quit
+2008-11-22 19:27 maha             /quit Nick collision from services.
+2008-11-22 19:27 maha             /join 
+2008-11-22 19:34 hackeron         /join 
+2008-11-22 19:34 netfish          /join 
+2008-11-22 19:35 _Vi              /join 
+2008-11-22 19:37 agiofws_         /join 
+2008-11-22 19:43 maha             /nick snmp_rape
+2008-11-22 19:47 netfish          /quit Remote closed the connection
+2008-11-22 19:48 netfish          /join 
+2008-11-22 19:50 netfish          /quit Remote closed the connection
+2008-11-22 19:50 Agiofws          /quit Read error: 110 (Connection timed out)
+2008-11-22 20:10 ctennis          /join 
+2008-11-22 20:14 kevinsbot        /join 
+2008-11-22 20:58 srinivasa        /join 
+2008-11-22 20:58 srinivasa        Hi all
+2008-11-22 21:05 srinivasa        I need help in understand how do I create routing entries on the router : My router router runs FC8 - and has - eth0: 172.16.0.11 (second IP 172.16.1.1) & eth1: 172.16.2.11, Networks I want to create are: 172.16.0.0, 172.16.1.0, 172.16.2.0 & 172.16.3.0. how do I use the subnets on these interfaces so that all of them talk to each other and the internet?
+2008-11-22 21:06 agiofws_         /quit Remote closed the connection
+2008-11-22 21:06 Agiofws          /join 
+2008-11-22 21:10 srinivasa        (I am a newbie - I am afraid my question may be childish)
+2008-11-22 21:11 chalco           don't worry about that
+2008-11-22 21:11 chalco           directly connected interfaces will automatically create routers
+2008-11-22 21:11 chalco           *routes, not routers
+2008-11-22 21:11 srinivasa        chalco, :) sorry for the typoes
+2008-11-22 21:12 chalco           I was correcting myself, not you
+2008-11-22 21:12 chalco           it looks like the only route you don't have directly connected is .3.x
+2008-11-22 21:14 chalco           where is that subnet in relation to your router?
+2008-11-22 21:14 chalco           also, where is your internet connection in relation to your router?
+2008-11-22 21:15 srinivasa        chalco, The internet is connected to a cisco router which 172.16.0.1
+2008-11-22 21:17 srinivasa        chalco, eth0 on the linux router can route the internet requests to 172.16.0.1 as it is defined as gateway
+2008-11-22 21:17 chalco           yes
+2008-11-22 21:17 chalco           however, the cisco router will need to have routes to 1.x, 2.x and 3.x via 0.11
+2008-11-22 21:17 orly_owl         /part ##networking 
+2008-11-22 21:18 srinivasa        chalco, My doubt is - can all these network be in same subnet? say 255.255.255.0?
+2008-11-22 21:19 chalco           no, they cannot. you may need to do some more reading on subnets
+2008-11-22 21:20 srinivasa        chalco, Any reference?
+2008-11-22 21:20 chalco           wikipedia is a good place to start
+2008-11-22 21:21 chalco           http://en.wikipedia.org/wiki/IP_Subnetting
+2008-11-22 21:47 nicbharadwa1     /join 
+2008-11-22 21:48 srinivasa        chalco, if I am using 172.16.0.0/255.255.255.0, 172.16.1.0/255.255.254, 172.16.2.0/255.255.255.252, 172.16.3.0/255.255.255.248 : will this work?
+2008-11-22 21:49 nicbharadwaj     /quit Read error: 113 (No route to host)
+2008-11-22 21:50 srinivasa        typo - 172.16.1.0/255.255.255.254
+2008-11-22 21:54 srinivasa        chalco, Am I making sense?
+2008-11-22 22:02 nicbharadwa1     /quit "Leaving."
+2008-11-22 22:03 nicbharadwaj     /join 
+2008-11-22 22:05 chalco           srinivasa, yes, that will work, depending on what you are trying to do. those subnets are a little smal
+2008-11-22 22:05 chalco           *small
+2008-11-22 22:06 srinivasa        chalco, I understand the limitations :) Wiki was a good reading - thanks for a good starting point
+2008-11-22 22:06 chalco           np
+2008-11-22 22:06 srinivasa        Is there anyotherway than what I am talking
+2008-11-22 22:07 chalco           there are many different ways, all depending on what you are trying to do. what are you trying to do?
+2008-11-22 22:08 srinivasa        chalco, I work in a device lab - I am trying to isolate resources. General desktops users into one network, devices into a seperate network, shared resources into another
+2008-11-22 22:08 srinivasa        chalco, Also I am breaking my device network into two parts
+2008-11-22 22:09 chalco           the individual subnet arrangement isn't too critical
+2008-11-22 22:10 chalco           the biggest thing will be for the cisco to have routes to those subnets
+2008-11-22 22:10 chalco           presumably the cisco is performing NAT?
+2008-11-22 22:10 srinivasa        chalco, Yes
+2008-11-22 22:10 srinivasa        My cisco router pushes all to the linux router if it is local
+2008-11-22 22:11 chalco           yes, but when you add routes, the cisco will need to know about them
+2008-11-22 22:11 chalco           either use static routes or use a routing protocol like RIP
+2008-11-22 22:13 srinivasa        I do not have access to the Cisco router - So I am thinking of managing it with in the linux router!
+2008-11-22 22:13 chalco           then you will need to perform NAT on the linux router
+2008-11-22 22:15 srinivasa        oh! I will try to understand that!
+2008-11-22 22:25 chalco           /quit "Leaving"
+2008-11-22 22:25 m4dscientist     /join 
+2008-11-22 22:27 z4v              /join 
+2008-11-22 22:37 rcirc.el         /error irc.freenode.net: connection broken by remote peer (closed)
+2008-11-23 21:07 ManateeLazyCat   /join 
+2008-11-23 21:07 clarke.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-23 21:07 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-23 22:00 nicbharadwaj     /join 
+2008-11-23 22:04 nicbharadwaj     /part ##networking 
+2008-11-23 22:08 pleed            /join 
+2008-11-23 22:11 pleed            Hi. I ve got a root server running xen with several pv/hvm domUs.  dom0 has got an ipv6 tunnel to sixxs.net , however i ve got around 4 % packet loss when doing "ping6 -c 100 sixxs.net" . ipv4 pings havent got packet loss.  When i tcpdumped that, i saw every packet going out but some were unanswered. icmp/icmpv6 is completely allowed at the moment.  On my domUs it s even worse because in addition a lot of packets are not corretly routed
+2008-11-23 22:22 pleed            Okay i built an ip6 in ip4 tunnel to my home router which pinged6 without packetloss, sixxs seems to be the problem
+2008-11-23 22:24 error_developer_ /join 
+2008-11-23 22:27 JyZyXEL          so you request a webpage behind NAT and the server anserws to you
+2008-11-24 08:35 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-11-24 09:58 ManateeLazyCat   /join 
+2008-11-24 09:58 zelazny.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-24 09:58 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-24 10:08 DasEi            /join 
+2008-11-24 10:23 chalco           /join 
+2008-11-24 10:23 ChanServ         /mode +v chalco
+2008-11-24 10:42 tazz             /join 
+2008-11-24 13:36 ManateeLazyCat   /join 
+2008-11-24 13:36 verne.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-24 13:36 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-24 13:40 izua             /join 
+2008-11-25 11:47 ManateeLazyCat   /join 
+2008-11-25 11:47 calvino.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-25 11:47 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-25 11:59 jamesson         /join 
+2008-11-25 12:00 jamesson         xp wireless w/netgear rangemax usb 2.0, the device's app connects fine but XP reports limited connectivity
+2008-11-25 12:00 jamesson         help please
+2008-11-25 12:12 LiNERROR         /join 
+2008-11-25 12:13 Gopaul           /join 
+2008-11-25 12:23 jamesson         update: ipconfig /renew says an operation was attempted on something that is not a socket
+2008-11-26 22:32 ManateeLazyCat   /join 
+2008-11-26 22:32 calvino.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-26 22:32 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-26 22:45 Haris1           /join 
+2008-11-26 22:47 Haris1_          /join 
+2008-11-26 22:51 Juak             /join 
+2008-11-26 22:52 Juak             question: i have setup a samba server athenticating users against active directory, but the way most howtos describe leaves shell access too (in fact they give access to most services AFAIK). How can i have ONLY samba authenticating against AD?
+2008-11-27 09:36 ManateeLazyCat   /join 
+2008-11-27 09:36 leguin.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-27 09:36 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-27 09:36 riyonuk          Oh wait, found it.
+2008-11-27 09:36 riyonuk          AirPort is connected to WLAN_AP and has the IP address 192.168.0.146
+2008-11-27 09:36 Kevin`           and you want to connect from "laptop" to "windows box"?
+2008-11-27 09:37 Kevin`           interesting that those are all WAN ips, kinda neat, but not very safe from security perspective
+2008-11-27 09:38 riyonuk          Yup, want to see my windows box, from my macbook, using vnc or whatever I can
+2008-11-27 09:38 riyonuk          How is that neat? Tis annoying :P
+2008-11-27 09:38 Kevin`           forward the vnc port to it from the ics box's firewall configuration
+2008-11-27 09:38 spree            /join 
+2008-11-27 09:39 Kevin`           if it's annoying, set up a router =p
+2008-11-27 09:39 spree            I want to block an arp request flood that seems to be coming from some point upstream from me. How can I do that?
+2008-11-27 09:39 Kevin`           spree: some point upstream? are you on cable?
+2008-11-27 09:39 riyonuk          I don't have a router, was considering buying one at Wal-Mart, but it's friggen $70 :P
+2008-11-27 09:39 spree            it's some cisco that i dont manage
+2008-11-27 09:39 spree            yes im on cable
+2008-11-27 09:40 Kevin`           how much is a "flood"?, you will see a LOT of arp requests in normal operation if you are connected directly to cable
+2008-11-27 09:40 spree            i found this out through wireshark. im getting like 800 arp requests a minute from this thing
+2008-11-27 09:40 Kevin`           ignore.
+2008-11-27 09:40 Kevin`           and blocking that device would be.. unwise :)
+2008-11-27 09:40 spree            why is it doing that
+2008-11-27 09:40 Kevin`           since it's probably your next-hop router
+2008-11-27 09:40 Kevin`           it's doing arp. for stations connected to cable.
+2008-11-27 09:41 SanityInFlux     /join 
+2008-11-27 09:42 spree            /quit 
+2008-11-27 09:42 Kevin`           cable ~~= ethernet
+2008-11-27 09:43 Kevin`           http://rafb.net/p/MePNvR73.html
+2008-11-27 09:44 riyonuk          I hate my life :D
+2008-11-27 09:44 Kevin`           oh, he left.
+2008-11-27 09:45 Kevin`           anyway, VERY large network with very little broadcast traffic other then arp :)
+2008-11-27 09:45 Kevin`           (well, that's unfiltered, it's all broadcast)
+2008-11-27 09:45 b4ggi0           /join 
+2008-11-27 09:46 riyonuk          Yeah, I don't know what your talking about XD
+2008-11-27 09:47 riyonuk          Woah, I got vnc to work
+2008-11-27 09:49 riyonuk          I just showed up the network people :P j/k
+2008-11-27 09:49 Kevin`           ?
+2008-11-27 09:50 riyonuk          I got it to work Kevin :)
+2008-11-27 09:50 Kevin`           by doing what
+2008-11-27 09:54 riyonuk          On the vnc server options, I changed the display to 0, instead of auti
+2008-11-27 09:54 riyonuk          *auto
+2008-11-27 09:54 riyonuk          I dont get why it worked, but it did, lol
+2008-11-27 09:55 Epic|            /join 
+2008-11-27 09:56 riyonuk          /quit "Leaving"
+2008-11-27 10:05 [NNUser]         /join 
+2008-11-27 10:11 tek1024          /join 
+2008-11-27 10:18 twocats1fish     /join 
+2008-11-27 10:19 twocats1fish     Cross-post: Could a firewall actually decrease network performance? Especially on a DoS attack (which the firewall is supposed to handle)?
+2008-11-27 10:20 dombre           /join 
+2008-11-27 10:20 twocats1fish     s/on a/during a/
+2008-11-27 10:20 dombre           can I hook my cable modem up to a 5 port switch and then connect my lap top and desktop via cat5e to the switch and get them both online?
+2008-11-27 10:27 Tramp            dombre: if your modem is bridging (as it most probably does) and you only get 1 IP from your provider (which you most probably do): no.
+2008-11-27 10:29 dombre           sugar! I should have bought a router, I wasn't thinking earlyer today lol
+2008-11-27 10:37 Sargun           dombre, sugar
+2008-11-27 10:38 dombre           watching my language lol.
+2008-11-27 10:40 Sargun           ok, now.
+2008-11-27 10:53 Sargun           /quit Remote closed the connection
+2008-11-27 10:55 eleaf            /join 
+2008-11-27 10:55 eleaf            what's a good network throughput test tool?
+2008-11-27 10:55 eleaf            I have one installed on linux, but I totally forgot the command..
+2008-11-27 10:55 eleaf            you run a server command one machine and a client command on the other and it tests network throughput
+2008-11-27 10:57 chalco           iperf
+2008-11-27 10:58 eleaf            yes
+2008-11-27 10:59 eleaf            thanks =)
+2008-11-27 11:00 eleaf            wow, iperf reports 95 mbit /sec, but with SFTP or FTP, I get about 600KB/s
+2008-11-27 11:00 eleaf            this is taking forever to transfer these files.. why is there so much overhead?
+2008-11-27 11:14 eleaf            /quit "Leaving"
+2008-11-27 11:16 twocats1fish     Could a firewall actually decrease network performance? Especially during a DoS attack (which the firewall is supposed to handle)?
+2008-11-27 11:19 Kevin`           twocats1fish: yes
+2008-11-27 11:20 twocats1fish     What does it depend on, Kevin`?
+2008-11-27 11:20 twocats1fish     How can this be?
+2008-11-27 11:21 kidem            /join 
+2008-11-27 11:30 Kevin`           the device has to inspect every packet, and has to keep track of several things in memory. it's possible to overwhelm them
+2008-11-27 11:58 twocats1fish     Kevin`: But...
+2008-11-27 11:58 twocats1fish     Their purpose is to not get overwhelmed :S
+2008-11-27 11:59 twocats1fish     They have DoS protection
+2008-11-27 11:59 twocats1fish     !
+2008-11-27 12:00 Kevin`           i'm just saying it's possible. if the thing is very well designed it shouldn't happen.. but not all of them are
+2008-11-27 12:01 twocats1fish     :(
+2008-11-27 12:01 twocats1fish     Mine is/was probably not well designed.
+2008-11-27 12:01 twocats1fish     But it seems silly.
+2008-11-27 12:02 twocats1fish     The very device that is supposed to withstand it...
+2008-11-27 12:03 Kevin`           IMO they are generally used more for control then for flood-type attacks
+2008-11-27 12:03 twocats1fish     Control?
+2008-11-27 12:03 Kevin`           think firewall rule lists
+2008-11-27 12:05 Midnigh2ker      /join 
+2008-11-27 12:22 twocats1fish     Grrrrrr...
+2008-11-27 12:23 twocats1fish     What the hell does "double firewall" mean?
+2008-11-27 12:29 obcecado         /join 
+2008-11-27 12:37 Sargun           /join 
+2008-11-27 12:37 ChanServ         /mode +v Sargun
+2008-11-27 12:42 Tramp            /quit "I may be ugly, but I've got the bottle opener"
+2008-11-27 12:57 twocats1fish     Hello?
+2008-11-27 12:58 twocats1fish     Kevin`: So... if this firewall just couldn't handle more than one IP address, does this mean that a "real" one costs way more?
+2008-11-27 12:59 Kevin`           twocats1fish: the way you are handling multiple ip addresses is very uncommon.. at least in a business setting
+2008-11-27 12:59 b4ggi0           /quit "Leaving"
+2008-11-27 13:00 Kevin`           twocats1fish: http://www.microcom.us/routerstation.html - more expensive my ass =p
+2008-11-27 13:02 Kevin`           oh, funky power connector on that one for using as a normal router/firewall
+2008-11-27 13:02 Kevin`           but it so cheap :)
+2008-11-27 13:10 twocats1fish     Kevin`: Are you saying that businesses run their Web servers on the same IP address?
+2008-11-27 13:10 twocats1fish     Sounds very unlikely.
+2008-11-27 13:10 twocats1fish     Same public one, that is, naturally.
+2008-11-27 13:12 twocats1fish     Kevin`: No shell, etc.?
+2008-11-27 13:14 twocats1fish     Kevin`: I would like to disuss several things with you before I go to bed.
+2008-11-27 13:14 twocats1fish     It's very late, though.
+2008-11-27 13:16 xchaos           /join 
+2008-11-27 13:33 b4ggi0           /join 
+2008-11-27 13:34 b4ggi0           /quit SendQ exceeded
+2008-11-27 13:34 twocats1fish     Kevin`: Are you awake?
+2008-11-27 13:34 twocats1fish     What is a "dual" or "double" firewall?
+2008-11-27 13:34 b4ggi0           /join 
+2008-11-27 13:35 temporarytao     /join 
+2008-11-27 13:35 temporarytao     hello people, i'd like to ask how safe it is to open port 80 for web hosting
+2008-11-27 13:35 temporarytao     and what i can do to make it safer
+2008-11-27 13:36 temporarytao     any ideas?
+2008-11-27 13:38 chalco           /quit "Leaving"
+2008-11-27 13:42 Kevin`           twocats1fish: I don't know what would be meant by that in a single device
+2008-11-27 13:42 twocats1fish     So probably marketing BS?
+2008-11-27 13:42 twocats1fish     Kevin`: The board you linked to is just... a board!
+2008-11-27 13:42 Kevin`           *shrug*
+2008-11-27 13:42 twocats1fish     Kevin`: Are you saying that businesses run their Web servers on the same public IP address?
+2008-11-27 13:43 Kevin`           twocats1fish: no, you generally get a RANGE of ips instead of ips assigned via dhcp
+2008-11-27 13:43 Kevin`           ..and YOU probably would too if you specifically asked for "static"
+2008-11-27 13:43 twocats1fish     They charge extra. And then you only get ONE anyway.
+2008-11-27 13:44 Kevin`           you can get more then one
+2008-11-27 13:44 twocats1fish     Not from them...
+2008-11-27 13:44 twocats1fish     How can you know?
+2008-11-27 13:44 Kevin`           well, maybe your isp didn't offer it, but that's odd
+2008-11-27 13:44 Kevin`           because I use it here?
+2008-11-27 13:44 twocats1fish     ?
+2008-11-27 13:44 twocats1fish     My ISP?
+2008-11-27 13:44 Kevin`           no.
+2008-11-27 13:45 Kevin`           a range of ips
+2008-11-27 13:45 twocats1fish     I don't doubt that it exists as a concept, of course.
+2008-11-27 13:45 twocats1fish     Just that my ISP... nevermind.
+2008-11-27 13:45 Kevin`           you called their 'business' half?
+2008-11-27 13:46 twocats1fish     Huh?
+2008-11-27 13:47 Kevin`           my experience is you usually talk to different people for that kind of service
+2008-11-27 13:50 twocats1fish     Oh. I didn't understand your question at first.
+2008-11-27 13:50 twocats1fish     Well, their business part charges like 10x more for 10x slower connections...
+2008-11-27 13:50 twocats1fish     I just can't afford that.
+2008-11-27 13:50 Kevin`           :(
+2008-11-27 14:07 temporarytao     /quit "Leaving"
+2008-11-27 14:09 twocats1fish     Kevin`: I must sleep now, but maybe I have the time to ask one more question...
+2008-11-27 14:09 Gecko            /join 
+2008-11-27 14:09 twocats1fish     Kevin`: Do you, somewhat knowing my situation, think that I should buy a consumer-grade all-in-one ADSL modem/firewall/switch from a physical store tomorrow?
+2008-11-27 14:09 twocats1fish     To get basic firewall protection and no fuzz?
+2008-11-27 14:09 ubajas           /join 
+2008-11-27 14:10 twocats1fish     I fear that it too will start hiding my IP addresses.
+2008-11-27 14:11 paq7512          /join 
+2008-11-27 14:12 Kevin`           it would help to know EXACTLY how your isp is providing those multiple addresses
+2008-11-27 14:12 Kevin`           as in, how it integrates with pppoa and such
+2008-11-27 14:13 twocats1fish     It doesn't use PPPoA atall.
+2008-11-27 14:13 twocats1fish     at all
+2008-11-27 14:13 twocats1fish     Or PPPoE.
+2008-11-27 14:13 twocats1fish     It uses that third option.
+2008-11-27 14:13 twocats1fish     No login crap.
+2008-11-27 14:13 Kevin`           which is?
+2008-11-27 14:13 twocats1fish     I took a screenshot of it exactly to be able to answer it...
+2008-11-27 14:13 twocats1fish     But somehow it came back blank.
+2008-11-27 14:14 twocats1fish     Maybe the datasheet has it.
+2008-11-27 14:14 twocats1fish     RFC 2684
+2008-11-27 14:14 twocats1fish     RFC 2684 (formerly 1483) Bridged Ethernet over ATM
+2008-11-27 14:14 twocats1fish     PVCs – Bridged Mode
+2008-11-27 14:15 wng_z3r0         /join 
+2008-11-27 14:27 twocats1fish     Kevin`: Awake?
+2008-11-27 14:28 Kevin`           ah
+2008-11-27 14:28 Kevin`           that helps
+2008-11-27 14:28 Kevin`           so the modem is basically do physical-dsl+atm right now
+2008-11-27 14:28 wng_z3r0         /part ##networking 
+2008-11-27 14:29 twocats1fish     ATM = ?
+2008-11-27 14:29 Kevin`           well, to answer your question, I don't think you could go out TOMORROW and get a device that would do everything you want.. it will need some research, or just a custom device
+2008-11-27 14:29 ktwilight        /join 
+2008-11-27 14:29 twocats1fish     :/
+2008-11-27 20:33 ManateeLazyCat   /join 
+2008-11-27 20:33 wolfe.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-27 20:33 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-27 20:38 saftsack         /join 
+2008-11-27 20:39 saftsack         hi, my cable ethernet stops working after some gbytes sending (ubuntu 8.10 server, linux 2.6.27-7, via_rhine, hardware is ok)
+2008-11-27 20:42 rvsjoen          what makes you suspect the cable ?
+2008-11-27 20:44 saftsack         i said cable so that nobody thinks that this is a wireless card
+2008-11-27 20:44 rvsjoen          ah
+2008-11-27 20:45 saftsack         rvsjoen, after a ifconfig eth0 down and ifconfig eth0 ip up it works for a couple of mbytes
+2008-11-27 20:45 saftsack         it seems that this is no driver bug
+2008-11-27 20:45 rvsjoen          nothing in the logs ? dmesg ?
+2008-11-27 20:45 saftsack         nothing :(
+2008-11-27 20:45 rvsjoen          TX errors in ifconfig ?
+2008-11-27 20:46 saftsack         no  error
+2008-11-27 20:46 saftsack         TX packets:7886897 errors:0 dropped:0 overruns:0 carrier:0
+2008-11-27 20:46 saftsack         the same after it is broken
+2008-11-27 20:47 rvsjoen          with end nodes running with the same speed ? auto-negotiation ok ?
+2008-11-27 20:47 saftsack         atm i have mii-tool watching the state
+2008-11-27 20:47 rvsjoen          hm
+2008-11-27 20:47 saftsack         the machine runs with suse linux before, more than a year without problems. just installed a new system (ubuntu 8.10 server)
+2008-11-27 20:48 saftsack         first i thought the via_rhine driver is buggy, so i inserted a rt8169 based card. same error
+2008-11-27 20:48 rvsjoen          anything else you can do that makes it start working again ? clear arp table, static arp entries, re-auto-negotiate etc etc
+2008-11-27 20:49 saftsack         rvsjoen, i will test those things when the machine goes down the next time
+2008-11-27 20:49 saftsack         the only 2 services over the net which are running are nfs-kernel-server and sshd
+2008-11-27 20:49 saftsack         maybe does portmap some crap with the network settings
+2008-11-27 20:50 rvsjoen          does the machine go completely offline or is it just nfs that stops working ?
+2008-11-27 20:51 saftsack         completely offline. on a local terminal i can ping after a short time other hosts in the net with a ping of 4000ms
+2008-11-27 20:51 saftsack         after an ifconfig down and up everything works fine for a short time
+2008-11-27 20:52 saftsack         and some other important point. no interrupt sharing!
+2008-11-27 20:52 rvsjoen          anything between the two hosts that can cause problems ?
+2008-11-27 20:53 saftsack         no everything else here in the net works fine.
+2008-11-27 20:53 saftsack         the host is directly plugged in an unmanaged switch and worked with this configuration for at least one year
+2008-11-27 20:56 rvsjoen          does this also happen if you try to do other stuff than nfs ?
+2008-11-27 20:56 saftsack         you mean: turn of nfs and portmap and then do e.g. scp and wait for the error?
+2008-11-27 20:57 rvsjoen          for example, or leave nfs running and still use scp
+2008-11-27 20:57 saftsack         this is on my plan too.
+2008-11-27 20:57 saftsack         but i have to test this ...
+2008-11-27 20:57 rvsjoen          ubuntu8.10 is the stable release ?
+2008-11-27 20:57 saftsack         but this error is so strange
+2008-11-27 20:59 saftsack         rvsjoen, yes
+2008-11-27 20:59 saftsack         and after the first occur updated with the latest updates
+2008-11-27 21:00 rvsjoen          sounds weird
+2008-11-27 21:01 saftsack         one another strange thing: after disabling usb in the bios more time gones until the error occurs
+2008-11-27 21:01 saftsack         maybe an error related to acpi or smp? because the old system hadnt smp support
+2008-11-27 21:09 saftsack         Nov 27 11:52:11 l6 kernel: [   31.500037] eth0: no IPv6 routers present
+2008-11-27 21:09 saftsack         Nov 27 13:32:48 l6 kernel: [ 6068.485544] r8169: eth0: link up
+2008-11-27 21:09 saftsack         this is the proof. the last message shows that a hand network reboot was made. beetwen ... NOTHING :(
+2008-11-27 21:26 saftsack_        /join 
+2008-11-27 21:41 saftsack         /quit Read error: 110 (Connection timed out)
+2008-11-27 21:42 twocats1fish     /join 
+2008-11-27 21:42 twocats1fish     I have ADSL Internet. My ISP gives me 5 dynamic but real (external) IP addresses. They don't change very often, and I basically have to switch MAC address or be disconnected for a long time for them to change. Now, I am trying to make my FreeBSD 7 server with ONE LAN port to use TWO different IP addresses instead of one. How can I do this?
+2008-11-27 21:42 twocats1fish     The reason I wanna do this is because I need to host two SSL Web sites, and HTTPS dictates one IP address per site.
+2008-11-27 21:46 SpComb           twocats1fish: dynamic as in DHCP?
+2008-11-27 21:46 twocats1fish     Yes.
+2008-11-27 21:46 SpComb           you'll need two MAC addresses for that box then, presumeably
+2008-11-27 21:47 twocats1fish     Uhuh...
+2008-11-27 21:47 twocats1fish     Is that possible?
+2008-11-27 21:47 twocats1fish     Since it only has one "NIC"?
+2008-11-27 21:47 SpComb           you could have two virtual interfaces with some semirandom MAC address
+2008-11-27 21:47 twocats1fish     I really have zero idea how to actually do this.
+2008-11-27 21:48 rvsjoen          you can add multiple ip addresses to the same interface
+2008-11-27 21:49 twocats1fish     rvsjoen: Please enlighten me.
+2008-11-27 21:49 SpComb           rvsjoen: that won't helpp him run multiple DHCP clients on one interface
+2008-11-27 21:50 rvsjoen          true
+2008-11-27 21:50 xand             whenever I've seen virtual interfaces on the same card they've always had the same MAC address
+2008-11-27 21:50 xand             unless freebsd does something different a second NIC may be needed if you don't have static IPs
+2008-11-27 21:50 twocats1fish     :(
+2008-11-27 21:50 twocats1fish     That sucks.
+2008-11-27 21:50 xand             but I don't know for sure.
+2008-11-27 21:51 twocats1fish     Stupid HTTPS >:(
+2008-11-27 21:51 xand             running servers on dynamic IP addresses is asking for trouble unfortunately
+2008-11-27 21:54 twocats1fish     Um...
+2008-11-27 21:54 twocats1fish     DNS was invented for a reason...
+2008-11-27 21:55 twocats1fish     I have run my server on "dynamic" IP addresses for years.
+2008-11-27 21:55 twocats1fish     Only every few months does it change if I take it offline.
+2008-11-27 21:56 xand             DNS was not invented for dynamic addresses
+2008-11-27 21:56 xand             it was designed so you don't have to type in ip addresses
+2008-11-27 21:57 xand             type in/remember
+2008-11-27 21:57 twocats1fish     Why are you arguing about unrelated, pointless stuff?
+2008-11-27 21:57 xand             I was correcting you.
+2008-11-27 21:57 twocats1fish     It was made to have a fixed, easy-to-remember address.
+2008-11-27 21:57 xand             but my point stands... if you had static IPs then you wouldn't have a problem with two addresses on one NIC
+2008-11-27 21:58 twocats1fish     Then I could put them in some sort of table?
+2008-11-27 21:59 xand             don't know how you do it on freebsd; on linux you just use the ifconfig command (or your distro's network config file) to create a virtual interface with whatever IP address etc.
+2008-11-27 22:01 twocats1fish     I just confirmed with my ISP: If I pay extra for their fixed IP address service, I only get ONE fixed IP address.
+2008-11-27 22:01 twocats1fish     Worthless, in other words.
+2008-11-27 22:02 doggyyy          /join 
+2008-11-27 22:03 doggyyy          tracepath give me -> asymm, how can i get more information about the path and which router in the way ?
+2008-11-27 22:04 SpComb           twocats1fish: my first guess would be to try something along the lines of creating a bridge and attaching your physical interface and an extra dummy interface to it
+2008-11-27 22:07 SpComb           http://209.85.129.132/search?q=cache:dnsjELKEvOcJ:linux.derkeiler.com/pdf/Mailing-Lists/Fedora/2005-03/2930.pdf+linux+multiple+dhcp+addresses&hl=en&ct=clnk&cd=8&client=ms-nokia-tablet
+2008-11-27 22:07 SpComb           google gives that
+2008-11-27 22:08 SpComb           (mailing list thread as a pdf, pfft)
+2008-11-27 22:08 twocats1fish     SpComb: "Dummy" interface? As in software?
+2008-11-27 22:08 SpComb           (my bridgebdummy guess was linux, haven't worked with FreeBSD enough to know
+2008-11-27 22:09 SpComb           )
+2008-11-27 22:12 Mirthas          /join 
+2008-11-27 22:12 SpComb           you could also try the client-identifier mentioned there
+2008-11-27 22:18 LT               /join 
+2008-11-27 22:18 ChanServ         /mode +v LT
+2008-11-27 22:18 twocats1fish     Hrm...
+2008-11-27 22:18 twocats1fish     Try what?
+2008-11-27 22:37 funky            /join 
+2008-11-28 08:16 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-11-28 21:58 ManateeLazyCat   /join 
+2008-11-28 21:58 clarke.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-28 21:58 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-28 22:00 paul68           thats chinese for me will leave it like it is then :-)
+2008-11-28 22:01 rvsjoen          :)
+2008-11-28 22:01 rvsjoen          you could also use the "logger" shell command
+2008-11-28 22:02 rvsjoen          instead of echo
+2008-11-28 22:02 rvsjoen          dont know if that will print to stdout, but at least it'll print in the logs
+2008-11-28 22:02 paul68           ok will give that a try
+2008-11-28 22:05 paul68           and if I want to give the limited part a try just comment out my ip adress in the dhcp conf and give it a shot right?
+2008-11-28 22:06 rvsjoen          what ?
+2008-11-28 22:07 paul68           well I have in my dhcp config the possible known hosts declared for example my laptop gets 192.168.3.40 so if i comment out these lines I should get a ip in the "range for unknown users"
+2008-11-28 22:08 rvsjoen          ah, yes if you make the client renew the lease
+2008-11-28 22:08 paul68           then I can check if I am able to do surf only the internet and nothing else right
+2008-11-28 22:09 rvsjoen          yes
+2008-11-28 22:09 rvsjoen          anyone on the  192.168.3.0/25 subnet should get full access
+2008-11-28 22:11 paul68           did my homework and had a lot of help from you and others
+2008-11-28 22:14 rvsjoen          what more could one ask :-)
+2008-11-28 22:16 paul68           just started with linux 8 months ago and build a full server lamp dhcp dns samba ftp to name a view is samba impacted by the iptables ?
+2008-11-28 22:17 rvsjoen          yes
+2008-11-28 22:18 paul68           then we just need to add a rule to make this work then
+2008-11-28 22:18 paul68           brb bathroom time :-)
+2008-11-28 22:19 rvsjoen          samba uses a few different ports, http://troy.jdmz.net/samba/fw/ that looks like a nice guide
+2008-11-28 22:19 rvsjoen          udp 137,138 and tcp 139,445
+2008-11-28 22:22 Mirthas          /join 
+2008-11-28 22:23 paul68           thanks for your help I have to go now and do a little bit of work ;-)
+2008-11-28 22:24 rvsjoen          np, enjoy
+2008-11-28 22:26 paul68           /quit Remote closed the connection
+2008-11-29 23:11 ManateeLazyCat   /join 
+2008-11-29 23:11 verne.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-11-29 23:11 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-11-29 23:16 ctennis-         /join 
+2008-11-29 23:17 ij0              /join 
+2008-11-29 23:25 WWWill           /join 
+2008-11-29 23:29 Agent            /join 
+2008-11-29 23:29 Agent            /part ##networking 
+2008-11-29 23:31 Dodde            /join 
+2008-11-29 23:32 WWill222         /join 
+2008-11-29 23:33 Dodde            I have problems with my new router, it is a 100Mbit router, I have a 30Mbit 2way connection, but I can only get speeds of 1MB/s (8Mbit/s) and between the computers I only get 200KB/s... It's a Gigabyte GN-BR02G. I don't expect anyone here to know what is wrong in my specific case, but maybe someone has an idea of some software to track problems with connections...?
+2008-11-29 23:34 Dodde            I have tried both desktop and laptop computer, both maxing at 1000kb/s, laptop maxing at 1700kb/s when using wireless... sending files between the computer get them maxed at 200kb/s
+2008-11-29 23:38 professor_       /join 
+2008-11-29 23:40 professor_       hello room, anyone knows what exploit works best on metasploit framework3.2 at the moment? and if there is a list of up-to-date exploits to download somewhere
+2008-11-29 23:43 professor_       /quit "Leaving"
+2008-11-29 23:45 funky            /join 
+2008-11-29 23:46 WWill222         /quit "ciao"
+2008-11-29 23:49 WWWill           /quit Read error: 110 (Connection timed out)
+2008-11-30 00:02 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-12-02 21:02 ManateeLazyCat   /join 
+2008-12-02 21:02 calvino.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-12-02 21:02 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-12-02 21:03 ctennis          /join 
+2008-12-02 21:13 Terminus         .wc
+2008-12-02 21:13 Terminus         /part ##networking 
+2008-12-02 21:24 martian67        /join 
+2008-12-02 21:30 martian67        /quit Remote closed the connection
+2008-12-03 09:18 ManateeLazyCat   /join 
+2008-12-03 09:18 wolfe.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2008-12-03 09:18 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2008-12-03 09:18 robink           Inssomniak: Most routing stacks don't dictate that the remote gateway be in a netblock you already have a route for.
+2008-12-03 09:19 Tramp            Inssomniak: yep, a private /30 to save IPs is a pretty normal setup.
+2008-12-03 09:19 robink           Inssomniak: I could have a 3.4.5.6/24 netblock and have 1.2.3.4 as my nexthop for 0.0.0.0/0, and that would work, provided 1.2.3.4 was at the other end of the link, right?
+2008-12-03 09:19 Inssomniak       true but that was the way the ISP did it, I didnt have much of a choice at the time
+2008-12-03 09:19 robink           Inssomniak: With a /30 you still have to throw away two IPs.
+2008-12-03 09:20 Inssomniak       robink, well the network and broadcast IPs are typically not useable on most routers
+2008-12-03 09:20 robink           Inssomniak: Indeed.  I consider them reserved.
+2008-12-03 09:26 Inssomniak       I run a WISP, I have a /29 subnet for some of my core routers, and my /24 is all divided up into each ip /32 and route over private ip space
+2008-12-03 09:34 mxs              /join 
+2008-12-03 09:38 Sargun           is your WISP profitable?
+2008-12-03 09:38 goober_          /join 
+2009-01-05 16:34 ManateeLazyCat   /join 
+2009-01-05 16:34 niven.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking (Capso on Wed Oct  1 03:36:01 2008)
+2009-01-05 16:34 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2009-01-05 16:39 Sargun           JoEMoMMa, hahahah
+2009-01-05 16:39 Sargun           aHAHA
+2009-01-05 16:39 Sargun           Bahaha
+2009-01-05 16:41 JoEMoMMa         i'll take that s no
+2009-01-05 16:44 Sargun           basically
+2009-01-05 16:49 JoEMoMMa         /quit Read error: 60 (Operation timed out)
+2009-01-05 16:51 JoEMoMMa         /join 
+2009-01-30 12:13 ManateeLazyCat`  /join 
+2009-01-30 12:13 anthony.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking || Sorry, we won't do your homework (Sargun on Sun Jan 18 19:29:17 2009)
+2009-01-30 12:13 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2009-01-30 12:15 marie1973        /join 
+2009-01-30 12:36 ideopathic       /join 
+2009-01-30 12:43 Linuturk_        /join 
+2009-01-30 12:46 squib            /join 
+2009-01-30 12:47 squib            /nick MrWGW-
+2009-01-30 12:47 MrWGW-           /nick squib
+2009-01-30 12:48 Capso_           squib: ah, haha
+2009-01-30 12:48 Capso_           /mode -o Capso_
+2009-01-30 12:51 Gopaul           /join 
+2009-01-30 13:03 adeel            /join 
+2009-01-30 13:04 adeel            /quit Client Quit
+2009-01-30 13:05 os11             /join 
+2009-01-30 13:43 ManateeLazyCat   /join 
+2009-01-30 13:43 calvino.freenode.net /topic Interconnected nodes over generalised protocols. Cite Standards, not Guides. - Apt introductory text: _Computer Networks_ by Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking || Sorry, we won't do your homework (Sargun on Sun Jan 18 19:29:17 2009)
+2009-01-30 13:43 ChanServ         /notice [##networking] For Technical Problems, upon posing a query, please refer to the Scientific Method and include any relevant information from the following: 1) network topology, 2) OS/Distrib., 3) network status, and (include always) 4) diagnostics.
+2009-01-30 13:43 samix            /join 
+2009-01-30 13:48 Epic|||          /join 
+2009-01-30 13:49 xev\stoned       /join 
+2009-01-30 13:52 os11             xtightvncviewer: VNC server closed connection ?? why?
+2009-01-30 13:53 mepholic         /join 
+2009-01-30 13:53 Eth0sx           /join 
+2009-01-30 13:54 mepholic         ok
+2009-01-30 13:55 mepholic         isc dhcpd keeps assigning the highest ip in a specified range first
+2009-01-30 13:55 mepholic         why
+2009-01-30 14:06 Sargun           /join 
+2009-01-30 14:06 ChanServ         /mode +v Sargun
+2009-01-30 14:13 [biabia]         /join 
+2009-01-30 14:14 mepholic         /quit "Leaving"
+2009-01-30 14:15 chalco           why not?
+2009-01-30 14:15 Eth0sx           /quit "When two people dream the same dream, it ceases to be an illusion. KVIrc 3.4.2 Shiny http://www.kvirc.net"
+2009-01-30 14:29 adeel            /join 
+2009-01-30 14:30 deep             /join 
+2009-01-30 14:35 bla_             /join 
+2009-01-30 14:37 Sargun           chalco, why?
+2009-01-30 14:42 MasterOf1isaster /join 
+2009-01-30 14:42 MasterOf1isaster /quit Client Quit
+2009-01-30 14:49 marie1973        /join 
+2009-01-30 14:49 dmz              /join 
+2009-01-30 14:52 LiNERROR         /join 

@@ -1,0 +1,99 @@
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for ##networking: Interconnected nodes over generalised
+    protocols. Cite Standards, not Guidese t Apt introductory text: _Computer
+    Networks_ by Andrew S. Tanenbaum. Seminars and more:
+    http://intercom.nanoSouffle.net/networking  [03:24:46]
+*** ##networking: topic set by Capso, 03:36:01 2008/10/01
+*** Users on ##networking: ManateeLazyCat rookie1 redblue man_at_arms
+    MasterOfDisaster error_developer_ nnull einval ideopathic JoeSomebody Xjs
+    Inverted tonyyarusso delcoyote tris SpComb magyar rvsjoen nick125 cra
+    Apachez simon SanityInFlux |REM| paq7512 Mirthas rtru tazz Agiofws velicos
+    suppahsrv cl0ud FrFluffyBottom ctennis Epic| LiNERROR SeJo war9407 krphop
+    tek1024 tarbo CryWolf +chalco Dev_N00b EarlJr mxs ggeecko subwaygoboom
+    Midnigh2ker ktwilight__ robink DuClare 
+*** Users on ##networking: +Mxyzpltk Inssomniak martian67 lukecyca lokai
+    jeffspeff2 Lars_G +xand grndslm [biabia] biz Gecko +imMute bbelt16ag
+    +Rawplayer dmz Brownout robertj PZt _ssky_ lkthomas PeterFA AntiLiberal
+    kreg_ tonsofpcs iglo akira loceur hoodlum Gary skymeyer mrrx_ elcasey
+    jetole flokuehn iascorga nex-tek mpr wily msbhvn +Sargun_Screen JyZyXEL
+    Vadtec felipe nick125_screen arthabaska nadio raina OzoNe +Kevin` raekism
+    emma kevinsbot Cprossu +sep Webu bkuhl 
+*** Users on ##networking: FeliXdk rnode xous MadChopr micols +StevenR +xai
+    +jakllsch Schroeder +danieldg Stevethe1irate +x86 fishsponge_ acidchild
+    echinos frozty_sa CcSsNET PEBMAC djs nApsTer_ex truewiki RJ2k ubajas 
+*** ##networking URL: http://intercom.nanoSouffle.net/networking
+*** ##networking modes: +tnc  [03:25:12]
+*** ##networking was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö47‘Ãë
+<rookie1> i need to open up the port 4226, but I am behind a Linksys NR041
+          which is connected to a Linksys WRT54G wireless router, what would i
+          do to be able to open that port number through both routers?
+                                                                     [03:26:00]
+<rookie1> my connection to the internet is  Internet -> cable modem -> NR041
+          -> WRT54G -(wifi connection)>  computer  [03:27:59]
+<rookie1> i have several computers, some are connected to the internet from
+          the NR041, and some (like my main computer) are connected to the
+          internet from the WRT54G  [03:30:09]
+<TheMystic_> Anybody an expert on layer 2?  [03:30:10]
+<TheMystic_> specifically finding a device based on MAC address  [03:31:29]
+<xand> please don't ask meta questions  [03:33:14]
+<TheMystic_> meta questions?  [03:33:38]
+<PeterFA> When I subnet one bit further from /24 to /25, does the netmask from
+          that look like 255.255.255.126?  [03:35:28]
+<xand> http://www.catb.org/~esr/faqs/smart-questions.html#prune  [03:35:30]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for ##networking: Interconnected nodes over generalised protocols. Cite Standards, not Guidese t Apt introductory text: _Computer Networks_ by
+    Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking  [14:19:52]
+*** ##networking: topic set by Capso, 03:36:01 2008/10/01
+*** Users on ##networking: ManateeLazyCat +Sargun NewCastleScott Gopaul Ohmu Apachez huangjs ideopathic Siffy Niedar Dev_N00b berns CcSsNET us3rsearch
+    nick125 errordeveloper mxs SpaceBass JoeSomebody obcecado ctennis +chalco paq7512 senn MasterOfDisaster einval Xjs Inverted tonyyarusso delcoyote
+    tris SpComb magyar rvsjoen cra simon |REM| suppahsrv cl0ud FrFluffyBottom Epic| LiNERROR SeJo krphop tek1024 tarbo CryWolf EarlJr ggeecko
+    subwaygoboom Midnigh2ker ktwilight__ 
+*** Users on ##networking: robink DuClare +Mxyzpltk Inssomniak martian67 lukecyca lokai jeffspeff2 Lars_G +xand grndslm [biabia] biz Gecko +imMute
+    bbelt16ag +Rawplayer dmz Brownout robertj PZt _ssky_ lkthomas PeterFA AntiLiberal tonsofpcs iglo ubajas RJ2k truewiki nApsTer_ex djs PEBMAC frozty_sa
+    echinos fishsponge_ +x86 Stevethe1irate +danieldg Schroeder +jakllsch +xai +StevenR micols MadChopr xous rnode FeliXdk bkuhl Webu +sep Cprossu
+    kevinsbot emma raekism +Kevin` 
+*** Users on ##networking: OzoNe raina arthabaska nick125_screen felipe Vadtec JyZyXEL +Sargun_Screen msbhvn wily mpr akira loceur hoodlum Gary skymeyer
+    mrrx_ elcasey jetole flokuehn iascorga nex-tek 
+*** ##networking URL: http://intercom.nanoSouffle.net/networking  [14:19:53]
+*** ##networking modes: +tnc  [14:20:26]
+*** ##networking was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö47‘Ãë
+<dibblego> I have an ADSL wireless router (Netgear DG834G) and I want to upgrade to ADSL2; will I need another wireless router or just an ADSL2 modem?
+                                                                                                                                                [14:25:45]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for ##networking: Interconnected nodes over generalised protocols. Cite Standards, not Guidese t Apt introductory text: _Computer Networks_ by
+    Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking  [22:50:34]
+*** ##networking: topic set by Capso, 03:36:01 2008/10/01
+*** Users on ##networking: ManateeLazyCat redblue Maha` scampbell Agiofws zxxd man_at_arms velicos yango scientes [3eker muscov einval Gecko faLUCE
+    error_developer_ ktwilight toddoon xev\stoned +Sargun jeffspeff Epic| Midnigh2ker PeterFA NewCastleScott ideopathic Apachez Niedar Dev_N00b CcSsNET
+    nick125 mxs JoeSomebody +chalco paq7512 senn MasterOfDisaster Xjs Inverted tonyyarusso delcoyote tris SpComb magyar rvsjoen cra simon |REM| suppahsrv
+    cl0ud FrFluffyBottom 
+*** Users on ##networking: LiNERROR SeJo krphop tek1024 tarbo CryWolf EarlJr ggeecko robink DuClare +Mxyzpltk Inssomniak martian67 lukecyca lokai Lars_G
+    +xand grndslm [biabia] biz +imMute bbelt16ag +Rawplayer dmz Brownout robertj PZt _ssky_ lkthomas AntiLiberal tonsofpcs iglo ubajas RJ2k truewiki
+    nApsTer_ex djs PEBMAC frozty_sa echinos fishsponge_ +x86 Stevethepirate +danieldg Schroeder +jakllsch +xai +StevenR micols MadChopr xous FeliXdk
+    bkuhl Webu +sep Cprossu 
+*** Users on ##networking: kevinsbot emma raekism +Kevin` OzoNe raina arthabaska nick125_screen felipe Vadtec JyZyXEL +Sargun_Screen msbhvn wily mpr
+    akira loceur hoodlum Gary skymeyer mrrx_ elcasey jetole flokuehn iascorga nex-tek 
+*** ##networking URL: http://intercom.nanoSouffle.net/networking
+*** ##networking modes: +tnc  [22:51:01]
+*** ##networking was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö47‘Ãë
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for ##networking: Interconnected nodes over generalised protocols. Cite Standards, not Guidese t Apt introductory text: _Computer Networks_ by
+    Andrew S. Tanenbaum. Seminars and more: http://intercom.nanoSouffle.net/networking  [23:04:05]
+*** ##networking: topic set by Capso, 03:36:01 2008/10/01
+*** Users on ##networking: ManateeLazyCat KermitTheFragger redblue Maha` scampbell Agiofws zxxd man_at_arms velicos yango scientes [3eker muscov einval
+    Gecko faLUCE error_developer_ ktwilight toddoon xev\stoned +Sargun jeffspeff Epic| Midnigh2ker akira loceur hoodlum Gary skymeyer mrrx_ elcasey
+    jetole flokuehn iascorga nex-tek mpr wily msbhvn +Sargun_Screen JyZyXEL Vadtec felipe nick125_screen arthabaska raina OzoNe +Kevin` raekism emma
+    kevinsbot Cprossu +sep 
+*** Users on ##networking: Webu bkuhl FeliXdk xous MadChopr micols +StevenR +xai +jakllsch Schroeder +danieldg Stevethepirate +x86 fishsponge_ echinos
+    frozty_sa PEBMAC djs nApsTer_ex truewiki RJ2k ubajas iglo tonsofpcs AntiLiberal lkthomas _ssky_ PZt robertj Brownout dmz +Rawplayer bbelt16ag +imMute
+    biz [biabia] grndslm +xand Lars_G lokai lukecyca martian67 Inssomniak +Mxyzpltk DuClare robink ggeecko EarlJr CryWolf tarbo tek1024 krphop SeJo
+    LiNERROR FrFluffyBottom 
+*** Users on ##networking: cl0ud suppahsrv |REM| simon cra rvsjoen magyar SpComb tris delcoyote tonyyarusso Inverted Xjs MasterOfDisaster senn paq7512
+    +chalco JoeSomebody mxs nick125 CcSsNET Dev_N00b Niedar Apachez ideopathic NewCastleScott PeterFA 
+*** ##networking URL: http://intercom.nanoSouffle.net/networking
+*** ##networking modes: +tnc  [23:04:33]
+*** ##networking was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö47‘Ãë

@@ -1,0 +1,1521 @@
+
+[ëÀƒ 12ë‘¬  4 2008]
+*** Topic for ##c: The C Programming Language || PASTE (>3 lines) here:
+    http://codepad.org || HOME page: http://www.iso-9899.info/ (to edit
+    anonymously: username TypeOf'A', and the password is the type of character
+    constants like 'A') || Please be civil. || Please register with nickserv
+    to speak on this channel /msg nickserv help  [03:40:47]
+*** ##c: topic set by twkm, 13:49:25 2008/10/26
+*** Users on ##c: ManateeLazyCat str1k3r schasi Raistl|n Mr_Bond_ Copter2
+    uzyszkodnik bigGig Actium johndoe ilsanto chontrite araujo TMM M3h`
+    wonderwal UnknownUser56 killown Sark vasoq apfel loonysalmon andrewy
+    junmin XSource AciD megaTherion Zta StealthAsimov dforsyth lebafar_
+    sstangl sputnick fuufang xaashi edico kenws TAsn PoppaVic macdaddy masus
+    joele23 phao_ kamaji _FReeZ HS^ Psy| Guest28660 PhonicUK phrosty Debugger
+    srm monkey_d_luffy Gargantua omry_|work 
+*** Users on ##c: skppo_ orflon ruoso amnesiac kaneda^ Rhamphoryncus p4tux
+    SilentPenguin CanWood `marianne` Splinter2 bronson _stack r1nu- viperhr
+    gigo woggle ryakubo phantomcircuit r1pp3r Elmaron xnixan timmy_boy Azraael
+    litb gummybearx mactimes alexmlw linuxmain Zephyrus coincoin161 toxygen
+    Lalu YlandeFaran bvs dh gehel eirik enkrypt LeoNerd rvsjoen Fleck paul
+    snappy tarzeau johnjay volodim ixtli pk_vex nots jogla Pryon virtx impulze
+    kejsaren maxamillion ja1 
+*** Users on ##c: Xjs a-s bl4ckb1t evelyette riotz b0ne SmatZ decafbad pizza_
+    vincent fuz brad_mssw weilawei|away asitaway icqnumber `Chris [dmp]_
+    nn-main vinc456 BSWolf _bugz_ dejones exoduso r0ute_ho2 joapuipe
+    SpeedyGhost gcola mbroeker Jet_Blazer hrnt _kesselhaus_ impulse150 dvd
+    snhmib compengi Praise Gr0m _xyld a-v LordO ofl_ foutrelis dcomxx ice-man
+    gemelen Baughn ceyusa Andrius jrib TomyLobo yumehito_ Questutis SimoneB
+    lnostdal ltd hark zcram Sharker Madsy 
+*** Users on ##c: Skapare grazz ia engin2 zophy rjaym thrasher pierrep
+    JediatNight boris`` NiallC rsFF Necrite[-_-zzZZZ catojo pyro_17 ekneuss
+    nenolod phe aguai Quentarez _Reloaded Oort asdfff denon Amorphous
+    TheBonsai sniper22 Compy2 tarbo muke_ AnnaVarney z|Andy dav7 les servus
+    C0MPAQ twolf ron2 Konky DaQatz flazz zith_ clergyma1 unreal reZo_ Xires
+    SM0TVI deoks bluud fury fade-in SamB Tassis gl SlaY3R hays_afk RunningBon
+    borism hrnd tcunha|home RipsteR Y_Less 
+*** Users on ##c: xuser weetabeex Politoed Shaun2222 gpolo baek_thf segy
+    bulibuta DuClare TerminalError gnufied bbs Jonbo schlort oskie dmulholland
+    klathzazt B|20CK helgon bombshelter13 Maxdamantus Ponage rwrd nutkin Sweq
+    bono SiFuh_ Guest4981383 verte Knight_Lord SergioAAC baklava- perry753
+    Raiford Wil CaptainMorgan krzee SonicvanaJr trekdanne binarydigit VaNNi
+    intrados ferret_0567 HellDragon GoatCheezWork cyclone stsc tazle initself
+    HeatHawk[AP2] Echon Quadrescence 
+*** Users on ##c: froze biz joh OuLouFu lintripp1 adelikat eut qbe macli
+    sbahra rigid synapt NicM Goosey spx2 tpratt aaronf0 dijital1 robberbaron
+    rvvs89 slooth yahooooo rangaparma twobytes sadmac ignuss ejb AntiLiberal
+    moqq kjs Xgc Piratero Octopus_ingrasys InvaderNOP Khisanth bnovc talisein
+    TheMagician Nappy Leonidas Topol gsr revsbech bonsaikitten dranz ltd_wk
+    zvrba tyfon uplate maskd Rubin Gokul sbahra[] dxtr lopz The_Osterhase
+    AnMaster rjelari tltstc freespace 
+*** Users on ##c: PixelSmack Andon Obfuscate Sleepy_Coder dbtid eip41 preflex
+    sztanphet crib archangelpetro estan assem nn64 maikol Luck forneus hohum
+    setupji Teckla yosyp smtms seanw EspenG Baneo Soliah Akuma archivist
+    Wonkey gwashburn freqmod_qu ifvoid dwave MasseR walmis Stx solemnwarning
+    Seadog ttz trumpen kimusan^^ rabioli cipherz mwk nil kothog Eusebus amorel
+    n4te pragma_ my007ms raheel jurku Dianora elliottcable micols ccfreak2k
+    _theHAM buccia array shafu 
+*** Users on ##c: fbred bynari TeraBoy tombin diddly cyzie _Vile prgrmr
+    manu_hack robert_ MooingLemur slon pippijn t xHemi lemnisca kutio hoens
+    DavidC99 kopf andy Stalker ctr JT Dreg echo^^ fury_ coderbean alamar emma
+    fadec DustyDingo Zhivago gjvc iratsu Xantoz Mityannar mac|gyver frivol
+    crashmatrix MajinMagu jones- fgeek dquestions BlindMan Ikarus peterS
+    orbitz xaxes felipe fez Uperiwn buu memfr0b LiraNuna_ r0ute stylus
+    leeping2008 jaskorpe mors iMax Vadtec 
+*** Users on ##c: Chris BigJ fuzzix mr_uggla JyZyXEL sbok xsdg Martinp23
+    Sargun_Screen twkm mod6 ukkopekka r0bby supertramp mpr Funjker_Boy22
+    regulate masterdriverz cehteh aton` pfote bunz mr_science sysm pasky rEv9
+    elvedin iascorga thommey Draconx sqweek mrrazz spoty dindinx maqr emias
+    djinni` jmob n3Cre0 Doat Vegar hotspants tss Spark byoteki ramchan_
+    lollervonskater koollman tanq_ dooky ncjp Divine dings dogmeat chii
+    mitsuhiko daryl qebab i3d fab31 easies 
+*** Users on ##c: b0ef askie bXi Agrajag- candide r0ute_lab malik mot noptrix 
+*** ##c URL: http://www.iso-9899.info/  [03:40:48]
+<sstangl> Dianora: nope, listening on the correct port  [03:40:55]
+<Dianora> getaddrinfo is much easier to use esp. for newbies  [03:40:59]
+<Dianora> sstangl *nod nod*  [03:41:03]
+<Dianora> just came back downstairs ;-)  [03:41:15]
+*** ##c modes: +tncR  [03:41:19]
+*** ##c was created on ë–«ë∆⁄ë»’ 2006/11/26 14ë ±42ë∑÷39ë√Î  [03:41:20]
+<vasoq> so it is listening on the correct port, so why does the gethostbyname
+        make it the problem?  [03:41:30]
+<Dianora> vasoq: use getaddrinfo, you might be listening on the wrong port
+                                                                     [03:41:50]
+<Dianora> I suppose you could use netstat -na to check  [03:42:04]
+<vasoq> well the server is definitely on the right port, this is the client
+        i'm writing from  [03:42:19]
+<Dianora> use getaddrinfo  [03:42:36]
+<Dianora> as sstangle says there are examples  [03:42:47]
+
+[ëÀƒ 12ë‘¬  4 2008]
+*** Topic for ##c: The C Programming Language || PASTE (>3 lines) here:
+    http://codepad.org || HOME page: http://www.iso-9899.info/ (to edit
+    anonymously: username TypeOf'A', and the password is the type of character
+    constants like 'A') || Please be civil. || Please register with nickserv
+    to speak on this channel /msg nickserv help  [03:44:00]
+*** ##c: topic set by twkm, 13:49:25 2008/10/26
+*** Users on ##c: ManateeLazyCat Tricon Tordek str1k3r schasi Raistl|n
+    Mr_Bond_ Copter2 uzyszkodnik bigGig Actium johndoe ilsanto chontrite
+    araujo TMM M3h` wonderwal UnknownUser56 killown Sark vasoq apfel andrewy
+    junmin XSource AciD megaTherion Zta StealthAsimov dforsyth lebafar_
+    sstangl sputnick fuufang xaashi edico kenws TAsn PoppaVic macdaddy joele23
+    phao_ kamaji _FReeZ HS^ Psy| Guest28660 PhonicUK phrosty Debugger srm
+    monkey_d_luffy Gargantua omry_|work skppo_ 
+*** Users on ##c: orflon ruoso amnesiac kaneda^ Rhamphoryncus p4tux
+    SilentPenguin CanWood `marianne` Splinter2 bronson _stack r1nu- viperhr
+    gigo woggle ryakubo phantomcircuit r1pp3r Elmaron xnixan timmy_boy Azraael
+    litb gummybearx mactimes alexmlw linuxmain Zephyrus coincoin161 toxygen
+    Lalu YlandeFaran bvs dh gehel eirik enkrypt LeoNerd rvsjoen Fleck paul
+    snappy tarzeau johnjay volodim ixtli pk_vex nots jogla Pryon virtx impulze
+    kejsaren maxamillion ja1 Xjs a-s   [03:44:01]
+*** Users on ##c: bl4ckb1t evelyette b0ne SmatZ decafbad pizza_ vincent fuz
+    brad_mssw weilawei|away asitaway icqnumber `Chris [dmp]_ nn-main vinc456
+    BSWolf _bugz_ dejones exoduso r0ute_ho2 joapuipe SpeedyGhost gcola
+    mbroeker Jet_Blazer hrnt _kesselhaus_ impulse150 dvd snhmib compengi
+    Praise Gr0m _xyld a-v LordO ofl_ foutrelis dcomxx ice-man gemelen Baughn
+    ceyusa Andrius jrib TomyLobo yumehito_ Questutis SimoneB lnostdal ltd hark
+    zcram Sharker Madsy Skapare grazz 
+*** Users on ##c: ia engin2 zophy rjaym thrasher pierrep JediatNight boris``
+    NiallC rsFF Necrite[-_-zzZZZ catojo pyro_17 ekneuss nenolod phe aguai
+    Quentarez _Reloaded Oort asdfff denon Amorphous TheBonsai sniper22 Compy2
+    tarbo muke_ AnnaVarney z|Andy dav7 les servus C0MPAQ twolf ron2 Konky
+    DaQatz flazz zith_ clergyma1 unreal reZo_ Xires SM0TVI deoks bluud fury
+    fade-in SamB Tassis gl SlaY3R hays_afk RunningBon borism hrnd tcunha|home
+    RipsteR Y_Less xuser weetabeex 
+*** Users on ##c: Politoed Shaun2222 gpolo baek_thf segy bulibuta DuClare
+    TerminalError gnufied bbs Jonbo schlort oskie dmulholland klathzazt B|20CK
+    helgon bombshelter13 Maxdamantus Ponage rwrd nutkin Sweq bono SiFuh_
+    Guest4981383 verte Knight_Lord SergioAAC baklava- perry753 Raiford Wil
+    CaptainMorgan krzee SonicvanaJr trekdanne binarydigit VaNNi intrados
+    ferret_0567 HellDragon GoatCheezWork cyclone stsc tazle initself
+    HeatHawk[AP2] Echon Quadrescence froze biz 
+*** Users on ##c: joh OuLouFu lintripp1 adelikat eut qbe macli sbahra rigid
+    synapt NicM Goosey spx2 tpratt aaronf0 dijital1 robberbaron rvvs89 slooth
+    yahooooo rangaparma twobytes sadmac ignuss ejb AntiLiberal moqq kjs Xgc
+    Piratero Octopus_ingrasys InvaderNOP Khisanth bnovc talisein TheMagician
+    Nappy Leonidas Topol gsr revsbech bonsaikitten tss Spark byoteki ramchan_
+    lollervonskater koollman tanq_ dooky ncjp Divine dings dogmeat chii
+    mitsuhiko daryl qebab i3d fab31 
+*** Users on ##c: easies b0ef askie bXi Agrajag- candide r0ute_lab malik mot
+    noptrix hotspants Vegar Doat n3Cre0 jmob djinni` emias maqr dindinx spoty
+    mrrazz sqweek Draconx thommey iascorga elvedin rEv9 pasky sysm mr_science
+    bunz pfote aton` cehteh masterdriverz regulate Funjker_Boy22 mpr
+    supertramp r0bby ukkopekka mod6 twkm Sargun_Screen Martinp23 xsdg sbok
+    JyZyXEL mr_uggla fuzzix BigJ Chris Vadtec iMax mors jaskorpe leeping2008
+    stylus r0ute LiraNuna_ memfr0b buu 
+*** Users on ##c: Uperiwn fez felipe xaxes orbitz peterS Ikarus BlindMan
+    dquestions fgeek jones- MajinMagu crashmatrix frivol mac|gyver Mityannar
+    Xantoz iratsu gjvc Zhivago DustyDingo fadec emma alamar coderbean fury_
+    echo^^ Dreg JT ctr Stalker andy kopf DavidC99 hoens kutio lemnisca xHemi t
+    pippijn slon MooingLemur robert_ manu_hack prgrmr _Vile cyzie diddly
+    tombin TeraBoy bynari fbred shafu array buccia _theHAM ccfreak2k micols
+    elliottcable Dianora jurku raheel 
+*** Users on ##c: my007ms pragma_ n4te amorel Eusebus kothog nil mwk cipherz
+    rabioli kimusan^^ trumpen ttz Seadog solemnwarning Stx walmis MasseR dwave
+    ifvoid freqmod_qu gwashburn Wonkey archivist Akuma Soliah Baneo EspenG
+    seanw smtms yosyp Teckla setupji hohum forneus Luck maikol nn64 assem
+    estan archangelpetro crib sztanphet preflex eip41 dbtid Sleepy_Coder
+    Obfuscate Andon PixelSmack freespace tltstc rjelari AnMaster The_Osterhase
+    lopz dxtr sbahra[] Gokul Rubin 
+*** Users on ##c: maskd uplate tyfon zvrba ltd_wk dranz 
+*** ##c URL: http://www.iso-9899.info/
+*** ##c modes: +tncR  [03:44:33]
+*** ##c was created on ë–«ë∆⁄ë»’ 2006/11/26 14ë ±42ë∑÷39ë√Î
+<assem> Shaun2222, you allocated memory for b64output but never used it before
+        calling strlen(b64output).  maybe you want to use b64output_len
+        instead  [03:44:38]
+<LeoNerd> getaddrinfo() also has the advantage of being a: correct, b:
+          IPv6-neutral (see a), c: future-proof (see b)  [03:45:01]
+<Dianora> LeoNerd: bingo  [03:45:18]
+<Dianora> LeoNerd: *much* nicer  [03:45:35]
+<Shaun2222> assem: b64output gets set during the while()  [03:45:43]
+<Shaun2222> your right though, would be better off to use b64output_len rather
+            than using strlen once agains curious still though as to whats
+            going on.  [03:46:43]
+<assem> Shaun2222, oh, sorry i'm blind - so it does.  [03:46:46]
+<Shaun2222> in the while the b64output is filled.  [03:46:51]
+<Dianora> Shaun2222 esp. if your byte array has nul bytes  [03:47:04]
+<Shaun2222> Dianora: it doesnt, it's base 64  [03:47:22]
+<RipsteR> can anybody tell me why i am getting this error: initializer element
+          is not constant  [03:47:39]
+<Dianora> Shaun2222 still my caveat stands. ;-)
+<RipsteR> http://codepad.org/1yUFpVIq  [03:47:41]
+<Dianora> "if" it has nul bytes  [03:47:49]
+<b0ne> RipsteR, what line?  [03:48:34]
+<Shaun2222> hmm, could valgrind be bitchin because it just see's the
+            possibility of the b64output never getting set if say b64input was
+            \0?  [03:48:35]
+<assem> Shaun2222, oh, no '\0' terminator in b64output, that's why valgrind is
+        complaining.   strlen() is looking for \0  [03:48:39]
+<Shaun2222> ah  [03:48:57]
+<Shaun2222> that would make sensei  [03:49:02]
+<RipsteR> b0ne: multiple lines that contain the variable counter, like 334
+                                                                     [03:49:40]
+<Shaun2222> i should probably right a check into that while to make sure it's
+            not looping past b64output_len too  [03:51:37]
+<Shaun2222> otherwise it could overwrite memory, right?  [03:51:54]
+<apples`> yay, i figured out how to do halley's method in C :>  [03:52:34]
+<Shaun2222> that fixed it.  [03:54:27]
+*** weilawei|away (n=weilawei@pool-71-127-9-182.spfdma.east.verizon.net) is
+    now known as weilawei  [03:57:09]
+<RipsteR> why would gcc be giving me that error, and codepad doesnt recognize
+          it  [03:57:31]
+<RipsteR> ?  [03:57:34]
+<RipsteR> error: initializer element is not constant  [03:57:45]
+<RipsteR> http://codepad.org/1yUFpVIq  [03:57:48]
+<hohum> oh my god  [03:58:38]
+<hohum> no  [03:58:40]
+<hohum> he's back  [03:58:43]
+<RipsteR> who?  [03:59:00]
+* apples` hides  [03:59:05]
+<hohum> 11:55 -!- Brocolli [n=Dynamite@Ben-laptop.uws.ualberta.ca] has joined
+        ##c  [03:59:10]
+<apples`> hohum, quick! to the basement!  [03:59:12]
+<hohum> the troll  [03:59:16]
+<RipsteR> oh, dont feed the troll  [03:59:24]
+<hohum> good point  [03:59:55]
+* hohum zips  [03:59:57]
+<moqq> cÅ°î¢Ôî¢ÔÅ°Å°Å°î¢ÔúÙÚ˙úÙÛƒé§xxxx\Å¢Å¢úÙÛπÅ°Å°  [04:07:58]
+<moqq> oops  [04:08:03]
+<apples`> o_O  [04:08:10]
+<moqq> i cant figure out how to switch windows in irssi s im ona mac
+                                                                     [04:08:28]
+<moqq> alt doesn't seem to work  [04:08:32]
+<moqq> and i can't backspace either.  [04:08:43]
+<pizza_> well at least we know those other keys don't work either  [04:08:47]
+* apples` has no idea  [04:08:49]
+<apples`> good ol' xchat :)  [04:08:57]
+<netytan> Hi :). Silly question but what should I expect: printf("%f", (10 /
+          2)); to output?  [04:09:54]
+<netytan> printf("%lf", (10 / 2)); *  [04:10:01]
+<ManateeLazyCat>   [04:10:23]
+<apples`> might want to append a .0 to both of those numbers  [04:11:20]
+<skppo_> and stick with %f instead of %lf  [04:11:36]
+<Brocolli> You don't have tos Atleast I don't think you do  [04:11:37]
+<skppo_> you do  [04:11:51]
+<pizza_> netytan: the result of integer division is an integer  [04:12:01]
+<Brocolli> Well I thought only an int truncates, a float does not?  [04:12:18]
+<netytan> I figured that'd be 5, but I get -0.000000  [04:12:19]
+<apples`> iirc you only have to explicitly cast one of the two, the other is
+          implicitly converted
+<Brocolli> So 10/2 would yield 5.0  [04:12:22]
+<apples`> Brocolli, no, you're wrong  [04:12:32]
+*** weilawei (n=weilawei@pool-71-127-9-182.spfdma.east.verizon.net) is now
+    known as weilawei|away  [04:12:39]
+<skppo_> printf expects a double, you're passing an int. there are many ways
+         in which it can fail. printf may look in a floating point register
+         but you passed your item in an integer register. or they are passed
+         in the same location but there is no conversion os the value is just
+         reinterpreted. as in    int foo = 10 / 2; *(float *)&foo;  /* bad */
+                                                                     [04:12:44]
+<pizza_> integer arithmetic produces integer results  [04:12:49]
+<Brocolli> oh yeah, forgot about that, thx  [04:12:57]
+<netytan> So basically: you have to know the exact type?  [04:13:10]
+<Brocolli> you could declare it, make things easier.  [04:13:20]
+<pizza_> netytan: what type is 10?  [04:13:23]
+<skppo_> you have to give printf() what you promised in tjhe format string
+                                                                     [04:13:30]
+<netytan> :) because that's my next task (crawl down the parsetree like a
+          dirty lil stripper and figure out the type; I just wasn't expecting
+          -0.00000)  [04:13:48]
+<netytan> Thanks guys. I'll figure out the real type :)  [04:15:03]
+<pizza_> 10 is an integer  [04:15:19]
+<pizza_> 2 is an integer  [04:15:22]
+<RipsteR> intintint  [04:15:25]
+<pizza_> 10 / 2 is an integer  [04:15:27]
+<RipsteR> 11/2 is a float  [04:15:36]
+<dbtid> nope  [04:15:41]
+<pizza_> wrong  [04:15:42]
+<dbtid> 11/2 is an int  [04:15:45]
+<RipsteR> ah  [04:15:48]
+<dbtid> 11.0/2 is a float  [04:15:49]
+<RipsteR> yes  [04:15:52]
+<RipsteR> gotcha  [04:15:55]
+<twkm> well, a double.  [04:16:11]
+* twkm runs away  [04:16:34]
+* Skapare gives chase  [04:16:56]
+<Skapare> 11/2 is an int  [04:17:10]
+<Skapare> 11.0/2 is a double  [04:17:24]
+<apples`> http://rafb.net/p/Plr58Q26.html <- the top one doesn't look very
+          optimized, but that's what it says on wikipedia. the bottom is what
+          i came up with independently. is there something i'm missing or
+          should i just benchmark and see for myself?  [04:17:25]
+<dbtid> twkm: i was going to say "floating point" and hit return too early
+                                                                     [04:17:27]
+<pizza_> apples`: i would test the correctness before i tested the speed
+                                                                     [04:18:06]
+<Skapare> newton's method for cube roots?  [04:18:26]
+*** weilawei|away (n=weilawei@pool-71-127-9-182.spfdma.east.verizon.net) is
+    now known as weilawei  [04:18:31]
+<apples`> halley's method, actually  [04:18:33]
+<pizza_> i wouldn't call that "coming up with it independently" then
+                                                                     [04:19:13]
+<apples`> well, i meant independent of the wikipedia example  [04:19:56]
+<bigGig> what is the function that converts LC to UC?  [04:20:49]
+<apples`> oops, was returning the wrong variable, but other than that, it's
+          correct  [04:21:08]
+<bigGig> *lower case to uppper casee  [04:21:11]
+<Dianora> bigGig: man ctype  [04:21:13]
+<Dianora> SYSV tolower/toupper used to have a nasty side effect.  [04:21:48]
+<apples`> what's that?  [04:22:02]
+<Shaun2222> snprintf appends a \0 right?  [04:22:10]
+<Skapare> bigGig: what is a formula for converting ASCII coded hexadecimal
+          digit characters into the represented values?  (e.g. 'a' -> 10, etc)
+          ?  [04:22:13]
+<Dianora> apples: c = toupper(islower(c));  [04:22:32]
+<dbtid> Skapare: be careful with that ones  [04:22:47]
+<Dianora> err  [04:22:50]
+<Skapare> islower(c) yields boolean  [04:22:51]
+<bigGig> skapare: dunno  [04:22:55]
+<Dianora> not quite I'm quite sorry  [04:22:56]
+<Dianora> but you get the idea ;-)  [04:22:59]
+<apples`> :)  [04:23:02]
+<dbtid> lol
+<bigGig> Dianora: thx  [04:23:04]
+<Dianora> if (islower(c)) c = toupper(c);  [04:23:13]
+<Skapare> dbtid: hexadecimal is always dangerous if other characters get in
+          there  [04:23:24]
+<apples`> you don't have to check iirc, it won't convert it if it's not
+          lowercase  [04:23:31]
+<pizza_> Shaun2222: yes  [04:23:38]
+<Dianora> apples: the point is, you did in SYSV unix  [04:23:44]
+<apples`> oh. gotcha  [04:23:51]
+<Skapare> Dianora: wasteful step s just do c=toupper(c) and be done with it
+                                                                     [04:23:59]
+<Dianora> which is stupid. it bit me once.  [04:24:05]
+<pizza_> Shaun2222: not sure if it does if it runs out of room  [04:24:08]
+<apples`> Skapare, did you read the couple of lines before that? :P  [04:24:19]
+<Skapare> apples: befor ewhat?  [04:24:33]
+<dbtid> Skapare: i'm talking about c - 'a' + 10 if c >= 'a' and c <= 'f'
+                                                                     [04:24:44]
+<apples`> Skapare, Dianora said that on SYSV unix that you had to check
+          whether it was lower or not beforehand  [04:24:54]
+<Skapare> dbtid: make it work for upper case, too  [04:25:05]
+<Skapare> apples: why?  that seems pointless  [04:25:27]
+<Dianora> but that was years ago. I can't imagine it being that way today.
+                                                                     [04:25:29]
+<EI5GTB> evening folks,  would   free(string); be the correct way to wipe a
+         string?  [04:25:34]
+<EI5GTB> hai Dianora  [04:25:38]
+<apples`> don't ask me :>
+<Dianora> I just thought you guys would get a laugh.  [04:25:39]
+<Skapare> if ( x != 0 ) x = 0; /* initialize, but only if needed */  [04:25:45]
+<Dianora> EI5GTB hei  [04:25:50]
+<apples`> lol Skapare  [04:26:00]
+<EI5GTB> so this is where you hang out?
+<EI5GTB> we not exitin enough for ya? ;)  [04:26:11]
+<Dianora> one of the many places I hang out  [04:26:13]
+<EI5GTB> heh  [04:26:17]
+<pizza_> EI5GTB: depends on what you mean by "wipe out", but probably not what
+         you have in mind  [04:26:27]
+<Skapare> dbtid: assume the digit characters are hexadecimal ones (e.g. has
+          already passed isxdigit())  [04:26:34]
+<Skapare> dbtid: are you going to make code that tests the range for both a-f
+          and A-F?  [04:27:58]
+<EI5GTB> ok ,i suppose ill give you some background, its an embedded system,
+         an interupt adds a charater to a tring each time it is recieved on
+         the serial linei when the user presses enter, the string is shipped
+         off to the command parser, but the next time round.. although it
+         starts allocating the characters into the string again, if you type a
+         command that is less long it will leave a tail of the last command
+                                                                     [04:28:05]
+<apples`> sounds like you don't set a null terminator  [04:28:45]
+<Dianora> so blow away the char after your last char with a nul  [04:28:50]
+<EI5GTB> OMG  [04:29:01]
+<Dianora> I prefer to call it a nul apples  [04:29:03]
+<EI5GTB> argh!!!  [04:29:05]
+<EI5GTB> thanks, lol, why didnt i think of that  [04:29:15]
+<apples`> why's that?
+<Dianora> so it does not get as easily confused with NULL  [04:29:20]
+<EI5GTB> cheers!
+<apples`> ah  [04:29:25]
+<Dianora> apples: people still do of course. but we can only try.  [04:29:43]
+<EI5GTB> \0 is a null?  [04:30:03]
+* Skapare thinks dbtid has gone to sleep or afk  [04:30:09]
+<Dianora> no it is a nul, all zeroes  [04:30:15]
+<Skapare> maybe sleep == afk  [04:30:27]
+<Dianora> NULL is something else entirely
+<EI5GTB> but \0 is what i want?  [04:30:38]
+<dbtid> Skapare: doesn't matter.  'a' is not guaranteed to be 'b' - 1s
+                                                                     [04:30:41]
+<pizza_> a different kind of 0  [04:30:43]
+<Dianora> '\0' yes  [04:30:48]
+<EI5GTB> k, tnks  [04:30:56]
+<Dianora> or a 0 ;-)
+<Skapare> dbtid: I did say ASCII
+<dbtid> Skapare: missed that; sorry.  [04:31:01]
+<kopf> any regex wizards here?  [04:31:02]
+<Dianora> well, they are both syntactic sugar.  [04:31:18]
+<Dianora> one is a 0 the other is a 0  [04:31:24]
+<Dianora> ;-)  [04:31:27]
+* dbtid loves sugar
+<apples`> i need to cut down on the sugar  [04:31:36]
+<apples`> i'm afraid i've been having too much lately :(  [04:31:42]
+<Dianora> for those that know, you get the joke.  [04:31:47]
+<Dianora> a NULL makes it clear you are talking in a pointer context
+                                                                     [04:32:06]
+<Dianora> a nul or '\0' makes it clear it is the end point of a c style string
+                                                                     [04:32:19]
+<Skapare> dbtid:  try this one:   (c&79)%55  [04:33:19]
+<EI5GTB> grr  command[position] = '\0'; didnt make any difference  [04:35:08]
+<dbtid> Skapare: that's pretty clever  [04:35:59]
+<Skapare> dbtid: but only for ASCII s does not work for EBCDIC  [04:36:34]
+<pizza_> EI5GTB: does your display routine honor '\0'?  [04:36:44]
+<hohum> ot: what does "wired" memory mean, anyone know?  [04:37:16]
+<Skapare> dbtid: if you want to assume 'a'+1=='b' is not necessarily true, the
+          code can look ugly to be truly portable  [04:37:51]
+<dbtid> Skapare: a slightly different one would works 'a'-'f' is 0x81-0x86 and
+        'A'-'F' is 0xC1-0xC6  [04:38:09]
+<dbtid> Skapare: well, strchr helps with thats  [04:38:20]
+<Skapare> dbtid: that's what I meant by ugly  [04:38:44]
+<EI5GTB> pizza_, strangly yess  [04:39:03]
+<dbtid> lols doesn't seem to be that bad IMO.  [04:39:07]
+<Skapare> dbtid: whatever one does, it should just be made into the
+          appropriate macro  [04:39:20]
+<Skapare> dbtid: well you need to use tolower() or something with strchr(),
+          too  [04:39:57]
+<dbtid> Skapare: we're beating a dead horse, really.  [04:40:18]
+<Skapare> dbtid: gets the flies into the air  [04:40:44]
+<kamaji> pizza_: thanks for earlier- setvbuf did the trick.  [04:41:22]
+<EI5GTB> pizza_, it displays some really strange behavours i may have things
+         running in the wrong order tho...  [04:41:44]
+<EI5GTB> thanks  [04:41:46]
+<apples`> i'm afraid i've been having too much lately :(  [04:42:03]
+<apples`> oops  [04:42:04]
+<apples`> wrong screen to press up+enter on.  [04:42:19]
+<pizza_> kamaji: you're welcome  [04:42:37]
+<lokieee> hi guys  [04:45:36]
+*** JediatNight (n=Blade@unaffiliated/jediatnight) is now known as Guest29417
+                                                                     [04:45:40]
+<lokieee> i was wondering if C had a function that will return a substring of
+          a string, like if i had  pgm: a.o b.o  I would want a substring from
+          0 to the character ':' so it returns pgm  [04:46:22]
+<dbtid> lokieee: yeah, there iss look at strstr iirc  [04:46:34]
+<lokieee> cool thanks  [04:46:40]
+<dbtid> yw  [04:46:43]
+
+[ëÀƒ 12ë‘¬  4 2008]
+*** Topic for ##c: The C Programming Language || PASTE (>3 lines) here:
+    http://codepad.org || HOME page: http://www.iso-9899.info/ (to edit
+    anonymously: username TypeOf'A', and the password is the type of character
+    constants like 'A') || Please be civil. || Please register with nickserv
+    to speak on this channel /msg nickserv help  [04:59:39]
+*** ##c: topic set by twkm, 13:49:25 2008/10/26
+*** Users on ##c: ManateeLazyCat Quatrux Faca_ rouslan xaashi heiner linuxmain
+    emet yumehito tp76 lokieee hd_ cyclone Sargun Quentarez Draconx|Laptop
+    berte fXsTar alexmlw gl omry_|work mnabil lolfrenz EI5GTB d0htem verte
+    Zephyrus ZeffriN netytan BimmyLee junmin LoRez dawe1 scott_w Brocolli
+    riotz apples` codac Tricon str1k3r schasi Raistl|n Mr_Bond_ Copter2
+    uzyszkodnik Actium johndoe ilsanto chontrite araujo TMM M3h` wonderwal
+    UnknownUser56 Sark vasoq apfel andrewy 
+*** Users on ##c: AciD megaTherion Zta StealthAsimov dforsyth lebafar_ sstangl
+    sputnick fuufang kenws TAsn PoppaVic macdaddy joele23 phao_ kamaji _FReeZ
+    Psy| Guest28660 PhonicUK phrosty Debugger srm monkey_d_luffy Gargantua
+    skppo_ orflon ruoso amnesiac kaneda^ Rhamphoryncus p4tux SilentPenguin
+    CanWood `marianne` Splinter2 bronson _stack r1nu- viperhr woggle
+    phantomcircuit Elmaron xnixan timmy_boy Azraael litb gummybearx mactimes
+    coincoin161 toxygen Lalu YlandeFaran 
+*** Users on ##c: bvs dh gehel eirik enkrypt LeoNerd rvsjoen Fleck paul snappy
+    tarzeau johnjay volodim ixtli pk_vex nots jogla Pryon virtx impulze
+    kejsaren maxamillion ja1 Xjs a-s bl4ckb1t evelyette b0ne SmatZ decafbad
+    pizza_ vincent fuz brad_mssw asitaway icqnumber `Chris [dmp]_ nn-main
+    vinc456 BSWolf _bugz_ dejones exoduso r0ute_ho2 joapuipe SpeedyGhost gcola
+    mbroeker Jet_Blazer hrnt _kesselhaus_ impulse150 dvd snhmib compengi
+    Praise Gr0m _xyld LordO ofl_ foutrelis 
+*** Users on ##c: dcomxx ice-man gemelen Baughn Andrius jrib TomyLobo
+    Questutis SimoneB lnostdal ltd hark zcram Sharker Madsy Skapare grazz ia
+    engin2 rjaym thrasher pierrep boris`` rsFF Necrite[-_-zzZZZ catojo pyro_17
+    ekneuss nenolod phe aguai _Reloaded Oort asdfff denon Amorphous TheBonsai
+    sniper22 Compy2 tarbo muke_ AnnaVarney z|Andy dav7 les servus C0MPAQ twolf
+    ron2 Konky DaQatz flazz zith_ clergyma1 unreal reZo_ Xires SM0TVI deoks
+    bluud fury fade-in SamB Tassis 
+*** Users on ##c: SlaY3R hays_afk RunningBon borism hrnd tcunha|home RipsteR
+    Y_Less xuser weetabeex Politoed Shaun2222 gpolo baek_thf segy bulibuta
+    DuClare TerminalError gnufied bbs Jonbo schlort oskie dmulholland
+    klathzazt B|20CK bombshelter13 Maxdamantus Ponage rwrd nutkin Sweq bono
+    SiFuh_ Guest4981383 Knight_Lord SergioAAC baklava- perry753 Raiford Wil
+    CaptainMorgan krzee SonicvanaJr trekdanne binarydigit VaNNi intrados
+    ferret_0567 HellDragon GoatCheezWork   [04:59:40]
+*** Users on ##c: stsc tazle initself HeatHawk[AP2] Echon Quadrescence froze
+    biz joh OuLouFu lintripp1 adelikat eut qbe macli sbahra rigid synapt NicM
+    Goosey spx2 tpratt aaronf0 dijital1 robberbaron rvvs89 slooth yahooooo
+    rangaparma twobytes sadmac ignuss ejb AntiLiberal moqq kjs Xgc Piratero
+    Octopus_ingrasys InvaderNOP Khisanth bnovc talisein TheMagician Nappy
+    Leonidas Topol gsr revsbech dranz ltd_wk zvrba tyfon uplate maskd Rubin
+    Gokul sbahra[] dxtr lopz The_Osterhase 
+*** Users on ##c: AnMaster rjelari tltstc freespace PixelSmack Andon Obfuscate
+    Sleepy_Coder dbtid eip41 preflex sztanphet crib archangelpetro estan assem
+    nn64 maikol Luck forneus hohum setupji Teckla yosyp smtms seanw EspenG
+    Baneo Soliah Akuma archivist Wonkey gwashburn freqmod_qu ifvoid dwave
+    MasseR walmis Stx solemnwarning Seadog ttz trumpen kimusan^^ rabioli
+    cipherz mwk nil kothog Eusebus amorel n4te pragma_ my007ms raheel jurku
+    Dianora elliottcable micols 
+*** Users on ##c: ccfreak2k _theHAM buccia array shafu fbred bynari TeraBoy
+    tombin diddly cyzie _Vile prgrmr manu_hack robert_ MooingLemur slon
+    pippijn t xHemi lemnisca kutio hoens DavidC99 kopf andy Stalker ctr JT
+    Dreg echo^^ fury_ coderbean alamar emma fadec DustyDingo Zhivago gjvc
+    iratsu Xantoz Mityannar mac|gyver frivol crashmatrix MajinMagu jones-
+    fgeek dquestions BlindMan Ikarus peterS orbitz xaxes felipe fez Uperiwn
+    buu memfr0b LiraNuna_ r0ute stylus leeping2008 
+*** Users on ##c: jaskorpe mors iMax Vadtec Chris BigJ fuzzix mr_uggla JyZyXEL
+    sbok xsdg Martinp23 Sargun_Screen twkm mod6 ukkopekka r0bby supertramp mpr
+    Funjker_Boy22 tss Spark byoteki ramchan_ lollervonskater koollman tanq_
+    dooky ncjp Divine dings dogmeat chii mitsuhiko daryl qebab i3d fab31
+    easies b0ef askie bXi Agrajag- candide r0ute_lab malik mot noptrix
+    hotspants Vegar Doat n3Cre0 jmob djinni` emias maqr dindinx spoty mrrazz
+    sqweek Draconx thommey iascorga 
+*** Users on ##c: elvedin rEv9 pasky sysm mr_science bunz pfote aton` cehteh
+    masterdriverz regulate 
+*** ##c URL: http://www.iso-9899.info/
+*** ##c modes: +tncR  [05:00:09]
+*** ##c was created on ë–«ë∆⁄ë»’ 2006/11/26 14ë ±42ë∑÷39ë√Î
+
+[ëÀƒ 12ë‘¬  4 2008]
+*** Topic for ##c: The C Programming Language || PASTE (>3 lines) here: http://codepad.org || HOME page: http://www.iso-9899.info/ (to edit
+    anonymously: username TypeOf'A', and the password is the type of character constants like 'A') || Please be civil. || Please register with
+    nickserv to speak on this channel /msg nickserv help  [13:40:16]
+*** ##c: topic set by twkm, 13:49:25 2008/10/26
+*** Users on ##c: ManateeLazyCat Amorphous slawx beh silverroots ryty ansichart dmb Goplat chadmaynard hburchey kngspook _xyld phantomcircuit SiFuh
+    Azraael je cindir Matimus nsx nutkin Kernel86_ ron2 SM0TVI vigith chen101 |SnakeFast| alexmlw uogl neuzo HellDragon out0xCF8 edman007 nottaken
+    perry753 kejsaren_ Entelin CHC TheBonsai just_say_no dblog Johndot hd_ COMPAQ_ Tordek SonicvanaJr Eekdacat Tatsh CaptainMorgan twolf kaneda^
+    junmin qbe Palace_Chan heiner dejones 
+*** Users on ##c: StealthAsimov banisterfiend prelag Sipingal robert_ boringwall revsbech luser_ Andrius Laurenceb_ pizza_ linuxmain vasoq_
+    SpeedyGhost LordOllie sniper22 jcazevedo hiroyuki_y Yi roadt marik Maxdamantus ttolttol2 engin2 inflex yosyp lyminsk synthasee cloaked ajonat
+    whats_in_a_name sigius fuufang Aren UnknownUser56 zapster cout_ X-Scale zn3t Compy gfarfl JediatNight pk23 darkschneider flippo aLeSD chaplja|
+    DrEeevil emet lokieee cyclone berte gl   [13:40:17]
+*** Users on ##c: omry_|work verte LoRez codac ilsanto araujo TMM Sark AciD megaTherion Zta dforsyth lebafar_ sstangl TAsn macdaddy phrosty
+    monkey_d_luffy Gargantua ruoso Rhamphoryncus CanWood `marianne` Splinter2 bronson viperhr xnixan timmy_boy toxygen Lalu YlandeFaran bvs dh
+    gehel eirik enkrypt LeoNerd rvsjoen Fleck paul snappy tarzeau johnjay volodim ixtli nots jogla Pryon virtx impulze Xjs bl4ckb1t evelyette fuz
+    [dmp]_ nn-main BSWolf _bugz_ r0ute_ho2 hrnt 
+*** Users on ##c: _kesselhaus_ dvd compengi Praise Gr0m dcomxx ice-man Baughn lnostdal ltd zcram Sharker Madsy Skapare grazz ia rjaym boris``
+    Necrite[-_-zzZZZ catojo pyro_17 ekneuss nenolod aguai _Reloaded Oort asdfff denon tarbo muke_ AnnaVarney z|Andy dav7 les servus Konky DaQatz
+    flazz zith_ unreal reZo_ Xires deoks bluud fade-in SamB Tassis SlaY3R hays RunningBon borism hrnd tcunha|home RipsteR Y_Less xuser weetabeex
+    Politoed Shaun2222 gpolo segy bulibuta DuClare 
+*** Users on ##c: TerminalError bbs Jonbo schlort oskie klathzazt B|20CK bombshelter13 Ponage rwrd Sweq Knight_Lord SergioAAC baklava- Raiford Wil
+    krzee trekdanne binarydigit VaNNi intrados ferret_0567 GoatCheezWork stsc tazle initself HeatHawk[AP2] Echon Quadrescence froze biz joh OuLouFu
+    lintripp1 adelikat eut macli sbahra rigid synapt NicM spx2 tpratt aaronf0 dijital1 robberbaron rvvs89 yahooooo rangaparma ignuss ejb
+    AntiLiberal moqq kjs Xgc Piratero Octopus_ingrasys 
+*** Users on ##c: Khisanth bnovc talisein TheMagician Nappy Leonidas Topol gsr dranz ltd_wk zvrba tyfon uplate maskd Rubin gOcOOl sbahra[] dxtr
+    lopz The_Osterhase AnMaster rjelari tltstc freespace PixelSmack Andon Obfuscate Sleepy_Coder dbtid eip41 preflex sztanphet crib archangelpetro
+    estan assem nn64 maikol Luck forneus hohum setupji Teckla smtms seanw EspenG Baneo Soliah Akuma archivist Wonkey gwashburn freqmod_qu ifvoid
+    dwave MasseR walmis Stx solemnwarning 
+*** Users on ##c: Seadog ttz trumpen kimusan^^ rabioli cipherz mwk nil kothog Eusebus amorel n4te pragma_ my007ms raheel jurku Dianora elliottcable
+    micols ccfreak2k _theHAM Bucciarati array shafu fbred bynari tombin diddly cyzie _Vile prgrmr manu_hack MooingLemur slon pippijn t xHemi
+    lemnisca kutio hoens DavidC99 kopf andy Stalker ctr JT Dreg echo^^ fury_ coderbean alamar emma fadec DustyDingo Zhivago gjvc iratsu Xantoz
+    Mityannar mac|gyver frivol crashmatrix MajinMagu 
+*** Users on ##c: jones- fgeek dquestions BlindMan Ikarus peterS orbitz xaxes felipe fez Uperiwn buu memfr0b LiraNuna_ r0ute stylus leeping2008
+    jaskorpe mors iMax Vadtec Chris BigJ fuzzix mr_uggla JyZyXEL sbok xsdg Martinp23 Sargun_Screen twkm mod6 ukkopekka r0bby supertramp mpr
+    Funjker_Boy22 regulate masterdriverz cehteh [a]ton pfote bunz mr_science sysm pasky rEv9 elvedin iascorga thommey Draconx sqweek mrrazz spoty
+    dindinx maqr emias djinni` jmob n3Cre0 Doat 
+*** Users on ##c: Vegar hotspants noptrix mot malik r0ute_lab candide Agrajag- bXi askie b0ef easies fab31 i3d qebab daryl mitsuhiko tss Spark
+    byoteki ramchan_ lollervonskater koollman tanq_ dooky ncjp Divine dings dogmeat chii 
+*** ##c: [freenode-info] please register your nicknamesdon't forget to auto-identify! http://freenode.net/faq.shtml#nicksetup
+*** ##c URL: http://www.iso-9899.info/  [13:40:23]
+<Zhivago> out: 'matches the type of pointer' is an error.  [13:40:30]
+*** ##c modes: +tncR  [13:40:49]
+*** ##c was created on ë–«ë∆⁄ë»’ 2006/11/26 14ë ±42ë∑÷39ë√Î
+<whats_in_a_name> but after this paragraph defining what restrict does, another sentence that follows said that the preceding paragraph was
+                 incorrects  [13:40:59]
+<Zhivago> That's because who-ever wrote the first paragraph was smoking crack at the time.  [13:41:36]
+<je> Zhivago: it is a valid region of data storage  [13:41:38]
+<Zhivago> je: Utter nonsense.  [13:41:46]
+<je> Zhivago: i don't see the problem  [13:41:47]
+<Zhivago> je: That's probably because you do not understand pointers.  [13:41:55]
+<Zhivago> je: What pointer value do you expect iptr to have given iptr = 10?  [13:42:10]
+<out0xCF8> Zhivago: true  [13:43:21]
+<je> Zhivago: that's right that i wrong  [13:47:28]
+<Zhivago> je: Good.  [13:47:57]
+
+[ëÀƒ 12ë‘¬  4 2008]
+*** Topic for ##c: The C Programming Language || PASTE (>3 lines) here: http://codepad.org || HOME page: http://www.iso-9899.info/ (to edit anonymously:
+    username TypeOf'A', and the password is the type of character constants like 'A') || Please be civil. || Please register with nickserv to speak on
+    this channel /msg nickserv help  [14:02:06]
+*** ##c: topic set by twkm, 13:49:25 2008/10/26
+*** Users on ##c: ManateeLazyCat maxamillion the_hoser yumehito film42 ninjaslim s22 Amorphous slawx beh silverroots ryty ansichart dmb Goplat
+    chadmaynard hburchey kngspook _xyld phantomcircuit SiFuh Azraael je Matimus nsx nutkin Kernel86_ ron2 SM0TVI vigith chen101 |SnakeFast| alexmlw uogl
+    neuzo HellDragon out0xCF8 edman007 nottaken perry753 Entelin CHC TheBonsai just_say_no dblog Johndot hd_ COMPAQ_ Tordek SonicvanaJr Eekdacat Tatsh
+    CaptainMorgan twolf kaneda^ 
+*** Users on ##c: junmin qbe heiner dejones StealthAsimov banisterfiend prelag Sipingal robert_ boringwall revsbech luser_ Andrius Laurenceb_ pizza_
+    linuxmain vasoq_ SpeedyGhost LordOllie jcazevedo hiroyuki_y Yi roadt marik Maxdamantus ttolttol2 engin2 inflex yosyp lyminsk synthasee cloaked ajonat
+    whats_in_a_name sigius fuufang Aren UnknownUser56 zapster cout_ X-Scale zn3t Compy gfarfl JediatNight pk23 darkschneider flippo aLeSD chaplja|
+    DrEeevil emet lokieee cyclone 
+*** Users on ##c: berte gl omry_|work verte LoRez codac ilsanto araujo TMM Sark AciD megaTherion Zta dforsyth lebafar_ sstangl TAsn macdaddy phrosty
+    monkey_d_luffy Gargantua ruoso Rhamphoryncus CanWood `marianne` Splinter2 bronson viperhr xnixan timmy_boy toxygen Lalu YlandeFaran bvs dh gehel
+    eirik enkrypt LeoNerd rvsjoen Fleck paul snappy tarzeau johnjay volodim ixtli nots jogla Pryon virtx impulze Xjs bl4ckb1t evelyette fuz [dmp]_
+    nn-main BSWolf _bugz_ r0ute_ho2 
+*** Users on ##c: hrnt _kesselhaus_ dvd compengi Praise dcomxx ice-man Baughn lnostdal ltd zcram Sharker Madsy Skapare grazz ia rjaym boris``
+    Necrite[-_-zzZZZ catojo pyro_17 ekneuss nenolod aguai _Reloaded Oort asdfff denon tarbo muke_ AnnaVarney z|Andy dav7 les servus Konky DaQatz flazz
+    zith_ unreal reZo_ Xires deoks bluud fade-in SamB Tassis SlaY3R hays RunningBon borism hrnd tcunha|home RipsteR Y_Less xuser weetabeex Politoed
+    Shaun2222 gpolo segy bulibuta DuClare   [14:02:07]
+*** Users on ##c: TerminalError bbs Jonbo schlort oskie klathzazt B|20CK bombshelter13 Ponage rwrd Sweq Knight_Lord SergioAAC baklava- Raiford Wil krzee
+    trekdanne binarydigit VaNNi intrados ferret_0567 GoatCheezWork stsc tazle initself HeatHawk[AP2] Echon Quadrescence froze biz joh OuLouFu lintripp1
+    adelikat eut macli sbahra rigid synapt NicM spx2 tpratt aaronf0 dijital1 robberbaron rvvs89 yahooooo rangaparma ignuss ejb AntiLiberal moqq kjs Xgc
+    Piratero Octopus_ingrasys 
+*** Users on ##c: Khisanth bnovc talisein TheMagician Nappy Leonidas Topol gsr tss Spark byoteki ramchan_ lollervonskater koollman tanq_ dooky ncjp
+    Divine dings dogmeat chii mitsuhiko daryl qebab i3d fab31 easies b0ef askie bXi Agrajag- candide r0ute_lab malik mot noptrix hotspants Vegar Doat
+    n3Cre0 jmob djinni` emias maqr dindinx spoty mrrazz sqweek Draconx thommey iascorga elvedin rEv9 pasky sysm mr_science bunz pfote [a]ton cehteh
+    masterdriverz regulate Funjker_Boy22 
+*** Users on ##c: mpr supertramp r0bby ukkopekka mod6 twkm Sargun_Screen Martinp23 xsdg sbok JyZyXEL mr_uggla fuzzix BigJ Chris Vadtec iMax mors jaskorpe
+    leeping2008 stylus r0ute LiraNuna_ memfr0b buu Uperiwn fez felipe xaxes orbitz peterS Ikarus BlindMan dquestions fgeek jones- MajinMagu crashmatrix
+    frivol mac|gyver Mityannar Xantoz iratsu gjvc Zhivago DustyDingo fadec emma alamar coderbean fury_ echo^^ Dreg JT ctr Stalker andy kopf DavidC99
+    hoens kutio lemnisca 
+*** Users on ##c: xHemi t pippijn slon MooingLemur manu_hack prgrmr _Vile cyzie diddly tombin bynari fbred shafu array Bucciarati _theHAM ccfreak2k
+    micols elliottcable Dianora jurku raheel my007ms pragma_ n4te amorel Eusebus kothog nil mwk cipherz rabioli kimusan^^ trumpen ttz Seadog
+    solemnwarning Stx walmis MasseR dwave ifvoid freqmod_qu gwashburn Wonkey archivist Akuma Soliah Baneo EspenG seanw smtms Teckla setupji hohum forneus
+    Luck maikol nn64 assem estan archangelpetro 
+*** Users on ##c: crib sztanphet preflex eip41 dbtid Sleepy_Coder Obfuscate Andon PixelSmack freespace tltstc rjelari AnMaster The_Osterhase lopz dxtr
+    sbahra[] gOcOOl Rubin maskd uplate tyfon zvrba ltd_wk dranz 
+*** ##c URL: http://www.iso-9899.info/
+*** ##c modes: +tncR  [14:02:39]
+*** ##c was created on ë–«ë∆⁄ë»’ 2006/11/26 14ë ±42ë∑÷39ë√Î
+<out0xCF8> good evening all  [14:04:12]
+
+[ëÀƒ 12ë‘¬  4 2008]
+*** Topic for ##c: The C Programming Language || PASTE (>3 lines) here: http://codepad.org || HOME page: http://www.iso-9899.info/ (to edit anonymously:
+    username TypeOf'A', and the password is the type of character constants like 'A') || Please be civil. || Please register with nickserv to speak on
+    this channel /msg nickserv help  [23:04:06]
+*** ##c: topic set by twkm, 13:49:25 2008/10/26
+*** Users on ##C: ManateeLazyCat nordag alexmlw UnknownUser56 NightVisio rutski macondo jagggy my007ms igli m0f0x phantomcircuit riotz Sark gemininus
+    tntcoda fuufang vshemm brad_mssw Tordek a-v maxamillion macli rocketmagnet fury BSWolf Quadrescence kejsaren crashmatrix _Sundowner_ pizza_ Azraael
+    xanonus zamba luser pingwin skppo_ xtt apfel Jabka mwk wiggi harmony kutio Psy| [conrad] gemelen jrib toxygen dcomxx dwave Aren dvd SimoneB phao
+    edico Copter KomR 
+*** Users on ##C: sztanpet catojo_ rsFF IRWolfie- TomyLobo chouchen stimpie banisterfiend krzee hanibana megaTherion baek_thf DaTa-MaN Knight_Lord
+    InvaderNOP ia DrunkTomato ceyusa gnufied Questutis coincoin161 snhmib pierrep zophy darkschneider Cahaan fisherV kurkale6ka prgrmr astrobunny faLUCE
+    xnv kenws _stack toddoon SM0TVI vasoq foutrelis Sargun Gronghon Spider-Pork syntropy engin2 SlaY3R zommi Gr0m SiFuh_ phe magellanic schlort Quentarez
+    thrasher jayaraj 
+*** Users on ##C: chii dogmeat dings Divine ncjp dooky tanq_ koollman lollervonskater ramchan_ byoteki Spark tss mitsuhiko daryl qebab i3d fab31 easies
+    b0ef askie bXi Agrajag- candide r0ute_lab malik mot noptrix hotspants Vegar Doat n3Cre0 jmob djinni` emias maqr dindinx moisissure mrrazz sqweek
+    Draconx thommey iascorga elvedin rEv9 pasky sysm mr_science bunz pfote aton` cehteh masterdriverz regulate Funjker_Boy22 mpr supertramp r0bby
+    ukkopekka mod6 twkm Sargun_Screen 
+*** Users on ##C: Martinp23 xsdg sbok JyZyXEL mr_uggla fuzzix BigJ Chris Vadtec iMax mors jaskorpe leeping2008 stylus r0ute LiraNuna_ memfr0b buu Uperiwn
+    fez felipe xaxes orbitz peterS Ikarus BlindMan dquestions fgeek jones- MajinMagu frivol mac|gyver Mityannar Xantoz iratsu gjvc Zhivago DustyDingo
+    fadec emma alamar coderbean fury_ echo^^ Dreg JT ctr Stalker andy kopf DavidC99 hoens lemnisca xHemi t pippijn slon MooingLemur manu_hack _Vile cyzie
+    diddly tombin 
+*** Users on ##C: bynari fbred shafu array Bucciarati _theHAM ccfreak2k micols elliottcable Dianora jurku raheel pragma_ n4te amorel Eusebus kothog nil
+    cipherz rabioli kimusan^^ trumpen ttz Seadog solemnwarning Stx walmis MasseR ifvoid freqmod_qu gwashburn Wonkey archivist Akuma Soliah Baneo EspenG
+    seanw smtms Teckla setupji hohum forneus Luck maikol assem estan archangelpetro crib preflex eip41 dbtid Sleepy_Coder Obfuscate Andon PixelSmack
+    freespace tltstc 
+*** Users on ##C: AnMaster The_Osterhase lopz dxtr sbahra[] gOcOOl uplate tyfon zvrba ltd_wk dranz gsr Leonidas TheMagician talisein bnovc Khisanth
+    Piratero Xgc kjs moqq AntiLiberal ejb ignuss yahooooo rvvs89 robberbaron dijital1 aaronf0 tpratt spx2 NicM synapt rigid eut adelikat OuLouFu joh biz
+    froze Echon HeatHawk[AP2] initself tazle stsc GoatCheezWork ferret_0567 intrados VaNNi Wil baklava- SergioAAC Sweq rwrd Ponage bombshelter13 B|20CK
+    oskie Jonbo bbs 
+*** Users on ##C: TerminalError DuClare bulibuta segy gpolo Shaun2222 Politoed weetabeex xuser Y_Less RipsteR tcunha|home hrnd borism RunningBon hays
+    Tassis SamB fade-in bluud deoks Xires unreal zith_ Konky servus les dav7 z|Andy AnnaVarney muke_ tarbo denon Oort aguai moogle ekneuss pyro_17 rjaym
+    grazz Skapare Sharker zcram ltd lnostdal Baughn ice-man Praise compengi _kesselhaus_ hrnt r0ute_ho2 nn-main [dmp]_ fuz evelyette bl4ckb1t Xjs virtx
+    Pryon jogla nots 
+*** Users on ##C: ixtli volodim johnjay tarzeau snappy paul Fleck rvsjoen LeoNerd enkrypt eirik gehel dh bvs YlandeFaran Lalu timmy_boy xnixan Splinter2
+    `marianne` CanWood monkey_d_luffy macdaddy TAsn sstangl lebafar_ dforsyth Zta AciD TMM ilsanto codac LoRez gl berte cyclone lokieee DrEeevil chaplja|
+    aLeSD flippo pk23 JediatNight Compy zn3t cout_ sigius cloaked Maxdamantus SpeedyGhost linuxmain Andrius revsbech robert_ prelag heiner qbe twolf
+    CaptainMorgan 
+*** Users on ##C: Tatsh Eekdacat SonicvanaJr COMPAQ_ Johndot dblog just_say_no TheBonsai CHC Entelin edman007 HellDragon neuzo woggle ron2 Kernel86_
+    nutkin _xyld hburchey dmb Amorphous s22 film42 yumehito nilminus jnnewton Raiford_ LordO Rubin flazz lintrippz boris`` Nappy _bugz_ lyminsk nsx
+    viperhr DaQatz binarydigit Topol 
+*** ##c URL: http://www.iso-9899.info/
+<harmony> copy & paste: gettimeofday() and settimeofday() return 0 for success, or -1 for failure (in which case errno is set appropriately). Read man
+          page  [23:04:17]
+*** ##C modes: +tncR  [23:04:36]
+*** ##C was created on ë–«ë∆⁄ë»’ 2006/11/26 14ë ±42ë∑÷39ë√Î
+<harmony> Thanks for the discussions. keep going. Leaving for now. Bye.  [23:05:00]
+<_theHAM> one down, 500 to go  [23:05:11]
+<pizza_> ah, i found it; 6.3.1.4 #2: "When a value of integer type is converted to a real floating type, if the value being converted can be represented
+         exactly in the new type, it is unchanged. If the value being converted is in the range of values that can be represented but cannot be
+         represented exactly, the result is either the nearest higher or nearest lower representable value, chosen in an implementation-defined
+         manner. If the value being converte  [23:05:48]
+
+[ëŒÂ 12ë‘¬  5 2008]
+*** Topic for ##c: The C Programming Language || PASTE (>3 lines) here: http://codepad.org || HOME page: http://www.iso-9899.info/ (to edit anonymously:
+    username TypeOf'A', and the password is the type of character constants like 'A') || Please be civil. || Please register with nickserv to speak on
+    this channel /msg nickserv help  [11:45:25]
+*** ##c: topic set by twkm, 13:49:25 2008/10/26
+*** Users on ##c: ManateeLazyCat bryno vigith maxamillion unreal Tordek TerminalError shortc|desk sweetgum b0ne TheBonsai jrevell whats_in_a_name
+    cloaked- COMPAQ_ birgi chouchen keram pkundu jparker8 quicoju_ Raistl|n hd_ hotaru2k3 garslo kessel ninjaslim majikman wcstok muke_ Eno_ Politoed
+    phantomcircuit heiner pingwin luser_ mromblad Goplat Brent-tc tcunha|home bnovc Xorlev Sipingal [intra]lanman jmspeex zibri hiroyuki_y emet syntropy
+    banisterfiend baek_thf 
+*** Users on ##c: mxweas crashmat1ix bluud marik nutkin gfarfl Infamous_Cow oohal _leo ned coincoin161 pizza_ ferret_0567 fuufang boringwall zelrikriando
+    SonicvanaJr synthasee dlew86 metalth bashoh reZo Baneo zapster Ponage verte inflex CoryDambach HellDragon rsFF RipsteR jsjones96 _fXsTar gummybearx
+    orflon Tim-S toor the_hoser nottaken Andrius hen Gr0m walmis a-s je DaTa-MaN zach-n800_ Madsy Debugger jcazevedo apples` JyZyXEL catojo DerDracle
+    Doat bhanson ukkopekka 
+*** Users on ##c: gOcOOl Guest89693 macdaddy b0ef hark z4chh lopz bronson kejsaren araujo X-Scale Izzi StealthAsimov NiallC Jacolyte buu Rhamphoryncus
+    srg2000 easytiger helgon CanWood phrosty Quadrescence impulze rangaparma dejones chontrite alexmlw evelyette denysonique mpr hohum bonsaikitten
+    engin2 psychoschlumpf my007ms Sark tntcoda BSWolf zamba mwk kutio jrib toxygen dcomxx dwave Aren dvd SimoneB sztanpet krzee hanibana megaTherion
+    InvaderNOP ia gnufied darkschneider 
+*** Users on ##c: prgrmr astrobunny _stack SM0TVI Gronghon SlaY3R SiFuh_ schlort binarydigit nsx lyminsk _bugz_ Nappy lintrippz flazz Rubin Raiford_
+    jnnewton nilminus film42 s22 Amorphous dmb _xyld Kernel86_ edman007 Entelin dblog Johndot Eekdacat Tatsh CaptainMorgan twolf qbe prelag robert_
+    revsbech linuxmain SpeedyGhost Maxdamantus sigius cout_ zn3t Compy JediatNight flippo aLeSD chaplja| DrEeevil lokieee cyclone berte gl LoRez codac
+    ilsanto TMM AciD Zta dforsyth 
+*** Users on ##c: lebafar_ sstangl TAsn monkey_d_luffy `marianne` Splinter2 xnixan timmy_boy Lalu YlandeFaran bvs dh gehel eirik enkrypt LeoNerd Fleck
+    paul snappy tarzeau johnjay volodim ixtli nots Pryon virtx Xjs bl4ckb1t fuz [dmp]_ r0ute_ho2 hrnt compengi Praise ice-man Baughn lnostdal ltd Sharker
+    Skapare grazz rjaym pyro_17 ekneuss moogle aguai Oort denon tarbo AnnaVarney z|Andy dav7 les servus Konky zith_ Xires deoks fade-in SamB Tassis hays
+    RunningBon borism 
+*** Users on ##c: hrnd Y_Less xuser Shaun2222 gpolo segy bulibuta DuClare bbs Jonbo oskie B|20CK bombshelter13 rwrd Sweq SergioAAC baklava- Wil VaNNi
+    intrados GoatCheezWork stsc tazle HeatHawk[AP2] Echon froze biz OuLouFu adelikat rigid synapt NicM spx2 tpratt aaronf0 dijital1 robberbaron rvvs89
+    yahooooo ignuss ejb AntiLiberal moqq kjs Xgc Piratero Khisanth talisein TheMagician Leonidas gsr dranz ltd_wk zvrba tyfon uplate sbahra[] dxtr
+    The_Osterhase AnMaster tltstc 
+*** Users on ##c: freespace PixelSmack Andon Obfuscate Sleepy_Coder dbtid eip41 preflex crib archangelpetro estan assem maikol Luck forneus setupji
+    Teckla smtms seanw EspenG Soliah Akuma archivist Wonkey gwashburn freqmod_qu ifvoid MasseR Stx solemnwarning Seadog ttz kimusan^^ rabioli cipherz nil
+    kothog Eusebus amorel n4te pragma_ raheel jurku Dianora elliottcable micols ccfreak2k _theHAM Bucciarati array shafu bynari tombin diddly cyzie _Vile
+    manu_hack MooingLemur 
+*** Users on ##c: slon pippijn t xHemi lemnisca hoens DavidC99 kopf andy Stalker ctr JT Dreg echo^^ fury_ coderbean alamar emma fadec DustyDingo Zhivago
+    gjvc iratsu Xantoz Mityannar mac|gyver frivol MajinMagu jones- fgeek dquestions BlindMan Ikarus peterS orbitz xaxes felipe fez Uperiwn memfr0b
+    LiraNuna_ r0ute stylus leeping2008 jaskorpe mors Vadtec Chris fuzzix mr_uggla sbok xsdg Martinp23 Sargun_Screen twkm mod6 r0bby supertramp
+    Funjker_Boy22 regulate masterdriverz 
+*** Users on ##c: cehteh [a]ton pfote bunz mr_science sysm pasky rEv9 elvedin iascorga thommey Draconx sqweek mrrazz moisissure dindinx maqr emias
+    djinni` jmob n3Cre0 Vegar hotspants noptrix mot malik r0ute_lab candide Agrajag- bXi askie easies fab31 i3d qebab daryl mitsuhiko tss Spark byoteki
+    ramchan_ lollervonskater koollman tanq_ dooky ncjp Divine dings dogmeat chii   [11:45:26]
+*** ##c URL: http://www.iso-9899.info/
+*** ##c modes: +tncR  [11:46:00]
+*** ##c was created on ë–«ë∆⁄ë»’ 2006/11/26 14ë ±42ë∑÷39ë√Î
+*** Izzi (n=david@c-98-246-79-102.hsd1.or.comcast.net) is now known as Izzi|away  [11:46:04]
+<Chris> when you press Ctrl-D in a unix terminal (or whatever the key for EOF condition is set to), what actually happens? Does the shell read this
+        keypress from the terminal and then close that process' stdin?  [11:46:41]
+
+[ëŒÂ 12ë‘¬  5 2008]
+*** Topic for ##c: The C Programming Language || PASTE (>3 lines) here: http://codepad.org || HOME page: http://www.iso-9899.info/ (to edit anonymously:
+    username TypeOf'A', and the password is the type of character constants like 'A') || Please be civil. || Please register with nickserv to speak on
+    this channel /msg nickserv help  [11:51:53]
+*** ##c: topic set by twkm, 13:49:25 2008/10/26
+*** Users on ##c: ManateeLazyCat nn64 vigith_ bryno maxamillion unreal Tordek TerminalError shortc|desk sweetgum b0ne TheBonsai jrevell whats_in_a_name
+    cloaked- COMPAQ_ birgi chouchen keram pkundu jparker8 quicoju_ Raistl|n hd_ hotaru2k3 garslo kessel ninjaslim majikman wcstok muke_ Eno_ Politoed
+    phantomcircuit heiner pingwin luser_ mromblad Goplat Brent-tc tcunha|home bnovc Xorlev Sipingal [intra]lanman jmspeex zibri hiroyuki_y emet syntropy
+    banisterfiend baek_thf 
+*** Users on ##c: mxweas crashmat1ix bluud marik nutkin gfarfl Infamous_Cow oohal _leo ned coincoin161 pizza_ ferret_0567 fuufang boringwall zelrikriando
+    SonicvanaJr synthasee dlew86 metalth bashoh reZo Baneo zapster Ponage verte inflex CoryDambach HellDragon rsFF RipsteR jsjones96 _fXsTar gummybearx
+    orflon Tim-S toor the_hoser nottaken Andrius hen Gr0m walmis a-s je DaTa-MaN zach-n800_ Madsy Debugger jcazevedo apples` JyZyXEL catojo DerDracle
+    Doat bhanson ukkopekka 
+*** Users on ##c: gOcOOl Guest89693 macdaddy b0ef hark z4chh lopz bronson kejsaren araujo X-Scale Izzi|away StealthAsimov NiallC Jacolyte buu
+    Rhamphoryncus srg2000 easytiger helgon CanWood phrosty Quadrescence impulze rangaparma dejones chontrite alexmlw evelyette denysonique mpr hohum
+    bonsaikitten engin2 psychoschlumpf my007ms Sark tntcoda BSWolf zamba mwk kutio jrib toxygen dcomxx dwave Aren dvd SimoneB sztanpet krzee hanibana
+    megaTherion InvaderNOP ia gnufied 
+*** Users on ##c: darkschneider prgrmr astrobunny _stack SM0TVI Gronghon SlaY3R SiFuh_ schlort binarydigit nsx lyminsk _bugz_ Nappy lintrippz flazz Rubin
+    Raiford_ jnnewton nilminus film42 s22 Amorphous dmb _xyld Kernel86_ edman007 Entelin dblog Johndot Eekdacat Tatsh CaptainMorgan twolf qbe prelag
+    robert_ revsbech linuxmain SpeedyGhost Maxdamantus sigius cout_ zn3t Compy JediatNight flippo aLeSD chaplja| DrEeevil lokieee cyclone berte gl LoRez
+    codac ilsanto TMM 
+*** Users on ##c: AciD Zta dforsyth lebafar_ sstangl TAsn monkey_d_luffy `marianne` Splinter2 xnixan timmy_boy Lalu YlandeFaran bvs dh gehel eirik
+    enkrypt LeoNerd Fleck paul snappy tarzeau johnjay volodim ixtli nots Pryon virtx Xjs bl4ckb1t fuz [dmp]_ r0ute_ho2 hrnt compengi Praise ice-man
+    Baughn lnostdal ltd Sharker Skapare grazz rjaym pyro_17 ekneuss moogle aguai Oort denon tarbo AnnaVarney z|Andy dav7 les servus Konky zith_ Xires
+    deoks fade-in SamB Tassis 
+*** Users on ##c: hays RunningBon borism hrnd Y_Less xuser Shaun2222 gpolo segy bulibuta DuClare bbs Jonbo oskie B|20CK bombshelter13 rwrd Sweq SergioAAC
+    baklava- Wil VaNNi intrados GoatCheezWork stsc tazle HeatHawk[AP2] Echon froze biz OuLouFu adelikat rigid synapt NicM spx2 tpratt aaronf0 dijital1
+    robberbaron rvvs89 yahooooo ignuss ejb AntiLiberal moqq kjs Xgc Piratero Khisanth talisein TheMagician Leonidas gsr dranz ltd_wk zvrba tyfon uplate
+    sbahra[] dxtr 
+*** Users on ##c: The_Osterhase AnMaster tltstc freespace PixelSmack Andon Obfuscate Sleepy_Coder dbtid eip41 preflex crib archangelpetro estan assem
+    maikol Luck forneus setupji Teckla smtms seanw EspenG Soliah Akuma archivist Wonkey gwashburn freqmod_qu ifvoid MasseR Stx solemnwarning Seadog ttz
+    kimusan^^ rabioli cipherz nil kothog Eusebus amorel n4te pragma_ raheel jurku Dianora elliottcable micols ccfreak2k _theHAM Bucciarati array shafu
+    bynari tombin diddly 
+*** Users on ##c: cyzie _Vile manu_hack MooingLemur slon pippijn t xHemi lemnisca hoens DavidC99 kopf andy Stalker ctr JT Dreg echo^^ fury_ coderbean
+    alamar emma fadec DustyDingo Zhivago gjvc iratsu Xantoz Mityannar mac|gyver frivol MajinMagu jones- fgeek dquestions BlindMan Ikarus peterS orbitz
+    xaxes felipe fez Uperiwn memfr0b LiraNuna_ r0ute stylus leeping2008 jaskorpe mors Vadtec Chris fuzzix mr_uggla sbok xsdg Martinp23 Sargun_Screen twkm
+    mod6 r0bby supertramp 
+*** Users on ##c: Funjker_Boy22 regulate masterdriverz cehteh [a]ton pfote bunz mr_science sysm pasky rEv9 elvedin iascorga thommey Draconx sqweek mrrazz
+    moisissure dindinx maqr emias djinni` jmob n3Cre0 Vegar hotspants noptrix mot malik r0ute_lab candide Agrajag- bXi askie easies fab31 i3d qebab daryl
+    mitsuhiko chii dogmeat dings Divine ncjp dooky tanq_ koollman lollervonskater ramchan_ byoteki Spark tss 
+*** ##c URL: http://www.iso-9899.info/
+<Draconx> Chris, quoting APUE: "When we type [the EOF] character, all bytes waiting to be read are immediately passed to the reading process.  If there
+          are no bytes waiting to be read, a count of 0 is returned."  [11:52:26]
+*** ##c modes: +tncR
+*** ##c was created on ë–«ë∆⁄ë»’ 2006/11/26 14ë ±42ë∑÷39ë√Î
+<Draconx> doesn't sound like any closing happens at all (and is somewhat apparent if you try something like cat t t t)  [11:53:10]
+<Chris> if you do cat t t t you have to hit ^D three times  [11:54:22]
+<Sargun> om  [11:54:30]
+<Chris> interesting  [11:54:52]
+<Draconx> right, which indicates that stdin is still open.  [11:54:54]
+<Chris> so how does cat know when to quit?  [11:56:36]
+<Chris> when I strace cat t t t I see read returns 0 three times before cat finishes up  [11:56:48]
+<srg2000> strace is fun  [11:57:01]
+<Draconx> Chris, it knows when to quit when it sees read return 0 three times.  [11:57:22]
+<Chris> hmm  [11:58:04]
+<Draconx> it finishes processing the first - once it sees end-of-file, then it moves to the next.  [11:58:06]
+<Chris> but it's the same descriptor right, fd 0  [11:58:20]
+<Chris> so what's making read block until ^D is pressed, and what makes ^D cause read to return?  [11:58:52]
+<Draconx> I think ^D is handled by the terminal layer of the os.  [11:59:30]
+<Chris> so stdin is still open?  [11:59:46]
+<Draconx> i.e. it's a property of tty devices set to canonical mode.  [11:59:48]
+<Chris> just in an EOF condition  [12:00:09]
+<Chris> ie feof(stdin) is true  [12:00:16]
+<ryuho> test  [12:00:32]
+<Chris> so does that mean feof(stdin) can go from true back to false?  [12:01:18]
+<jbalint> hey, can i set which thread signals are delivered on?  [12:01:52]
+<Draconx> Chris, on my implementation, the end-of-file indicator remains set until one of the functions that clears it (clearerr, fseek, etc), which
+          appears to be consistent with the requirements of the standard.  [12:08:22]
+<Chris> ahh  [12:09:08]
+<Chris> so cat is clearing it?  [12:09:44]
+<Chris> by calling clearerr?  [12:10:41]
+<Chris> which doesn't result in a system call?
+<Draconx> I would imagine that clearerr(f) is implemented as f->eof = f->err = 0; or similar.  [12:11:39]
+<Chris> makes sense now
+<Chris> but why does that make the unix system call of read block?  [12:11:48]
+<Chris> and not just return 0 again immediately?
+<Draconx> well, because the system is implemented so that this works.
+<Chris> clearly, i'm just wondering how
+<Draconx> in the case of Linux, I think ^D is handled by the kernel, which can perform the appropriate magic.  [12:12:13]
+<sweetgum> can someone tell me how i can get the ascii value of a char?  [12:12:28]
+<Eekdacat> (int)char  [12:12:47]
+<DavidC99> you already have it, provided your system uses ascii  [12:12:59]
+<Eekdacat> also printf("%d\n", c);  [12:13:09]
+<apples`> ^ that only works if the character set being used is ASCII  [12:13:57]
+<sweetgum> http://codepad.org/dBRUYYVu can someone explain that error on line 10  [12:16:21]
+<orbitz> sweetgum: a cast is not an lvalue  [12:17:03]
+<out0xCF8> and you probably aren't doing what you think when you access from like that  [12:17:19]
+<out0xCF8> that's casting the address where the from chars are stored to an int  [12:17:34]
+<out0xCF8> didn't read the code but I'm guessing you want something like from[0] or *from  [12:17:50]
+<syntropy> I'm trying to set up a "systemcall" interface to a piece of hardware over USB.  [12:20:46]
+<syntropy> the issue I think I am going to have is return values.  [12:21:09]
+<syntropy> should I just make the syscall() return a void pointer, or is there a better way?  [12:21:51]
+*** Izzi|away (n=david@c-98-246-79-102.hsd1.or.comcast.net) is now known as Izzi  [12:25:11]
+<RabbitbuIny> Is the C anSwer book nice ?  [12:25:33]
+<Eekdacat> hmm i have a client here that's sending corrupted data after the first send  [12:27:06]
+<out0xCF8> syntropy: what OS is this on?  [12:27:20]
+<syntropy> out0xCF8: Linux of course.  [12:27:29]
+<Eekdacat> http://74.70.20.146/client-test.txt  [12:27:33]
+<syntropy> possibly BSD later on  [12:27:37]
+<out0xCF8> syntropy: why not write a proper device driver then and use ioctls?  [12:27:45]
+<syntropy> out0xCF8: it's not a device driver persay. I'm making alibrary to interface to various p2k phones via USB.  [12:28:13]
+<syntropy> each phone is represented by a dynamic library that has an initializer, a systemcall interface, and a cleanup function.  [12:28:51]
+<syntropy> the thing is that I want to read responses.  [12:29:23]
+<out0xCF8> is the hardware interface different for each phone or just the data format?  [12:29:34]
+<syntropy> out0xCF8: data format  [12:29:43]
+*** RabbitbuIny (n=pip@unaffiliated/pip) is now known as pip  [12:29:52]
+<apples`> sweet syntropy, maybe you can make some decent support for my phone  [12:29:56]
+<syntropy> apples`: think moto4lin, without C++ or QT.  [12:30:11]
+<syntropy> except for not just motorola  [12:30:19]
+<apples`> oh right, i forgot i don't use linux :(  [12:30:24]
+<syntropy> apples`: http://repo.or.cz/w/mandarin.git  [12:30:29]
+<out0xCF8> syntropy: then I'd write one driver that interfaces with the hardware, and then only put the data interpretation stuff in the dynlibs
+                                                                                                                                                [12:33:33]
+<syntropy> out0xCF8: that's what I'm doing.  [12:33:53]
+<out0xCF8> syntropy: ah, so why the syscalls?  [12:34:07]
+<syntropy> for instance, some phones require various tidbits before disconnecting, others don't. i want to abstract that into a systemcall
+           interface. when syscall(SC_DISCONNECT, s) is made from a phone_disconnect() library call, the loaded dynamic library for the individual phone
+           implements all the disconnection bits, and returns an exit code.  [12:37:21]
+<syntropy> out0xCF8: keep in mind that syscall() for this is NOT the same as the kernel's interface  [12:37:41]
+<syntropy> this is all in userspace  [12:37:47]
+<out0xCF8> syntropy: so what do you really mean when you say "syscall" then?  just that each phone has it's own multi-call function?  [12:38:47]
+<syntropy> out0xCF8: yeah basically.  [12:38:59]
+<out0xCF8> syntropy: why must it be a multi-call function?  [12:39:14]
+<syntropy> out0xCF8: because each phone is different, and may require making the call in a different manner than normal. some phones, have limitations on
+           the features they can provide, others have glitches and such that should be worked around. I generally find it nicer to abstract out those in
+           favour of a standard interface, which i believe is desirable in a software library.  [12:41:20]
+<syntropy> hence, the muti-call interface  [12:41:45]
+<out0xCF8> syntropy: you could also just define a function for each function the phone provides and only call that if the dlsym doesn't return NULL
+                                                                                                                                                [12:42:13]
+<out0xCF8> syntropy: ie, use the presense or absense of a symbol to define functionality for that phone.  Then you won't have to worry about return types
+                                                                                                                                                [12:42:37]
+<syntropy> out0xCF8: the issue i find is for a system call like, SC_READINFO. I had a brain fart just after posting my question.  [12:42:50]
+<Eekdacat> would ^M ever be a representation of \n\  [12:43:32]
+<syntropy> I realized that I can just pass my return values back through the variadic argument list instead of return value.
+<Eekdacat> \n*  [12:43:33]
+<syntropy> Eekdacat: on windows perhaps. that's the only thing I've seen ^M when in vim.  [12:44:01]
+<out0xCF8> syntropy: that will definitely work if you already have a variadic multi-call setup, but remember that variadic functions can cause a lot of
+           headaches  [12:45:39]
+<syntropy> out0xCF8: yeah, i've encountered that before.  [12:45:53]
+<syntropy> OHMYGOD. MY EYES!  [12:47:38]
+* syntropy makes note to kill the moron who coded p2k-core  [12:48:07]
+<syntropy> he queries the usb bus using libusb, and if it finds the device he wants is in a specific mode, he executes system("ls /dev | grep usbmodem
+           >MODEM") and then uses fopen and fgets to find a listing.  [12:49:53]
+<syntropy> fgets' max is 100 chars for the operation. he then closes the 'MODEM' file, leaving it, and uses strcat to append that string to a small byte
+           array and continues operation.  [12:52:14]
+<b0ne> ghastly  [12:57:59]
+<syntropy> b0ne: really, perhaps you know, as I have had some tainting experiences leaving me a bitter cynic: Are people really *that* stupid? Do they
+           really make things that badly!?  [12:59:26]
+<b0ne> i think lazy stupid people outnumber the rest of us 10:1, if not more  [12:59:56]
+<Eekdacat> the person who wrote these 1100 lines of code i have to modify included this  [13:00:00]
+<Eekdacat> int cmp(const char *s1, const char *s2)  [13:00:03]
+<Eekdacat>  /*Compares two strings. returns 1 if match, otherwise 0*/  [13:00:18]
+<Eekdacat> >:|  [13:00:23]
+<syntropy> Eekdacat: please tell me that was a windows system, even then it might be remotely possibly acceptable.  [13:00:45]
+<Eekdacat> windows has strcmp?  [13:01:02]
+<b0ne> strcmp is a standard function  [13:01:32]
+<syntropy> Eekdacat: I don't program on Windows, or mingw for that matter. I've found ignoring it works wonders.
+<syntropy> b0ne: and when microsoft follows standards that other make, is the day the world dies  [13:01:55]
+<apples`> mingw is *okay*  [13:02:15]
+<syntropy> (i know they have a 'posix layer', but i'm just being a twit)
+<b0ne> their C90 implementation conforms nicely  [13:02:24]
+<syntropy> s  [13:02:25]
+<b0ne> C99, not so much  [13:02:30]
+<syntropy> this guy is representing pointers with uint8_t*  [13:02:43]
+<Eekdacat> /*A nice little function to check the disk tree. Extra credit anyone? :p */  [13:02:50]
+<syntropy> anyone see a problem with that?  [13:02:52]
+<Eekdacat> i would fail this kid just for making his own strcmp  [13:02:58]
+<syntropy> uint16_t get_int16(uint8_t *p) { uint16_t n; n = p[0]; n <<=8; n += p[1]; return n; }  [13:06:21]
+<syntropy> hmm  [13:06:36]
+<pip> b0ne, whose ?  [13:10:21]
+<b0ne> pip, msvc's  [13:11:58]
+<pip> do you use any C program verify ?  [13:12:12]
+<pip> *verifier  [13:12:18]
+<b0ne> not usually  [13:12:41]
+<RipsteR> SimoneB: you still here?  [13:22:42]
+<apples`> more than one person can answer your question, you know  [13:24:52]
+<RipsteR> i know, hey apples`  [13:25:25]
+<RipsteR> i was just looking for someone that might help me review the code and find out why i am getting all those errors  [13:26:17]
+* apples` is going to bed, actually  [13:26:31]
+<apples`> school in 6 hours :/  [13:26:36]
+<RipsteR> good night apples`, yea i have work in 7.5  [13:26:56]
+<harmony> RipsteR  [13:31:35]
+<harmony> Where is the code/  [13:31:40]
+<harmony> ?  [13:31:44]
+<RipsteR> whey harmony  [13:31:51]
+<RipsteR> it is on codepad i will link  [13:31:58]
+<RipsteR> code: http://codepad.org/obVRgPQe errors that gcc is giving me: http://codepad.org/dqDjhnUS  [13:32:03]
+<RipsteR> i am inexperienced  [13:32:14]
+<RipsteR> i have this hardware and it is more a hobby  [13:32:40]
+<RipsteR> more of a*  [13:32:47]
+<bzerk1> Does anyone know of any good up-to-date unix sockets tutorials?  [13:32:49]
+<Draconx> Stevens' Unix Network Programming, volume 1.  [13:33:36]
+<RipsteR> i am trying to fix al the syntax errors now, but they are hard to find with my code, as someone said it is very bloated  [13:33:47]
+<bzerk1> cheers Draconx  [13:34:13]
+<RipsteR> the main ones i am looking for help on are the redefinition of counter, and data definition has no type or storage class  [13:35:01]
+<RipsteR> also, initializer element is not a constant  [13:35:14]
+<syntropy> RipsteR: code.  [13:37:17]
+<RipsteR> code: http://codepad.org/obVRgPQe errors that gcc is giving me: http://codepad.org/dqDjhnUS  [13:37:29]
+<Draconx> RipsteR, I suggest that you invest in an editor that supports bracket matching, and try matching some of your braces.  [13:37:47]
+<syntropy> s  [13:38:02]
+<RipsteR> i am doing that now  [13:38:08]
+<syntropy> Is that even C?  [13:38:17]
+<RipsteR> Draconx: are there any unmatched braces that stick out?  [13:38:49]
+<RipsteR> i hope so syntropy. why do you ask that?  [13:39:05]
+<Draconx> RipsteR, yes.  Start with the body of main.  [13:39:18]
+<syntropy> RipsteR: Who taught you C?  [13:39:19]
+<RipsteR> myself  [13:39:28]
+<RipsteR> and i am a newbie  [13:39:35]
+<RipsteR> sorry :/  [13:39:43]
+<syntropy> RipsteR: no problem, I was once there too you know.  [13:40:06]
+<hburchey> s  [13:40:22]
+<RipsteR> i am sure most of you were, thanks for being understanding  [13:40:30]
+<RipsteR> is it that bad syntropy?  [13:40:56]
+<syntropy> RipsteR: You've got a fair bit of work ahead of you, but it's doable. =)  [13:41:24]
+<RipsteR> thanks for the support  [13:42:04]
+<bzerk1> what are you writing RipsteR?  [13:45:08]
+<harmony> RipsteR: Add a matching bracket } in line 375. This removes the first error. Generally the first error will give raise to all other errors. See
+          if it solves. Use vi for matching of { or (.  [13:45:28]
+<hohum> I have a question about http://rafb.net/p/KwXfHG17.html what could/should I use as a seed?  [13:45:38]
+<RipsteR> thanks harmony  [13:45:52]
+<RipsteR> bzerk1: well i got this board with an arm processor and linux, with a keypad as inout and lcd as output. i am tryin to make a simple calculator
+          as a learning process  [13:46:43]
+<harmony> Try the following commands in vi -          :set hlsearch         :syntax on         and use  % to match them. For more details as questions in
+          vi / vim channel  [13:46:46]
+<RipsteR> ok, great  [13:46:59]
+<harmony> RipsteR: It is good to write small pieces of code and compile them. Add the code incrementally. You can even test the code incrementally using
+          stubs.  [13:48:20]
+<harmony> Once you are experienced you can write code of this kind, at one go.  [13:48:44]
+<RipsteR> ok  [13:49:47]
+<RipsteR> i don't even know what to write first  [13:50:12]
+<pip> RipsteR, What text book are you learning with ?  [13:54:01]
+<pragma_>  5  [13:54:08]
+<RipsteR> kernighans  [13:54:10]
+<pip> K&R ?  [13:54:30]
+<RipsteR> i believe so yes  [13:54:39]
+<Rivelli> The K stands for Kernighan so most likelys  [13:54:56]
+<pip> The only way to learn a new programming language is by writing programs in it.  [13:56:21]
+<pip> copied from that book  [13:56:32]
+<pip> Rivelli, Have you solved all the exercises in the book ?  [13:57:04]
+<Rivelli> Not all but a few. Which one are you talking about?  [13:57:38]
+<pip> 1-13 1-14  [13:57:51]
+<pip> the algorithm on the C Answer Book is tricky  [13:58:45]
+<harmony> <hohum>: you may want to ask the question in a crypto channel / news group  [13:58:49]
+<Rivelli> Oh, the array ones. I didn't do those. :P Theres a website that posts most of the answers I think.  [13:59:01]
+<pip> lol, really ?  [13:59:16]
+<Rivelli> Yeah. Lemme try and find it.  [13:59:32]
+<pip> thanks  [13:59:41]
+<RipsteR> ever if statement does not need an else, correct?  [14:00:15]
+<Rivelli> This website answered most of them, including the ones you want. http://users.powernet.co.uk/eton/kandr2/  [14:00:22]
+<pip> haha, it does  [14:00:42]
+<pip> that's amazing site, thanks  [14:02:57]
+<Rivelli> np  [14:03:03]
+<RipsteR> what is a volatile unsigned int declaration mean?  [14:05:45]
+<servus> Volatile variable declarations signify that the variable may be changed at any time by means outside of the executing program's control, and
+         thus that the value of the variable shall never be cached, and requested fresh each time it is accessed.  [14:08:12]
+<RipsteR> great, thanks servus.  [14:08:43]
+<servus> Random question: What way do you guys prefer to declare a (typedef'd, etc.) 32-bit variable on as many platforms as possible?  [14:08:56]
+<gfarfl> servus: use int32_t from stdint.h, probably  [14:11:39]
+<tk8> whats a good place to start learning C  [14:13:09]
+<tk8> ?  [14:13:10]
+<tk8> i come from PHP :-p  [14:13:21]
+<harmony> Ripster: Every if statement does not need an else.  [14:13:27]
+<RipsteR> ok, thanks harmony  [14:13:47]
+<harmony> tk8: I do not know about PHP but it is a good idea to start with K & R and with a computer  [14:14:05]
+<servus> Ah of course. Thanks, gfarfl  [14:14:18]
+<tk8> harmony: whats K & R?  [14:14:28]
+<harmony> http://en.wikipedia.org/wiki/The_C_Programming_Language_(book)  [14:15:12]
+<pip> tk8, Do you want to buy a K&R book ?  [14:18:44]
+<pip> tk8, I know a good seller on ebay  [14:19:06]
+<sstangl> tk8: kernighan and ritchie are the creators of C.  [14:19:39]
+<pip> tk8, You should have one  [14:19:51]
+<sstangl> I agree.  [14:19:56]
+<tk8> im still trying to determine if im going to go with python or C  [14:21:29]
+<pip> lol  [14:21:37]
+<bzerk1> C FTW!  [14:22:27]
+<Rivelli> That's easy to determine. What do you want to do?  [14:22:36]
+<pip> python is another kind of language, uncompetitive with C  [14:22:38]
+<Rivelli> ls  [14:23:10]
+<tk8> Rivelli: thats a good questioni I want to run a company that takes over the world, so I have to decide a game plan.  C is cool because of its
+      ability to help me understand kernel development and everything, although Python is being used by alot of stuff like google app engine and some
+      other web based stuff that falls more towards cloud computing  [14:23:49]
+<tk8> ideally id like to have an understanding of both  [14:23:57]
+<pip> One thing, the performance  [14:24:03]
+<Rivelli> Well if your going to take over the world, go with C.  [14:24:29]
+<tk8> :-p  [14:24:37]
+<pip> :D  [14:24:49]
+<bzerk1> tk8, I think machine code would be best suited  [14:24:52]
+<pip> tk8, what OS are you on ?  [14:25:06]
+<out0xCF8> I'd learn chinese if I wanted to take over the world
+<pip> out0xCF8, then learn from me  [14:25:20]
+<RipsteR> newbie question again, so no matter wjere the main function is, all C programs always start at main, correct?  [14:25:22]
+<pip> RipsteR, yes  [14:25:37]
+<tk8> pip: FC9  [14:25:48]
+<out0xCF8> pip: don't actually want to take over the world, just saying "if"  [14:25:50]
+<sstangl> tk8: python and C work nicely together.  [14:26:11]
+<bzerk1> RipsteR, Did you write all of that code?  [14:26:19]
+<RipsteR> ^ yes
+<tk8> sstangl: thats an interesting statement  [14:26:21]
+<RipsteR> no  [14:26:27]
+<RipsteR> to vzerk  [14:26:33]
+<sstangl> tk8: You can use python as a wrapper for C code for rapid prototyping  [14:26:35]
+<RipsteR> bzerk1*  [14:26:40]
+<pip> tk8, Linux is almost written in C and the rest is some asm86 and GNU as with AT&T assembler  [14:26:41]
+<Rivelli> He mentioned the linux kernel, obviously C. Why simply learn python because it's popular?  [14:26:43]
+<RipsteR> yes to sstangl  [14:26:46]
+<pip> tk8, If you are on windows by M$, unluckily, it is written in C language too  [14:27:20]
+<tk8> pip: yepi but what i use doesnt matter.. the rest of the world use windows.. so a web based language has its advantageous..  [14:27:26]
+<sstangl> pip: their new OSs are .NET bytecode  [14:27:36]
+<sstangl> fun stuff  [14:27:39]
+<RipsteR> bzerk1: i am going through it now trying to go step by step, i am going to piece it together and compile as i go  [14:27:45]
+<tk8> i wonder which pays more :-p  [14:28:01]
+<b0ne> sstangl, actually singularity still compiles to machine code  [14:28:18]
+<Rivelli> Vistas crap. MS is even ditching it for Win7. Businesses arent buying Vista. MS is trying to force people with XP to upgrade. I get the feeling
+          that many more people are going Linux soon enough.  [14:28:25]
+<pip> I don't know if .NET framework is written in C, but C# is children of C  [14:28:29]
+<RipsteR> if a variable is declared in a function, you can only use it in that function right?  [14:28:36]
+<pip> *one of  [14:28:37]
+<sstangl> b0ne: it has to ultimately to run, but they include a vm in the kernel.  [14:28:46]
+<tk8> i know C# fairly well  [14:28:57]
+<pip> Nice, how do you think of C# ?  [14:29:20]
+<tk8> i i like it  [14:29:28]
+<tk8> but it costs money :)  [14:29:35]
+<tk8> pays more too  [14:29:38]
+<pip> well, the good side is C# is standardized  [14:30:02]
+<sstangl> pip: I don't like binding myself to MS technology, so I stay far away and stick with open languages  [14:30:03]
+<hotaru2k3> c# costs money?  [14:30:12]
+<sstangl> hotaru2k3: not necessarily; mono is a (shitty) implementation of something that can run C# on linux  [14:30:40]
+<tk8> the server, the IDE, etc.  Im sure there are probably open source derivitiesi but thats distanced from core development  [14:30:44]
+<pip> hotaru2k3, I think he meant the proprietary software  [14:31:01]
+<hotaru2k3> i downloaded a c# compiler from microsoft and it didn't cost me anything  [14:31:04]
+<sstangl> but development of the language is entirely MS-controlled, and they have a nasty history of using that to gain competitive advantage  [14:31:10]
+<Rivelli> If you want something like C# without MS, go Java.  [14:31:46]
+<sstangl> hotaru2k3: it's not free software; I don't use proprietary software.  [14:31:53]
+<sstangl> especially not for development.  [14:32:01]
+<pip> C# 4.0 is out  [14:32:06]
+<hotaru2k3> mono isn't free either  [14:32:15]
+<pip> with parallel and dynamic features  [14:32:16]
+<Rivelli> ls -a  [14:32:19]
+<sstangl> Java is an OK alternative that is definitely better.  [14:32:31]
+<tk8> Rivelli: im starting to get into the xen kernel and all of that stuffi java has no use for me.. I rather use python in that case..  particually
+      because of the type of developer it attracts  [14:32:44]
+<harmony> I think mono is free. Isn't it?  [14:32:47]
+<hotaru2k3> if by "free" you mean free software  [14:32:50]
+<harmony> yes  [14:33:01]
+<sstangl> harmony: it depends what you mean. It's the result of patent agreements between Novell and Microsoft, not the rest of us  [14:33:14]
+<sstangl> because of the patent issues, it can't be considered free  [14:33:33]
+<hotaru2k3> it's GPL, isn't it?  [14:33:35]
+<Rivelli> free as in free speech, not free lunch. :)  [14:33:38]
+<hotaru2k3> GPL is non-free  [14:33:45]
+<harmony> Oh.  [14:33:51]
+<sstangl> hotaru2k3: GPL is free  [14:33:57]
+<pip> http://en.wikipedia.org/wiki/Mono_(software)  [14:34:10]
+<hotaru2k3> GPL is free as in "free as long as you don't want to share it"  [14:34:15]
+<sstangl> GPL was written by stallman; it had better be free :)  [14:34:19]
+<pip> it's free  [14:34:20]
+<b0ne> free is subjectively defined  [14:34:33]
+<sstangl> hotaru2k3: no, GPL defines a certain way you share. Basically, it is free, but you do not have the freedom to make it not free.  [14:34:42]
+<hotaru2k3> free as in "if you want to share it you'd better do it how we want you to do it"  [14:34:58]
+<sstangl> you can, however, charge for your software  [14:35:02]
+<sstangl> hotaru2k3: yes, that's the entire idea.  [14:35:09]
+<pip> You can implement a C# compiler with it's specification  [14:35:10]
+<b0ne> right
+<Rivelli> It's either free speech (as in open source) or free lunch. Most of the time it's both.  [14:35:16]
+<hotaru2k3> that's not really free  [14:35:17]
+<pip> Like Java  [14:35:24]
+<sstangl> hotaru2k3: sec  [14:35:26]
+<sstangl> hotaru2k3: http://www.fsf.org/licensing/essays/free-sw.html  [14:36:08]
+<pip> well, after java specification was released, Sun couldn't implement a satisfied compiler for it in C  [14:36:11]
+<sstangl> hotaru2k3: this is the definition of Free Software  [14:36:13]
+<hotaru2k3> yes, i've seen that before  [14:36:23]
+<pip> and then bought the hotspot technology from another small company which has a well hehaved java compiler  [14:36:44]
+<hotaru2k3> they can't just redefine free  [14:37:27]
+<harmony> I went through the wikipedia link on mono. It is free and open source software.  [14:37:30]
+<b0ne> not neccesarily unencumbered by patents though  [14:38:02]
+<out0xCF8> can't redefine daft either  [14:38:07]
+<sstangl> b0ne: GPL prohibits entities from making patent claims  [14:38:22]
+<sstangl> however, I think this only applies to Novell for Mono.  [14:38:33]
+<sstangl> so MS can still make claims.  [14:38:39]
+<hotaru2k3> looks like the compiler is free software, but the runtime libraries are non-free  [14:38:45]
+<sstangl> or at least, could argue so.  [14:38:47]
+<b0ne> uh, the end users of GPL software yes, however MS holds the patents
+<sstangl> b0ne: yep  [14:38:53]
+<b0ne> they're not the end users  [14:38:57]
+<sstangl> b0ne: the entity that GPL'd the software can't enforce patents, which is Novell; MS can still enforce. So, yeah.  [14:39:38]
+<sstangl> MS probably won't, but I'm not very happy with it regardless.  [14:39:52]
+<b0ne> that's the whole stink with gnome isn't it? they don't want to use C# since it has that potential snag  [14:40:22]
+<Draconx> I would be very surprised if there exists a nontrivial piece of software to which nobody has a patent claim.  [14:41:03]
+<sstangl> Gnome uses mono for some things. It's running on my system when I start certain applets.  [14:41:14]
+<sstangl> maybe not core gnome, though.  [14:41:23]
+<sstangl> Draconx: I agree; it's bad all around.  [14:41:37]
+<Draconx> so this doesn't make mono much different from anything else.  [14:42:17]
+<sstangl> Draconx: there exists a known entity who has patent claims, who has threatened linux and associated companies, who has only permitted the
+          development of mono through an exclusive deal with Novell  [14:44:32]
+<sstangl> Draconx: mono is quite different than random software that may be infringing something unknown  [14:44:52]
+<Sudentenland> I plan to drive to a party with my friend and arrive early, then get drunk at the party as soon as I get there, then drive home after a
+               long night of partying. Discuss.  [14:50:30]
+
+[ëŒÂ 12ë‘¬  5 2008]
+*** Topic for ##c: The C Programming Language || PASTE (>3 lines) here: http://codepad.org || HOME page: http://www.iso-9899.info/ (to edit anonymously:
+    username TypeOf'A', and the password is the type of character constants like 'A') || Please be civil. || Please register with nickserv to speak on
+    this channel /msg nickserv help  [21:40:57]
+*** ##c: topic set by twkm, 13:49:25 2008/10/26
+*** Users on ##c: ManateeLazyCat ronblah nn64 well xtt vigith_ jberg- lolfrenz masus luser wobster slash_ apfel Sandeep` pala Goran_ a-s` kenws walmis
+    pingwin \0xff hingwah vande Copter2 tcunha|home monger Psy| vshemm les synthasee foutrelis pdc303 SergioAAC hrnd_ fuufang Compy2 flavious hlindset
+    erikwt johndoe dcomxx kngspook edico weilawei slooth jayaraj a-v jrib Questutis penguinFunk skppo_ zcram ceyusa BSWolf Niall_ joh haxplorer Uriel_
+    hatredx dxtr decafbad 
+*** Users on ##c: InvaderNOP LordIllpalazo fisherV rsFF phao leo_ xnv pierrep engin2 afancy ia spx2 trumpen` Muna AnnaVarney SmatZ e32 prgrmr kurkale6ka
+    impulse150 syntropy iMax woggle toddoon alexmlw kejsaren xnixan_ RipsteR JediatNight nottaken Necrite[-_-zzZZZ qbe eusto zith_ froze eip41 inigo
+    ignuss ltd gOcOOl stdiopt zommi phe yumehito Quentarez gnychis assem cloaked- _xyld DaQatz initself DrunkTomato jnnewton Rivelli Gr0m Amorphous
+    silverroots adelikat 
+*** Users on ##c: boris`` a-s Echon schlort jbalint ryuho jberg Sargun unreal TerminalError TheBonsai COMPAQ_ keram hd_ kessel majikman muke_ Eno_
+    Politoed mromblad Brent-tc bnovc jmspeex zibri banisterfiend crashmat1ix bluud marik nutkin ned coincoin161 pizza_ SonicvanaJr metalth reZo Ponage
+    verte CoryDambach HellDragon _fXsTar the_hoser Andrius DaTa-MaN zach-n800_ Madsy jcazevedo catojo DerDracle Doat bhanson ukkopekka Guest89693
+    macdaddy b0ef z4chh lopz 
+*** Users on ##c: araujo StealthAsimov buu easytiger CanWood Quadrescence impulze rangaparma dejones chontrite mpr hohum bonsaikitten psychoschlumpf
+    my007ms Sark tntcoda zamba mwk kutio toxygen dwave Aren dvd SimoneB sztanpet krzee megaTherion gnufied SM0TVI SlaY3R SiFuh_ binarydigit nsx lyminsk
+    _bugz_ Nappy lintrippz flazz Rubin Raiford_ s22 Kernel86 edman007 dblog Johndot Eekdacat CaptainMorgan twolf prelag robert_ revsbech linuxmain
+    SpeedyGhost Maxdamantus   [21:40:58]
+*** Users on ##c: sigius cout_ flippo aLeSD chaplja| DrEeevil cyclone berte gl LoRez codac ilsanto TMM AciD Zta dforsyth lebafar_ sstangl TAsn
+    monkey_d_luffy `marianne` Splinter2 timmy_boy Lalu YlandeFaran bvs dh eirik enkrypt LeoNerd Fleck snappy tarzeau johnjay volodim ixtli nots Pryon Xjs
+    bl4ckb1t fuz [dmp]_ r0ute_ho2 hrnt compengi Praise ice-man Baughn lnostdal Sharker Skapare grazz rjaym pyro_17 ekneuss moogle aguai Oort denon tarbo
+    z|Andy dav7 servus 
+*** Users on ##c: Konky Xires deoks fade-in SamB Tassis hays RunningBon borism Y_Less xuser Shaun2222 gpolo segy bulibuta DuClare bbs Jonbo oskie B|20CK
+    bombshelter13 rwrd Sweq baklava- Wil VaNNi intrados GoatCheezWork stsc HeatHawk[AP2] biz OuLouFu rigid synapt NicM tpratt aaronf0 dijital1
+    robberbaron rvvs89 yahooooo ejb AntiLiberal moqq kjs Xgc Piratero Khisanth talisein TheMagician Leonidas gsr dranz ltd_wk zvrba tyfon uplate sbahra[]
+    The_Osterhase AnMaster 
+*** Users on ##c: tltstc freespace PixelSmack Andon Obfuscate Sleepy_Coder dbtid preflex crib archangelpetro estan maikol Luck setupji Teckla seanw
+    EspenG Soliah Akuma archivist Wonkey gwashburn freqmod_qu ifvoid MasseR Stx solemnwarning Seadog ttz kimusan^^ rabioli cipherz nil kothog Eusebus
+    amorel n4te pragma_ raheel jurku Dianora elliottcable micols ccfreak2k _theHAM Bucciarati array shafu tombin diddly cyzie _Vile manu_hack MooingLemur
+    slon pippijn t xHemi 
+*** Users on ##c: lemnisca hoens DavidC99 kopf andy Stalker ctr JT Dreg echo^^ fury_ coderbean alamar emma fadec DustyDingo Zhivago iratsu Xantoz
+    Mityannar mac|gyver frivol MajinMagu jones- fgeek dquestions BlindMan Ikarus peterS orbitz xaxes felipe fez Uperiwn memfr0b LiraNuna_ r0ute stylus
+    leeping2008 jaskorpe mors Vadtec Chris fuzzix mr_uggla sbok xsdg Martinp23 Sargun_Screen twkm mod6 r0bby supertramp Funjker_Boy22 regulate
+    masterdriverz cehteh [a]ton pfote 
+*** Users on ##c: bunz mr_science sysm pasky rEv9 elvedin iascorga thommey Draconx sqweek mrrazz gentilpervers dindinx maqr emias djinni` jmob n3Cre0
+    Vegar noptrix tss Spark byoteki ramchan_ lollervonskater koollman tanq_ dooky ncjp Divine dings dogmeat chii mitsuhiko daryl qebab i3d fab31 easies
+    askie bXi Agrajag- candide r0ute_lab malik mot 
+*** ##c URL: http://www.iso-9899.info/
+*** ##c: [freenode-info] help freenode weed out clonebots, please register your IRC nick and auto-identify: http://freenode.net/faq.shtml#nicksetup
+                                                                                                                                                [21:41:00]
+<mitsuhiko> (no limits.h here for retarded reasons)  [21:41:17]
+<zvrba> mitsuhiko: ok, why do you have to convert long into int?  [21:41:19]
+*** ##c modes: +tncR  [21:41:28]
+*** ##c was created on ë–«ë∆⁄ë»’ 2006/11/26 14ë ±42ë∑÷39ë√Î
+<zvrba> why not write your own limits.h?  [21:41:31]
+<twkm> stdiopt: perhaps.  [21:41:34]
+<zvrba> (for the particular platform/compiler)  [21:41:39]
+<twkm> mitsuhiko: then you don't have a conforming compiler.  you should shoot someone.  [21:41:53]
+<mitsuhiko> zvrba: it's a project for university, they want us to read in an integer from the command line and bark if the value is too long for an
+            integer  [21:42:08]
+<mitsuhiko> however they do not allow limits.h  [21:42:12]
+<mitsuhiko> (they kinda want you to build a house and all your tools are made of bread)  [21:42:23]
+<SimoneB> the "++" is an atomic operation right?  [21:42:30]
+<zvrba> wrong  [21:42:34]
+<twkm> SimoneB: doubtful.  [21:42:38]
+<SimoneB> oks  [21:43:27]
+<mitsuhiko> how crazy is that? #define INT_MAX (~((unsigned int)0) / 2)  [21:44:00]
+<mitsuhiko> ?
+<stdiopt> unsigned int i = ~0 isn't equal to  [21:44:05]
+<stdiopt> i was thinking like that  [21:44:15]
+<Spark> SimoneB: gcc has compiler builtins for that sort of thing  [21:44:33]
+<stdiopt> but not sure if is crazy lol  [21:44:36]
+<stdiopt> considering 1 bit for signess  [21:45:30]
+*** decafbad (n=mehmet@88.232.67.54) is now known as erdenerdecaf  [21:45:33]
+<stdiopt> and considering that is for "retarded" purposes that doesn't seem so bad  [21:45:54]
+<hedgehoginfog> what library do we use to paint lines and stuff in console?  [21:47:09]
+<stdiopt> svgalib?  [21:47:30]
+<hedgehoginfog> svgalib???  [21:48:09]
+<stdiopt> i'm not sure if i understood your question  [21:48:23]
+<hedgehoginfog> I need to draw a line. In console.  [21:48:54]
+<hedgehoginfog> from (x_1,y_1) to (x_2,y_2)  [21:49:09]
+<stdiopt> just like that without changing modes?  [21:49:10]
+<philsf> I need help in defining the #include order in my program.  [21:49:12]
+<stdiopt> or ascii art?  [21:49:16]
+<philsf> I want to define some functions and constants in a misc.h, which should be available to a.h and b.h and main.c, both of a.h and b.h are included
+         in main.c, and so I get function redefined errors.  [21:49:21]
+<philsf> If I only include misc.h in main.c, its contents are not available to a.h and b.h. What should I do?  [21:49:29]
+<hedgehoginfog> stdiopt: no, not ascii art  [21:49:34]
+<hingwah> philsf, use header guard  [21:50:09]
+<stdiopt> and without changing modes?
+<twkm> philsf: use include guards.  [21:50:10]
+<philsf> hingwah, twkm: I'm new to this, never heard. Where can I read something about it?  [21:50:53]
+<stdiopt> #ifndef _A_H_  [21:51:14]
+<stdiopt> #define _A_H_  [21:51:19]
+<stdiopt> #endif  [21:51:25]
+<twkm> except don't use a leading underscore followed by a capital letter.  [21:51:38]
+<twkm> nor two leading underscores.  [21:51:45]
+<stdiopt> :P  [21:51:50]
+<deoks> philsf: http://en.wikipedia.org/wiki/Include_guard  [21:52:04]
+<philsf> well, that seems easy enough, thanks people  [21:52:17]
+<hedgehoginfog> stdiopt: like with initgraph  [21:53:18]
+<stdiopt> Different naming conventions for the guard macro may be used by different programmers. Other possible forms of the above example include
+          GRANDFATHER_INCLUDED and _GRANDFATHER_H, although _GRANDFATHER_H is prohibited by the C++ standard as it begins with an underscore followed by
+          an upper-case letter[1].  [21:53:19]
+<hedgehoginfog> I'm just not sure if it'll work on linux  [21:53:42]
+<stdiopt> hedgehoginfog i once used svgalib, that justs changes graphic mode on current vt  [21:54:09]
+<twkm> stdiopt: a leading underscore followed by an upper-case letter is reserved.  [21:54:21]
+<hedgehoginfog> stdiopt: so it needs svgalib.h?  [21:54:37]
+<stdiopt> hedgehoginfog i used long ago, i'm not even sure if that exists now in linux, let me check  [21:54:59]
+<stdiopt> http://www.svgalib.org/  [21:55:33]
+<stdiopt> i see a binary for libc5 :o  [21:55:38]
+<stdiopt> so it must be old  [21:55:40]
+<stdiopt> i even dunno if thats the best way  [21:56:13]
+<hedgehoginfog> i need any way to code graphics in C  [21:57:05]
+<afancy> Hi, in my *.c, it said it cannot find #include <glib.h>. So, how should I do?  [21:57:19]
+<Xgc> - /usr/src/kernels/2.6.26.5-28.fc8-i686/include/config/fb/svgalib.h  [21:57:32]
+*** Vadtec (i=vadtec@unaffiliated/vadtec) is now known as Vadtec[A]  [21:58:01]
+<stdiopt> afancy maybe u should say wich directory to look for?  [21:58:15]
+<stdiopt> -Ipath/of/glibh  [21:58:25]
+<stdiopt> passing as argument for gcc  [21:58:59]
+<stdiopt> hedgehoginfog u can use SDL if u just want to code graphics in C  [21:59:31]
+<twkm> and provided the display is supported.  [21:59:48]
+<hedgehoginfog> Xgc: so if i write include <svgalib.h> it will work?  [22:00:15]
+<stdiopt> u might have to link to some external lib  [22:00:34]
+<afancy> stdiopt: but now i stall havenot compiled it, it just shows in my IDE  [22:00:35]
+<afancy> stdiopt: so if i should include in the somewhere in my project settings?  [22:01:04]
+* SimoneB sees the light  [22:01:16]
+<stdiopt> probably yes  [22:01:35]
+<SimoneB> afancy: you need to set some compiler options to get glib to compile  [22:01:37]
+<stdiopt> but since is your IDE that are complaining about might be some IDE conf  [22:02:02]
+<SimoneB> afancy: which may be dependent on your system s which tool are you using for compiling? like, one integrated in eclipse or something?
+                                                                                                                                                [22:02:11]
+<SimoneB> afancy: I use this string to compile with glib: gcc anagram.c result.c break.c -o break -Wall -g -I/usr/include/glib-2.0
+          -I/usr/lib/glib-2.0/include -lglib-2.0  [22:02:50]
+<afancy> SimoneB: I am using NetBean with C/C++ plugin  [22:02:53]
+<stdiopt> :o  [22:03:16]
+<SimoneB> afancy: but, you should read this page http://library.gnome.org/devel/glib/unstable/glib-compiling.html  [22:03:28]
+<stdiopt> char *speak(void)  [22:06:17]
+<stdiopt> lol  [22:07:47]
+<SimoneB> hey, that's my t-shirt  [22:07:48]
+<stdiopt> "pingwin"  [22:07:51]
+<SimoneB> don't forget the ;  [22:07:59]
+<stdiopt> oh syntax error  [22:08:07]
+<SimoneB> pingwin?  [22:08:08]
+<stdiopt> that guy nick, funny  [22:08:21]
+<stdiopt> pingwin  [22:08:23]
+<stdiopt> oh  [22:08:28]
+<SimoneB> the ; means that it's a declaration of your library function  [22:08:30]
+<stdiopt> "pinguin" portuguese means tux  [22:08:35]
+<stdiopt> pingwin, sounds like tux in portuguese i mean  [22:08:46]
+*** Vadtec[A] (i=vadtec@unaffiliated/vadtec) is now known as Vadtec  [22:09:03]
+<pdc303> given the same seed to srand(), is rand() guaranteed to give the same sequence of numbers, regardless or system/platform/etc?  [22:09:06]
+<twkm> no.  [22:09:16]
+<pdc303> in what cases does and does it not? The man page says at least that the same seed will produce a predicable sequence of numbers  [22:10:04]
+<twkm> for any particular implementation, that is required behavior.  [22:10:39]
+<SimoneB> yeah, sounds a little like penguin  [22:11:09]
+<twkm> different implementations, which can include different compilations on the same platform, are not so required.  [22:11:10]
+<twkm> if you use the same library on each platform the odds are fair that you'll get the same results.  [22:11:40]
+<stdiopt> heh  [22:11:45]
+<afancy> SimoneB: what doest it mean :-I/usr/lib/glib-2.0/include -lglib-2.0 ?  [22:11:56]
+<pdc303> twkm: 'library'? I'm using GCC/C99 on both Linux platforms  [22:12:20]
+<twkm> pdc303: so you don't really understand c.  [22:12:36]
+<stdiopt> pdc303 maybe u can write your own random number generator to make sure that you get the right sequence for all plat  [22:12:52]
+<SimoneB> afancy: i'm not sure, but the first one is a path to the header file, and the second the library's name s but, it's just a guess, i've came up
+          with that with the informations on the page i linked you (and some file system browsing)  [22:12:54]
+<twkm> pdc303: are you using identical versions of libc on each?  [22:12:58]
+<pdc303> that I don't know, twkm. I don't have access to the other machine.  [22:13:35]
+<stdiopt> SimoneB a right guess  [22:13:36]
+<twkm> pdc303: as an aside, gcc is not a conforming c99 compiler, so beware.
+<pdc303> that I know  [22:13:45]
+<twkm> pdc303: well, i don't have esp.  [22:13:47]
+<pdc303> oh :\  [22:13:55]
+<pdc303> I'm only using C99 for stdint  [22:14:08]
+<twkm> pdc303: stdiopt's suggestion seems safest.  [22:14:25]
+<pdc303> stdiopt: yes I will make my own PRNG  [22:14:27]
+<pdc303> yeah  [22:14:32]
+<SimoneB> pdc303: i'm sure you can find some library that does it. the mersenne twister has a good reputation as a pseudorandom number generator.
+                                                                                                                                                [22:14:59]
+<SimoneB> pdc303: good reputation = fast, good distribution, not very seed sensitive, etc.  [22:15:39]
+<SimoneB> long periods  [22:15:50]
+<twkm> it must be seed sensitive to match the requirements.  [22:16:20]
+<pdc303> I have read in to it, SimoneB, thanks. I will go with something simpler. it's an assignment so I don't want to just copy/paste a known good
+         solution. something simple will suffice for now  [22:16:35]
+<pdc303> thanks for your thoughts  [22:16:39]
+<afancy> SimoneB: thanks a lot.  [22:17:27]
+<SimoneB> twkm: another chance to prove that I'm still learning to speak :O let's make an example. with Java (iirc) rand() function, if you seed it with
+          1 you get, say, 1000 as the first number generated. with seed 2, you get 1005. with seed 3, 1020, and so on  [22:17:28]
+<SimoneB> twkm: with similar seeds you get similar numbers (speaking about the *first* one that is generated)  [22:18:01]
+<twkm> the entire sequence should be the same.  [22:18:25]
+<stdiopt> what if is linked to system rand?  [22:18:55]
+<afancy> SimoneB: I have download an opensoure application, and want to do further development. But I dont know how to setup the project correctly. Could
+         you help me? thanks in advance.http://sourceforge.net/project/showfiles.php?group_id=64823&package_id=163670  [22:19:08]
+<twkm> stdiopt: then it depends on the system rand implementation, of course.  which may vary from system to system.  [22:19:26]
+<stdiopt> coursei  [22:19:42]
+<pizza_> SimoneB: if it's a linear congruential generator, s/similar/same/  [22:19:48]
+<stdiopt> i mean that i must have sure if that case wich generator java using  [22:20:00]
+<twkm> apparently you applied rand to your wordstream.  [22:20:20]
+<SimoneB> afancy: well, sorry but, i couldn't go very much beyond browsing the site and googling, and also i never used netbeans. Maybe there's a
+          makefile included in the package, thoughs  [22:20:45]
+<stdiopt> lol  [22:21:07]
+<stdiopt> yeah nonsense  [22:21:23]
+*** erdenerdecaf (n=mehmet@88.232.67.54) is now known as decafbad  [22:21:57]
+<twkm> the standard requires that a given seed always produce the same sequence, but it does not require that every implementation produce the same
+       sequence.  so given srand(1) libc 1.2 might produce 2,3,4 (every time you run it) while libc x4 might produce 4,3,2.  [22:21:58]
+<afancy> SimoneB: there is a Configure file in the package, then run ./Configure to generate Makefile, and run make. But I know know how to configure it
+         into my IDE that i can run and debug in my IDE. Do u have any idea?  [22:23:52]
+<twkm> such is the problem here, and is why your suggestion that pdc303 write hir own prng makes some sense, because system #1 might use glibc 2.9 while
+       system #2 uses uclibc 0.9.30.  [22:23:59]
+<Chris> or use an existing prng implementation  [22:24:56]
+<Antoine_935> hi there :)  [22:25:06]
+<twkm> afancy: sounds like you need to learn your ide.  sadly if your ide does not directly support the framework the package uses it may become very
+       tedious for you.  [22:25:09]
+<Chris> the mersenne twister sample implementation at http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/emt.html should give the same results regardless of
+        C implementation  [22:25:46]
+<twkm> Chris: pdc303 went on to say he didn't want to just c&p one, though of course whatever sie does will effectively be such if it is to work at all
+       well.  [22:25:48]
+<SimoneB> afancy: sorry, i'm not that skilled with makefiles and such s maybe someone else can answer your question. my best guess is that configure just
+          detects some platform-dependent parameters and then you can just tell netbeans to use the generated makefile.  [22:25:51]
+<Chris> twkm: ah, fair enough  [22:26:05]
+<twkm> afancy: can your ide "import" the resulting makefile?  [22:26:35]
+<stdiopt> dam there is someguy pasting the Xorg.log in someother channel :o  [22:27:05]
+<stdiopt> lol  [22:27:06]
+<SimoneB> pdc303: if you want to write a prng i have my own simple algorithm that may suit your need  [22:27:29]
+<afancy> ok, i will try  [22:27:34]
+<stdiopt> luckly he gots segment fault on X and log breaks right on start :D  [22:27:47]
+<stdiopt> haha  [22:27:48]
+<SimoneB> pdc303: actually the only use i found of it was implementing it in a bash script (when i mean simplei)  [22:27:52]
+<Chris> int prng(void) { static x = 0; return ++x; }  [22:27:55]
+<pdc303> SimoneB: thanks but something weak will suffice for demonstrating this assignment work  [22:28:04]
+<pizza_> http://xkcd.com/221/  [22:28:12]
+<Chris> actually that should be unsigned int prng(void) { static unsigned x = 0; return ++x; } otherwise it's undefined behavior after a while.
+                                                                                                                                                [22:28:57]
+<stdiopt> oO  [22:29:15]
+<twkm> Chris: heh m how could anyone guess that it would be sequential!  that qualifies under one definition (in the crypto world) of "random".
+                                                                                                                                                [22:29:34]
+<afancy> SimoneB: Ok, thanks. There is two make files included in the package: Makefile.in and Makefile.am, what r they used for? r they the Makefile?
+                                                                                                                                                [22:29:41]
+<Chris> twkm: aye :)  [22:29:49]
+<SimoneB> no, the idea is to identify the range of numbers you are covering (say: 2^16). then find a prime number respect 2^16 (for example, 17), that is
+          your seed. the nth generated number is (17*n)%2^16. basically, it shuffles every number from 1 to 2^16  [22:29:56]
+<SimoneB> afancy: don't know, sorry s  [22:30:41]
+<stdiopt> afancy they are makefile generators  [22:31:01]
+<stdiopt> and u should read before asking how all that works  [22:31:22]
+<hedgehoginfog> I'm trying to #include a header file which is /usr/src/sinclude/... but gcc says no such file or directory. Can you suggest anything?
+                                                                                                                                                [22:31:24]
+<stdiopt> try to specify the path  [22:32:02]
+<twkm> hedgehoginfog: sounds like a dangerous place for it.  [22:32:03]
+<twkm> hedgehoginfog: but, gcc -I/usr/src/sinclude ...  [22:32:17]
+<hedgehoginfog> the header file turnes out to be empty :)  [22:32:38]
+<afancy> stdiopt: sorry, i am newbie of C programming.  [22:33:57]
+<stdiopt> and i'm sure thats not the best way to learn :)  [22:34:24]
+<afancy> stdiopt: do u have any recommendations to read?  [22:35:59]
+<twkm> see http://www.iso-9899.info/wiki/Books  [22:36:21]
+<stdiopt> i think i should read that too, i know how to do stuff but i'm not aware of standards lol  [22:36:58]
+<afancy> twkm: thanks! it is a good website.Looks quite huge  [22:42:18]
+<twkm> not too huge, and that page needs work s but thanks, on behalf of all the contributors.  [22:43:18]
+<SimoneB> i found the reason of glib segfaulting. it's the glib's malloc() and free() that are somewhat interconnected, and in a multithreaded
+          environment must be used always inside the same mutex, OR the program must be compiled with the -lgthread-2.0 option and the g_thread_init()
+          function called (even if not using glib's threads). I still have a memory leak that remains a mistery.  [22:43:26]
+<SimoneB> glib's malloc() and free() probably share a memory pool so they complain also if you use them on indipendent data  [22:44:55]
+<SimoneB> this said, i want to stab a voodoo doll of the one that wrote glib's docs  [22:45:18]
+<Quadrescence> cc-mode \o/  [22:46:02]
+<twkm> send in a bug report, and a fix.  [22:46:05]
+<afancy> hi, http://codepad.org/SLN21K3z Could anybody help me this problem?  [22:55:05]
+<afancy> lib3store.so.0 is under that directory, why does it complain cannot find the shared object file? thanks  [22:55:52]
+<stdiopt> don't work that way i guess  [22:56:39]
+<stdiopt> u should use ldconfig  [22:56:53]
+<afancy> stdiopt: don'w work that way, what do u mean  [22:57:05]
+<stdiopt> to cache shared objects  [22:57:09]
+<stdiopt> i think dinamic loader doesn't load files on current directory  [22:57:20]
+<stdiopt> (what causing that problem)  [22:57:33]
+<stdiopt> solution is configuring the shared object paths in the /etc/somewhat  [22:58:06]
+<stdiopt> i don't remember well  [22:58:16]
+<_theHAM> your libraries should be in a library directory  [22:58:18]
+<stdiopt> or that way  [22:58:36]
+<_theHAM> 'ldd' is your friend  [22:58:39]
+<afancy> /sbin/ldconfig.real: relative path `lib3store.so.0' used to build cache  [22:58:48]
+<twkm> sigh, though this reeks of too much linux s ''man ld.so''  [22:59:15]
+<afancy> stdiopt: it still doesn't work  [23:01:40]
+<_theHAM> what doesn't? is there not some proper install system that you're skipping out on?  [23:03:38]
+<afancy> _theHAM: no  [23:04:14]
+<afancy> _theHAM: I compile it then it generate this lib  [23:04:43]
+<stdiopt> how nice is this, my explorer just crashed for thumbnailing some unfinished avi's :|  [23:07:19]
+<twkm> known bug.  try a windows channel.  [23:08:33]
+<stdiopt> my vs debugger opened, and i could keep messing with the explorer window, so i changed to icon view, its nice now  [23:09:22]
+<impulze> i can imagine  [23:11:45]
+<impulze> windows and icons are always very very nice :)  [23:12:08]
+<Antoine_935> Hey :) I got a small question about fread. http://pastebin.me/493944f7a8c59  [23:13:47]
+<impulze> :)  [23:15:41]
+<impulze> how did you debug it?  [23:16:10]
+<stdiopt> didn't debugger just kept the window opened, and functional  [23:18:26]
+<SimoneB> i would guess that the first one would be faster, if you figure it like a for cycle  [23:18:33]
+<impulze> guessing is always fun  [23:18:46]
+<SimoneB> Antoine_935: s regarding your fread question.  [23:18:48]
+<impulze> i usually also guess syntax in programs :) makes it more fun to program after all  [23:18:57]
+<SimoneB> of course making a test would be maybe faster and surely more precise  [23:19:21]
+<P4C0> Antoine_935, you can use time command (on linux) to test it  [23:20:08]
+<impulze> yeah, that's how professionals debug  [23:20:34]
+<P4C0> Antoine_935, or take time() before fread and time() after and do a difftimes but that will give only seconds... right impulze? what's the best
+       way?  [23:21:37]
+<impulze> i won't tell, so i can claim professionalism  [23:22:01]
+<Skapare> my program is adding up a bunch of triangle areas s formulas for triangle areas all have a final divide by 2 term ... so I skip the divide by 2
+          during the add-up ... do divide by 2 once at end  [23:23:32]
+<Skapare> in theory a good optimizer would do this for me if I just left the divide by 2 on each triangle formula before the additions  [23:23:34]
+<P4C0> http://lists.freebsd.org/pipermail/freebsd-hackers/2005-January/009855.html :)  [23:23:38]
+<RipsteR> hey guys  [23:25:39]
+<RipsteR> code: http://codepad.org/eQbuDRKd errors i am getting from gcc: http://codepad.org/X1ENb436  [23:28:05]
+<mbroeker> RipsteR, the first error implies many other errors: your header cannot be found s  [23:30:34]
+<P4C0> RipsteR, 367 missing ;
+<utopia> hi people i got a c compile question  [23:30:49]
+<utopia> i try to compile a application i wrote on a 64 bit machine and for some reasone it can not find the right libz  [23:31:24]
+<utopia> it is available on /usr/lib64 but i can not be found by ld  [23:31:52]
+<RipsteR> mbroeker: i cannot find an error on 332  [23:32:18]
+<RipsteR> thanks P4C0  [23:32:35]
+<utopia> anyone  [23:35:03]
+<mbroeker> RipsteR, ok, i have only taken a look at the errors produced by your pastebin - the pastebin wasn't able to find the header at your first
+           paste.  [23:35:10]
+<RipsteR> that file is here locally  [23:35:56]
+<hedgehoginfog> stdiopt: do you know anything like svgalib that has a function get_screen_coordinates() ?  [23:36:28]
+<hedgehoginfog> I have drown something and I want to know the coordinates of the current point on the screen  [23:37:18]
+<RipsteR> if a for statement has only one line underneath it, does it need brackets?  [23:41:22]
+<_theHAM> no  [23:42:24]
+<RipsteR> thanks  [23:42:32]
+<_theHAM> although the concept of "line" and "underneath" isn't really the terminology given whitespace neutrality. if it's a single expression, you
+          don't need brackets, same for other constructs  [23:43:03]
+<RipsteR> so:  [23:43:27]
+<RipsteR> for(;;)  [23:43:31]
+<RipsteR> statement;  [23:43:40]
+<RipsteR> is ok  [23:43:42]
+<_theHAM> yeah, as is: for(;;) statement; // no underneath involved :o  [23:44:22]
+<RipsteR> ok  [23:44:57]
+*** trumpen` (n=trumpen@unaffiliated/trumpen) is now known as trumpen  [23:45:45]
+<mitsuhiko> and so is for(;;);  [23:46:53]
+<mitsuhiko> (not that anyone would want to do that)  [23:47:03]
+<psychoschlumpf> can someone recommend me a cross plattform lib to read bzip2 compressed data?  [23:48:09]
+<hingwah> libbzip2  [23:51:25]
+<mbroeker> RipsteR, http://rafb.net/p/hmfSfs46.html  [23:53:20]
+<RipsteR> thanks alot, what did you do?  [23:54:46]
+<mbroeker> i am drinking coffee all the times  [23:55:47]
+<mbroeker> it's easier to dring coffee and elimate the bugs and typos than to explain thems  [23:56:25]
+<RipsteR> well, i am a huge newb, i wish you could, but thanks a lot, i hope it works  [23:56:53]
+<RipsteR> ^ that was a run on  [23:57:03]
+<RipsteR> o_0  [23:57:07]
+<koollman> mbroeker: it's interesting to notice coffee effects on your typing too :)  [23:57:15]
+<koollman> oh, and that code is awful. someone has to say it. 'strange' is not really a good description  [23:57:55]
+<mbroeker> :)  [23:58:13]
+<RipsteR> thanks koollman: like i said, i am new, and teaching myself  [23:58:28]
+<RipsteR> with the help of this channel and the K&R book  [23:58:39]
+<RipsteR> but, thanks for the support  [23:58:59]
+
+[ë¡˘ 12ë‘¬  6 2008]
+<koollman> RipsteR: so, some tips : avoid global variables / state. avoid long functions, avoid deep imbrication of blocks (if in if in if in while in if
+           s )  [00:00:15]
+<koollman> and if possible, reduce code duplication (by creating more small functions to factorize the identical/similar parts)  [00:00:52]
+<Quadrescence> Are there any C-compiler benchmarks (comparing C compilers)? I'm just curious.  [00:01:06]
+<Dianora> it's called "sideways" development.  [00:01:25]
+<RipsteR> thanks for the advice, if i get this working, my next goal will be to clean it up and make it more efficient  [00:01:26]
+<Dianora> no  [00:01:35]
+<Dianora> you don't need to make it more efficient  [00:01:41]
+<Dianora> you need to make it readable at 3am  [00:01:47]
+<Dianora> once you do that  [00:01:50]
+<koollman> :)  [00:01:51]
+<Dianora> the efficiency drops out as a side effect.  [00:01:58]
+<koollman> optimize for humans first  [00:02:09]
+<Dianora> clean code is efficient code  [00:02:10]
+<Dianora> absolutely koollman  [00:02:16]
+<Dianora> let the compiler do its job  [00:02:21]
+<Dianora> eschew gotos too  [00:02:26]
+<Dianora> they make the code less efficient  [00:02:35]
+<Dianora> seriously, the compiler can generate better code if you do not use gotos  [00:02:48]
+<Quadrescence> gotos have their uses, but from what I'm hearing, they weren't used how they should have been  [00:03:31]
+<RipsteR> thanks you all
+<koollman> well, as usual, 'it depends'. But goto are also not a good idea unless the rest of your code is really crystal clear
+<RipsteR> i will be back, going to try this out  [00:03:39]
+<Dianora> Quadrescence: they have absolutely no use in modern c.  [00:03:41]
+<Dianora> period.  [00:03:43]
+<koollman> Dianora: 'clean exception handling'.  [00:04:01]
+<RipsteR> hopefully i am not back withmore errors, maybe one day i can be as confident in this stuff as you  [00:04:03]
+<Dianora> if you need a goto, your function is written incorrectly.  [00:04:04]
+<Dianora> koollman: not at all.  [00:04:09]
+<koollman> Dianora: well, I won't argue about it. I do not use goto. but I can understand why they are used sometimes, and it can even be 'the proper
+           way'  [00:04:34]
+<Dianora> no. never.  [00:04:41]
+<koollman> but not usually in high level applications  [00:04:42]
+<X-Scale> Dianora: you do you leave a deep nested loop ?  [00:04:56]
+<X-Scale> how do you*  [00:05:02]
+<Dianora> X-Scale: if you have a deep nested loop, I am going to come over and eat your liver.  [00:05:16]
+<Dianora> *DON'T* do that  [00:05:21]
+<koollman> :)  [00:05:23]
+<Dianora> you are *NEVER* going to understand that in 3am when you have to bug fix it.  [00:05:41]
+<Dianora> s/in/at  [00:05:53]
+<Quadrescence> typeof() is standard C99, no?  [00:06:17]
+<Dianora> it means you are trying to do too much at once in one function.
+<koollman> I often find myself commenting code exactly for that kind of situation
+<Quadrescence> (and not C89)  [00:06:25]
+<koollman> that is s 'what should I remember about that at 3am'  [00:06:26]
+<Dianora> if you need comments, then the code is broken.  [00:06:28]
+<koollman> Dianora: in theory, yes.  [00:06:49]
+<Dianora> the only real comments you need are the top of the function telling someone else what it does.  [00:06:58]
+<koollman> in practice, I noticed comments might help on non-trivial code  [00:07:00]
+<Dianora> so they can fix it.  [00:07:04]
+<koollman> (that is, to remember why someone even coded that)  [00:07:08]
+<Dianora> koollman: no.  [00:07:12]
+<Dianora> koollman: There is a comment in unix release 6 in the sceduler.  [00:07:22]
+<Dianora> it's one line  [00:07:25]
+<Dianora> koollman: can you guess what it says?  [00:07:32]
+<koollman> if you don't understand, don't mess with it ?  [00:07:42]
+<koollman> :)  [00:07:43]
+<Dianora> yes something like that  [00:07:54]
+<Dianora> "you are not expected to understand this line."  [00:07:56]
+<koollman> yeah. I use that kind of comment too
+<Dianora> then it is bad code.  [00:08:04]
+<Dianora> I know I will not convince you, but I am sure going to try.  [00:08:22]
+<koollman> not really. it's s reality-constrained code. usually traduction of strange real-life specs  [00:08:26]
+<Dianora> no.  [00:08:40]
+<Dianora> koollman: out of curiosity, how long have you been coding c ?  [00:09:13]
+<koollman> Dianora: imagine a code for s products validation after customer bought something.  [00:09:26]
+<Quadrescence> Dianora: Comments are good to summarize code. If someone wants to know what a program does as a whole, might as well read 10 comments as
+               opposed to 10*10 lines.  [00:09:42]
+<koollman> the validation might be stupid, illogical and backward. but, the spec want it that way  [00:09:45]

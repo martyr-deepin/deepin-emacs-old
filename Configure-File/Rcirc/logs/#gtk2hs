@@ -1,0 +1,5 @@
+2008-12-03 09:29 ManateeLazyCat   /join 
+2008-12-03 09:29 wolfe.freenode.net /mode +ns
+2008-12-03 09:29 ChanServ         /mode -s+tc-o ManateeLazyCat
+2008-12-03 09:29 wolfe.freenode.net /names ManateeLazyCat  
+2008-12-03 09:29 ManateeLazyCat   /part #gtk2hs "Killed buffer"

@@ -1,0 +1,422 @@
+[  1 of 310] Compiling Map60204         ( ../tools/base/Map60204.hs, odir/Linux/Map60204.o )
+[  2 of 310] Compiling TiEnvFM          ( ../tools/base/TI/TiEnvFM.hs, odir/Linux/TiEnvFM.o )
+[  3 of 310] Compiling LocalSettings    ( ../editors//LocalSettings.hs, odir/Linux/LocalSettings.o )
+[  4 of 310] Compiling TypeCheck        ( TypeCheck.hs, odir/Linux/TypeCheck.o )
+[  5 of 310] Compiling PathUtils        ( ../tools/base/lib/PathUtils.hs, odir/Linux/PathUtils.o )
+[  6 of 310] Compiling UTF8             ( ../tools/base/lib/UTF8.hs, odir/Linux/UTF8.o )
+[  7 of 310] Compiling UTF8Util         ( ../tools/base/lib/UTF8Util.hs, odir/Linux/UTF8Util.o )
+[  8 of 310] Compiling ParserOptions    ( ../tools/base/parse2/ParserOptions.hs, odir/Linux/ParserOptions.o )
+[  9 of 310] Compiling HsTokens         ( ../tools/base/parse2/Lexer/HsTokens.hs, odir/Linux/HsTokens.o )
+[ 10 of 310] Compiling HsLexUtils       ( ../tools/base/parse2/Lexer/HsLexUtils.hs, odir/Linux/HsLexUtils.o )
+[ 11 of 310] Compiling HsLex            ( ../tools/base/parse2/Lexer/HsLex.hs, odir/Linux/HsLex.o )
+[ 12 of 310] Compiling HLexTagModuleNames ( ../tools/pfe/../hs2html/HLexTagModuleNames.hs, odir/Linux/HLexTagModuleNames.o )
+[ 13 of 310] Compiling HsLexerPos       ( ../tools/base/parse2/Lexer/HsLexerPos.hs, odir/Linux/HsLexerPos.o )
+
+../tools/base/parse2/Lexer/HsLexerPos.hs:22:4:
+    Warning: Pattern match(es) are overlapped
+             In a case alternative: '\n' -> ...
+[ 14 of 310] Compiling HsLayoutPre      ( ../tools/base/parse2/Lexer/HsLayoutPre.hs, odir/Linux/HsLayoutPre.o )
+[ 15 of 310] Compiling HsLexerPass1     ( ../tools/base/parse2/Lexer/HsLexerPass1.hs, odir/Linux/HsLexerPass1.o )
+[ 16 of 310] Compiling HsKindStruct     ( ../tools/base/AST/HsKindStruct.hs, odir/Linux/HsKindStruct.o )
+[ 17 of 310] Compiling HsKindUtil       ( ../tools/base/AST/HsKindUtil.hs, odir/Linux/HsKindUtil.o )
+[ 18 of 310] Compiling HsFieldsStruct   ( ../tools/base/AST/HsFieldsStruct.hs, odir/Linux/HsFieldsStruct.o )
+[ 19 of 310] Compiling HsAssocStruct    ( ../tools/base/AST/HsAssocStruct.hs, odir/Linux/HsAssocStruct.o )
+[ 20 of 310] Compiling HsAssocUtil      ( ../tools/base/AST/HsAssocUtil.hs, odir/Linux/HsAssocUtil.o )
+[ 21 of 310] Compiling HsLiteral        ( ../tools/base/AST/HsLiteral.hs, odir/Linux/HsLiteral.o )
+[ 22 of 310] Compiling HsTypeStruct     ( ../tools/base/AST/HsTypeStruct.hs, odir/Linux/HsTypeStruct.o )
+[ 23 of 310] Compiling HsTypeUtil       ( ../tools/base/AST/HsTypeUtil.hs, odir/Linux/HsTypeUtil.o )
+[ 24 of 310] Compiling Products         ( ../tools/base/lib/Products.hs, odir/Linux/Products.o )
+[ 25 of 310] Compiling AccList          ( ../tools/base/lib/AccList.hs, odir/Linux/AccList.o )
+[ 26 of 310] Compiling Recursive        ( ../tools/base/lib/Recursive.hs, odir/Linux/Recursive.o )
+[ 27 of 310] Compiling Substitute       ( ../tools/base/transforms/Substitute.hs, odir/Linux/Substitute.o )
+[ 28 of 310] Compiling Control_Monad_Fix ( ../tools/base/lib/Monads/Control_Monad_Fix.hs, odir/Linux/Control_Monad_Fix.o )
+[ 29 of 310] Compiling Tree             ( ../tools/base/lib/Monads/Tree.hs, odir/Linux/Tree.o )
+[ 30 of 310] Compiling TiConstraints    ( ../tools/base/TI/TiConstraints.hs, odir/Linux/TiConstraints.o )
+[ 31 of 310] Compiling MT               ( ../tools/base/lib/Monads/MT.hs, odir/Linux/MT.o )
+[ 32 of 310] Compiling IxEnvM           ( ../tools/base/lib/Monads/IxEnvM.hs, odir/Linux/IxEnvM.o )
+[ 33 of 310] Compiling IxOutputM        ( ../tools/base/lib/Monads/IxOutputM.hs, odir/Linux/IxOutputM.o )
+[ 34 of 310] Compiling OutputM          ( ../tools/base/lib/Monads/OutputM.hs, odir/Linux/OutputM.o )
+[ 35 of 310] Compiling IxStateM         ( ../tools/base/lib/Monads/IxStateM.hs, odir/Linux/IxStateM.o )
+[ 36 of 310] Compiling StateM           ( ../tools/base/lib/Monads/StateM.hs, odir/Linux/StateM.o )
+[ 37 of 310] Compiling EditorCommands   ( EditorCommands.hs, odir/Linux/EditorCommands.o )
+[ 38 of 310] Compiling AbstractIO       ( ../tools/base/lib/AbstractIO.hs, odir/Linux/AbstractIO.o )
+[ 39 of 310] Compiling ExceptM          ( ../tools/base/lib/Monads/ExceptM.hs, odir/Linux/ExceptM.o )
+[ 40 of 310] Compiling IxStateMT        ( ../tools/base/lib/Monads/IxStateMT.hs, odir/Linux/IxStateMT.o )
+[ 41 of 310] Compiling StateMT          ( ../tools/base/lib/Monads/StateMT.hs, odir/Linux/StateMT.o )
+[ 42 of 310] Compiling IdM              ( ../tools/base/lib/Monads/IdM.hs, odir/Linux/IdM.o )
+[ 43 of 310] Compiling MapDeclM         ( ../tools/base/transforms/MapDeclM.hs, odir/Linux/MapDeclM.o )
+[ 44 of 310] Compiling ExceptMT         ( ../tools/base/lib/Monads/ExceptMT.hs, odir/Linux/ExceptMT.o )
+[ 45 of 310] Compiling EnvM             ( ../tools/base/lib/Monads/EnvM.hs, odir/Linux/EnvM.o )
+[ 46 of 310] Compiling OpTypes          ( ../tools/base/lib/OpTypes.hs, odir/Linux/OpTypes.o )
+[ 47 of 310] Compiling NewSCC           ( ../tools/base/lib/NewSCC.hs, odir/Linux/NewSCC.o )
+[ 48 of 310] Compiling Lists            ( ../tools/base/lib/Lists.hs, odir/Linux/Lists.o )
+[ 49 of 310] Compiling FiniteMap1       ( ../tools/base/defs/FiniteMap1.hs, odir/Linux/FiniteMap1.o )
+[ 50 of 310] Compiling TypedIds         ( ../tools/base/Modules/TypedIds.hs, odir/Linux/TypedIds.o )
+[ 51 of 310] Compiling Set60204         ( ../tools/base/Set60204.hs, odir/Linux/Set60204.o )
+[ 52 of 310] Compiling Relations        ( ../tools/base/Modules/Relations.lhs, odir/Linux/Relations.o )
+[ 53 of 310] Compiling PrettyEnv        ( ../tools/base/pretty/PrettyEnv.hs, odir/Linux/PrettyEnv.o )
+[ 54 of 310] Compiling TokenTags        ( ../tools/base/pretty/TokenTags.hs, odir/Linux/TokenTags.o )
+[ 55 of 310] Compiling PrettyDoc        ( ../tools/base/pretty/PrettyDoc.hs, odir/Linux/PrettyDoc.o )
+[ 56 of 310] Compiling MUtils           ( ../tools/base/lib/MUtils.hs, odir/Linux/MUtils.o )
+[ 57 of 310] Compiling HsFieldsMaps     ( ../tools/base/AST/HsFieldsMaps.hs, odir/Linux/HsFieldsMaps.o )
+[ 58 of 310] Compiling HsTypeMaps       ( ../tools/base/AST/HsTypeMaps.hs, odir/Linux/HsTypeMaps.o )
+[ 59 of 310] Compiling HsKindMaps       ( ../tools/base/AST/HsKindMaps.hs, odir/Linux/HsKindMaps.o )
+[ 60 of 310] Compiling Unlit            ( ../tools/base/lib/Unlit.hs, odir/Linux/Unlit.o )
+[ 61 of 310] Compiling HsLexMerge       ( ../tools/base/parse2/Lexer/HsLexMerge.hs, odir/Linux/HsLexMerge.o )
+[ 62 of 310] Compiling FileUtils        ( ../tools/base/lib/FileUtils.hs, odir/Linux/FileUtils.o )
+[ 63 of 310] Compiling DirUtils         ( ../tools/base/lib/DirUtils.hs, odir/Linux/DirUtils.o )
+[ 64 of 310] Compiling SimpleGraphs     ( ../tools/base/lib/SimpleGraphs.hs, odir/Linux/SimpleGraphs.o )
+[ 65 of 310] Compiling Unification      ( ../tools/base/TI/Unification.hs, odir/Linux/Unification.o )
+[ 66 of 310] Compiling PFE_Rewrite      ( ../tools/pfe/PFE_Rewrite.hs, odir/Linux/PFE_Rewrite.o )
+[ 67 of 310] Compiling MyDoc            ( ../tools/pfe/../hs2html/MyDoc.hs, odir/Linux/MyDoc.o )
+[ 68 of 310] Compiling MyDoc2HTML       ( ../tools/pfe/../hs2html/MyDoc2HTML.hs, odir/Linux/MyDoc2HTML.o )
+[ 69 of 310] Compiling ParseMyDoc       ( ../tools/pfe/../hs2html/ParseMyDoc.hs, odir/Linux/ParseMyDoc.o )
+[ 70 of 310] Compiling LitTxt           ( ../tools/pfe/../hs2html/LitTxt.hs, odir/Linux/LitTxt.o )
+[ 71 of 310] Compiling PrettyPrint2     ( ../tools/base/pretty/PrettyPrint2.hs, odir/Linux/PrettyPrint2.o )
+[ 72 of 310] Compiling PrettyStd        ( ../tools/base/pretty/PrettyStd.hs, odir/Linux/PrettyStd.o )
+[ 73 of 310] Compiling NewPrettyPrint   ( ../tools/base/pretty/NewPrettyPrint.hs, odir/Linux/NewPrettyPrint.o )
+[ 74 of 310] Compiling PrettyPrint      ( ../tools/base/pretty/PrettyPrint.hs, odir/Linux/PrettyPrint.o )
+[ 75 of 310] Compiling PrettySymbols    ( ../tools/base/pretty/PrettySymbols.hs, odir/Linux/PrettySymbols.o )
+[ 76 of 310] Compiling HsAssocPretty    ( ../tools/base/AST/HsAssocPretty.hs, odir/Linux/HsAssocPretty.o )
+[ 77 of 310] Compiling HsAssoc          ( ../tools/base/AST/HsAssoc.hs, odir/Linux/HsAssoc.o )
+[ 78 of 310] Compiling HsLiteralPretty  ( ../tools/base/AST/HsLiteralPretty.hs, odir/Linux/HsLiteralPretty.o )
+[ 79 of 310] Compiling PrettyUtil       ( ../tools/base/pretty/PrettyUtil.hs, odir/Linux/PrettyUtil.o )
+[ 80 of 310] Compiling HsTypePretty     ( ../tools/base/AST/HsTypePretty.hs, odir/Linux/HsTypePretty.o )
+[ 81 of 310] Compiling HsFieldsPretty   ( ../tools/base/AST/HsFieldsPretty.hs, odir/Linux/HsFieldsPretty.o )
+[ 82 of 310] Compiling HsKindPretty     ( ../tools/base/AST/HsKindPretty.hs, odir/Linux/HsKindPretty.o )
+[ 83 of 310] Compiling HsKind           ( ../tools/base/AST/HsKind.hs, odir/Linux/HsKind.o )
+[ 84 of 310] Compiling CmdLineParser3   ( ../tools/base/lib/CmdLineParser3.hs, odir/Linux/CmdLineParser3.o )
+[ 85 of 310] Compiling PPU              ( ../tools/base/pretty/PPU.hs, odir/Linux/PPU.o )
+[ 86 of 310] Compiling Lift             ( ../tools/base/lib/Lift.hs, odir/Linux/Lift.o )
+[ 87 of 310] Compiling Statistics       ( ../tools/base/lib/Statistics.hs, odir/Linux/Statistics.o )
+[ 88 of 310] Compiling HsName           ( ../tools/base/AST/HsName.hs, odir/Linux/HsName.o )
+[ 89 of 310] Compiling NameMaps         ( ../tools/base/defs/NameMaps.hs, odir/Linux/NameMaps.o )
+[ 90 of 310] Compiling LexUtil          ( ../tools/base/parse2/LexUtil.hs, odir/Linux/LexUtil.o )
+[ 91 of 310] Compiling SrcLoc1          ( ../tools/base/AST/SrcLoc1.hs, odir/Linux/SrcLoc1.o )
+[ 92 of 310] Compiling SrcLocPretty     ( ../tools/base/AST/SrcLocPretty.hs, odir/Linux/SrcLocPretty.o )
+[ 93 of 310] Compiling HsGuardsStruct   ( ../tools/base/AST/HsGuardsStruct.hs, odir/Linux/HsGuardsStruct.o )
+[ 94 of 310] Compiling HsGuardsMaps     ( ../tools/base/AST/HsGuardsMaps.hs, odir/Linux/HsGuardsMaps.o )
+[ 95 of 310] Compiling HsGuardsUtil     ( ../tools/base/AST/HsGuardsUtil.hs, odir/Linux/HsGuardsUtil.o )
+[ 96 of 310] Compiling HsGuardsPretty   ( ../tools/base/AST/HsGuardsPretty.hs, odir/Linux/HsGuardsPretty.o )
+[ 97 of 310] Compiling ParseMonad       ( ../tools/base/parse2/ParseMonad.hs, odir/Linux/ParseMonad.o )
+[ 98 of 310] Compiling HsLexer          ( ../tools/base/parse2/Lexer/HsLexer.hs, odir/Linux/HsLexer.o )
+[ 99 of 310] Compiling TiError          ( ../tools/base/TI/TiError.hs, odir/Linux/TiError.o )
+[100 of 310] Compiling RefsTypes        ( ../tools/pfe/../hs2html/RefsTypes.hs, odir/Linux/RefsTypes.o )
+[101 of 310] Compiling HLex2html        ( ../tools/pfe/../hs2html/HLex2html.hs, odir/Linux/HLex2html.o )
+[102 of 310] Compiling HsIdent          ( ../tools/base/AST/HsIdent.hs, odir/Linux/HsIdent.o )
+[103 of 310] Compiling HasBaseName      ( ../tools/base/AST/HasBaseName.hs, odir/Linux/HasBaseName.o )
+[104 of 310] Compiling UniqueNames      ( ../tools/base/defs/UniqueNames.hs, odir/Linux/UniqueNames.o )
+[105 of 310] Compiling DefinedNames     ( ../tools/base/defs/DefinedNames.hs, odir/Linux/DefinedNames.o )
+[106 of 310] Compiling ScopeNames       ( ../tools/base/defs/ScopeNames.hs, odir/Linux/ScopeNames.o )
+[107 of 310] Compiling HsIdentPretty    ( ../tools/base/AST/HsIdentPretty.hs, odir/Linux/HsIdentPretty.o )
+[108 of 310] Compiling HsPatStruct      ( ../tools/base/AST/HsPatStruct.hs, odir/Linux/HsPatStruct.o )
+[109 of 310] Compiling HsPatPretty      ( ../tools/base/AST/HsPatPretty.hs, odir/Linux/HsPatPretty.o )
+[110 of 310] Compiling HsExpStruct      ( ../tools/base/AST/HsExpStruct.hs, odir/Linux/HsExpStruct.o )
+[111 of 310] Compiling HsDeclStruct     ( ../tools/base/AST/HsDeclStruct.hs, odir/Linux/HsDeclStruct.o )
+[112 of 310] Compiling BaseSyntaxStruct ( ../tools/base/AST/BaseSyntaxStruct.hs, odir/Linux/BaseSyntaxStruct.o )
+[113 of 310] Compiling HsDeclPretty     ( ../tools/base/AST/HsDeclPretty.hs, odir/Linux/HsDeclPretty.o )
+[114 of 310] Compiling HsPatMaps        ( ../tools/base/AST/HsPatMaps.hs, odir/Linux/HsPatMaps.o )
+[115 of 310] Compiling HsExpMaps        ( ../tools/base/AST/HsExpMaps.hs, odir/Linux/HsExpMaps.o )
+[116 of 310] Compiling HsExpUtil        ( ../tools/base/AST/HsExpUtil.hs, odir/Linux/HsExpUtil.o )
+[117 of 310] Compiling HsDeclMaps       ( ../tools/base/AST/HsDeclMaps.hs, odir/Linux/HsDeclMaps.o )
+[118 of 310] Compiling HsDeclUtil       ( ../tools/base/AST/HsDeclUtil.hs, odir/Linux/HsDeclUtil.o )
+[119 of 310] Compiling BaseSyntaxMaps   ( ../tools/base/AST/BaseSyntaxMaps.hs, odir/Linux/BaseSyntaxMaps.o )
+[120 of 310] Compiling HsDecl           ( ../tools/base/AST/HsDecl.hs, odir/Linux/HsDecl.o )
+[121 of 310] Compiling HsExpPretty      ( ../tools/base/AST/HsExpPretty.hs, odir/Linux/HsExpPretty.o )
+[122 of 310] Compiling BaseSyntaxPretty ( ../tools/base/AST/BaseSyntaxPretty.hs, odir/Linux/BaseSyntaxPretty.o )
+[123 of 310] Compiling HsExp            ( ../tools/base/AST/HsExp.hs, odir/Linux/HsExp.o )
+[124 of 310] Compiling ReAssoc          ( ../tools/base/defs/ReAssoc.hs, odir/Linux/ReAssoc.o )
+[125 of 310] Compiling TiDefinedNames   ( ../tools/base/TI/TiDefinedNames.hs, odir/Linux/TiDefinedNames.o )
+[126 of 310] Compiling FreeNames        ( ../tools/base/defs/FreeNames.hs, odir/Linux/FreeNames.o )
+[127 of 310] Compiling TiFreeNames      ( ../tools/base/TI/TiFreeNames.hs, odir/Linux/TiFreeNames.o )
+[128 of 310] Compiling TiSCC            ( ../tools/base/TI/TiSCC.hs, odir/Linux/TiSCC.o )
+[129 of 310] Compiling ConvRefsTypes    ( ../tools/pfe/../hs2html/ConvRefsTypes.hs, odir/Linux/ConvRefsTypes.o )
+[130 of 310] Compiling TiNameMaps       ( ../tools/base/TI/TiNameMaps.hs, odir/Linux/TiNameMaps.o )
+[131 of 310] Compiling QualNames        ( ../tools/base/Modules/QualNames.hs, odir/Linux/QualNames.o )
+[132 of 310] Compiling PNT              ( ../tools/base/defs/PNT.hs, odir/Linux/PNT.o )
+[133 of 310] Compiling SpecialNames     ( ../tools/base/AST/SpecialNames.hs, odir/Linux/SpecialNames.o )
+[134 of 310] Compiling HsConstants      ( ../tools/base/AST/HsConstants.hs, odir/Linux/HsConstants.o )
+[135 of 310] Compiling HsModule         ( ../tools/base/AST/HsModule.hs, odir/Linux/HsModule.o )
+[136 of 310] Compiling HsModuleMaps     ( ../tools/base/AST/HsModuleMaps.hs, odir/Linux/HsModuleMaps.o )
+[137 of 310] Compiling SCMs             ( ../tools/base/Modules/SCMs.hs, odir/Linux/SCMs.o )
+[138 of 310] Compiling HsModulePretty   ( ../tools/base/AST/HsModulePretty.hs, odir/Linux/HsModulePretty.o )
+[139 of 310] Compiling MapDeclMBaseStruct ( ../tools/base/transforms/MapDeclMBaseStruct.hs, odir/Linux/MapDeclMBaseStruct.o )
+[140 of 310] Compiling HasBaseStruct    ( ../tools/base/AST/HasBaseStruct.hs, odir/Linux/HasBaseStruct.o )
+[141 of 310] Compiling TiKinds          ( ../tools/base/TI/TiKinds.hs, odir/Linux/TiKinds.o )
+[142 of 310] Compiling HsPatUtil        ( ../tools/base/AST/HsPatUtil.hs, odir/Linux/HsPatUtil.o )
+[143 of 310] Compiling BaseSyntaxUtil   ( ../tools/base/AST/BaseSyntaxUtil.hs, odir/Linux/BaseSyntaxUtil.o )
+[144 of 310] Compiling BaseSyntax       ( ../tools/base/AST/BaseSyntax.hs, odir/Linux/BaseSyntax.o )
+
+../tools/base/AST/BaseSyntax.hs:1:19:
+    Warning: The export item `module BaseSyntax' exports nothing
+[145 of 310] Compiling SyntaxRec        ( ../tools/base/syntax/SyntaxRec.hs, odir/Linux/SyntaxRec.o )
+[146 of 310] Compiling SyntaxRecPretty  ( ../tools/base/syntax/SyntaxRecPretty.hs, odir/Linux/SyntaxRecPretty.o )
+[147 of 310] Compiling Syntax           ( ../tools/base/syntax/Syntax.hs, odir/Linux/Syntax.o )
+[148 of 310] Compiling MapDeclMBase     ( ../tools/base/transforms/MapDeclMBase.hs, odir/Linux/MapDeclMBase.o )
+[149 of 310] Compiling DefinedNamesBaseStruct ( ../tools/base/defs/DefinedNamesBaseStruct.hs, odir/Linux/DefinedNamesBaseStruct.o )
+[150 of 310] Compiling DefinedNamesBase ( ../tools/base/defs/DefinedNamesBase.hs, odir/Linux/DefinedNamesBase.o )
+[151 of 310] Compiling FreeNamesBaseStruct ( ../tools/base/defs/FreeNamesBaseStruct.hs, odir/Linux/FreeNamesBaseStruct.o )
+[152 of 310] Compiling FreeNamesBase    ( ../tools/base/defs/FreeNamesBase.hs, odir/Linux/FreeNamesBase.o )
+[153 of 310] Compiling SubstituteBaseStruct ( ../tools/base/transforms/SubstituteBaseStruct.hs, odir/Linux/SubstituteBaseStruct.o )
+[154 of 310] Compiling SubstituteBase   ( ../tools/base/transforms/SubstituteBase.hs, odir/Linux/SubstituteBase.o )
+[155 of 310] Compiling NameMapsBaseStruct ( ../tools/base/defs/NameMapsBaseStruct.hs, odir/Linux/NameMapsBaseStruct.o )
+[156 of 310] Compiling NameMapsBase     ( ../tools/base/defs/NameMapsBase.hs, odir/Linux/NameMapsBase.o )
+[157 of 310] Compiling ReAssocBaseStruct ( ../tools/base/defs/ReAssocBaseStruct.hs, odir/Linux/ReAssocBaseStruct.o )
+[158 of 310] Compiling ReAssocBase      ( ../tools/base/defs/ReAssocBase.hs, odir/Linux/ReAssocBase.o )
+
+../tools/base/defs/ReAssocBase.hs:1:19:
+    Warning: The export item `module ReAssocBase' exports nothing
+[159 of 310] Compiling ScopeNamesBaseStruct ( ../tools/base/defs/ScopeNamesBaseStruct.hs, odir/Linux/ScopeNamesBaseStruct.o )
+[160 of 310] Compiling ScopeNamesBase   ( ../tools/base/defs/ScopeNamesBase.hs, odir/Linux/ScopeNamesBase.o )
+[161 of 310] Compiling TiNames          ( ../tools/base/TI/TiNames.hs, odir/Linux/TiNames.o )
+[162 of 310] Compiling TiTypes          ( ../tools/base/TI/TiTypes.hs, odir/Linux/TiTypes.o )
+[163 of 310] Compiling TiKEnv           ( ../tools/base/TI/TiKEnv.hs, odir/Linux/TiKEnv.o )
+[164 of 310] Compiling TiPrelude        ( ../tools/base/TI/TiPrelude.hs, odir/Linux/TiPrelude.o )
+[165 of 310] Compiling TiSolve          ( ../tools/base/TI/TiSolve.hs, odir/Linux/TiSolve.o )
+[166 of 310] Compiling TiTEnv           ( ../tools/base/TI/TiTEnv.hs, odir/Linux/TiTEnv.o )
+
+../tools/base/TI/TiTEnv.hs:36:0:
+    Warning: No explicit method nor default method for `tmap'
+    In the instance declaration for `Types i (TEnv i)'
+[167 of 310] Compiling FieldSelectors   ( ../tools/base/transforms/FieldSelectors.hs, odir/Linux/FieldSelectors.o )
+[168 of 310] Compiling RemovePatBinds   ( ../tools/base/transforms/RemovePatBinds.hs, odir/Linux/RemovePatBinds.o )
+[169 of 310] Compiling TiInstanceDB     ( ../tools/base/TI/TiInstanceDB.hs, odir/Linux/TiInstanceDB.o )
+[170 of 310] Compiling OrigTiMonad      ( ../tools/base/TI/OrigTiMonad.hs, odir/Linux/OrigTiMonad.o )
+[171 of 310] Compiling TiMonad          ( ../tools/base/TI/TiMonad.hs, odir/Linux/TiMonad.o )
+[172 of 310] Compiling TiFresh          ( ../tools/base/TI/TiFresh.hs, odir/Linux/TiFresh.o )
+[173 of 310] Compiling TiHsName         ( ../tools/base/TI/TiHsName.hs, odir/Linux/TiHsName.o )
+
+../tools/base/TI/TiHsName.hs:29:0:
+    Warning: No explicit method nor default method for `is_list_tycon_name'
+    In the instance declaration for `IsSpecialName Id'
+
+../tools/base/TI/TiHsName.hs:29:0:
+    Warning: No explicit method nor default method for `is_char_tycon_name'
+    In the instance declaration for `IsSpecialName Id'
+
+../tools/base/TI/TiHsName.hs:29:0:
+    Warning: No explicit method nor default method for `is_fun_tycon_name'
+    In the instance declaration for `IsSpecialName Id'
+
+../tools/base/TI/TiHsName.hs:29:0:
+    Warning: No explicit method nor default method for `is_tuple_tycon_name'
+    In the instance declaration for `IsSpecialName Id'
+
+../tools/base/TI/TiHsName.hs:30:0:
+    Warning: No explicit method nor default method for `list_tycon_name'
+    In the instance declaration for `HasSpecialNames Id'
+
+../tools/base/TI/TiHsName.hs:30:0:
+    Warning: No explicit method nor default method for `char_tycon_name'
+    In the instance declaration for `HasSpecialNames Id'
+
+../tools/base/TI/TiHsName.hs:30:0:
+    Warning: No explicit method nor default method for `fun_tycon_name'
+    In the instance declaration for `HasSpecialNames Id'
+
+../tools/base/TI/TiHsName.hs:30:0:
+    Warning: No explicit method nor default method for `tuple_tycon_name'
+    In the instance declaration for `HasSpecialNames Id'
+
+../tools/base/TI/TiHsName.hs:34:0:
+    Warning: No explicit method nor default method for `localVal''
+    In the instance declaration for `ValueId Id'
+
+../tools/base/TI/TiHsName.hs:34:0:
+    Warning: No explicit method nor default method for `dictName''
+    In the instance declaration for `ValueId Id'
+[174 of 310] Compiling TiPNT            ( ../tools/base/TI/TiPNT.hs, odir/Linux/TiPNT.o )
+[175 of 310] Compiling TiClasses        ( ../tools/base/TI/TiClasses.hs, odir/Linux/TiClasses.o )
+[176 of 310] Compiling SimpPatMatch     ( ../tools/base/transforms/SimpPatMatch.hs, odir/Linux/SimpPatMatch.o )
+[177 of 310] Compiling SimpFieldLabels  ( ../tools/base/transforms/SimpFieldLabels.hs, odir/Linux/SimpFieldLabels.o )
+[178 of 310] Compiling SimpFunBind      ( ../tools/base/transforms/SimpFunBind.hs, odir/Linux/SimpFunBind.o )
+[179 of 310] Compiling DerivingUtils    ( ../tools/base/transforms/Deriving/DerivingUtils.hs, odir/Linux/DerivingUtils.o )
+[180 of 310] Compiling RemoveListComp   ( ../tools/base/transforms/RemoveListComp.hs, odir/Linux/RemoveListComp.o )
+[181 of 310] Compiling DerivingEnum     ( ../tools/base/transforms/Deriving/DerivingEnum.hs, odir/Linux/DerivingEnum.o )
+[182 of 310] Compiling DerivingIx       ( ../tools/base/transforms/Deriving/DerivingIx.hs, odir/Linux/DerivingIx.o )
+[183 of 310] Compiling DerivingRead     ( ../tools/base/transforms/Deriving/DerivingRead.hs, odir/Linux/DerivingRead.o )
+[184 of 310] Compiling DerivingOrd      ( ../tools/base/transforms/Deriving/DerivingOrd.hs, odir/Linux/DerivingOrd.o )
+[185 of 310] Compiling DerivingBounded  ( ../tools/base/transforms/Deriving/DerivingBounded.hs, odir/Linux/DerivingBounded.o )
+[186 of 310] Compiling DerivingShow     ( ../tools/base/transforms/Deriving/DerivingShow.hs, odir/Linux/DerivingShow.o )
+[187 of 310] Compiling DerivingEq       ( ../tools/base/transforms/Deriving/DerivingEq.hs, odir/Linux/DerivingEq.o )
+[188 of 310] Compiling Deriving         ( ../tools/base/transforms/Deriving/Deriving.hs, odir/Linux/Deriving.o )
+[189 of 310] Compiling TiUtil           ( ../tools/base/TI/TiUtil.hs, odir/Linux/TiUtil.o )
+[190 of 310] Compiling TiBySuper        ( ../tools/base/TI/TiBySuper.hs, odir/Linux/TiBySuper.o )
+[191 of 310] Compiling TiFunDeps        ( ../tools/base/TI/TiFunDeps.hs, odir/Linux/TiFunDeps.o )
+[192 of 310] Compiling TiPretty         ( ../tools/base/TI/TiPretty.hs, odir/Linux/TiPretty.o )
+[193 of 310] Compiling TiContextReduction ( ../tools/base/TI/TiContextReduction.hs, odir/Linux/TiContextReduction.o )
+
+../tools/base/TI/TiContextReduction.hs:196:0:
+    Warning: No explicit method nor default method for `isId'
+    In the instance declaration for `HasId i (DExp i)'
+
+../tools/base/TI/TiContextReduction.hs:197:0:
+    Warning: No explicit method nor default method for `tuple'
+    In the instance declaration for `HasCoreSyntax i (DExp i)'
+
+../tools/base/TI/TiContextReduction.hs:197:0:
+    Warning: No explicit method nor default method for `list'
+    In the instance declaration for `HasCoreSyntax i (DExp i)'
+[194 of 310] Compiling TiDefault        ( ../tools/base/TI/TiDefault.hs, odir/Linux/TiDefault.o )
+[195 of 310] Compiling TiGeneralize     ( ../tools/base/TI/TiGeneralize.hs, odir/Linux/TiGeneralize.o )
+[196 of 310] Compiling TI               ( ../tools/base/TI/TI.hs, odir/Linux/TI.o )
+[197 of 310] Compiling TiLit            ( ../tools/base/TI/TiLit.hs, odir/Linux/TiLit.o )
+[198 of 310] Compiling TiT              ( ../tools/base/TI/TiT.hs, odir/Linux/TiT.o )
+[199 of 310] Compiling TiFields         ( ../tools/base/TI/TiFields.hs, odir/Linux/TiFields.o )
+[200 of 310] Compiling TiP              ( ../tools/base/TI/TiP.hs, odir/Linux/TiP.o )
+[201 of 310] Compiling TiRhs            ( ../tools/base/TI/TiRhs.hs, odir/Linux/TiRhs.o )
+[202 of 310] Compiling TiE              ( ../tools/base/TI/TiE.hs, odir/Linux/TiE.o )
+[203 of 310] Compiling TiDkc            ( ../tools/base/TI/TiDkc.hs, odir/Linux/TiDkc.o )
+[204 of 310] Compiling TiDinst          ( ../tools/base/TI/TiDinst.hs, odir/Linux/TiDinst.o )
+
+../tools/base/TI/TiDinst.hs:18:0:
+    Warning: No explicit method nor default method for `tv'
+    In the instance declaration for `Types i (Dinst i e p ds)'
+[205 of 310] Compiling TiClassInst2     ( ../tools/base/TI/TiClassInst2.hs, odir/Linux/TiClassInst2.o )
+[206 of 310] Compiling TiClassInst      ( ../tools/base/TI/TiClassInst.hs, odir/Linux/TiClassInst.o )
+[207 of 310] Compiling TiD              ( ../tools/base/TI/TiD.hs, odir/Linux/TiD.o )
+[208 of 310] Compiling TiBaseStruct     ( ../tools/base/TI/TiBaseStruct.hs, odir/Linux/TiBaseStruct.o )
+[209 of 310] Compiling TiModule         ( ../tools/base/TI/TiModule.hs, odir/Linux/TiModule.o )
+[210 of 310] Compiling TiDerivedInstances ( ../tools/base/TI/TiDerivedInstances.hs, odir/Linux/TiDerivedInstances.o )
+[211 of 310] Compiling TiDs             ( ../tools/base/TI/TiDs.hs, odir/Linux/TiDs.o )
+
+../tools/base/TI/TiDs.hs:27:0:
+    Warning: No explicit method nor default method for `isUnrestricted'
+    In the instance declaration for `DeclInfo i [d]'
+[212 of 310] Compiling TiBase           ( ../tools/base/TI/TiBase.hs, odir/Linux/TiBase.o )
+[213 of 310] Compiling TiDecorate       ( ../tools/base/TI/TiDecorate.hs, odir/Linux/TiDecorate.o )
+
+../tools/base/TI/TiDecorate.hs:289:0:
+    Warning: No explicit method nor default method for `tv'
+    In the instance declaration for `Types i (TiDecl i)'
+
+../tools/base/TI/TiDecorate.hs:293:0:
+    Warning: No explicit method nor default method for `tv'
+    In the instance declaration for `Types i (TiDecls i)'
+
+../tools/base/TI/TiDecorate.hs:297:0:
+    Warning: No explicit method nor default method for `tv'
+    In the instance declaration for `Types i (TiExp i)'
+
+../tools/base/TI/TiDecorate.hs:303:0:
+    Warning: No explicit method nor default method for `tv'
+    In the instance declaration for `Types i (TiPat i)'
+[214 of 310] Compiling SimpPatMatchBase ( ../tools/base/transforms/SimpPatMatchBase.hs, odir/Linux/SimpPatMatchBase.o )
+[215 of 310] Compiling RemoveListCompBase ( ../tools/base/transforms/RemoveListCompBase.hs, odir/Linux/RemoveListCompBase.o )
+[216 of 310] Compiling SourceNames      ( ../tools/base/parse2/SourceNames.hs, odir/Linux/SourceNames.o )
+[217 of 310] Compiling PosName          ( ../tools/base/parse2/PosName.hs, odir/Linux/PosName.o )
+
+../tools/base/parse2/PosName.hs:1:30:
+    Warning: `ModuleName' is exported by `ModuleName' and `module PosName'
+[218 of 310] Compiling Names            ( ../tools/base/Modules/Names.hs, odir/Linux/Names.o )
+[219 of 310] Compiling Ents             ( ../tools/base/Modules/Ents.hs, odir/Linux/Ents.o )
+[220 of 310] Compiling NamesEntities    ( ../tools/base/Modules/NamesEntities.lhs, odir/Linux/NamesEntities.o )
+[221 of 310] Compiling ModSysAST        ( ../tools/base/Modules/ModSysAST.lhs, odir/Linux/ModSysAST.o )
+[222 of 310] Compiling CheckModules     ( ../tools/base/Modules/CheckModules.lhs, odir/Linux/CheckModules.o )
+[223 of 310] Compiling PPModules        ( ../tools/base/Modules/PPModules.hs, odir/Linux/PPModules.o )
+[224 of 310] Compiling Modules          ( ../tools/base/Modules/Modules.lhs, odir/Linux/Modules.o )
+[225 of 310] Compiling NumberNames      ( ../tools/base/parse2/NumberNames.hs, odir/Linux/NumberNames.o )
+[226 of 310] Compiling AST4ModSys       ( ../tools/base/Modules/AST4ModSys.hs, odir/Linux/AST4ModSys.o )
+[227 of 310] Compiling WorkModule       ( ../tools/base/Modules/WorkModule.hs, odir/Linux/WorkModule.o )
+[228 of 310] Compiling ScopeModule      ( ../tools/base/defs/ScopeModule.hs, odir/Linux/ScopeModule.o )
+[229 of 310] Compiling ReAssocModule    ( ../tools/base/defs/ReAssocModule.hs, odir/Linux/ReAssocModule.o )
+[230 of 310] Compiling PosSyntax        ( ../tools/base/parse2/Parser/PosSyntax.hs, odir/Linux/PosSyntax.o )
+
+../tools/base/parse2/Parser/PosSyntax.hs:1:49:
+    Warning: `HsVar' is exported by `module Hs' and `module PosName'
+
+../tools/base/parse2/Parser/PosSyntax.hs:1:49:
+    Warning: `HsCon' is exported by `module Hs' and `module PosName'
+
+../tools/base/parse2/Parser/PosSyntax.hs:1:49:
+    Warning: `HsIdentI' is exported by `module Hs' and `module PosName'
+[231 of 310] Compiling RefacTypeSyn     ( RefacTypeSyn.hs, odir/Linux/RefacTypeSyn.o )
+[232 of 310] Compiling PFE0             ( PFE0.hs, odir/Linux/PFE0.o )
+[233 of 310] Compiling PFE2             ( ../tools/pfe/PFE2.hs, odir/Linux/PFE2.o )
+[234 of 310] Compiling PFE3             ( ../tools/pfe/PFE3.hs, odir/Linux/PFE3.o )
+[235 of 310] Compiling PfeParse         ( ../tools/pfe/PfeParse.hs, odir/Linux/PfeParse.o )
+[236 of 310] Compiling PfeChase         ( ../tools/pfe/PfeChase.hs, odir/Linux/PfeChase.o )
+[237 of 310] Compiling PfeCleanCmd      ( ../tools/pfe/PfeCleanCmd.hs, odir/Linux/PfeCleanCmd.o )
+[238 of 310] Compiling Pfe0Cmds         ( ../tools/pfe/Pfe0Cmds.hs, odir/Linux/Pfe0Cmds.o )
+[239 of 310] Compiling Pfe1Cmds         ( ../tools/pfe/Pfe1Cmds.hs, odir/Linux/Pfe1Cmds.o )
+[240 of 310] Compiling PFE_HTML         ( ../tools/pfe/PFE_HTML.hs, odir/Linux/PFE_HTML.o )
+[241 of 310] Compiling PfeHtmlCmds      ( ../tools/pfe/PfeHtmlCmds.hs, odir/Linux/PfeHtmlCmds.o )
+[242 of 310] Compiling Pfe3Metrics      ( ../tools/pfe/Pfe3Metrics.hs, odir/Linux/Pfe3Metrics.o )
+[243 of 310] Compiling PFE_StdNames     ( ../tools/pfe/PFE_StdNames.hs, odir/Linux/PFE_StdNames.o )
+[244 of 310] Compiling PFE_Rewrites     ( ../tools/pfe/PFE_Rewrites.hs, odir/Linux/PFE_Rewrites.o )
+[245 of 310] Compiling PFE4             ( ../tools/pfe/PFE4.hs, odir/Linux/PFE4.o )
+[246 of 310] Compiling PFEdeps          ( ../tools/pfe/PFEdeps.hs, odir/Linux/PFEdeps.o )
+[247 of 310] Compiling PfeDepCmds       ( ../tools/pfe/PfeDepCmds.hs, odir/Linux/PfeDepCmds.o )
+[248 of 310] Compiling Pfe2Cmds         ( ../tools/pfe/Pfe2Cmds.hs, odir/Linux/Pfe2Cmds.o )
+[249 of 310] Compiling Pfe3Cmds         ( ../tools/pfe/Pfe3Cmds.hs, odir/Linux/Pfe3Cmds.o )
+[250 of 310] Compiling PfeTransformCmds ( ../tools/pfe/PfeTransformCmds.hs, odir/Linux/PfeTransformCmds.o )
+[251 of 310] Compiling Pfe4Cmds         ( ../tools/pfe/Pfe4Cmds.hs, odir/Linux/Pfe4Cmds.o )
+[252 of 310] Compiling ParseUtil        ( ../tools/base/parse2/Parser/ParseUtil.hs, odir/Linux/ParseUtil.o )
+[253 of 310] Compiling HsParser         ( ../tools/base/parse2/Parser/HsParser.hs, odir/Linux/HsParser.o )
+
+../tools/base/parse2/Parser/HsParser.hs:9424:1:
+    Warning: Pattern match(es) are overlapped
+             In a case alternative: _ -> ...
+[254 of 310] Compiling MoreMonoids      ( ../StrategyLib-4.0-beta/library/MoreMonoids.hs, odir/Linux/MoreMonoids.o )
+[255 of 310] Compiling TermRep          ( ../StrategyLib-4.0-beta/models/deriving/TermRep.hs, odir/Linux/TermRep.o )
+[256 of 310] Compiling MonadicFunctions ( ../StrategyLib-4.0-beta/library/MonadicFunctions.hs, odir/Linux/MonadicFunctions.o )
+[257 of 310] Compiling MonadMaybe       ( ../StrategyLib-4.0-beta/library/MonadMaybe.hs, odir/Linux/MonadMaybe.o )
+[258 of 310] Compiling MonadRun         ( ../StrategyLib-4.0-beta/library/MonadRun.hs, odir/Linux/MonadRun.o )
+[259 of 310] Compiling StrategyPrimitives ( ../StrategyLib-4.0-beta/models/deriving/StrategyPrimitives.hs, odir/Linux/StrategyPrimitives.o )
+[260 of 310] Compiling StrategyPrelude  ( ../StrategyLib-4.0-beta/library/StrategyPrelude.hs, odir/Linux/StrategyPrelude.o )
+[261 of 310] Compiling ContainerTheme   ( ../StrategyLib-4.0-beta/library/ContainerTheme.hs, odir/Linux/ContainerTheme.o )
+[262 of 310] Compiling OverloadingTheme ( ../StrategyLib-4.0-beta/library/OverloadingTheme.hs, odir/Linux/OverloadingTheme.o )
+[263 of 310] Compiling EffectTheme      ( ../StrategyLib-4.0-beta/library/EffectTheme.hs, odir/Linux/EffectTheme.o )
+[264 of 310] Compiling StrategyInfix    ( ../StrategyLib-4.0-beta/library/StrategyInfix.hs, odir/Linux/StrategyInfix.o )
+[265 of 310] Compiling FlowTheme        ( ../StrategyLib-4.0-beta/library/FlowTheme.hs, odir/Linux/FlowTheme.o )
+[266 of 310] Compiling TraversalTheme   ( ../StrategyLib-4.0-beta/library/TraversalTheme.hs, odir/Linux/TraversalTheme.o )
+[267 of 310] Compiling PathTheme        ( ../StrategyLib-4.0-beta/library/PathTheme.hs, odir/Linux/PathTheme.o )
+[268 of 310] Compiling KeyholeTheme     ( ../StrategyLib-4.0-beta/library/KeyholeTheme.hs, odir/Linux/KeyholeTheme.o )
+[269 of 310] Compiling FixpointTheme    ( ../StrategyLib-4.0-beta/library/FixpointTheme.hs, odir/Linux/FixpointTheme.o )
+[270 of 310] Compiling NameTheme        ( ../StrategyLib-4.0-beta/library/NameTheme.hs, odir/Linux/NameTheme.o )
+[271 of 310] Compiling RefactoringTheme ( ../StrategyLib-4.0-beta/library/RefactoringTheme.hs, odir/Linux/RefactoringTheme.o )
+[272 of 310] Compiling ChaseImports     ( ../StrategyLib-4.0-beta/library/ChaseImports.hs, odir/Linux/ChaseImports.o )
+[273 of 310] Compiling StrategyLib      ( ../StrategyLib-4.0-beta/library/StrategyLib.hs, odir/Linux/StrategyLib.o )
+
+../StrategyLib-4.0-beta/library/StrategyLib.hs:25:1:
+    Warning: The export item `module MoreMonoids' exports nothing
+[274 of 310] Compiling RefacLocUtils    ( RefacLocUtils.hs, odir/Linux/RefacLocUtils.o )
+[275 of 310] Compiling RefacUtils       ( RefacUtils.hs, odir/Linux/RefacUtils.o )
+[276 of 310] Compiling RefacUnGuard     ( RefacUnGuard.hs, odir/Linux/RefacUnGuard.o )
+[277 of 310] Compiling Pointfree        ( ./PwPf/Pointfree.hs, odir/Linux/Pointfree.o )
+[278 of 310] Compiling PWCore           ( ./PwPf/PWCore.hs, odir/Linux/PWCore.o )
+[279 of 310] Compiling PwPfConversion   ( ./PwPf/PwPfConversion.hs, odir/Linux/PwPfConversion.o )
+[280 of 310] Compiling GlobalPW         ( ./PwPf/GlobalPW.hs, odir/Linux/GlobalPW.o )
+[281 of 310] Compiling RefacPwPf        ( RefacPwPf.hs, odir/Linux/RefacPwPf.o )
+[282 of 310] Compiling RefacSwapArgs    ( RefacSwapArgs.hs, odir/Linux/RefacSwapArgs.o )
+[283 of 310] Compiling RefacADT         ( RefacADT.hs, odir/Linux/RefacADT.o )
+[284 of 310] Compiling RefacMoveDef     ( RefacMoveDef.hs, odir/Linux/RefacMoveDef.o )
+[285 of 310] Compiling RefacCleanImps   ( RefacCleanImps.hs, odir/Linux/RefacCleanImps.o )
+[286 of 310] Compiling RefacMvDefBtwMod ( RefacMvDefBtwMod.hs, odir/Linux/RefacMvDefBtwMod.o )
+[287 of 310] Compiling RefacGenDef      ( RefacGenDef.hs, odir/Linux/RefacGenDef.o )
+[288 of 310] Compiling RefacAddRmParam  ( RefacAddRmParam.hs, odir/Linux/RefacAddRmParam.o )
+[289 of 310] Compiling RefacRmDef       ( RefacRmDef.hs, odir/Linux/RefacRmDef.o )
+[290 of 310] Compiling RefacNewDef      ( RefacNewDef.hs, odir/Linux/RefacNewDef.o )
+[291 of 310] Compiling RefacDupDef      ( RefacDupDef.hs, odir/Linux/RefacDupDef.o )
+[292 of 310] Compiling RefacRenaming    ( RefacRenaming.hs, odir/Linux/RefacRenaming.o )
+[293 of 310] Compiling RefacAddField    ( RefacAddField.hs, odir/Linux/RefacAddField.o )
+[294 of 310] Compiling RefacRemoveField ( RefacRemoveField.hs, odir/Linux/RefacRemoveField.o )
+[295 of 310] Compiling RefacRedunDec    ( RefacRedunDec.hs, odir/Linux/RefacRedunDec.o )
+[296 of 310] Compiling SlicingUtils     ( SlicingUtils.hs, odir/Linux/SlicingUtils.o )
+[297 of 310] Compiling RefacInstantiate ( RefacInstantiate.hs, odir/Linux/RefacInstantiate.o )
+[298 of 310] Compiling RefacSlicing     ( RefacSlicing.hs, odir/Linux/RefacSlicing.o )
+[299 of 310] Compiling RefacUnfoldAsPatterns ( RefacUnfoldAsPatterns.hs, odir/Linux/RefacUnfoldAsPatterns.o )
+[300 of 310] Compiling RefacAsPatterns  ( RefacAsPatterns.hs, odir/Linux/RefacAsPatterns.o )
+[301 of 310] Compiling RefacDataNewType ( RefacDataNewType.hs, odir/Linux/RefacDataNewType.o )
+[302 of 310] Compiling RefacFunDef      ( RefacFunDef.hs, odir/Linux/RefacFunDef.o )
+[303 of 310] Compiling RefacTypeSig     ( RefacTypeSig.hs, odir/Linux/RefacTypeSig.o )
+[304 of 310] Compiling RefacAddCon      ( RefacAddCon.hs, odir/Linux/RefacAddCon.o )
+[305 of 310] Compiling RefacMerge       ( RefacMerge.hs, odir/Linux/RefacMerge.o )
+[306 of 310] Compiling RefacSlicTuple   ( RefacSlicTuple.hs, odir/Linux/RefacSlicTuple.o )
+[307 of 310] Compiling RefacCacheMerge  ( RefacCacheMerge.hs, odir/Linux/RefacCacheMerge.o )
+[308 of 310] Compiling RefacRmCon       ( RefacRmCon.hs, odir/Linux/RefacRmCon.o )
+[309 of 310] Compiling PfeRefactoringCmds ( PfeRefactoringCmds.hs, odir/Linux/PfeRefactoringCmds.o )
+[310 of 310] Compiling Main             ( pfe.hs, odir/Linux/Main.o )
+Linking pfe ...
+[5 of 5] Compiling Main             ( pfe_client.hs, odir/Linux/Main.o )
+Linking pfe_client ...

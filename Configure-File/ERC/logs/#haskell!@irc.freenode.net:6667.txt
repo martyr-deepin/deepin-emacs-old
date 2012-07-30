@@ -1,0 +1,240 @@
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #haskell: ["Real World Haskell: it is alive!", "The Haskell
+    programming language", "http://haskell.org", "Paste: http://hpaste.org",
+    "Logs: http://tunes.org/~nef/logs/haskell/"]  [03:24:39]
+*** #haskell: topic set by dons, 10:49:38 2008/11/26
+*** Users on #haskell: ManateeLazyCat olsner araujo seafood iZZy` igel ikaros_
+    aculich Trinithis amiddelk netx Lor` yaxu mrsolo gabor andyjgill astrolabe
+    geezusfreeek athos gbacon d2dchat mwhitney zeno erikc zachk Dynetrekk neun
+    QplQyer markluffel Lemmih dje_ ToRA|MSR_ saccade Deeem2031 mlesniak
+    polymar loriel jsn zoq Pellwurst tomh madnificent bos mm_freak Trafalgard
+    skorpan mikezackles paolino Twey sebaseba vixey arw willb mriou mattrepl
+    lerkok satchiii AtnNn 
+*** Users on #haskell: pao roderyk proq smg lambdabot sam_ hallongrottan
+    SyntaxRebel_ perspectival1 linuxmain andrewsw marko1 omy andun AnalogHole
+    klugez arjanoosting opqdonut fnordus Zao Blub\0 Jaak matveev polux liesen
+    jimki shepheb Botje czShadoW methos cjs fanf enolan ned yango MrDomino_
+    Eridius papermachine RayNbow BONUS_ Debolaz EmielRegis manicman tst__
+    gbeshers kayess arjanb jpcooper JaffaCake Nshag stephens rdd nominolo|msr
+    tibbe kazimir lefant pizza_ pierre- 
+*** Users on #haskell: ikaros alex23 sw17ch BMeph Guest90792 GNU\caus11c faluf
+    whoppix noZone1 hkBst joelpet mortenlysgaard dejones spoop Igloo purple__
+    mapreduce cnwdup lurkymclurkleton jeremiah falseep trie kaol neurogeek||m
+    path[l] dmwit_ aik ChilliX iggly_ Valodim OnionKnight iblechbot snhmib
+    gander AshyIsMe Snark Itkovian takinitez bens__ clanehin Baughn dort hrehf
+    saiam wchogg zax Daniel_H dolio Athas trofi coldhak Spockz pcapriotti ksf
+    Bleadof jberg QtPlatyp1s 
+*** Users on #haskell: shintah aeolist Liskni_si therp ulfdoz nornagon agentzh
+    al-maisan twanvl Beelsebob nominolo_ Dessous pumpkin_ xinming_ drbean Saul
+    solrize Lemonator Philonous1 tarbo z|Andy Korollary kryptiskt tredontho
+    equanimi1y authentic Armored_Azrael Saizan JuanDaugherty Axioplase
+    alexsuraci leimy loop gwern xd kpreid u_quark SamB Axman6 docmach maek
+    roconnor borism tessier kynky mikv Jedai fredcy ArneB gpolo cladhaire
+    xcthulhu_ DuClare gnufied eno jaj   [03:24:40]
+*** Users on #haskell: PsiOmega welterde te aartist sereven kolmodin scook0
+    jeffersonheard dfeuer nathanic dblazakis ttmrichter_ amiri Riastradh
+    Twigathy EvilTerran Guest4981383 qz jajamana1 sjanssen BfrOv3rfl0w dmead
+    score cpfr Plareplane dufflebu1k Mr_Awesome gmaslov Cale mlh ushdf helgim
+    SamB_XP lament bjorkLinux jfredett keseldude oklopol thetallgu1 mrd
+    Deewiant luite_ snigel_ netcat r3m0t_ funktio fophillips cognominal kpk
+    sbahra sebbe1991 pchiusano leadnose 
+*** Users on #haskell: djjack telexicon ystael kar-1 Taggnostr wolgo_ tylere
+    zipMe hukolele mightybyte Ezla yahooooo rangaparma mopped_ ajhager
+    thetallguy British0zzy shachaf mjrosenb raxas cjb Khisanth bohanlon
+    thingwath bran_ pcc1 tuukkah Spark laz0r clog twifkak Arnar desp znutar_
+    integral ertai xmux qebab grantrules rey_ nybyn rodge Ornedan IsoPallo_
+    MarcWeber Stephan202 gds mornfall ski_ decklin thorkilnaur Hunner malouin
+    shawn__ chr1s joed hellige kokekola 
+*** Users on #haskell: miasma Anthraxx shrimpx dcoutts_ sbok faXx C-Keen
+    Pistahh dons chrisdone tvaal stevan Jiten thedward Caelum suiside issal
+    admodum holzplatten dublpaws Choko Draconx tmielika inimino lispy Somni
+    Vulpyne bockmabe mokus DRMacIver Sartak And[y] jql Vq^ explicitjelly grul
+    ski__ regulate lilac TOLUanckA koninkje_away ivan Funjker_Boy22 Laney
+    r0bby tote tmoertel_away MyCatVerbs idnar vincenz gdsx sad0ur Mitar cods
+    jmob stylus wormcc obraun flux wjt 
+*** Users on #haskell: Giraffe marmolak hesselink dionoea agemo ziman Nafai
+    felipe newsham quuxman orbitz Apocalisp flori mauke bmc_ mgregsond ahf
+    kalven Lamperi- ksandstr newt0n Japsu Wechner dcoutts daf m_stone xian
+    heavensrevenge erg mattam levitation[A] boyscared fabjan Eelis vegai Nanar
+    iratsu jml juhp nemik DustyDingo osfameron DarthMeh maxote blazzy fadec
+    emma viklund quicksilver nasloc__ markovChain Skyp DrSyzygy kosmikus c9s
+    ibid pengrate liyang tromp Poeir 
+*** Users on #haskell: byorgey nwf lunabot Badger noj TML xHemi wolverian
+    SubStack frederik taari Modius Tomas dancor liff StoneToad loupgaroublond
+    syscrash bynari slarba_ anders^^ im_maciek def__ rog PHO_ earthy glith
+    baaba nothingmuch pragma_ allbery_b karld matthew-_ edwinb aleator Elly
+    jonafan stalker_ bd_ poliquin cjay Ferdirand _MaK_ mfp glguy wagle p_l
+    trez Raevel olahol sclv pixel_ mml` webframp ehird lasts solrize_ Soliah
+    Gabbie Tigge atsampson eyck smtms 
+*** Users on #haskell: nnunley shapr gogonkt_ Philippa sutats SimonRC jelmer
+    preflex davidL pshc Megant tchakkazulu lanaer kennyv pythonist djinni
+    mercury^ mux lucca tltstc birkenfeld m4thrick cinimod Cthulhon
+    pauleeallen52 jan__ sbahra[] hackage randomit1 Aisling DarthShrine
+    dvekravy m90 maskd Shurique jimt Shimei @ChanServ 
+*** #haskell URL: http://www.haskell.org/  [03:24:41]
+*** #haskell modes: +tncL  [03:24:56]
+*** #haskell was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö48‘Ãë
+<thetallgu1> It was a lack of ghc mmake flag.  [03:25:34]
+<thetallgu1> On a related note, are hackage submissions required to use the
+             hierarchical form?  [03:26:17]
+<thetallgu1> Certianly seems preferable.  [03:26:26]
+<thetallgu1> Not just for imports, but for modules provided by the library, I
+             can't think of any way around that.  [03:26:49]
+<Twey> I don't think it's required, since AFAIK Hackage isn't limited to just
+       GHC  [03:28:14]
+<eu-prleu-peupeu> hello Hppl  [03:29:15]
+<Twey> Hey there ugo  [03:29:38]
+<Twey> We seem to have stolen your H  [03:29:43]
+<Twey> Sorry about that  [03:29:45]
+<thetallgu1> Twey: good point.  [03:29:49]
+<Twey> But hierarchical is definitely neater.  [03:30:02]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #haskell: ["Real World Haskell: it is alive!", "The Haskell programming language", "http://haskell.org", "Paste: http://hpaste.org", "Logs:
+    http://tunes.org/~nef/logs/haskell/"]  [14:19:46]
+*** #haskell: topic set by dons, 10:49:38 2008/11/26
+*** Users on #haskell: ManateeLazyCat drbean pierre- luqui harinath BONUS lambdabot Lemmih grom358 mgregson xinming travisbrady u_quark mlesniak path[l]
+    appletizer exbio bos jeffz` dmwit Saul kniu aculich thoughtpolice Philonous kar-1 Saizan jelmer andyjgill binrapt telexicon alc zeno centrinia nn64
+    hd_ kpreid hansfbaier Axman6 kayess_ mjonsson dejones cnwdup smg puusorsa dino- doublec dolio pizza__ xhanjian linuxmain Itkovian kfish Cthulhon
+    Goober enolan_ cknapp 
+*** Users on #haskell: chylli brushbox_ marko pizza_ Hong_MinHee lazyshark StoneToad_ synthasee gbeshers SKuhn JuanDaugherty saccade_ proq ddarius
+    sebbe1991 blackh strmnnrmn nn-main ajhager dort intrados u51z3h4 DarthShr1ne Peaker Cale dibblego hydo jkramar pjdelport Lor Lamperi tttm araujo
+    gbacon mwhitney markluffel ToRA|MSR_ saccade loriel madnificent mm_freak Trafalgard Twey arw roderyk SyntaxRebel andrewsw andun klugez arjanoosting
+    opqdonut fnordus Zao Blub\0 
+*** Users on #haskell: Jaak matveev polux liesen jimki shepheb Botje czShadoW methos cjs fanf ned yango MrDomino_ Eridius Debolaz jpcooper JaffaCake rdd
+    nominolo|msr lefant Guest90792 GNU\caus11c whoppix noZone1 Igloo purple__ mapreduce jeremiah falseep kaol ChilliX iggly_ OnionKnight bens__ clanehin
+    Baughn saiam wchogg trofi coldhak ksf Bleadof QtPlatyp1s Liskni_si therp nornagon agentzh Beelsebob nominolo_ solrize tarbo z|Andy Korollary
+    tredontho equanimi1y 
+*** Users on #haskell: authentic Armored_Azrael Axioplase alexsuraci leimy loop gwern xd SamB docmach maek roconnor borism tessier kynky mikv Jedai
+    fredcy ArneB gpolo clad|sleep xcthulhu_ DuClare eno jaj PsiOmega welterde te sereven kolmodin scook0 jeffersonheard dfeuer nathanic dblazakis
+    ttmrichter_ Riastradh Twigathy EvilTerran qz sjanssen dmead score cpfr Plareplane dufflebu1k Mr_Awesome mlh ushdf helgim SamB_XP lament bjorkLinux
+    jfredett keseldude thetallgu1 
+*** Users on #haskell: mrd Deewiant luite_ snigel_ netcat r3m0t_ funktio fophillips kpk sbahra pchiusano leadnose djjack ystael Taggnostr wolgo_ tylere
+    zipMe hukolele mightybyte Ezla yahooooo rangaparma mopped_ thetallguy British0zzy shachaf mjrosenb raxas cjb Khisanth bohanlon thingwath Shurique
+    maskd m90 dvekravy Aisling randomit1 hackage sbahra[] jan__ pauleeallen52 cinimod m4thrick birkenfeld tltstc lucca mux mercury^ djinni pythonist
+    kennyv lanaer tchakkazulu 
+*** Users on #haskell: Megant pshc davidL preflex SimonRC sutats Philippa gogonkt_ shapr nnunley smtms eyck atsampson Tigge Gabbie Soliah solrize_ lasts
+    ehird webframp mml` pixel_ sclv olahol Raevel trez p_l wagle glguy mfp _MaK_ Ferdirand cjay poliquin bd_ stalker_ jonafan Elly aleator edwinb
+    matthew-_ karld allbery_b pragma_ nothingmuch baaba glith earthy PHO_ @ChanServ rog def__ im_maciek anders^^ slarba_ bynari syscrash loupgaroublond
+    liff dancor Tomas Modius 
+*** Users on #haskell: taari frederik SubStack wolverian xHemi TML noj Badger lunabot nwf byorgey Poeir tromp liyang pengrate ibid c9s kosmikus DrSyzygy
+    Skyp markovChain nasloc__ quicksilver viklund emma fadec blazzy maxote DarthMeh osfameron DustyDingo nemik juhp jml iratsu Nanar vegai Eelis fabjan
+    boyscared levitation[A] mattam erg heavensrevenge xian m_stone daf dcoutts Wechner Japsu newt0n ksandstr kalven ahf mgregsond bmc_ mauke flori
+    Apocalisp orbitz quuxman 
+*** Users on #haskell: newsham felipe Nafai ziman agemo dionoea hesselink marmolak Giraffe wjt flux obraun wormcc stylus jmob cods Mitar sad0ur gdsx
+    vincenz idnar MyCatVerbs tmoertel_away tote r0bby Laney Funjker_Boy22 ivan koninkje_away bran_ pcc1 tuukkah Spark laz0r clog twifkak Arnar desp
+    znutar_ integral ertai xmux qebab rey_ nybyn rodge Ornedan IsoPallo_ MarcWeber Stephan202 gds mornfall ski_ decklin thorkilnaur Hunner malouin
+    shawn__ chr1s joed hellige kokekola 
+*** Users on #haskell: miasma Anthraxx shrimpx dcoutts_ sbok faXx C-Keen Pistahh dons chrisdone tvaal stevan Jiten thedward Caelum suiside issal admodum
+    holzplatten dublpaws Choko Draconx tmielika inimino lispy Somni Vulpyne bockmabe mokus DRMacIver Sartak And[y] jql Vq^ explicitjelly grul ski__
+    regulate lilac 
+*** #haskell URL: http://www.haskell.org/  [14:19:47]
+<joed> You don't blog do you? If not, might be something you'd want to get going ons
+*** #haskell modes: +tncL  [14:20:10]
+*** #haskell was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö48‘Ãë
+<dibblego> > 1 `divMod` (-6) == 1 `quotRem` (-6)  [14:21:17]
+<lambdabot>   False  [14:21:18]
+<ksf> I don't believe in blogs.  [14:22:42]
+<ksf> to continuous.  [14:22:48]
+<ksf> *too  [14:22:50]
+<centrinia> @check (\a b -> (\(q,r) -> q*b+r == a) (a `divMod` b))  [14:24:00]
+<lambdabot>   "* Exception: divide by zero  [14:24:01]
+<centrinia> @check (\a b -> (b /= 0) && ((\(q,r) -> q*b+r == a) (a `divMod` b)))  [14:24:18]
+<lambdabot>   "Falsifiable, after 0 tests:\n0\n0\n"  [14:24:19]
+<centrinia> @check (\a b -> if b /= 0 then ((\(q,r) -> q*b+r == a) (a `divMod` b)) else True)  [14:24:34]
+<lambdabot>   "OK, passed 500 tests."  [14:24:35]
+<centrinia> Hmm.  [14:24:45]
+<centrinia> @check (\a b -> if b /= 0 then ((\(q,r) -> q*b+r == a) (a `quotRem` b)) else True)  [14:24:55]
+<lambdabot>   "OK, passed 500 tests."  [14:24:56]
+<centrinia> That's odd.  [14:25:03]
+<centrinia> > (\a b -> if b /= 0 then ((\(q,r) -> q*b+r == a) (a `quotRem` b)) else True) -5 3  [14:25:20]
+<lambdabot>       No instance for (Num (a -> a -> Bool))  [14:25:21]
+<lambdabot>        arising from a use of `-'s
+<centrinia> > ((\a b -> if b /= 0 then ((\(q,r) -> q*b+r == a) (a `quotRem` b)) else True) -5 3)  [14:25:30]
+<lambdabot>       No instance for (Num (a -> a -> Bool))  [14:25:31]
+<lambdabot>        arising from a use of `-'s
+<centrinia> > ((\a b -> if b /= 0 then ((\(q,r) -> q*b+r == a) (a `quotRem` b)) else True) (-5) 3)  [14:25:47]
+<lambdabot>   True  [14:25:48]
+<centrinia> > ((\a b -> if b /= 0 then ((\(q,r) -> q*b+r == a) (a `divMod` b)) else True) (-5) 3)  [14:25:54]
+<lambdabot>   True  [14:25:56]
+*** DarthShr1ne (n=angus@pdpc/supporter/student/DarthShrine) is now known as DarthShrine  [14:28:48]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #haskell: ["Real World Haskell: it is alive!", "The Haskell programming language", "http://haskell.org", "Paste: http://hpaste.org", "Logs:
+    http://tunes.org/~nef/logs/haskell/"]  [22:50:23]
+*** #haskell: topic set by dons, 10:49:38 2008/11/26
+*** Users on #haskell: ManateeLazyCat OnionKnight semka zeno__ tomh whoppix anRch Deeem2031 itnomad pierre- moofbong Neun twanvl_ aik dolio gabor_
+    Valodim trie loriel marko dort omichael yakov thingwath athos Lemmih lurkymclurkleton kristofer joelpet ikkebr Asztal cognominal faluf silentbob
+    vpalle pizza__ solussd neurogeek||m xanonus vixey camio mib_dcmpfh cknapp dmwit Dessous tst__ goober ikaros ttmrichter smg plikk darka voidseeker
+    xhanjian ulfdoz Yaquishael 
+*** Users on #haskell: zever vaskaren Daniel_H igel hrehf mlesniak dblhelix raxas perspectival erg0t kpreid Eleanore int-e elias` mornfall titusg Snark
+    der_eq lekro lorandi zax Spockz __me hugo___ RayNbow u_quark Nshag malcolmw yitz fschwidom mapreduce Toxaris shrimpx pcapriotti gnufied niksnut Twey
+    tttm astrobunny Eridius swiert kayess__ jamii timchen1` drbean iblechbot paolino nornagon mishok13 aculich jajamana shintah yav papermachine Axman6_
+    jjong BeelsebobWork_ 
+*** Users on #haskell: jberg chipdude noob_hs cnwdup al-maisan saccade_ sbahra ksf dreixel jeremiah hackage purple__ leimy Philonous xinming_ eno
+    sjanssen te Guest54910 loop bohanlon` harinath BONUS lambdabot exbio jeffz` kniu thoughtpolice kar-1 Saizan jelmer binrapt telexicon zeno nn64
+    puusorsa dino- pizza_ linuxmain Itkovian Cthulhon enolan_ StoneToad JuanDaugherty proq ddarius sebbe1991 strmnnrmn nn-main ajhager intrados
+    DarthShrine Peaker Cale dibblego 
+*** Users on #haskell: hydo jkramar pjdelport Lor Lamperi gbacon mwhitney markluffel ToRA|MSR_ saccade madnificent mm_freak arw roderyk SyntaxRebel
+    andrewsw andun klugez arjanoosting opqdonut fnordus Zao Blub\0 Jaak matveev polux liesen jimki shepheb Botje czShadoW methos cjs fanf ned yango
+    MrDomino_ Debolaz jpcooper JaffaCake rdd nominolo|msr lefant Guest90792 GNU\caus11c noZone1 Igloo falseep kaol ChilliX iggly_ clanehin Baughn saiam
+    coldhak Bleadof QtPlatyp1s   [22:50:24]
+*** Users on #haskell: Liskni_si therp agentzh Beelsebob nominolo_ solrize tarbo z|Andy MacTavish equanimi1y authentic Armored_Azrael Axioplase
+    alexsuraci gwern xd SamB docmach roconnor borism tessier kynky Jedai fredcy ArneB gpolo clad|sleep xcthulhu_ DuClare jaj PsiOmega welterde sereven
+    kolmodin scook0 jeffersonheard nathanic dblazakis Riastradh Twigathy EvilTerran dmead score cpfr Plareplane dufflebu1k Mr_Awesome mlh ushdf helgim
+    SamB_XP lament bjorkLinux 
+*** Users on #haskell: jfredett keseldude thetallgu1 mrd Deewiant luite_ snigel_ netcat r3m0t_ funktio fophillips kpk pchiusano leadnose djjack ystael
+    Taggnostr wolgo_ tylere zipMe hukolele mightybyte yahooooo mopped_ thetallguy British0zzy shachaf mjrosenb cjb Khisanth Shurique m90 dvekravy Aisling
+    randomit1 sbahra[] jan__ pauleeallen52 cinimod m4thrick birkenfeld tltstc lucca mux mercury^ djinni pythonist kennyv lanaer tchakkazulu Megant pshc
+    davidL preflex 
+*** Users on #haskell: SimonRC sutats Philippa gogonkt_ shapr nnunley smtms eyck atsampson Tigge Gabbie Soliah solrize_ lasts ehird webframp mml` pixel_
+    sclv olahol Raevel trez p_l wagle glguy mfp _MaK_ Ferdirand cjay poliquin bd_ stalker_ jonafan Elly aleator edwinb matthew-_ karld allbery_b pragma_
+    baaba glith earthy PHO_ @ChanServ rog def__ im_maciek anders^^ slarba_ bynari syscrash loupgaroublond liff dancor Tomas Modius taari frederik
+    SubStack wolverian 
+*** Users on #haskell: xHemi TML noj Badger lunabot nwf byorgey Poeir tromp liyang pengrate ibid c9s kosmikus DrSyzygy Skyp markovChain quicksilver
+    viklund emma fadec blazzy maxote DarthMeh osfameron DustyDingo nemik juhp jml iratsu Nanar vegai Eelis fabjan boyscared levitation[A] mattam erg
+    heavensrevenge xian m_stone daf dcoutts Wechner Japsu newt0n ksandstr kalven ahf mgregsond bmc_ mauke flori Apocalisp orbitz quuxman newsham felipe
+    Nafai ziman agemo dionoea 
+*** Users on #haskell: hesselink marmolak Giraffe wjt flux obraun wormcc stylus jmob cods Mitar sad0ur gdsx vincenz idnar MyCatVerbs tmoertel_away tote
+    r0bby Laney Funjker_Boy22 ivan lilac regulate ski__ grul koninkje_away explicitjelly Vq^ jql integral znutar_ desp Arnar twifkak clog laz0r Spark
+    tuukkah pcc1 bran_ ertai xmux qebab rey_ nybyn rodge Ornedan IsoPallo_ MarcWeber Stephan202 gds ski_ decklin thorkilnaur Hunner malouin shawn__ chr1s
+    hellige joed kokekola 
+*** Users on #haskell: miasma Anthraxx dcoutts_ sbok faXx C-Keen Pistahh dons chrisdone tvaal stevan Jiten thedward Caelum suiside issal admodum
+    holzplatten dublpaws Choko Draconx tmielika inimino lispy Somni Vulpyne bockmabe mokus DRMacIver Sartak And[y] 
+<vixey> hehe  [22:50:25]
+*** #haskell URL: http://www.haskell.org/
+<ksf> like sorting soxen?  [22:50:26]
+<yitz> cknapp: if it's not an Integral type to begin with, you first need to apply round or floor or ceil or something
+*** #haskell: [freenode-info] please register your nicknamesdon't forget to auto-identify! http://freenode.net/faq.shtml#nicksetup  [22:50:34]
+*** #haskell modes: +tncL  [22:50:41]
+*** #haskell was created on ‘ÐÇ‘ÆÚ‘ÈÕ 2006/11/26 14‘Ê±42‘·Ö48‘Ãë
+<cknapp> yitz: thanks  [22:50:51]
+<yitz> Philippa: cf. Analytical Engine II  [22:51:06]
+<ksf> but then, floor and ceil give you an integral.  [22:51:15]
+<Philippa> yitz: different value of "hand-cranked" :-)  [22:51:21]
+<ksf> like bubble-sorting your xmonad windows?  [22:51:44]
+<Philippa> ksf: within human memory, "computer" was a job role for people  [22:52:10]
+<vixey> is anybody going to do something about the hackage.haskell.org usability problem?  [22:52:20]
+<Igloo> What problem?  [22:53:00]
+<Saizan> which problem in particular?  [22:53:03]
+<ksf> my parents are both bank clerks, they did enough of it to last for generations, so I tend to suck at it ;)  [22:53:06]
+<Philippa> heh. You get my point, anyway?  [22:53:46]
+<ksf> especially as you just don't learn the tricks they learned in school anymore.  [22:53:47]
+<vixey> you type into google "<something I want to get from hackage>" and then you get to the page with the _old_ version, and you don't notice and
+        install the old version  [22:53:53]
+<vixey> I've done this a couple times and I know I'm not the only one that makes this mistake too  [22:54:10]
+<Philippa> also, church encoding is a fairly deep application of what should be classic software engineering principles  [22:54:18]
+<ksf> vixey, cabal install <foo>  [22:54:25]
+<vixey> you could color the background red on the old pages for example  [22:54:32]
+<lilac> cknapp: i think the most general you can easily get is (Real r) => r -> Int  [22:54:33]
+<vixey> anything that like, which differentiates older versions from current  [22:54:41]
+<cknapp> lilac: I think I got it thankss I'm starting to crash, so I'm mixing up a lot of words and ideas... and it's getting messy...  [22:55:14]
+<jeffz`> vixey, I've never noticed that, I always visit hackage by the index page which shows all the package names, usually just for documentation, for
+         installing things I use cabal install  [22:55:22]
+<Saizan> vixey: you could file a ticket about that on hackage's trac  [22:55:23]
+<quicksilver> vixey: personally I keep the hackage complete index as a permanently open tab  [22:56:05]
+<quicksilver> vixey: and I search it with browser search when I'm looking for stuff.  [22:56:13]
+<ksf> @quote bucky The stone does not penetrate the water molecules  [22:56:25]
+<lambdabot> No quotes match. Listen, broccoli brains, I don't have time to listen to this trash.  [22:56:26]
+<quicksilver> although I'm probably not a good example because I very rarely use anyhing on hackage.  [22:56:31]

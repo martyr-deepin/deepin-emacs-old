@@ -1,0 +1,390 @@
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #lisp: Common Lisp, the #1=(programmable . #1#) programming language: <http://www.cliki.net/IRC>,
+    <http://paste.lisp.org/new/lisp>. common-lisp.net back in service, please email problems to admin@common-lisp.net. New: SBCL 1.0.23, cl-net-snmp
+    5.19, yason-0.1, trivial-features 0.4, CFFI 0.10.3, series 2.2.10, trivial-garbage 0.17, usocket 0.4.0  [15:11:40]
+*** #lisp: topic set by luis, 01:12:19 2008/12/02
+*** Users on #lisp: ManateeLazyCat dbalcer umis sabetts thom_logn Raynes lukego kidd2 jeremiah wlr jestocost ozy` froog BrianRice beach` nikodemus
+    xinming_ eno cYmen ineiros te sktrdie jrockway maskd bohanlon` _8david rottcodd amnesiac dmiles_afk wasabi_ bpt seelenquell_ appletizer mikezor
+    Modred tiesje replor slyrus_ gtasso gigamonkey epoch mtd notsonerdysunny sellout H4ns1 kpreid Tordek segv yangsx esden fe[nl]ix ebzzry ths_
+    banisterfiend lemoinem kleppari bougyman 
+*** Users on #lisp: birdsbite _CitizenKane_ dash_ manic12 JuanDaugherty cky persi ace4016 UnwashedMeme Ifur_ lispm grkz lyte Krystof daniel_ cracki
+    araujo jlouis spiderbyte mulligan sohail phadthai CrazyEddy eirik PissedNumlock spacebat wgl johs fnordus gz pierre_thierry keithr Patzy kmkaplan Cel
+    adeht Fade retupmoca prip minion j_king yango ianmcorvidae pkhuong stassats dto alec jpcooper xjrn rdd matimago jsnell benny b4|hraban antoszka
+    tc-rucho Chrononaut lnostdal 
+*** Users on #lisp: pchrist|univ jsoft ia bdowning ``Erik Tristam schme VityokOrgUa srcerer_ Harag arbscht_ tarbo eliasm authentic madnificent ltbarcly
+    hefner borism tessier NoorDextor rumbleca mbac bfein gaja Zoba Jarvellis bombshelter13 Riastradh cmm- holymoo delYsid free_tinker dfox xan huangjs
+    eevar Soulmann |Soulman| tompa Adrinael CptPicard Balooga ahaas mathrick rread hefner_ wedgeV yahooooo Khisanth Draggor specbot lisppaste mogunus
+    foom clog _3b chii qebab 
+*** Users on #lisp: rey_ turbo24prg Xof aking Guest53748 jollygood_______ djkthx mornfall housel meingbg thijso sbok djinni` pok technik dublpaws herbieB
+    jkantz_ zbigniew albino andrerav larstobi Partyzan1 merlincorey guenther__ michaelw r0bby mr_uggla sad0ur cods drewc jmcphers dostoyevsky agemo mcxx
+    felipe l4ndfo chandler chawls ccl-logbot erg bobrown boyscared Starsie slyrus rsynnott maxote bob_f froydnj emma Buganini scode simonb nasloc__ azuk
+    pwned DrForr e271 
+*** Users on #lisp: locklace mqt dcrawford Wombat1 rtoym kuwabara cipher replaca Modius Ginei_Morioka vcgomes sykopomp andrewy abend_ Bucciarati
+    koning_r1bot pragma_ luis akhilleus p8m rotty mgr cmatei seb- tic spiaggia p_l dwave V-ille l_a_m _theHAM Quadrescence lasts Eno_ vorian fihi09` joga
+    mvilleneuve lucca sjbach tltstc m4thrick galdor z0d Aisling kuhzoo Thas @antifuchs 
+*** #lisp modes: +nc  [15:12:09]
+*** #lisp was created on ‘ÐÇ‘ÆÚ‘Ò» 2003/08/04 05‘Ê±30‘·Ö32‘Ãë
+<mvilleneuve> good morning  [15:23:05]
+<beach`> hello mvilleneuve  [15:23:12]
+*** beach` (n=user@ABordeaux-158-1-108-6.w90-60.abo.wanadoo.fr) is now known as beach  [15:24:31]
+<nikodemus> morning  [15:26:23]
+<beach> hello nikodemus  [15:26:34]
+<dmiles_afk> ABCL vs CLISP on CL-BENCHMARKs
+             https://sourceforge.net/mailarchive/attachment.php?list_name=armedbear-j-devel&message_id=CFAC93BD509C41908F6399FD3E51B0F4%40lotus&counter=1
+                                                                                                                                                [15:32:48]
+<dmiles_afk> also it includes the Mono/.NET times using IKVM  [15:33:10]
+<nikodemus>     dynamic_space_size &= ~(PAGE_BYTES-1);  [15:55:11]
+<nikodemus> that's not good if PAGE_BYTES is a literal without explicit L suffix and dynamic_space_size is 64 bits wide, right?  [15:55:57]
+<banisterfiend> how do i skip to the last character on a line in emacs? (the opposite of M-m)  [16:05:45]
+<arbscht_> banisterfiend: C-e might suffice  [16:07:29]
+<banisterfiend> nah cos i have trailing white space :(  [16:08:07]
+<banisterfiend> i need last printing character on the line (not incl white space)  [16:08:19]
+<sykopomp> banisterfiend: M-x whitespace-cleanup  [16:08:27]
+<sykopomp> then C-e  [16:08:28]
+<sykopomp> :)  [16:08:29]
+<banisterfiend> i dont have a whitespace-cleanup  [16:09:28]
+<sykopomp> are you in emacs?s  [16:09:43]
+<stassats> M-x delete-trailing-whitespace  [16:09:49]
+<sykopomp> is this a version thing?s  [16:10:05]
+<banisterfiend> or at least it didnt work  [16:10:14]
+<banisterfiend> i mean it didnt work i have the command  [16:10:22]
+<banisterfiend> thanks stassats ill try that  [16:10:26]
+<banisterfiend> that worked!  [16:10:48]
+<banisterfiend> thanks  [16:10:51]
+<banisterfiend> weird why do you think whitespace-cleanup didn't work?  [16:10:57]
+*** daniel_ (i=daniel@unaffiliated/daniel) is now known as daniel  [16:11:16]
+<sykopomp> banisterfiend: what version of emacs?  [16:11:59]
+<banisterfiend> 22.1.1  [16:12:56]
+<stassats> M-: (require 'whitespace)  [16:13:01]
+<banisterfiend> should i upgrade my version of emacs?  [16:16:37]
+<tic> Morning.  [16:18:18]
+* sykopomp thinks it's pretty clear that climacs -needs- to be usable soon.  [16:45:37]
+* sykopomp puts climacs on his haxing list.  [16:45:44]
+<fusss> bah  [17:03:16]
+<fusss> yet another night of flash induced insomnia  [17:04:02]
+<tic> the Adobe variety?  [17:04:46]
+*** fusss_ (n=chatzill@ip70-187-234-43.dc.dc.cox.net) is now known as fusss  [17:05:51]
+<lisppaste> pjb pasted "fore-to-indentation" at http://paste.lisp.org/display/71568  [17:07:56]
+<matimago> banisterfiend: have a look at fore-to-indentations  [17:08:19]
+<spiaggia> Good morning.  [17:19:52]
+
+[‘ËÄ 12‘ÔÂ  4 2008]
+*** Topic for #lisp: Common Lisp, the #1=(programmable . #1#) programming language: <http://www.cliki.net/IRC>,
+    <http://paste.lisp.org/new/lisp>. common-lisp.net back in service, please email problems to admin@common-lisp.net. New: SBCL 1.0.23, cl-net-snmp
+    5.19, yason-0.1, trivial-features 0.4, CFFI 0.10.3, series 2.2.10, trivial-garbage 0.17, usocket 0.4.0  [23:01:19]
+*** #lisp: topic set by luis, 01:12:19 2008/12/02
+*** Users on #lisp: ManateeLazyCat willb davazp yoshinori Krystof dbalcer malumalu jgracin billstclair ejs1 benny specbot minion lisppaste Tordek
+    existentialmonk nikodemus` athos Quadrescence kejsaren sellout topo dlowe jajcloz jollygood trebor_dki jewel dto nunb cemerick Jasko dwave ThomasI
+    phao ignas xan seelenquell kpreid Hun Eleanore mornfall banisterfiend Odin- ths Nshag kiuma rread jestocost ia eevar2 mega1 Aankhen`` HET2
+    attila_lendvai prxq silenius Anarki 
+*** Users on #lisp: vtl toddoon fusss aerique timchen1` stassats` H4ns sabetts mishok13 pwned_ rullie ecraven jjong thom_logn kidd2 jeremiah wlr froog
+    BrianRice beach xinming_ eno cYmen ineiros te sktrdie jrockway bohanlon` _8david dmiles_afk bpt mikezor Modred slyrus_ gtasso gigamonkey epoch mtd
+    segv fe[nl]ix ebzzry lemoinem kleppari bougyman birdsbite _CitizenKane_ dash_ manic12 JuanDaugherty cky persi ace4016 UnwashedMeme Ifur_ lispm grkz
+    daniel spiderbyte 
+*** Users on #lisp: mulligan phadthai CrazyEddy eirik PissedNumlock spacebat wgl johs fnordus gz pierre_thierry keithr Patzy kmkaplan Cel adeht Fade
+    retupmoca prip j_king yango ianmcorvidae pkhuong alec jpcooper xjrn rdd matimago jsnell Chrononaut lnostdal pchrist|univ jsoft bdowning ``Erik
+    Tristam schme VityokOrgUa srcerer_ Harag arbscht_ tarbo eliasm authentic madnificent ltbarcly hefner borism tessier NoorDextor rumbleca mbac bfein
+    gaja Zoba Jarvellis bombshelter13 
+*** Users on #lisp: Riastradh cmm- holymoo delYsid free_tinker dfox huangjs eevar Soulmann |Soulman| tompa Adrinael CptPicard Balooga ahaas hefner_
+    wedgeV yahooooo Khisanth Draggor mogunus Thas kuhzoo Aisling z0d galdor m4thrick tltstc sjbach lucca mvilleneuve joga fihi09` vorian Eno_ lasts
+    _theHAM l_a_m V-ille p_l spiaggia tic seb- cmatei mgr rotty p8m akhilleus luis pragma_ koning_r1bot Bucciarati abend_ andrewy sykopomp vcgomes
+    Ginei_Morioka Modius replaca 
+*** Users on #lisp: cipher kuwabara rtoym Wombat1 dcrawford mqt locklace chii _3b clog foom qebab rey_ turbo24prg Xof aking Guest53748 jollygood_______
+    djkthx housel meingbg thijso sbok djinni` pok technik dublpaws herbieB zbigniew albino andrerav larstobi Partyzan1 merlincorey guenther__ michaelw
+    r0bby mr_uggla sad0ur cods drewc jmcphers dostoyevsky agemo mcxx felipe l4ndfo chandler chawls ccl-logbot erg bobrown boyscared Starsie slyrus
+    rsynnott maxote bob_f 
+*** Users on #lisp: froydnj emma Buganini @antifuchs scode simonb azuk DrForr e271 
+*** #lisp modes: +nc  [23:01:48]
+*** #lisp was created on ‘ÐÇ‘ÆÚ‘Ò» 2003/08/04 05‘Ê±30‘·Ö32‘Ãë
+<_8david> if only drei panes are broken, the blame goes to athas by default anyway, right?  [23:02:17]
+<tic> hefner, that might very well be the case, now that you mention it.  I expect an text input to have focus, e.g. when I omit a parameter to a
+      command.  [23:03:02]
+
+[‘Îå 12‘ÔÂ  5 2008]
+*** Topic for #lisp: Common Lisp, the #1=(programmable . #1#) programming language: <http://www.cliki.net/IRC>,
+    <http://paste.lisp.org/new/lisp>. common-lisp.net back in service, please email problems to admin@common-lisp.net. New: SBCL 1.0.23, cl-net-snmp
+    5.19, yason-0.1, trivial-features 0.4, CFFI 0.10.3, series 2.2.10, trivial-garbage 0.17, usocket 0.4.0  [09:59:37]
+*** #lisp: topic set by luis, 01:12:19 2008/12/02
+*** Users on #lisp: ManateeLazyCat ebzzry_ prxq yoshinori mrsolo__ ebzzry ths_ ferada froog_ george__ grkz rme kidd2 sctb srcerer banisterfiend mattrepl
+    tsuru Locust_Laptop dash__ rpg oudeis kleppari mikezor_ yangsx ``Erik ozy` chavo_ ltbarcly rullie Raynes sellout cracki O_4 Krystof xristos b4|hraban
+    Jasko aja Mr_SpOOn rdd esden pkhuong lemoinem lispm_ bfein a-s CrazyEddy lyte daniel_ jestocost schme_ jeremiah eliasm jkantz z0d holycow dcl vsync
+    dialtone optikalmouse 
+*** Users on #lisp: stassats kzar kejsaren araujo Modius ikki JuanDaugherty mulligan andrewy sohail rread Quadrescence dfox_ replor olejorgenb abeaumont
+    pchrist mathrick BrianRice _8david billstclair benny specbot minion lisppaste topo jajcloz trebor_dki dto nunb cemerick dwave xan seelenquell kpreid
+    mornfall ia HET2 attila_lendvai Anarki timchen1` H4ns sabetts mishok13 pwned_ wlr beach xinming_ eno cYmen ineiros te sktrdie jrockway bohanlon
+    dmiles_afk bpt gtasso 
+*** Users on #lisp: mtd segv fe[nl]ix bougyman birdsbite _CitizenKane_ manic12 cky persi ace4016 UnwashedMeme Ifur phadthai eirik PissedNumlock spacebat
+    wgl johs fnordus gz pierre_thierry keithr Patzy kmkaplan Cel adeht Fade retupmoca prip j_king yango ianmcorvidae xjrn matimago jsnell Chrononaut
+    lnostdal pchrist|univ bdowning Tristam VityokOrgUa arbscht_ tarbo authentic madnificent hefner borism tessier NoorDextor rumbleca mbac gaja
+    bombshelter13 Riastradh cmm- 
+*** Users on #lisp: holymoo delYsid free_tinker huangjs eevar Soulmann tompa Adrinael Balooga ahaas hefner_ wedgeV yahooooo Khisanth Draggor mogunus Thas
+    kuhzoo Aisling galdor m4thrick tltstc sjbach lucca mvilleneuve joga vorian Eno_ lasts _theHAM l_a_m V-ille p_l spiaggia tic seb- cmatei mgr rotty p8m
+    akhilleus luis pragma_ koning_r1bot Bucciarati abend_ sykopomp vcgomes Ginei_Morioka replaca cipher kuwabara rtoym Wombat1 dcrawford mqt locklace
+    e271 DrForr azuk 
+*** Users on #lisp: simonb scode Buganini emma froydnj bob_f maxote rsynnott slyrus Starsie boyscared bobrown erg ccl-logbot chawls chandler l4ndfo
+    felipe mcxx agemo dostoyevsky jmcphers drewc cods sad0ur mr_uggla r0bby michaelw guenther__ merlincorey Partyzan1 larstobi andrerav albino zbigniew
+    herbieB dublpaws technik pok djinni` sbok thijso meingbg foom clog _3b chii qebab rey_ @antifuchs turbo24prg Xof aking Guest53748 jollygood_______
+    djkthx housel 
+*** #lisp modes: +nc  [10:00:07]
+*** #lisp was created on ‘ÐÇ‘ÆÚ‘Ò» 2003/08/04 05‘Ê±30‘·Ö32‘Ãë
+<clsmith> Hey. I just started learning Lisp today, and I was wondering if someone could help me with something. http://pastebin.com/d34a864bb The cond,
+          in the "main program loop", doesn't print anything when it comes across a "+". Could anyone see why?  [10:07:11]
+<_3b> '+ is a symbol, not a character  [10:08:20]
+<rtoym> Maybe because chr is a character, not '+  [10:08:24]
+<_3b> #\+ would be a character  [10:08:35]
+<sykopomp> clsmith: I would tell you, but I type too slow  [10:08:45]
+<clsmith> Oh. I was under the impression that '+ would make it a strings But thank you. :) Only been learning a few hours, heheh.  [10:09:06]
+<_3b> also, use whole words for names, ram hasn't been expensive enough to justify hard-to-read abbreviations for a long time :p  [10:09:18]
+<clsmith> Yes, that works. Thanks, _3b.  [10:09:28]
+<_3b> "+" would be a string, which still wouldn't be a character  [10:09:30]
+<sykopomp> minion: tell clsmith about that-dead-sexy-book  [10:09:46]
+<clsmith> _3b: Oh right. I had that same problem when I learnt Cs
+<minion> clsmith: look at that-dead-sexy-book: pcl-book: "Practical Common Lisp", an introduction to Common Lisp by Peter Seibel, available at
+         http://www.gigamonkeys.com/book/ and in dead-tree form from Apress (as of 11 April 2005).  [10:09:47]
+<_3b> also, don't use EQ on characters
+<sykopomp> clhs char-eql  [10:10:00]
+<specbot> Sorry, I couldn't find anything for char-eql.  [10:10:02]
+<sykopomp> err  [10:10:03]
+<sykopomp> clhs char-equal  [10:10:13]
+<specbot> http://www.lispworks.com/reference/HyperSpec/Body/f_chareq.htm
+<manic12> char= ?  [10:10:14]
+<sykopomp> :)  [10:10:15]
+<sykopomp> or char=  [10:10:17]
+<clsmith> Thanks. :)  [10:10:35]
+<manic12> is char= a function, i forget  [10:10:52]
+<sykopomp> yes, it is  [10:11:06]
+<clsmith> manic12: Yes, it seems to be.
+<_3b> use defparameter or defvar to create globals, don't just SETf them without a definition  [10:11:07]
+<sykopomp> = is case-sensitive, equal is insensitive  [10:11:15]
+<sykopomp> (clo)  [10:11:18]
+<sykopomp> (clod)  [10:11:20]
+<clsmith> _3b: Is that the case with '() and 0 (but not '(0))?  [10:11:49]
+<_3b> clsmith: using defparameter you mean?  [10:12:18]
+<clsmith> _3b: Or defvar? Is there a difference?  [10:12:39]
+<_3b> i mean for *bf*, *mem*, *ip*, *mp*s the value doesn't matter  [10:13:16]
+<sykopomp> clsmith: You should really read PCL or similar  [10:13:34]
+<_3b> the difference between defparameter and defvar is that defvar doesn't reset the value if the variable already exists  [10:13:35]
+<clsmith> sykopomp: Sadly, I'm 18, and rather short on money.  [10:13:52]
+<clsmith> _3b: Okay, thanks.  [10:14:21]
+<ahaas> clsmith: PCL is available online for zero dollars.  [10:14:43]
+<_3b> using SETF without defining the var first is unfortunately common in example code, but is technically undefined in the spec, so avoid picking up
+      that habit :)  [10:14:46]
+<clsmith> ahaas: Oh? I'll go look.  [10:15:00]
+<sykopomp> clsmith: zero dollah!  [10:15:02]
+<sykopomp> free as in beer, although you're too young for beer anyways.  [10:15:15]
+<sykopomp> hohoho  [10:15:17]
+<clsmith> sykopomp: Not in the UK. :)  [10:15:32]
+<_3b> also, i prefer putting loop keywrds that start a clause (FOR, UNTIL, and DO in your code) at the beginnings of a line  [10:16:11]
+<sykopomp> haha  [10:16:43]
+<ahaas> It's pretty great that arguably the best intro to Lisp book is online for free.  [10:16:55]
+<_3b> oh yeah, and never put ) by themselves  [10:17:02]
+<clsmith> _3b: How come? I've tended to do that with C-like languages. Frowned upon in Lisp?  [10:17:28]
+<sykopomp> yeah, we stack ))) in the end  [10:17:51]
+<sykopomp> it's considered pretty bad style to do cascading parens  [10:18:08]
+<clsmith> sykopomp: But it's more obvious how many there are. >_>  [10:18:25]
+<ahaas> clsmith: Most people read lisp by how it's indented, not the parens.  [10:18:27]
+<ahaas> therefore, putting them on their own line is just annoying  [10:18:42]
+<sykopomp> clsmith: an editor with paren-matching is all you need to figure that out, really  [10:18:48]
+<sykopomp> and yes, it's read by indentation, not by paren-counting  [10:19:01]
+<clsmith> Okay, fair enough.  [10:19:09]
+<sykopomp> anyways, it looks like you're having fun :)  [10:19:44]
+<sykopomp> how do you like stuff so far?  [10:19:48]
+<clsmith> sykopomp: It's quite fun. I've developed a tradition in having my first program in any language being an esoteric language interpreter. So
+          that's what I'm doing now. Heh. Finding it hard to stop doing things like "cond()" though.  [10:20:51]
+<sykopomp> I've noticed that with some friends I helped get started. Random funcall() stuff all over the place.  [10:21:55]
+<sykopomp> a tip about cond by the way  [10:22:06]
+<sykopomp> cond is used when you have what you would need an 'else ifi' for  [10:22:20]
+<sykopomp> so, if you have 3 different conditions, or more  [10:22:26]
+<clsmith> sykopomp: Yeah, I plan to have about 7 in that list.  [10:22:33]
+<sykopomp> if you have two conditions, if is usually used  [10:22:39]
+<sykopomp> aaaand
+<sykopomp> there's these very neat functions called 'when' and 'unless'  [10:22:55]
+<sykopomp> you can probably figure out what they do, but it looks from your code like you'd be better off using when  [10:23:12]
+<_3b> also, LOOP has constructs for building and iterating lists, so you could simplify those loops a bit  [10:23:24]
+<sykopomp> oh yes, that's also true  [10:23:32]
+<rpg> sykopomp: Another case where you prefer COND is where there's more than one statement in the if and the else case.  So you avoid the (if x (progn
+      h) (progn ...)) by using COND.  [10:23:54]
+<_3b> (setf *bf* (loop for chr s until ... collect chr))  [10:23:55]
+<sykopomp> the true power lies in its expressiveness, really, and being able to compress complex things into very readable constructs.  [10:24:05]
+<clsmith> sykopomp: Well, where I'm using cond in that code, I plan to have 7 statements.  [10:24:07]
+<sykopomp> clsmith: then make sure you always have a (t s check with cond  [10:24:37]
+<clsmith> _3b: Would that be usable when *ip* may jump about a bit?
+<sykopomp> even if it's nil  [10:24:39]
+<_3b> and the 2nd loop would be (loop for char in *ip do (princs) (cond ...)))  [10:24:46]
+<_3b> ah, if you are changing *ip*, the way you are doing the 2nd list is better (though use an array instead of a list)  [10:25:33]
+<_3b> 1st loop doesn't depend on *ip* though  [10:25:43]
+<sykopomp> I would discourage the use of global variables like that. Try writing stuff with defun and passing values around  [10:26:02]
+* _3b got the 2nd loop wrong anyway, should have been *bf* not *ip  [10:27:09]
+<sykopomp> anyways, silly question. In SLIME: Inspecting a method gives you tons of info. Including the source where the generic function, or maybe the
+           methods? is/are definedh  [10:28:20]
+<sykopomp> what does it use to know where things are defined? Heck, how does SLIME do that in general? Just SWANK?  [10:28:39]
+<_3b> sykopomp: swank has platform specific code to get at that info  [10:29:07]
+<sykopomp> is it accessible to user apps, by any chance?  [10:30:14]
+<_3b> well, swank is theoretically a user app :)  [10:30:41]
+<sykopomp> I guess, but it would be nice to integrate it with my own stuff ;D  [10:31:08]
+<_3b> how stable the APIs in question are is up to the implementations though  [10:31:11]
+<sykopomp> I mean, I imagine Linux/SBCL might be as stable as you can get, swank-wise, right?  [10:31:37]
+<sykopomp> I only really care to run it on that platform  [10:31:44]
+<_3b> no ideas and i mean more stable against changes than stable vs crashes  [10:32:25]
+<sykopomp> I understood that  [10:32:44]
+<xristos> you can use swank  [10:32:47]
+<xristos> i did it for an opengl repl  [10:32:55]
+<sykopomp> opengl repl? :-o  [10:33:07]
+<xristos> yeah  [10:33:23]
+<_3b> yeah, swank if probably more stable API, since it abstracts over multiple implementations  [10:33:24]
+<sykopomp> I'm trying to have method definitions accessible and editable from userspace. At least, I'm trying to think of ways to make this possible.
+                                                                                                                                                [10:33:33]
+<sykopomp> editable from within the application, which I guess is a pretty tall order  [10:33:51]
+<xristos> they always are  [10:34:15]
+<sykopomp> wait, did I miss something?  [10:34:37]
+<madnificent> sykopomp: repls  [10:34:51]
+<sykopomp> is there a way to inspect a method *definition* from within an in-application REPL and edit it, then redefine it there?  [10:35:09]
+<fusss> evening folks
+<rpg> sykopomp: You could just look at your copy of swank.lisp and find the stuff that references the source code finding api.  [10:35:18]
+<xristos> isnt that what defun and defmethod do  [10:35:28]
+<madnificent> sykopomp: not really, but you could make a macro for method definition and store the definition as a list for later editings  [10:35:43]
+<sykopomp> xristos: yes, but I want to see what the contents of defmethod are, and edit that, not simply send a new defmethod and clobber things blindly
+                                                                                                                                                [10:35:58]
+<fusss> _theHAM: just saw the logs. are you Kaz, our Kaz from CLL?  [10:35:59]
+<sykopomp> madnificent: that's a really good idea  [10:36:09]
+<xristos> sykopomp there is function-lambda-expression  [10:36:18]
+<xristos> but needs tailoring i think  [10:36:59]
+<xristos> or custom macros  [10:37:08]
+<_3b> fusss: found another interesting .swf disassembler: http://www.libspark.org/svn/as3/ByteCodeDisassembler/  [10:37:36]
+<_3b> fusss: takes some work to set up though, since it outputs to trace(), and i think you would have to edit the code to make it disassemble too
+                                                                                                                                                [10:38:13]
+<fusss> _3b: dude, i have to write AS for a living now :-( learning on the job, ROFLMAO  [10:38:15]
+<madnificent> bedtime, have fun  [10:38:22]
+<fusss> nite madnificent  [10:38:31]
+<fusss> _3b: takes time to setup in Flex Builder?  [10:38:46]
+<ahaas> fusss: sweet. now you have more motivation to get your lisp->avm2 compiler working.  [10:38:57]
+<fusss> ahaas: that's not funny  [10:39:10]
+<_3b> fusss: dunno, don't use flex builder  [10:39:20]
+<ahaas> ahaas: And fix that actionscript-mode  [10:39:23]
+<ahaas> oops, i meant fusss  [10:39:31]
+<_3b> yeah, working actionscript mode would be nice  [10:39:46]
+<fusss> ahaas: as the junior actionscripter, i defer that to _3b  [10:39:52]
+<_3b> found one that seemed to work, but broke lisp modes when i load it :(  [10:40:03]
+<fusss> _3b: shhhhh, ahaas wrote that one. it didn't break slime for me, but it broke my (eye)balls  [10:40:32]
+<_3b> nah, this was a modified version of ahaas' code i think  [10:41:04]
+<ahaas> no way mine broke lisp modes
+<_3b> ahaas: yours doesn't work on emacs 22 right?  [10:41:15]
+<ahaas> I have one that does, but it doesn't do indenting.  [10:41:27]
+<_3b> yeah, indenting is one of the more important bits :)  [10:41:46]
+<ahaas> I agree.  [10:41:53]
+<ahaas> It's very difficult.  [10:42:04]
+<_3b> i try to avoid working in .as though, so i don't worry about it too much  [10:42:12]
+<fusss> _3b: js2-mode is sweet.  [10:42:14]
+<fusss> _3b: i think you should put that lisp compiler on hold and start hacking in straight AS. you will get a good feel for what needs to be done. or i
+        can tell you about it :-P  [10:42:52]
+<_3b> nah, compiler is almost to a useable state  [10:43:21]
+<_3b> nowhere near 'finished', but enough for simple use  [10:43:34]
+<ahaas> This is the one I am currently using: http://austin.slippypeople.com/actionscript-mode.el  [10:43:45]
+<_3b> just need to finish cleaning up the ffi for the player libs  [10:44:24]
+<fusss> _3b: did you want  me to get involved in anyway? would love to help, but i have way too many opinions about compilers to sit down and hack one
+        out straight  [10:45:38]
+<_3b> you are welcome to help however you like, if you want to  [10:45:40]
+<fusss> are you iffy about formalisms?  [10:46:00]
+<_3b> what do you mean?  [10:46:08]
+<fusss> *sigh*  [10:46:25]
+<fusss> pointy-haired operational semantics, or some other verifiable model of compiler/vm  [10:46:52]
+<_3b> at this point i'm still morstly concerned with figuring out how things work  [10:47:55]
+<_3b> (both at the vm level, and at the 'write a compiler' level)  [10:48:13]
+<fusss> i would love to have a few pages of spelled-out lisp semantics, a well though out VM (possibly *generatable*), and flexible IR and type system
+        (as much of it as we need to generate efficient AVM2 code)  [10:48:41]
+<fusss> s/though/thought/  [10:49:07]
+<_3b> yeah, i'd like to add more of that sort of thing as well  [10:49:12]
+<fusss> i can do that  [10:49:21]
+<clsmith> How can I modify one given item in a list?  [10:49:37]
+<_3b> cool
+<_3b> (setf (nth x list) value)?  [10:50:51]
+<fusss> clsmith: (setf (get-element-of-list list) new-value)
+<fusss> then write get-element-of-list :-)
+<clsmith> Ah, easy. Heheh. Thanks.  [10:50:56]
+<_3b> clsmith: array might be better if you are doing random access though  [10:51:08]
+<fusss> _3b: then profiling shows him he was better off with a vector, now he has to change N nths to aref
+<fusss> yeah  [10:51:15]
+<_3b> fusss: true, elt might be better than nth there  [10:51:55]
+<clsmith> _3b: Ah. How would I use an array instead? Meh, I haven't found a good tutorial yet. I'll look at that one you all recommendeds
+<ahaas> clsmith: I recommend keeping the hyperspec open. It's easy to answer those question by browsing the "dictionary" for the item under
+        consideration.  [10:52:07]
+<_3b> clsmith: MAKE-ARRAY (or VECTOR) and AREF would be useful  [10:53:16]
+<_3b> possibly COERCE if you are starting with data in a list  [10:53:51]
+*** timchen1` (i=tim@kalug.ks.edu.tw) is now known as nasloc__  [10:59:01]
+<clsmith> How do I declare an array? I can't find it anywhere. =/  [11:00:24]
+<ahaas> clsmith: Check the hyperspec!  [11:00:37]
+<sykopomp> clhs array
+<specbot> http://www.lispworks.com/reference/HyperSpec/Body/t_array.htm
+<clsmith> ahaas: I am. I don't quite understand what the syntax is telling mes  [11:01:03]
+<ahaas> are you looking at make-array? It has examples.  [11:02:08]
+<sykopomp> clsmith: http://www.lispworks.com/documentation/HyperSpec/Body/f_mk_ar.htm#make-array  [11:02:17]
+<clsmith> Ah, so it does. Thanks.  [11:02:22]
+<fusss> _3b: Sun just released JavaFX. All the more reasons for a retargetability :-)  [11:05:16]
+<jsoft> Argh, JAVA! :(  [11:05:42]
+<sykopomp> >:(  [11:06:00]
+<jsoft> I tried to build this 'runs anywhere' thing this week, its a real pain in the ass.  [11:06:18]
+<beach> Good morning.  [11:06:35]
+<jsoft> Just to get the jdk installed.
+<beach> clsmith: Did you really mean `declare', or did you just want to create an array?  [11:07:22]
+<_3b> fusss: heh, retargetability is a very low priority for me currently :)  [11:08:15]
+<_3b> fusss: i'd probably just use abcl for something java based  [11:08:35]
+<clsmith> beach: Urm. I want to create an array named *mem*.  [11:11:22]
+<sykopomp> clsmith: (setf *mem* (make-array <size-goes-here))  [11:12:28]
+<fusss> _3b: hacker! and i say that as an insult. i'm off to find a good paper by Milner, or maybe Plotkin, or Strachey, and i will find a formalism to
+        evaluate UNCOL instructions in my head. also do sprite animation.
+<fusss> portably (of course, my head only runs on one platform)  [11:13:04]
+<clsmith> sykopomp: *** - EVAL: too few arguments given to SYSTEM::SET-SYMBOL-VALUE: (SET)  [11:13:16]
+<sykopomp> huh?  [11:13:40]
+<sykopomp> oh  [11:13:42]
+<sykopomp> uhhhs  [11:13:44]
+<_3b> fusss: nah, i just don't need retargetability, nothing 'hacker' involved in that decisions  [11:13:46]
+<sykopomp> if *mem* doesn't exist, you should do (defparameter *mem* (make-array number))  [11:14:09]
+<_3b> fusss: won't argue the 'hacker' bit on the rest of the design though :)  [11:14:16]
+<sykopomp> clsmith: what lisp are you using?  [11:14:17]
+<clsmith> sykopomp: clisp  [11:14:29]
+<fusss> (defvar *mem* nil) first  [11:14:54]
+<stassats> it would work without defparameter  [11:14:57]
+<fusss> did he type SET instead of SETF maybe?  [11:15:24]
+<fusss> _3b: i know, just teasing. gotta go for now. bbl.  [11:15:37]
+<clsmith> (defvar *mem* nil)  [11:15:40]
+<clsmith> (setf *mem* (make-array 1)) ; doesn't work  [11:15:41]
+<sykopomp> he probably typed set, yes. but I figured it'd be better to recommend defparameter anyway
+<_3b> fusss: nah, the current code deserves insults :)  [11:16:08]
+<sykopomp> clsmith: there's no reason I can think of why that wouldn't work  [11:16:09]
+<stassats> clsmith: version of clisp? works here fine  [11:16:14]
+<sykopomp> except pebkac :-\  [11:16:33]
+<clsmith> Wait. Oh that's irritating. I had ASCII debris elsewhere which wasn't meant to be there. My fault.  [11:16:37]
+<sykopomp> hehe  [11:16:43]
+<fusss> _3b: i was going mostly after the coder. they call that ad hominem-evaluation, or call by names, or lambda the ultimate jerk  [11:17:30]
+<_3b> fusss: oh yeah, were you the one thinking about flash gui stuff? if so, seen www.aswing.org ?  [11:17:51]
+<fusss> yeah, saw it right after  [11:18:49]
+* stassats shall not trying to figure out why something isn't working on clisp 3 minutes after wake-up  [11:19:05]
+<beach> clsmith: I realize you are a Lisp beginner, but we should work on your terminology: When you create objects in Lisp, you dont say you `declare'
+        them, because declarations are entirely different things.  And objects don't have names in Lisp, but they can be the values of variables.
+                                                                                                                                                [11:20:51]
+<beach> clsmith: some objects, like symbols, do have names, and symbols are used as variables.  [11:21:24]
+<clsmith> beach: Haha, okay. That's a bit confusing, but I'll work on it.  [11:22:17]
+<ahaas> beach: Are you currently teaching a course?  [11:22:45]
+<beach> ahaas: not right now, no.  Why?  [11:23:06]
+<ahaas> I was just curious.  [11:23:17]
+<beach> ahaas: but I have to prepare the Lisp-based project course for next semester.  [11:23:36]
+<ahaas> I see. What is the name of the course?  [11:23:53]
+<beach> ahaas: I am going to have them work on an information system that I am going to write in CLIM.  [11:23:56]
+<beach> ahaas: "programming project 3" :(  [11:24:09]
+<ahaas> At what point do the students begin learning Lisp?  [11:24:52]
+<beach> third-year in the undergraduate program.  [11:25:14]
+<ahaas> How many students do you expect to have?  [11:25:38]
+<beach> ahaas: 120 or so as I recall.  [11:25:52]
+<ahaas> wow!  [11:25:55]
+<beach> ahaas: it's a mandatory course.  [11:26:15]
+<sykopomp> wow. awesome!  [11:26:21]
+<beach> They have just finished a 6 credit (ECTS) Lisp-based course, and the project course is 3 credits.  [11:28:08]
+<beach> For those who don't know ECTS there are 60 credits per academic year.  [11:28:27]
+<beach> So a 6 credit course is reasonable, but a 3 credit course is pretty small.  [11:29:06]
+<sykopomp> oh  [11:29:28]
+<ahaas> Are most students enrolled for four years?  [11:29:36]
+<sykopomp> huh. Has anyone here played around with Qi?  [11:30:23]
+<beach> ahaas: In the Bologna system, the undergraduate program is 3 year.  Then there are another 2 years to get a masters degree.  [11:30:27]
+<beach> ahaas: http://en.wikipedia.org/wiki/Bologna_process in case you are interested.  Some 50 countries have signed up.  [11:40:57]
+<ahaas> beach: thanks  [11:43:09]

@@ -1,0 +1,42 @@
+DIRS="renaming \
+      demote   \
+      liftOneLevel \
+      duplication \
+      liftToToplevel \
+      rmOneParameter \
+      addOneParameter \
+      introNewDef     \
+      removeDef   \
+      generaliseDef \
+      unfoldDef \
+      addToExport \
+      cleanImports \
+      fromConcreteToAbstract \
+      mkImpExplicit \
+      moveDefBtwMods \
+      rmFromExport \
+      pointWiseToPointfree\
+      addField \
+      asPatterns \
+      instantiate \
+      merging \
+      refacDataNewType \
+      refacFunDef \
+      refacRedunDec \
+      refacSlicing \
+      removeCon \
+      removeField \
+      unfoldAsPatterns  
+    "
+
+rm -f UTest
+rm -f UTest.exe
+rm -f *.o *.hi
+
+for d in $DIRS
+do
+   cd $d
+   rm -rf hi
+   rm -f log.txt
+   cd ..
+done   

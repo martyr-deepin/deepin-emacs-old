@@ -1,0 +1,41 @@
+2009-01-30 13:43 ManateeLazyCat   /join 
+2009-01-30 13:43 calvino.freenode.net /topic [ #mijamedia ][ Mija Media's Open Source Development (OSD) channel ][ http://projects.mijamedia.com/ ][ Join our team, the Vampire Ninja Pirate Hackers: http://vnph.mijamedia.com/ ][ Logged & serviced by Awendela ] (spiderbyte on Wed Jan 28 00:44:07 2009)
+2009-01-30 13:43 ChanServ         /notice [#mijamedia] Welcome to #mijamedia! We gather here to coordinate and discuss our open source work. Check out http://projects.mijamedia.com/ to view a list of our involvements. You may find both open source developers (our VNPH team) and studio developers (our studio team) in this channel; be sure to ask about a member's involvement before assuming they know about one or the other!
+2009-01-30 13:43 ChanServ         /mode +v ManateeLazyCat
+2009-01-30 13:46 rebel_kid        ManateeLazyCat, how do you get your quit message to say Success instead of "Success"
+2009-01-30 13:46 ManateeLazyCat   rebel_kid: What?
+2009-01-30 13:47 rebel_kid        quit messages are usually quoted, ex "My quit message"
+2009-01-30 13:47 rebel_kid        yours wasnt, so i was curious as to how you did that
+2009-01-30 13:47 rebel_kid        Success isnt a system message i dont think
+2009-01-30 13:47 ManateeLazyCat   rebel_kid: You mean my IRC quite message?
+2009-01-30 13:47 rebel_kid        yes
+2009-01-30 13:48 ManateeLazyCat   rebel_kid: I kill IRC buffers forcibly.
+2009-01-30 13:48 rebel_kid        interesting
+2009-01-30 13:48 rebel_kid        Success must be a system message, just a rare one
+2009-01-30 13:49 ManateeLazyCat   rebel_kid: Because rcirc or ERC will send quit message to server when i kill it.
+2009-01-30 13:49 ManateeLazyCat   rebel_kid: I don't care it.
+2009-01-30 13:49 rebel_kid        i was just curious
+2009-01-30 13:49 ManateeLazyCat   /action now integrate paste2 with rcirc. 
+2009-01-30 13:50 spiderbyte       ManateeLazyCat: that's what i do when i use rcirc/erc as well. I always just `C-x k` them ;P
+2009-01-30 13:50 ManateeLazyCat   spiderbyte: I kill rcirc/erc buffers directly, i'm too lazy.
+2009-01-30 13:54 rebel_kid        /action understands the purpose of /quit
+2009-01-30 14:09 spiderbyte       ManateeLazyCat: i'm so stupid! i had put (require 'auto-load) instead of (require 'auto-install)
+2009-01-30 14:09 spiderbyte       THAT was my problem!!!
+2009-01-30 14:09 spiderbyte       arg
+2009-01-30 14:09 spiderbyte       /action head-desk
+2009-01-30 14:09 spiderbyte       it is working just fine now
+2009-01-30 14:09 spiderbyte       jaja
+2009-01-30 14:09 spiderbyte       (of course)
+2009-01-30 14:09 ManateeLazyCat   spiderbyte: hehe
+2009-01-30 14:09 spiderbyte       i'm sorry for all the hassle over such a silly mistake on my part
+2009-01-30 14:09 spiderbyte       =\
+2009-01-30 14:10 ManateeLazyCat   spiderbyte: np :)
+2009-01-30 14:10 spiderbyte       but YAY now i have auto-install installed ;]
+2009-01-30 14:10 ManateeLazyCat   spiderbyte: auto-install.el not just install, it can update exist  packages. 
+2009-01-30 14:12 spiderbyte       sweet!
+2009-01-30 14:13 ManateeLazyCat   spiderbyte: http://www.emacswiki.org/cgi-bin/emacs/auto-install-extension.el have extension for auto-install.el , add support for w3m
+2009-01-30 14:47 ManateeLazyCat   pasted "Test paste2.el with rcirc" at http://paste2.org/p/138487
+2009-01-30 14:47 spiderbyte       sweet!
+2009-01-30 14:48 ManateeLazyCat    Successful
+2009-01-30 14:49 ManateeLazyCat   spiderbyte: Try to install paste2.el use command `auto-install-from-emacswiki'
+2009-01-30 14:49 ManateeLazyCat   spiderbyte: just input paste2.el then auto-install.el will install paste2.el asynchronous

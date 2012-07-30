@@ -1,0 +1,1594 @@
+2008-10-31 20:02 zelazny.freenode.net /names ManateeLazyCat aculich skorpan dmwit Darksair tibbe bla rob| goundoul1 rine_ sainthuck araujo leoncamel aeolist shepheb_ ryz_ TSC` PRINCESSJRNORMAN bendo ivanm repiret sereven came0 bitrot Paul-S_ b4taylor Zepp rotty byorgey _Raku_ sjanssen clanehin guillermo mentalmonkey bmalee tbo elliottt mornfall shachaf sscj davidL piroko fryguy Scarecrow Zao chandlerc wjt jimt w00t taihen al_sh tajkor theDon TheMoken xinit hanneso [31d1] Ycros lambdabot  urbanserj dobblego regulate Intensity nottha_k erthad thingwath xevz iggly nybyn preflex viimrles audreyt ramok DuClare inimino dylan RomainK score rikur sillium xAFFE bogner twifkak Michitux andrewsw fabjan_ dibblego Shimei allbery_b sebbe1991 plutonas loupgaroublond nornagon transacid mauke ertai dons Nafai gaqzi And1 crimsun chandlerc[g] AlexanderS thorkilnaur Entroacceptor syntax fophillips majoh jones- Absurd-Mind  
+2008-10-31 20:04 skorpan          /quit Remote closed the connection
+2008-10-31 20:11 Darksair         /nick Darksair{away}
+2008-10-31 20:20 Darksair{away}   /nick Darksair
+2008-10-31 20:23 dmwit_           /join 
+2008-10-31 20:29 aculich          /quit Read error: 113 (No route to host)
+2008-10-31 20:33 lnxz             /join 
+2008-10-31 20:33 lnxz             /quit Client Quit
+2008-10-31 20:40 dmwit            /quit Read error: 110 (Connection timed out)
+2008-10-31 21:03 aculich          /join 
+2008-10-31 21:10 byorgey          /quit Read error: 110 (Connection timed out)
+2008-10-31 21:12 yitz             /join 
+2008-10-31 21:14 skorpan          /join 
+2008-10-31 21:25 _sh3             /join 
+2008-10-31 21:29 dmwit_           /quit Read error: 104 (Connection reset by peer)
+2008-10-31 21:29 dmwit_           /join 
+2008-10-31 22:13 yitz             /quit "Lost terminal"
+2008-10-31 22:19 skorpan          /quit Remote closed the connection
+2008-10-31 22:31 aculich          /quit "Leaving."
+2008-10-31 22:36 [1]rob|          /join 
+2008-10-31 22:36 dmwit_           /quit Read error: 110 (Connection timed out)
+2008-10-31 22:37 dmwit_           /join 
+2008-10-31 22:54 rob|             /quit Read error: 110 (Connection timed out)
+2008-10-31 22:55 [1]rob|          /nick rob|
+2008-11-02 10:41 ManateeLazyCat   /join 
+2008-11-02 10:41 clarke.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-02 10:45 ivanm            /join 
+2008-11-02 12:13 ManateeLazyCat   /join 
+2008-11-02 12:13 brown.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-02 12:18 webframp         /join 
+2008-11-02 12:19 dmwit            How would it know when to create and eliminate windows?
+2008-11-02 12:19 dmwit            That seems like a weird request.
+2008-11-02 12:19 dmwit            s/windows/outer-nest frames/
+2008-11-02 12:22 nottha_k         dmwit: presumably with special key bindings
+2008-11-02 12:22 dmwit            ah
+2008-11-02 12:24 nottha_k         it could always create a new outer frame. until it is shifted into another frame with the special keybindings like the ones the Combo layout already has.
+2008-11-02 12:25 ryz_             /join 
+2008-11-02 12:26 nottha_k         by the way, the documentation is full of references to this page: http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Doc-Extending
+2008-11-02 12:26 nottha_k         which leads to a 404
+2008-11-02 12:26 dmwit            Wow, whoops.  You should definitely file a bug or something.
+2008-11-02 12:26 dmwit            Just add a .html though.
+2008-11-02 12:27 webframp         /quit "Lost terminal"
+2008-11-02 12:28 nottha_k         oh, the .html is getting thrown in after the anchor like this: http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Doc-Extending#Editing_the_layout_hook.html
+2008-11-02 12:28 lambdabot        http://tinyurl.com/5k849f
+2008-11-02 12:28 dmwit            Sounds like maybe it's a haddock bug.  I'm not sure.
+2008-11-02 12:29 dmwit            Either that, or everybody is writing the haddocks wrong. =)  (Definitely also possible.)
+2008-11-02 12:29 webframp         /join 
+2008-11-02 12:39 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-11-03 17:08 ManateeLazyCat   /join 
+2008-11-03 17:08 brown.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-03 17:33 ashren           /join 
+2008-11-03 17:34 ashren           !seen thayer
+2008-11-03 17:42 dmwit            ?seen thayer
+2008-11-03 17:42 lambdabot        I haven't seen thayer.
+2008-11-03 18:03 brown.freenode.net /names ashren ManateeLazyCat sainthuck dmwit rob| Flathead lambdabot DuClare ramok w00t_ aeolist_ al_sh TSC xevz Dunearhp agood-away jones- quantax byorgey Absurd-Mind majoh fophillips syntax Entroacceptor And1 gaqzi Nafai dons ertai mauke transacid allbery_b Shimei fabjan_ andrewsw Michitux twifkak bogner xAFFE sillium rikur score RomainK inimino viimrles preflex nybyn iggly nottha_k Intensity regulate [31d1] hanneso xinit TheMoken|away theDon  tajkor taihen jimt wjt chandlerc Zao Scarecrow fryguy piroko davidL sscj shachaf mornfall elliottt tbo bmalee clanehin sjanssen bitrot sereven bendo PRINCESSJRNORMAN shepheb goundoul1 bla profmakx Paul-S dbbddbdb_ _sh3 guinea dylan guillermo _Raku___ sutats araujo rine sebbe1991 Ycros aculich LoneTech thingwath audreyt loupgaroublond nornagon crimsun chandlerc[g] AlexanderS  
+2008-11-03 18:06 ivanm            /join 
+2008-11-03 18:17 ryz              /join 
+2008-11-03 18:48 And1             Hmm, when I try to upload a screenshot to the wiki, I get the message: "The connection was reset" - Why?
+2008-11-03 18:54 Darksair         /join 
+2008-11-03 18:59 dmwit            /quit Read error: 104 (Connection reset by peer)
+2008-11-03 19:02 quantax          /quit Nick collision from services.
+2008-11-03 19:02 quantax_         /join 
+2008-11-03 19:09 ivanm            And1: because the connection was reset?
+2008-11-03 19:09 ivanm            ;-)
+2008-11-03 19:16 dmwit            /join 
+2008-11-03 19:23 And1             ivanm: It happens every time I try to upload an image...
+2008-11-03 19:23 ivanm            they're on to you! :o
+2008-11-03 19:23 ivanm            ;-)
+2008-11-03 19:25 jnwhiteh         /join 
+2008-11-03 19:29 aculich          /quit "Leaving."
+2008-11-03 19:30 aculich          /join 
+2008-11-03 19:48 dmwit            /quit Read error: 110 (Connection timed out)
+2008-11-03 19:49 dmwit            /join 
+2008-11-03 19:52 ben1             /join 
+2008-11-03 19:53 nikki__          /join 
+2008-11-03 19:53 ben1             why doesn't this config make any space for my bar? http://pastebin.com/d2da73221
+2008-11-03 19:54 TSC              /quit Remote closed the connection
+2008-11-03 20:06 sjanssen         ben1: your bar must not be setting the strut values?
+2008-11-03 20:07 sjanssen         run xprop on it and look for _NET_WM_STRUT_PARTIAL
+2008-11-03 20:13 profmakx         ben1 the default config for xmobar doesnt set the strut-property correctly
+2008-11-03 20:13 profmakx         if you just set the Position parameter to Top for example it works nicely
+2008-11-03 20:15 profmakx         (assuming you are using xmobar)
+2008-11-03 20:18 Feuerbach        /join 
+2008-11-03 20:20 araujo           /quit Connection timed out
+2008-11-03 20:27 Darksair         /nick Darksair{away}
+2008-11-03 20:35 Feuerbach        /quit "roots, bloody roots"
+2008-11-03 20:41 rine             /quit Read error: 60 (Operation timed out)
+2008-11-03 20:45 rine             /join 
+2008-11-03 20:57 And1             Who's responsible for the xmonad-wiki?
+2008-11-03 20:59 araujo           /join 
+2008-11-03 20:59 ivanm            And1: ask on #haskell, as it's just the generic haskell wiki
+2008-11-03 20:59 And1             Thanks ivanm. =)
+2008-11-03 21:00 ivanm            no worries
+2008-11-03 21:03 agood-away       /nick agoodNando
+2008-11-03 21:15 bitrot`          /join 
+2008-11-03 21:29 dmwit            /quit Read error: 104 (Connection reset by peer)
+2008-11-03 21:30 dmwit            /join 
+2008-11-03 21:30 bitrot           /quit Read error: 110 (Connection timed out)
+2008-11-03 21:32 ben1             profmakx: ah thanks, setting position to Top works, but then how can I make it go across both my monitors?
+2008-11-03 21:32 bitrot`          /quit Remote closed the connection
+2008-11-03 21:32 bitrot`          /join 
+2008-11-03 21:33 danten           /join 
+2008-11-03 21:37 Darksair{away}   /quit Remote closed the connection
+2008-11-03 21:40 aeolist_         /nick aeolist
+2008-11-03 21:44 Darksair         /join 
+2008-11-03 21:50 Exteris          /join 
+2008-11-03 21:52 agoodNando       /nick agood-away
+2008-11-03 21:53 Flathead         /quit "Leaving"
+2008-11-06 01:02 ManateeLazyCat   /join 
+2008-11-06 01:02 clarke.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-06 01:04 jesperj          /join 
+2008-11-06 01:07 jesperj          can I change the key to swith desktops/workplaces from alt + N to the "windows key", since alt is used by so many other programs I use (like my chat program uses alt + n to switch buffers)
+2008-11-06 01:07 jesperj          ?
+2008-11-06 01:07 jesperj          or how do you manage that situation
+2008-11-06 01:08 bmalee           jesperj: Windows key is usually Mod4, alt is Mod1.
+2008-11-06 01:08 bmalee           Replace Mod1 in xmonad.hs with Mod4.
+2008-11-06 01:09 agoodNando       /join 
+2008-11-06 01:09 jesperj          thank you
+2008-11-06 01:11 jesperj          it worked but now it will take a while to not instinctivly use alt + N to switch desktops heh
+2008-11-06 01:14 And1             rob|: You know how to have UTF8-support for dzen?
+2008-11-06 01:17 rob|             And1: it should work out of the box if your locale is set up correctly and the fonts supports it
+2008-11-06 01:43 And1             rob|: Hrm, so I don't need "import System.IO.UTF8" anymore?
+2008-11-08 22:31 ManateeLazyCat   /join 
+2008-11-08 22:31 brown.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-08 22:32 brown.freenode.net /names ManateeLazyCat Mad_Marty araujo skorpan fnord123 Feuerbach lnxz rine_ sainthuck dmwit quantax Darksair Zephyrus Dunearhp ivanm aeolist therp thingwath ryz_ akahige rob| leoncamel azwr byorgey DRMacIver _sh3 nottha_k chandlerc[g] guinea guillermo dons fophillips Paul-S p_l w00t hanneso preflex erthad Shimei xevz turjo Absurd-Mind majoh syntax gaqzi Nafai ertai mauke allbery_b fabjan_ andrewsw Michitux twifkak bogner sillium rikur score RomainK  inimino nybyn iggly Intensity regulate [31d1] TheMoken theDon wjt chandlerc Zao fryguy sscj mornfall bmalee sereven shepheb bla dylan _Raku___ sebbe1991 Ycros jones- ramok And1 nornagon plutonas taihen piroko Hunner TSC gwern LoneTech bendo DuClare b4taylor Zepp profmakx shachaf urbanserj clanehin bitrot`` s25_ xAFFE semifor tajkor sutats xinit al_sh transacid davidL digit sjanssen loupgaroublond Cosmos95 Apocalisp lambdabot AlexanderS  
+2008-11-08 22:32 Feuerbach        /quit "roots, bloody roots"
+2008-11-08 22:33 RomainK          /quit "leaving"
+2008-11-08 22:34 Darksair         /nick Darksair{away}
+2008-11-08 22:35 ManateeLazyCat   Hi, everyone. Today I use cabal install XMonad, get error information " Could not find module `Graphics.X11.Xlib.Extras' ". And I before have install XMOnad success. I use Debian and GHC 6.8.2. Thanks
+2008-11-08 22:38 fnord123         /quit Read error: 110 (Connection timed out)
+2008-11-08 22:39 DRMacIver        Hm. No, this is completely failing to work. I guess I'll work in XMonad contrib. Sigh.
+2008-11-08 22:42 DRMacIver        Hm. One last try actually. Any way to get xmonad to not attempt to compile itself on startup?
+2008-11-08 22:44 mauke            execute your xmonad, not the system one
+2008-11-08 22:44 DRMacIver        Oh. Good point. :)
+2008-11-08 22:46 DRMacIver        Hm. No, that doesn't work. It still tries to compile on startup.
+2008-11-08 22:47 DRMacIver        ok. Giving up now. Time to dump this in contrib.
+2008-11-08 22:51 Mad_Marty        /nick Entroacceptor
+2008-11-08 22:57 digit            /quit Remote closed the connection
+2008-11-08 22:59 Darksair{away}   /nick Darksair
+2008-11-08 23:16 uhsf             /join 
+2008-11-08 23:18 m00t             /join 
+2008-11-08 23:21 rob|             /quit " HydraIRC -> http://www.hydrairc.com <- Chicks dig it"
+2008-11-08 23:21 rob|             /join 
+2008-11-08 23:28 Exteris          /join 
+2008-11-08 23:34 DRMacIver        Question: I have a function ScreenId -> WorkspaceId. I'd like to apply this to all screens (not just the focused one) to set their current workspace. Am I missing some useful function for doing so?
+2008-11-08 23:38 DRMacIver        (apply this to all screens to set the current workspace on them that is)
+2008-11-08 23:38 ksf              /join 
+2008-11-08 23:39 guillerm1        /join 
+2008-11-08 23:40 lnxz             /quit "leaving"
+2008-11-08 23:44 guillermo        /quit Read error: 60 (Operation timed out)
+2008-11-09 00:16 DRMacIver        Hm. Well my hacking around seems to have paid off (admittedly with really ugly and non-composable code for the moment). Per screen histories appear to be working nicely. :)
+2008-11-09 00:22 Paul-S           /quit "Lost terminal"
+2008-11-09 21:27 ManateeLazyCat   /join 
+2008-11-09 21:27 brown.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-09 21:30 ksf              Linking licq-status ...
+2008-11-09 21:30 ksf              ["202 27162016 Licq Online","212","405 No new messages."]
+2008-11-09 21:41 _A_Fantastic     /join 
+2008-11-09 21:42 edgar_           /join 
+2008-11-09 21:46 edgar_           /quit Client Quit
+2008-11-09 21:55 rine             /join 
+2008-11-09 22:09 nikki_           Hello.
+2008-11-09 22:09 nikki_           HALLO
+2008-11-09 22:09 nikki_           WTF nickserv sucks.
+2008-11-09 22:15 skorpan          /join 
+2008-11-09 22:16 mkl              /join 
+2008-11-09 22:18 mkl              Hi! May I ask what you xmonad users use for email notification? I'm looking for a solution like ~/bin/mail.sh | dzen <dzen-params> but what could possibly go in mail.sh so that either 'no mail' or 'X mail(s)' is displayed?
+2008-11-09 22:19 mkl              I've tried while [ 1 ]
+2008-11-09 22:19 mkl              do
+2008-11-09 22:19 mkl                  mail -e </dev/null | grep '^No mail\|^\"/var/mail'
+2008-11-09 22:19 mkl                  sleep 15;
+2008-11-09 22:20 mkl              done
+2008-11-09 22:20 mkl              in my .xsession but that process keeps running after I exit xmonad.
+2008-11-09 22:29 ksf              http://hpaste.org/11880
+2008-11-09 22:33 ksf              hmmm... do xmobar commands _have_ to be in $PATH?
+2008-11-09 22:33 ksf              I'm specifying the whole path.
+2008-11-09 22:33 ksf              s/whole/absolute
+2008-11-09 22:35 rine__           /join 
+2008-11-09 22:39 nikki_           /quit "Lost terminal"
+2008-11-09 22:40 rine             /quit Read error: 110 (Connection timed out)
+2008-11-09 22:45 ksf              can anyone tell me why http://hpaste.org/11880 won't work with xmobar?
+2008-11-11 09:13 ManateeLazyCat   /join 
+2008-11-11 09:13 brown.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-11 09:16 dmwit            /join 
+2008-11-11 09:23 gwern            > last [1..]
+2008-11-11 09:24 lambdabot          mueval: Prelude.read: no parse
+2008-11-11 09:25 gwern            shepheb: I don't think it's a bug, as last [1..] gets caught by the time-limits, or it doesn't parse (my results seem to differ between mueval versions)
+2008-11-11 09:25 loupgaro1blond   /join 
+2008-11-11 09:26 loupgaro1blond   /nick loupgaroublond
+2008-11-11 09:26 Darksair         /join 
+2008-11-11 09:30 loupgaro1blond   /join 
+2008-11-11 09:34 ksf              no parse? wtf?
+2008-11-11 09:35 ksf              > (x -> last x) [1..]
+2008-11-11 09:35 lambdabot          <no location info>: parse error on input `->'
+2008-11-11 09:35 ksf              > (\x -> last x) [1..]
+2008-11-11 09:35 lambdabot          mueval: Prelude.read: no parse
+2008-11-11 09:35 ksf              shall I code something up with succ?
+2008-11-11 09:36 gwern            go ahead. if it breaks something, that'll be quite interesting
+2008-11-11 09:36 ksf              > 1 + 1
+2008-11-11 09:36 lambdabot          2
+2008-11-11 09:36 ksf              at least that parses...
+2008-11-11 09:37 ksf              > let x = x in x
+2008-11-11 09:37 ksf              hmmmmm
+2008-11-11 09:37 lambdabot          thread killed
+2008-11-11 09:37 ksf              ah.
+2008-11-11 09:37 xhanjian         /join 
+2008-11-11 09:40 ksf              > let f x = f (f x) in (f id) ()
+2008-11-11 09:41 lambdabot          thread killed
+2008-11-11 09:41 gwern            see?
+2008-11-11 09:42 gwern            ksf: there's like 20 different evil expressions in mueval's tests.sh; none of them work
+2008-11-11 09:42 _sh3             /join 
+2008-11-11 09:42 gwern            which is why it'd be cool if you found a problem, but I consider it unlikely
+2008-11-11 09:42 _sh3             /quit Remote closed the connection
+2008-11-11 09:44 ksf              but then why didn't my first last [1..] get killed?
+2008-11-11 09:44 loupgaroublond   /quit Read error: 110 (Connection timed out)
+2008-11-11 09:44 loupgaro1blond   /nick loupgaroublond
+2008-11-11 09:45 gwern            ksf: dunno. maybe it did get killed but you jut didn't see the shell output from lb?
+2008-11-11 09:45 ksf              I'm quite positive it didn't arrive at freenode.
+2008-11-11 09:45 gwern            sometimes there are glitches in the overall system. I find output is the weakest link
+2008-11-11 09:45 gwern            although you could ask Cale whether there's a zombie mueval process hanging around his box I suppose
+2008-11-11 09:47 _sh3             /join 
+2008-11-11 10:10 Darksair         /quit "Use the Force, Luke!"
+2008-11-11 10:22 aculich          /join 
+2008-11-11 10:24 digit            /join 
+2008-11-11 10:24 digit            /action joins #xmonad, just to be a luvved up nuissance.
+2008-11-11 10:25 digit            i love xmonad.
+2008-11-11 10:25 gwern            /action lurves digit so hard
+2008-11-11 10:25 dmwit            /quit Read error: 104 (Connection reset by peer)
+2008-11-11 10:25 digit            ew
+2008-11-11 10:25 gwern            /action lurves all over digit. ah.
+2008-11-11 10:25 dmwit            /join 
+2008-11-11 10:26 digit            .....when i conjoured this nik for myself about 15 years ago, i had no idea so many would interpret it... fallically.
+2008-11-11 10:27 gwern            your nick is like a rubin vase illusion - I can see it as 'dig it' or 'digit', but not as both
+2008-11-11 10:28 ksf              is digit in any way related to bigit or cogit?
+2008-11-11 10:29 digit            nope
+2008-11-11 10:30 digit            well... lest we talkin broadly, where all are relative.
+2008-11-11 10:50 edmccaffrey      /join 
+2008-11-11 10:57 turjo            /join 
+2008-11-11 10:59 ksf              /quit "error: read() from /dev/null"
+2008-11-11 11:07 [31d1]           /join 
+2008-11-11 11:08 digit            /action telepathically informs gwern that he can see it both.
+2008-11-11 11:08 gwern            zomg! you must be one of Watts's vampires which can see a necker cube both ways simulatenously!
+2008-11-11 11:08 digit            /action then hastilly adds, telepathically, that when it comes to his name though....  it's just the one way.
+2008-11-11 11:10 digit            vampire, no.  though i checked it out.  much easier just staying connected to the source of energy, rather than steal others.  who is Watts?  a what cube?
+2008-11-11 11:10 gwern            Peter Watts, writes really good sci-fi
+2008-11-11 11:10 digit            i was about to go look it up... then i remembered u said zombies....
+2008-11-11 11:11 gwern            his _Blindsight_ thoughtfully explores various forms of intelligence and consciousness; one of them are genengineered vampires which have evolved to hunt humans and so are more intelligent in numerous ways
+2008-11-11 11:11 gwern            one of the things they can do is see a Necker Cube https://secure.wikimedia.org/wikipedia/en/wiki/Necker_cube in both configurations at the same time
+2008-11-11 11:12 gwern            it's meant to be a gesture to what a mind might be like that can outplan a human with ease
+2008-11-11 11:12 gwern            his books are very good, if you like scifi you ought to try one or two
+2008-11-11 15:41 ManateeLazyCat   /join 
+2008-11-11 15:41 brown.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-11 15:45 jimt_            /join 
+2008-11-11 16:11 therp            /join 
+2008-11-11 16:21 score            /join 
+2008-11-11 16:31 dmwit            /join 
+2008-11-11 17:15 aculich          /join 
+2008-11-11 17:30 loupgaroublond   /join 
+2008-11-11 17:49 Feuerbach        /join 
+2008-11-11 17:56 jimt_            /quit "leaving"
+2008-11-11 17:57 jimt             /join 
+2008-11-11 18:05 dmwit            /quit Read error: 110 (Connection timed out)
+2008-11-11 18:06 dmwit            /join 
+2008-11-11 18:16 Feuerbach        /quit "roots, bloody roots"
+2008-11-11 18:16 ashren           /join 
+2008-11-11 18:20 sutats           /part #xmonad 
+2008-11-11 18:22 sutats           /join 
+2008-11-11 18:35 dmwit            /quit Read error: 104 (Connection reset by peer)
+2008-11-11 18:36 therp            /quit "Leaving"
+2008-11-11 18:52 dmwit            /join 
+2008-11-11 18:52 plutonas         /join 
+2008-11-11 19:09 harnir           /join 
+2008-11-11 19:10 harnir           /part #xmonad 
+2008-11-11 19:40 guaqua           /join 
+2008-11-11 19:41 guaqua           is someone else having trouble building newest mtl? the configure isn't creating dist/setup-config for me
+2008-11-11 19:44 guaqua           and neither is xmonad's configure (runhaskell Setup.lhs configure ...)
+2008-11-11 19:45 ivanm            /join 
+2008-11-11 19:51 xhanjian         /join 
+2008-11-11 19:56 athos            /join 
+2008-11-11 20:07 therp            /join 
+2008-11-11 20:07 therp            @seen dons
+2008-11-11 20:07 lambdabot        dons is in #concatenative, #haskell, #xmonad, #darcs, #ghc and #arch-haskell. I last heard dons speak 3h 33m 19s ago.
+2008-11-11 20:10 Feuerbach        /join 
+2008-11-11 20:14 Darksair         /join 
+2008-11-11 20:32 surgeon          /join 
+2008-11-11 20:43 saintluck        /join 
+2008-11-11 20:43 skorpan          /join 
+2008-11-11 20:44 surgeon          /quit "Lost terminal"
+2008-11-11 20:45 aeolist_         /join 
+2008-11-11 20:54 nikki_           /join 
+2008-11-11 20:55 skorpan          /quit Remote closed the connection
+2008-11-11 20:55 brown.freenode.net /names nikki_ aeolist_ saintluck Darksair Feuerbach therp athos xhanjian ivanm guaqua plutonas dmwit sutats ashren jimt loupgaroublond aculich score ManateeLazyCat clanehin mlesniak fophillips sereven araujo Dunearhp xAFFE andrewsw digit al_sh wjt Entroacceptor theDon akahige_ ryz_ murjoh [31d1] edmccaffrey _sh3 rob| thingwath came0 ushdf nottha_k _Raku_ Paul-S rine And1 sainthuck aeolist iggly_ guillerm1 DuClare helgim thedward w00t_ sebbe1991  kamatsu Absurd-Mind majoh syntax gaqzi Nafai ertai mauke allbery_b fabjan_ Michitux twifkak sillium rikur nybyn Intensity regulate TheMoken chandlerc Zao fryguy sscj mornfall bmalee shepheb bla dylan Ycros jones- ramok nornagon taihen piroko Hunner gwern LoneTech profmakx urbanserj s25_ semifor tajkor xinit transacid davidL sjanssen Shimei preflex hanneso dons guinea chandlerc[g] DRMacIver byorgey sbahra Zepp b4taylor erthad Apocalisp lambdabot  AlexanderS  
+2008-11-11 21:00 ManateeLazyCat   /join 
+2008-11-11 21:00 kubrick.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-11 21:01 _Raku_           basicly i want a layout like Dishes , but without the non-master area to switch automaticly between windows as i move through the windows stack
+2008-11-11 21:01 _Raku_           and use seperate keybindings to move to the stack in the non-master area
+2008-11-11 21:02 _Raku_           would that be possible and whats would be the easiest way to implement it ? Any advice would be appriciated
+2008-11-11 21:02 _Raku_           what*
+2008-11-11 21:03 ksf              /join 
+2008-11-11 21:03 ksf              /quit Client Quit
+2008-11-11 21:04 ksf              /join 
+2008-11-11 21:09 _Raku_           actually , i meant TwoPane instead of dishes
+2008-11-11 21:09 _Raku_           that would be confusing :P
+2008-11-11 21:24 loupgaro1blond   /join 
+2008-11-11 21:41 loupgaro1blond   /nick loupgaroublond
+2008-11-11 21:51 athos_           /join 
+2008-11-11 22:01 Exteris          /join 
+2008-11-11 22:28 Philonous        /join 
+2008-11-11 22:43 sebbe1992        /join 
+2008-11-11 22:43 surgeon          /join 
+2008-11-12 08:21 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-11-12 08:31 ManateeLazyCat   /join 
+2008-11-12 08:31 leguin.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-12 08:48 gwern            ksf: you wanta haskell filesystem? we have halfs...
+2008-11-12 08:48 lambdabot        gwern: You have 1 new message. '/msg lambdabot @messages' to read it.
+2008-11-12 08:49 gwern            @messages
+2008-11-12 08:49 lambdabot        vegai said 6h 53m 34s ago: mueval seems to import Data.Number.BigFloat, that's why it depends on numbers
+2008-11-12 08:50 gwern            @seen vegai
+2008-11-12 08:50 lambdabot        vegai is in #concatenative, #haskell and #arch-haskell. I last heard vegai speak 6h 39m 12s ago.
+2008-11-12 08:51 gwern            @tell vegai in darcs mueval, the numbers's modules are commented out because they were causing problems of some sort and no one seemed to be using them. I am fairly sure that darcs mueval is not importing or depending on numbers in anyway
+2008-11-12 08:51 lambdabot        Consider it noted.
+2008-11-12 08:52 gwern            strange Ion thread. the firstposter knows about xmonad, but dismisses it a sentence. what exactly does he intend to gain by rewriting ion in haskell?
+2008-11-12 08:58 webframp         and mentions a haskell lua interprer?
+2008-11-12 08:58 sjanssen         gwern: what do we intend to gain by rewriting dwm in Haskell?
+2008-11-12 09:03 dons             gwern: oh, is that drmaciver?
+2008-11-12 09:04 dons             ah no.
+2008-11-12 09:04 dons             "plus, while not looking like cpan.org,
+2008-11-12 09:04 dons             hackage.haskell.org is not ... nothing; seems also to me that the Haskell
+2008-11-12 09:04 dons             community is growing in size -- hooray"
+2008-11-12 09:04 dons             hehe
+2008-11-12 09:05 dons             weeeeeeiiiiiiiiiiiiiiiiird, https://lists.berlios.de/pipermail/ion-general/2008-November/002244.html
+2008-11-12 09:05 lambdabot        Title: Ion rewriting, http://tinyurl.com/6hy3pv
+2008-11-12 09:05 sjanssen         dons: I see you've found a troll on twitter :)
+2008-11-12 09:06 dons             sjanssen: yeah!
+2008-11-12 09:06 sjanssen         /action loves drama
+2008-11-12 09:06 dons             "Haskell is fun for academic exercises. Real-world programs are pain.
+2008-11-12 09:06 dons             Plus the Haskell build environments are shit. GHC is infinite
+2008-11-12 09:06 dons             pain to install anything under."
+2008-11-12 09:06 dons             /action loves tuomo
+2008-11-12 09:07 dons             sjanssen: i take the obama approach: fight the smears on all fronts.
+2008-11-12 09:07 dons             don't let your enemies define you,etc etc.
+2008-11-12 09:08 gwern            sjanssen: well, at least we can adduce saying things like 'quickcheck tests, purely functional datastructures, confined state thanks to monads, etc'. it's not like there was *already* a massively well-developed, clean, highly bugfree haskell wm
+2008-11-12 09:08 dons             sjanssen: "They have a adaptive data structure for O(1) access to currently
+2008-11-12 09:08 dons             focussed window! How incredible! How about all the other state updates
+2008-11-12 09:08 dons             triggered by client software? A window manager depends on a lot of
+2008-11-12 09:08 dons             state, and pure FP makes it difficult/laboursome to maintain it. "
+2008-11-12 09:08 dons             cute.
+2008-11-12 09:08 dons             > You do have a good, comfortable life, there in Finland, eh? :)
+2008-11-12 09:08 dons             Finland is a shithole.
+2008-11-12 09:08 lambdabot          <no location info>: parse error on input `do'
+2008-11-12 09:08 dons             https://lists.berlios.de/pipermail/ion-general/2008-November/002248.html
+2008-11-12 09:08 lambdabot        Title: Ion rewriting, http://tinyurl.com/5lsw2r
+2008-11-12 09:08 dons             is just generally awesome.
+2008-11-12 09:09 sjanssen         gwern: none of things were reasons I had to start xmonad
+2008-11-12 09:09 sjanssen         (except for the lack of an existing Haskell WM)
+2008-11-12 09:09 dons             tuommmo's rants are mega awesome.
+2008-11-12 09:09 gwern            sjanssen: that's my point. if he had some goal in mind, I could understand it. but his statement boils down to 'I want to rewrite ion in haskell, because haskell is cool. I don't want to mess with xmonad or even look at it, for no reason whatsoever. I want this called ion so I can get tuomov's mad wm skillz'. the whole package is incoherent
+2008-11-12 09:10 dons             gwern: he's just some werido. it's ok. :)
+2008-11-12 09:10 dons             the internet is clogged with weirdos.
+2008-11-12 09:10 sjanssen         gwern: xmonad and ion have really fundamentally different designs, I think it would be interesting to see what an ion in Haskell looks like
+2008-11-12 09:10 gwern            sjanssen: well, also technically there was a previous haskell wm, but let's not split hairs
+2008-11-12 09:10 sjanssen         hacking for hacking's sake is good!
+2008-11-12 09:10 gwern            it sounds like he expects tumov to do all the hacking...
+2008-11-12 09:11 sjanssen         yeah, that's another thing
+2008-11-12 09:11 sjanssen         /action is not a big fan of arm chair hackers
+2008-11-12 09:11 gwern            /action is an armchair hacker, but I still do enough to justify my blatherings
+2008-11-12 09:12 Nafai            gwern: Heh. :)
+2008-11-12 09:12 sjanssen         gwern: you write code, you're off the hook
+2008-11-12 09:12 dons             i always find the data structure arguments weird, fwiw.
+2008-11-12 09:13 dons             and tuomo really seemed to think there's a lot of large, mutable state -- which i think says more about ion than software engineering of wms
+2008-11-12 09:14 gwern            dons: what I find more weird - presumably if his 'lots of state' argument was correct, then xmonad would either be buggy, incapable, or extremely complex and hacky code-wise, but he doesn't show any of the 3. xmonad would seem to be a demonstration that wms don't need much state
+2008-11-12 09:14 dons             he didn't seem to understand the design.
+2008-11-12 09:14 ivanm            since when did Haskell have a Lua interpreter?
+2008-11-12 09:14 sjanssen         dons: I doubt he's looked
+2008-11-12 09:14 dons             that all state of interest is encapsulated in a single adaptive data structure
+2008-11-12 09:15 dons             its ok, but FUD is dumb.
+2008-11-12 09:15 gwern            ivanm: dunno. haskell has interpreters for all sorts of languages, generally incomplete
+2008-11-12 09:15 gwern            javascript for example
+2008-11-12 09:15 sjanssen         ivanm: there are some lua bindings on hackage
+2008-11-12 09:15 gwern            (hm. I may never've finished updating the javascript one and uploading to hackage)
+2008-11-12 09:16 ivanm            ahhh, hslua
+2008-11-12 09:29 webframp         /quit "leaving"
+2008-11-12 09:29 loupgaro1blond   /join 
+2008-11-12 09:38 [31d1]           /action lolling at scrollback
+2008-11-12 09:38 fisxoj           /join 
+2008-11-12 09:39 fisxoj           hi.  I just wanted to stop by and say that I am incredibly happy with Xmonad so far
+2008-11-12 09:39 [31d1]           what was the 'previous haskell wm' ?
+2008-11-12 09:40 gwern            wish, iirc
+2008-11-12 09:40 fisxoj           though, it'd be nice if awn ever hid itself
+2008-11-12 09:40 gwern            it's on hackage. it's very minimalistic, perhaps somewhere between 0.0 and 0.1 xmonad in capability
+2008-11-12 09:41 dons             fisxoj: yay :)
+2008-11-12 09:41 loupgaro1blond   /nick loupgaroublond
+2008-11-12 09:42 fisxoj           the only annoying thing was synaptic needed to download a lot of haskell stuff before I could change the config so it worked with gnome
+2008-11-12 09:43 dons             yeah. well, one thing. a compiler.
+2008-11-12 09:44 gwern            wonder whether xmonad-light could do the gnomeconfig stuff
+2008-11-12 09:45 xhanjian         /join 
+2008-11-12 09:55 ksf              http://www.halfs.de/ .... nope, that ain't it.
+2008-11-12 09:55 lambdabot        Title: Haferlschuhe - halfs Schuhe, München - halfs shoes, munich
+2008-11-12 09:59 ksf              http://hackage.haskell.org/trac/halfs/ may need a doctor, it doesn't look healthy.
+2008-11-12 10:00 ksf              s/healthy/well
+2008-11-12 10:02 ksf              http://okmij.org/ftp/Computation/Continuations.html#zipper-fs
+2008-11-12 10:02 lambdabot        Title: Continuations and delimited control
+2008-11-12 10:02 ksf              moar impressive buzzwords oleg's has.
+2008-11-12 10:05 Darksair         /join 
+2008-11-12 10:13 fisxoj           this wm is going to be the end of me... 9 desktops to play with!?!  it'll take forever to hibernate now :P
+2008-11-15 21:51 ManateeLazyCat   /join 
+2008-11-15 21:51 lem.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-16 22:36 ManateeLazyCat   /join 
+2008-11-16 22:36 clarke.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-17 08:01 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-11-17 10:06 ManateeLazyCat   /join 
+2008-11-17 10:06 kornbluth.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-17 10:07 uhsf             just simple fading can be nothing more than some alphachannel over windows
+2008-11-17 10:07 uhsf             xcompmgr is so slow and full of glitches
+2008-11-17 10:07 fryguy           does virtualbox work correctly with default xmonad resize settings?  I'm not on a machine to try right now, but I'll be messing with it tomorrow and i'm wondering if I'm going to be in for a struggle or not
+2008-11-17 10:08 p_l              Why not simply add a "standard" API for passing messages to external apps? This way you could put the compositing part into different application which would centered only on that
+2008-11-17 10:08 ivanm            fryguy: well, I use VirtualBox here... haven't tried different layouts, but it does tile full-screen at least
+2008-11-17 10:09 fryguy           ivanm: i have the extensions installed in guest OS that allows it to dynamically set resolution as virtualbox is resized, and I'm wondering if this functionality will work with the way xmonad does resizes, or if there is some functionality to force a resize event to occur so that virtualbox will change the resolution of the guest
+2008-11-17 10:09 ivanm            my guess is that it will work as expected
+2008-11-17 10:16 mephx            /join 
+2008-11-17 10:17 raw              ivanm: tip/head/master/whatever it's called
+2008-11-17 10:48 _sh3             /join 
+2008-11-17 11:04 mephx            /quit Client Quit
+2008-11-17 11:11 mephx            /join 
+2008-11-17 11:34 digit            /join 
+2008-11-17 11:37 raw              /quit Read error: 113 (No route to host)
+2008-11-17 11:38 digit            so hi dudes.  :)  i've been having fun playing around setting up xmonad... though spending more time just using it, because, well, thats what its there for and thats what it does.  took a couple screenshots, http://tinypic.com/view.php?pic=jug0n7&s=4&hid=6&tag=xmonad http://tinypic.com/view.php?pic=2mpjvcm&s=4&hid=1&tag=xmonad with familiar apps from kde.  just wondering...  anyone have trouble with xmonad freezing up n not letting u get
+2008-11-17 11:38 digit            control anymore, no keyboard comands working etc...  even though mouse overs still work in whatever window u r in, or sometimes others, but u cant really do anything...  that ever happen to ya?
+2008-11-17 11:38 lambdabot        Title: sabayon, linux, desktop, xmonad, xmobar, kworldclo Pictures, sabayon, linux, des ...
+2008-11-17 11:41 uhsf             lame website, lame screenshots
+2008-11-17 11:42 digit            yep, shrinks em.   where do ya reccomend....  i found some great ones, but forgot them.
+2008-11-17 11:42 te               /join 
+2008-11-17 11:43 te               having some trouble using the example Config.hs files
+2008-11-17 11:43 te               none of the dzen stuff seems to work
+2008-11-17 11:43 te               i dont get the top menu bar with the tags on it
+2008-11-17 11:43 ivanm            te: are you running dzen?
+2008-11-17 11:43 te               heh, hello again ivanm :D
+2008-11-17 11:43 ivanm            hey ;-)
+2008-11-17 11:44 te               ivanm: dzen2
+2008-11-17 11:44 te               but it doesn't show up by default
+2008-11-17 11:44 digit            yep, dzen said to be pesky to get to work.  i opted for xmobar, since all i needed it so far was for the bar, not all the extra other weird things dzen can do.
+2008-11-17 11:44 te               if i explicitly run it with mod+p dzen2
+2008-11-17 11:44 te               it shows up, but with nothing on it
+2008-11-17 11:44 ivanm            te: did you configure it properly? IIRC, you have to play with either telling it to read from file X and have xmonad write to file X, or else pipe stuff directly to dzen
+2008-11-17 11:45 te               i dont want much, just tags, and perhaps weather,time,date
+2008-11-17 11:45 ivanm            ummmm..... xmonad doesn't have tags....
+2008-11-17 11:45 ivanm            that's from wmii, isn't it?
+2008-11-17 11:45 digit            /action looks up http://www.google.com/Top/Computers/Internet/On_the_Web/Web_Applications/Photo_Sharing/Image_Hosting/ again
+2008-11-17 11:45 lambdabot        Title: Google Directory - Computers > Internet > On the Web > Web Applications > Photo  ..., http://tinyurl.com/5leumf
+2008-11-17 11:45 te               well i dont mean tags per se
+2008-11-17 11:45 te               but named workspaces
+2008-11-17 11:45 ivanm            ahhhh
+2008-11-17 11:45 ivanm            rob|: you around?
+2008-11-17 11:46 te               ivanm: i have xmobar and dzen2 setup and ready to go
+2008-11-17 11:46 te               it would be nice to use one of the existing Config.hs uploads because i really like one of the designs
+2008-11-17 11:46 ivanm            does xmobar work?
+2008-11-17 11:47 te               ivanm: don't know, that seemed like more work than dzen, and this particular example config.hs is one i wanted to try
+2008-11-17 11:47 te               that is set up for dzen
+2008-11-17 11:47 ivanm            *shrug* I don't use dzen, so can't really help you :(
+2008-11-17 11:47 te               no problem ivanm
+2008-11-17 11:47 te               thanks for trying
+2008-11-17 11:47 ivanm            no worries
+2008-11-17 12:04 Ycros            /join 
+2008-11-17 12:05 guillermo        /join 
+2008-11-17 12:08 digit            /action gets the idea he should just start jumping into the other examples of xmonad.hs and tearing bits of code from them all.  :D  hurrah!  wait, does that make me a hacker/programmer...i'm not sure when it happens, i thought it would be a clear distinction, but maybe it more like transitioning from child to adult, rather than to parent, which is somewhat more clearcut.
+2008-11-17 12:09 Darksair         /join 
+2008-11-17 12:09 digit            oops, ment to hit enter before that ":D"
+2008-11-17 12:12 ryz_             /join 
+2008-11-17 12:16 [31d1]           digit it's a clever plot to make people write code
+2008-11-17 12:17 ivanm            [31d1]: you discovered the secret! now you must die!
+2008-11-17 12:19 [31d1]           no - first i have to write more haskell without having any idea what im doing
+2008-11-17 12:20 aculich          /join 
+2008-11-17 12:22 Plouj            /part #xmonad "thanks"
+2008-11-17 12:24 aculich          /quit Read error: 60 (Operation timed out)
+2008-11-17 12:29 digit            lol... no no, i'm a voluntary recruit, its ok, you dont need to subvert me, i'm no unwitting conscript.  here by choice.  :)
+2008-11-17 12:30 digit            good, not that i placated them with that line to let htem think i'm like the rest of their drones who dont know they are drones i can set about my nefarious plan to get them to do my bidding.  mwuhahahahaha
+2008-11-17 12:30 digit            OH CRAP, DID I JUST SAY THAT LAST LINE HERE!???  OH NO!
+2008-11-17 12:30 digit            oh, phew, its ok, my typo disguised what i was saying.  lucky that "now" became a "not"
+2008-11-17 12:31 digit            thats ok xmonad, everything is back under control, nothing to see here, it was just a weather balloon, the glitch has been fixed.
+2008-11-17 12:43 aculich          /join 
+2008-11-17 13:04 mephx            /quit Read error: 113 (No route to host)
+2008-11-17 13:16 b4taylor         I spread the Haskell + XMonad word to a few people at the Changing the World Conference in Toronto yesterday.
+2008-11-17 13:17 bogner           /join 
+2008-11-17 13:17 b4taylor         There were a number of people who just saw me using my laptop and were like "... What's that????"
+2008-11-17 13:19 Nafai            Heh
+2008-11-17 13:19 Nafai            Yeah, I gave a impromptu demo of xmonad at my last Python user group meeting
+2008-11-17 13:20 b4taylor         I need more programs that are visually different than urxvt and firefox.
+2008-11-17 13:21 bogner           If gnome panel happens to be on a screen edge that goes to another xinerama screen, it seems to stop being a strut, anyone seen that?
+2008-11-17 13:21 b4taylor         It's hard to show off layouts when you're just using 4 terminals that all look the same :p
+2008-11-17 13:22 bogner           b4taylor: how often do you use anything other than tiled or full other than to show off, though, really?
+2008-11-17 13:22 b4taylor         bogner: Never.
+2008-11-17 13:22 b4taylor         I just wish Grid would go back to the way it used to be.
+2008-11-17 13:25 rine_            /join 
+2008-11-17 13:25 b4taylor         What would be awesome is if I had a vimlike layout.
+2008-11-17 13:25 b4taylor         Where I could ask it to split vertically or horizontally.
+2008-11-17 13:27 bogner           b4taylor: what happened to grid? seems the same as it's always been to me...
+2008-11-17 13:28 b4taylor         bogner: It started stacking the windows on top of each other until it hits 4, then tiles in a grid.
+2008-11-17 13:28 b4taylor         Where as the old one would split the first horizontally.
+2008-11-17 13:28 b4taylor         Then stack a 3rd on the right.
+2008-11-17 13:28 bogner           hmm, i must have the old one, it's doing it that way for me
+2008-11-17 13:29 b4taylor         I find the split in the middle to be ideal.
+2008-11-17 13:29 bogner           i'm on latest, and it behaves the way you said is the old way. I'm confused now
+2008-11-17 13:31 sbahra           /join 
+2008-11-17 13:39 b4taylor         bogner: Oh, yeah it does.
+2008-11-17 13:39 b4taylor         I don't run the darcs version on my computers.
+2008-11-17 13:39 b4taylor         On my work computer I do, and you're right it was fixed.
+2008-11-17 13:39 bogner           okay, as long as i'm not going crazy
+2008-11-17 13:43 b4taylor         /action sleeps
+2008-11-17 13:45 uhsf             /action also sleeps
+2008-11-17 13:46 erthad           /join 
+2008-11-17 13:53 uhsf             /quit "leaving"
+2008-11-17 13:56 _sh3             /quit "leaving"
+2008-11-17 14:07 nikki_           /join 
+2008-11-17 14:33 surgeon          /join 
+2008-11-17 14:36 surgeon          /quit Client Quit
+2008-11-17 14:42 te               grr!!
+2008-11-17 14:42 te               /action goes insane
+2008-11-17 14:42 te               I am trying to use XMobar's Run Weather command
+2008-11-17 14:42 te               it only works for "EGPF"
+2008-11-17 14:42 te               all the other codes I use fail
+2008-11-17 14:48 sjanssen         te: I know that KLNK works also
+2008-11-17 14:50 te               im going insane man
+2008-11-17 14:50 te               none of them work
+2008-11-17 14:50 te               why not?
+2008-11-17 14:50 sjanssen         are you using valid codes?
+2008-11-17 14:50 te               KMSN is Madison, WI
+2008-11-17 14:51 te               I've looked it up at 8 places
+2008-11-17 14:51 sjanssen         which version of xmobar are you using?
+2008-11-17 14:52 te               the newest
+2008-11-17 14:52 sjanssen         http://weather.noaa.gov/pub/data/observations/metar/decoded/KMSN.TXT does seem to exist
+2008-11-17 14:52 lambdabot        http://tinyurl.com/5k5can
+2008-11-17 14:52 te               0.9
+2008-11-17 14:53 sjanssen         there might be a bug in xmobar's parser that you're trigerring
+2008-11-17 14:54 sjanssen         it used to have a problem with negative temperatures, but that should be fixed
+2008-11-17 14:54 te               sjanssen: yeah it's not negative here
+2008-11-17 14:54 te               HOWEVER, im looking at the difference
+2008-11-17 14:54 te               there are two extra lines in KMSN
+2008-11-17 14:55 te               and also, there is a WI in the first line of my KMSN.txt
+2008-11-17 14:55 te               I noticed a WI in Weather.hs
+2008-11-17 14:55 te               formatWeather [(WI st ss y m d h w v sk tC tF dp r p)] =
+2008-11-17 14:56 sjanssen         that's no problem
+2008-11-17 14:56 sjanssen         it seems to work okay here, with: Run Weather "KMSN" ["-t","<station>: <tempF>F"] 36000
+2008-11-17 14:57 sjanssen         which other monitors are you using?
+2008-11-17 14:58 te               let me change my formatting one sec
+2008-11-17 14:58 sjanssen         oh, did you remember to change the template string?
+2008-11-17 14:58 te                commands = [ Run Weather "KMSN" ["-t"," <tempF>F","-L","64","-H","77","--normal","green","--high","red","--low","lightblue"] 36000
+2008-11-17 14:58 te               sjanssen: no where is that?
+2008-11-17 14:58 sjanssen         te: template = "..."
+2008-11-17 14:59 te               /action looks
+2008-11-17 14:59 sjanssen         probably the last field
+2008-11-17 14:59 te               ONMG
+2008-11-17 14:59 te               /action smacks forehead...HARD
+2008-11-17 14:59 sjanssen         it most likely says %EGPF% :)
+2008-11-17 14:59 te               fuck me man, ive been sitting here playing with formatting for like an hour
+2008-11-17 14:59 te               fuck
+2008-11-17 14:59 te               thank you
+2008-11-17 14:59 te               ps, xmonad is my new favorite thing
+2008-11-17 15:00 te               i started on wmii, graduated to dwm, and now i have arrived
+2008-11-17 15:00 sjanssen         great!
+2008-11-17 15:00 te               i love the mirror setup
+2008-11-17 15:12 Mad_Marty        /join 
+2008-11-17 15:36 Darksair         /quit Read error: 60 (Operation timed out)
+2008-11-17 15:38 nikki_           /quit "Lost terminal"
+2008-11-17 16:20 a-9              /join 
+2008-11-17 16:56 yitz             /join 
+2008-11-17 17:03 e-Jah            /join 
+2008-11-17 17:03 e-Jah            hi
+2008-11-17 17:03 e-Jah            any idea how can I set a window in Fullscreen (without having to go through all the Layouts)
+2008-11-17 17:04 _A_Fantastic-B   /join 
+2008-11-17 17:10 erthad           /quit Read error: 104 (Connection reset by peer)
+2008-11-17 17:11 erthad           /join 
+2008-11-17 17:13 erthad           /quit Remote closed the connection
+2008-11-17 17:13 erthad           /join 
+2008-11-17 17:20 a-9              /quit Read error: 110 (Connection timed out)
+2008-11-17 17:23 erthad           /quit Remote closed the connection
+2008-11-17 17:24 erthad           /join 
+2008-11-17 17:34 Darksair         /join 
+2008-11-17 17:48 And1             /join 
+2008-11-17 17:48 a-9              /join 
+2008-11-17 17:53 Exteris          /join 
+2008-11-17 17:59 Darksair         /nick Darksair{away}
+2008-11-17 18:06 _A_Fantastic-B   /quit Read error: 110 (Connection timed out)
+2008-11-17 18:11 araujo           /join 
+2008-11-17 18:23 bla              /join 
+2008-11-17 18:25 Feuerbach        /join 
+2008-11-17 18:27 skorpan          /join 
+2008-11-17 18:52 skorpan          /quit Remote closed the connection
+2008-11-17 19:15 Exteris          /quit Remote closed the connection
+2008-11-17 19:21 ben1             /join 
+2008-11-17 19:24 ben1             does anyone know how to make FadeInactive (http://code.haskell.org/XMonadContrib/XMonad/Hooks/FadeInactive.hs) only display a single opaque window (the active one)?
+2008-11-17 19:24 lambdabot        http://tinyurl.com/6r5tgr
+2008-11-17 19:25 ben1             at the moment it displays one opaque window per screen
+2008-11-17 19:29 surgeon          /join 
+2008-11-17 19:40 Darksair{away}   /nick Darksair
+2008-11-17 20:03 LoneTech         I guess the issue is there's a focused window per workspace, and you see several workspaces.. (I'm new to this, so not very sure)
+2008-11-17 20:03 LoneTech         it seems to use withFocused to do the more opaque window
+2008-11-17 20:04 LoneTech         I wonder how the border does it
+2008-11-17 20:22 LoneTech         now I have checked the source and am more confused.
+2008-11-17 20:26 Feuerbach        LoneTech: why?
+2008-11-17 20:26 LoneTech         I don't find where focusedBorderColor does anything, only that it's allocated as a color
+2008-11-17 20:27 Mad_Marty        /nick Entroacceptor
+2008-11-17 20:27 Feuerbach        ah, you're talking about borders
+2008-11-17 20:28 Feuerbach        I was looking at FadeInactive, it should be relatively easy to fix
+2008-11-17 20:30 LoneTech         it sits in logHook.. perhaps that's only called for the focused screen?
+2008-11-17 20:30 LoneTech         if so, it never looks at another workspace, even though it's visible.. thus no fadeout on second monitor
+2008-11-17 20:31 Feuerbach        no, it's just 'visibleWins' which isn't aware of other visible screens
+2008-11-17 20:32 LoneTech         "Run a monadic action with the current stack set" (withWindowSet) includes all of them?
+2008-11-17 20:33 LoneTech         okay, I'm just confused about basic xmonad structure here. don't mind me.
+2008-11-17 20:35 Feuerbach        oh, you're right. It really includes visible screens
+2008-11-17 20:35 Feuerbach        W.current s : W.visible s
+2008-11-17 20:35 LoneTech         right. I just understood that line now.
+2008-11-17 20:41 Feuerbach        well, I see now
+2008-11-17 20:41 Feuerbach        the function 'unfocused' doesn't take into account whether it's visible or current screen
+2008-11-17 20:42 LoneTech         right
+2008-11-17 20:43 Feuerbach        how do you thinks guys, should we just fix that or add another hook with another behaviour?
+2008-11-17 20:43 LoneTech         so focus is ignored for every visible in the fadeout part
+2008-11-17 20:44 LoneTech         I think this is a bug, but am not sure this is the only possible hook that might be interested in visible but unfocused windows.
+2008-11-17 20:45 Feuerbach        I also doubt that someone is interested in focused window on inactive screen
+2008-11-17 20:45 LoneTech         so, this code needs to process W.visible s without using unfocused
+2008-11-17 20:46 Feuerbach        right
+2008-11-17 20:52 LoneTech         is !a some sort of notation for Maybe a? (looking at data Stack definition)
+2008-11-17 20:52 Feuerbach        no, !a is strictness annotation
+2008-11-17 20:53 Feuerbach        you can find detailed description in haskell wiki
+2008-11-17 20:53 Feuerbach        but you can ignore it for now
+2008-11-17 20:54 LoneTech         thanks
+2008-11-17 20:56 surgeon          /quit "Lost terminal"
+2008-11-17 20:58 aculich          /quit Read error: 60 (Operation timed out)
+2008-11-17 20:58 LoneTech         ah, allWindows may be useful.
+2008-11-17 20:58 LoneTech         /action is figuring out what utility functions are around
+2008-11-17 21:01 LoneTech         integrate does what I was first thinking of
+2008-11-17 21:01 Feuerbach        LoneTech: yep
+2008-11-17 21:02 Feuerbach        ben1: I've pushed the patch, can you test it?
+2008-11-17 21:06 adimit           schade.
+2008-11-17 21:06 adimit           aah. sorry wrong chan.
+2008-11-17 21:08 Entroacceptor    all these germans around....
+2008-11-17 21:10 LoneTech         wow, darcs is slow for an initial checkout.
+2008-11-17 21:11 adimit           Entroacceptor: I'm not German, but was talking to one :-)
+2008-11-17 21:14 a-9              /quit ":)"
+2008-11-17 21:18 ivanm            /quit Remote closed the connection
+2008-11-17 21:20 Feuerbach        /quit "roots, bloody roots"
+2008-11-17 21:21 Feuerbach        /join 
+2008-11-17 21:31 aculich          /join 
+2008-11-17 21:52 nottha_k         /join 
+2008-11-17 22:01 athos            /join 
+2008-11-17 22:05 Feuerbach        /quit Remote closed the connection
+2008-11-17 22:05 Feuerbach        /join 
+2008-11-17 22:22 ben1             hmm, when I try to build XMonadContrib from darcs I get "Failed to load interface for `Graphics.X11.Xlib.Extras':  no package matching X11-1.4.2 was found"
+2008-11-17 22:23 ben1             but I have the latest X11
+2008-11-17 22:24 Feuerbach        ben1: did you build xmonad (not XMonadContrib) from darcs?
+2008-11-17 22:30 yitz             /quit "Lost terminal"
+2008-11-17 22:31 uhsf             /join 
+2008-11-17 22:31 ben1             yes
+2008-11-17 22:31 ben1             xmonad built fine
+2008-11-17 22:36 Feuerbach        paste your `ghc-pkg list`
+2008-11-17 22:37 ben1             http://pastebin.com/d134cfaf7
+2008-11-17 22:41 aculich1         /join 
+2008-11-17 22:42 aculich          /quit Connection timed out
+2008-11-17 22:45 Feuerbach        ben1: on which stage of building do you get this error?
+2008-11-17 22:46 ben1             [ 49 of 140] Compiling XMonad.Layout.ShowWName ( XMonad/Layout/ShowWName.hs, dist/build/XMonad/Layout/ShowWName.o )
+2008-11-17 22:47 Feuerbach        ben1: did you do fresh darcs get of XMonadContrib or you updated an old repository?
+2008-11-17 22:47 ben1             fresh
+2008-11-17 22:47 fryguy           finally, i'm running xmonad fulltime at work
+2008-11-17 22:50 Feuerbach        fryguy: congrats :)
+2008-11-17 22:51 Feuerbach        ben1: you don't build with --user flag, do you?
+2008-11-17 22:51 ben1             no
+2008-11-17 22:56 ben1             that's strange, I just got a new copy of XMonadContrib and now it builds
+2008-11-17 22:56 Feuerbach        hmm. Can you diff those copies?
+2008-11-17 22:57 ben1             no sorry, I rm'd the old one before getting a new copy
+2008-11-17 22:58 ben1             hmm, but now when I try to build xmonad.hs I get: "ghc-6.8.2: unknown package: X11-1.4.2"
+2008-11-17 22:59 ben1             ah nvm
+2008-11-17 23:00 ben1             brb
+2008-11-17 23:01 ben1             /quit "WeeChat 0.2.6"
+2008-11-17 23:04 ben1             /join 
+2008-11-17 23:05 ben1             Feuerbach: ok, it's working not :)
+2008-11-17 23:05 ben1             Feuerbach: and the patch works perfectly :D
+2008-11-17 23:05 ben1             thanks
+2008-11-17 23:06 Feuerbach        great!
+2008-11-17 23:08 gwern            /join 
+2008-11-17 23:18 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-11-18 10:33 ManateeLazyCat   /join 
+2008-11-18 10:33 verne.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-18 10:57 bogner           rob|: but it can make your windows all so pleasantly hard to read!
+2008-11-18 11:06 gwern            /join 
+2008-11-18 11:08 e-Jah            is it possible when we do a Mod-Return to swap the focused window and the master window to switch back
+2008-11-18 11:08 e-Jah            without having to focus the old master window
+2008-11-18 11:16 dmwit            /join 
+2008-11-18 11:24 Darksair         /join 
+2008-11-18 11:25 Darksair         /quit Client Quit
+2008-11-18 11:27 ivanm            /join 
+2008-11-18 11:39 mephx            /join 
+2008-11-18 11:46 ksf              /join 
+2008-11-18 11:56 hml              /join 
+2008-11-18 11:58 hml              i've foudn the perfect layout; i need you help to make it happen. so i have this 1920x1080 monitor; I want it split into 4 equal portions, (2x2 grid); I want each portion to be a tabbed layout; and I want to have keyboard short cuts alt-1234 to focus on the 4 different portions, and when i'm inside a portion, i want to be able to alt-tab through the windows, and I want to be able to alt-shift-1234 to move the current window to a different portion
+2008-11-18 11:58 hml              how do I make this happen?
+2008-11-18 12:00 ksf              the easy, but afaict impossible way (it's just not intended) is to have four workspaces on one screen, the hard, but maybe less painful way is to define your own layout and do all the keybindings.
+2008-11-18 12:00 ksf              in any case,
+2008-11-18 12:00 ksf              @where real
+2008-11-18 12:00 lambdabot        http://book.realworldhaskell.org/read/ <-- the comprehensive xmonad configuration syntax reference
+2008-11-18 12:01 hml              ksf: how  is it easy and  impossible at the same time?
+2008-11-18 12:01 hml              it'd be easy if it's impossible?
+2008-11-18 12:02 hml              it'd be easy if it's *possible*?
+2008-11-18 12:02 gwern            something could be easy and impossible; if I had an oracle for the halting problem, that'd be easy to solve but of course that's impossible
+2008-11-18 12:02 ksf              "easy" in less configuration work, and as in "i don't really know enough about xmonad's core to say for sure that it isn't straigtforward". it's just that from what i know, i wouldn't bet on it.
+2008-11-18 12:05 ksf              you might be able to fool xmodad into thinking that your one screen is four xinerama screens, though, then the rest is just keeping the default behaviour.
+2008-11-18 12:05 ksf              (and not using more than 4 workspaces)
+2008-11-18 12:05 hml              dude; that'd be ingenious
+2008-11-18 12:05 sjanssen         hml: see the layoutscreens contrib
+2008-11-18 12:05 sjanssen         ksf: yes, xmonad can do this
+2008-11-18 12:05 hml              sjanssen: the four xinerama trick?
+2008-11-18 12:06 ryz              /join 
+2008-11-18 12:06 sjanssen         hml: no need to use xinerama
+2008-11-18 12:07 ksf              /action suddenly feels like a recently emptied vessel of eris
+2008-11-18 12:08 ksf              all that confusion, all that hope, all that fear, suddenly bereft of existence by mere knowledge.
+2008-11-18 12:09 sjanssen         ksf: you were on the right track, somebody just beat you to writing the code :)
+2008-11-18 12:09 hml              nice, layoutscreens  looks good
+2008-11-18 12:09 ksf              it usually turns out to be that way.
+2008-11-18 12:09 hml              is there somemthing like twopane, but the split is horizontal rather than vertical?
+2008-11-18 12:10 sjanssen         use Mirror
+2008-11-18 12:10 ksf              all i got to write was a lousy second version of the invisibility hook, and that one was even less complex than the original.
+2008-11-18 12:11 hml                  , ((modMask, xK_x     ), layoutScreens 3 (Mirror (TwoPane (TwoPane 0.5 0.5) 0.5)))
+2008-11-18 12:11 hml              hmm, I can't mmake that work
+2008-11-18 12:12 hml                 , ((modMask, xK_x     ), layoutScreens 4 (Mirror (TwoPane (TwoPane 0.5 0.5) (TwoPane 0.5 0.5))))
+2008-11-18 12:12 sjanssen         you want to mirror the interior layout, not the whole thing
+2008-11-18 12:12 hml              actually taht's what I really want
+2008-11-18 12:12 ksf              you can hook layouts into keybindings?
+2008-11-18 12:12 hml              sjanssen: can you paste me some code?
+2008-11-18 12:12 hml              sjanssen: or point me to a doc page i should read up on
+2008-11-18 12:13 ksf              (actually, it makes sense, as you can switch them using keys)
+2008-11-18 12:14 sjanssen         hml: oh, TwoPane isn't a composable layout
+2008-11-18 12:14 sjanssen         just use Tall, it will divide the screen in four even rectangles
+2008-11-18 12:15 hml                  , ((modMask, xK_x     ), layoutScreens 4 Tall)
+2008-11-18 12:15 hml              ?
+2008-11-18 12:15 hml              i'm an idiot
+2008-11-18 12:15 b4taylor         hml: horizontal twopane? Blasphemy.
+2008-11-18 12:15 ksf               (Mirror (TwoPane (TwoPane 0.5 0.5) (TwoPane 0.5 0.5))) won't ever typecheck, anyway.
+2008-11-18 12:16 sjanssen         http://xmonad.org/xmonad-docs/xmonad/XMonad-Layout.html#t%3ATall
+2008-11-18 12:16 lambdabot        Title: XMonad.Layout
+2008-11-18 12:16 hml              sjanssen: I got the  tall thing to work  now
+2008-11-18 12:16 ksf              'xept TwoPane got a Fractional instance, and i highly doubt that.
+2008-11-18 12:16 b4taylor         Hmmm, this TwoPane intruiges me.
+2008-11-18 12:16 b4taylor         /action reads docs.
+2008-11-18 12:18 b4taylor         Awesome, TwoPane looks like my grid replacement.
+2008-11-18 12:20 hml              when using layoutscreens, how does switching workspaces work?
+2008-11-18 12:20 hml              hitting  alt-1234
+2008-11-18 12:20 hml              i can't find the pattern of how my workspaces are being moved around
+2008-11-18 12:20 b4taylor         Awe damn. This means I need to rebind a key that moves to master.
+2008-11-18 12:21 b4taylor         Oh, sweet. mod+return was still bound.
+2008-11-18 12:21 ksf              hml, abandon reason and just work instinctively. worked for me.
+2008-11-18 12:21 hml              ksf: huh?
+2008-11-18 12:22 sjanssen         hml: the default screen bindings probably suck for you, try W.view instead of W.greedyView
+2008-11-18 12:22 dmwit            hml: It's very simple.
+2008-11-18 12:22 dmwit            hml: Whatever key you hit, the currently focused screen goes to that workspace.
+2008-11-18 12:22 dmwit            hml: If that workspace happens to be visible on another screen, well, nuts to that other screen, amirite?
+2008-11-18 12:23 hml              dmwit: that makes sense now; thanks! :-)
+2008-11-18 12:23 hml                  , ((modMask, xK_x     ), layoutScreens 4 (Tall 2 0.0 0.5))
+2008-11-18 12:24 hml              so I have a top left, bot left, top right ...  but now bot right frame
+2008-11-18 12:24 ksf              in other words, (greedyView n) . (greedyView n) = id
+2008-11-18 12:24 hml              *but no bot right frame*
+2008-11-18 12:24 sjanssen         hml: you probably don't have any windows on that workspace
+2008-11-18 12:25 ksf              sjanssen, aren't there just three default bindings for screens? mod w, mod e and another one.
+2008-11-18 12:26 sjanssen         ksf: yes; w, e, r
+2008-11-18 12:26 ksf              so it could prove difficult to switch to the fourth one.
+2008-11-18 12:26 sjanssen         yes, definitely :)
+2008-11-18 12:26 sjanssen         with the latest darcs you can click on the empty workspace to switch to it
+2008-11-18 12:26 hml              sjanssen: wow, this is so weird, is 'it needs a window in that workspace' a coding 'feature' ?
+2008-11-18 12:27 sjanssen         hml: what would it display if there is no window there?
+2008-11-18 12:27 ksf              hml, what would you want to do with it if it doesn't contain a thing?
+2008-11-18 12:27 sjanssen         hml: I'm assuming you have an blank space there, correct?
+2008-11-18 12:27 ksf              ('xept creating windows)
+2008-11-18 12:28 ksf              you can of course switch to it by switching workspaces around and then focusing a window that's there with the mouse.
+2008-11-18 12:29 hml              okay; so I have the following, workspace1=firefox, workspace4=empty; topleft=workspace1, botleft=workspace that is empty; now, I move my mouse cursor into  botleft, then I hit alt-1 ... and the firefox workspace does not move into  that regbion; however I can make it move into workspaces that already contain windows
+2008-11-18 12:29 ksf              this is were, as sjanssen pointed out, the latest darcs version differs from the original "let's keep the logic free of anything merely related to the real world"-philosophy.
+2008-11-18 12:30 sjanssen         ksf: what are you talking about?
+2008-11-18 12:30 ksf              creating windows on empty workspaces.
+2008-11-18 12:30 sjanssen         I don't think that is an accurate portrayal of xmonad's philosophy at any point
+2008-11-18 12:30 ksf              you can't activate an empty workspace with the mouse in 0.8
+2008-11-18 12:31 ksf              it's an accurate description of haskell's philosophy...
+2008-11-18 12:31 sjanssen         also not true
+2008-11-18 12:31 ksf              ...and code purity tends to spread into the real world, leading to behaviour that could be considered strange for programs.
+2008-11-18 12:32 sjanssen         I don't think you understand the real situation
+2008-11-18 12:32 ksf              I think I'm merely exaggerating.
+2008-11-18 12:33 sjanssen         purity has absolutely nothing to do with our previous handling of screens
+2008-11-18 12:34 ksf              well purity leads to certain design decisions and certain design decisions lead to certain behaviour.
+2008-11-18 12:35 ksf              it's more the _ideal_ that influences stuff, not the semantics.
+2008-11-18 12:35 sjanssen         hml: you'll want to do two things: upgrade to the latest darcs to get click-to-focus screens, and add an additional keybinding for your fourth screen
+2008-11-18 12:36 sjanssen         ksf: the screen behavior has nothing to do with the parts of xmonad's design which are influnced by purity
+2008-11-18 12:36 sjanssen         it's true, I promise :)
+2008-11-18 12:38 ksf              /action considers his argument to be best driven home later, when sjanssen doesn't pay attention.
+2008-11-18 12:39 ksf              ...in some different context, too.
+2008-11-18 12:39 sjanssen         you might be right if you were talking about some other behavior, but it just doesn't apply to this particular situation
+2008-11-18 12:40 ksf              I'm gonna have a look at the code after I've had some sleep.
+2008-11-18 12:47 b4taylor         Anyone familiar with GTK terminology?
+2008-11-18 12:48 b4taylor         I want to show a list of strings that will look like file browsing. Like in nautilus or thunar.
+2008-11-18 12:49 b4taylor         Any idea what the widget is called?
+2008-11-18 12:54 b4taylor         Actually I think a Tree will do what I want/need.
+2008-11-18 13:03 ksf              /quit Remote closed the connection
+2008-11-18 13:03 dmwit_           /join 
+2008-11-18 13:03 dmwit_           b4taylor: Dunno if you got your answer yet, but I believe the GtkTree stuff is what you want.
+2008-11-18 13:03 b4taylor         dmwit_: Yeah, after looking at Nafai's gtkmenu, I believe that to be the case too.
+2008-11-18 13:04 b4taylor         Thanks.
+2008-11-18 13:06 dmwit            /quit Read error: 110 (Connection timed out)
+2008-11-18 13:15 dmwit_           /nick dmwit
+2008-11-18 13:23 verne.freenode.net /names dmwit ryz hml mephx ivanm gwern ManateeLazyCat Flathead gaqzi xhanjian rob| SparFux tibbe Paul-S hramrach Nafai came0 sainthuck nottha_k bla araujo And1 erthad e-Jah Entroacceptor rine_ bogner guillermo Ycros te thingwath edmccaffrey adimit sutats taihen C-Keen clanehin_ mattp aeolist dylan sebbe1991 guinea loupgaroublond Absurd-Mind jones- s25_ tajkor transacid hanneso DRMacIver kamatsu theDon inimino davidL al_sh andrewsw byorgey jimt score  murjoh [31d1] iggly_ DuClare thedward Zepp chandlerc[g] dons preflex sjanssen semifor LoneTech Hunner nornagon ramok shepheb bmalee mornfall sscj fryguy Zao chandlerc nugtrio twifkak Michitux fabjan mauke ertai syntax _Raku_ lambdabot sereven regulate vegai thnee AlexanderS Shimei TheMoken|away allbery_b p_l fophillips xAFFE wjt b4taylor piroko rikur sillium  
+2008-11-18 13:23 ManateeLazyCat   Hi. I use cabal install Xmonad and got error "configure: error: X11 libraries not found, so X11 package cannot be built", but i have install X11 libraries(I use Debian, have install libx11-dev), so any help?
+2008-11-18 13:24 verne.freenode.net /names dmwit ryz hml mephx ivanm gwern ManateeLazyCat Flathead gaqzi xhanjian rob| SparFux tibbe Paul-S hramrach Nafai came0 sainthuck nottha_k bla araujo And1 erthad e-Jah Entroacceptor rine_ bogner guillermo Ycros te thingwath edmccaffrey adimit sutats taihen C-Keen clanehin_ mattp aeolist dylan sebbe1991 guinea loupgaroublond Absurd-Mind jones- s25_ tajkor transacid hanneso DRMacIver kamatsu theDon inimino davidL al_sh andrewsw byorgey jimt score  murjoh [31d1] iggly_ DuClare thedward Zepp chandlerc[g] dons preflex sjanssen semifor LoneTech Hunner nornagon ramok shepheb bmalee mornfall sscj fryguy Zao chandlerc nugtrio twifkak Michitux fabjan mauke ertai syntax _Raku_ lambdabot sereven regulate vegai thnee AlexanderS Shimei TheMoken|away allbery_b p_l fophillips xAFFE wjt b4taylor piroko rikur sillium  
+2008-11-18 13:25 rine             /join 
+2008-11-18 13:37 rine_            /quit Read error: 110 (Connection timed out)
+2008-11-18 13:44 dmwit_           /join 
+2008-11-18 13:46 hml              sjanssen: do i need latest darcs of xmonad-core  or xmonad-contrib ?
+2008-11-18 13:48 Nafai            ManateeLazyCat: You also need the Haskell x11 library
+2008-11-18 13:48 Nafai            ManateeLazyCat: libghc6-x11-dev or something similar
+2008-11-18 13:48 ManateeLazyCat   Nafai: Thanks! I try...
+2008-11-18 13:49 Nafai            np
+2008-11-18 13:50 Nafai            b4taylor: How's your gtk2hs going?
+2008-11-18 13:50 b4taylor         Nafai: I'm winding down for the night.
+2008-11-18 13:50 b4taylor         I'll probably finish it up tomorrow.
+2008-11-18 13:51 Nafai            Cool.
+2008-11-18 13:51 Nafai            Feel free to ask questions, if I'm around, I'll see if I can help
+2008-11-18 13:53 b4taylor         Thanks, but it's probably going to be straight forward from here on.
+2008-11-18 13:53 sjanssen         hml: both
+2008-11-18 13:53 ManateeLazyCat   Nafai: Today i update GHC 6.10.1 not use Debian's ghc6 package, but i found libxt-dev is not installed. 
+2008-11-18 13:54 sjanssen         hmm, I don't think we use libxt-dev
+2008-11-18 13:55 ManateeLazyCat   Nafai: Cabal look likes check X okay after i install libxt-dev, but download package is slow, I wait cabal downloading..... 
+2008-11-18 13:56 ManateeLazyCat   sjanssen: libghc6-x11-dev depends libx11-dev
+2008-11-18 13:56 sjanssen         yes
+2008-11-18 13:56 sjanssen         but not libxt-dev
+2008-11-18 13:57 sjanssen         hmm, I guess we do according to apt
+2008-11-18 13:57 sjanssen         interesting
+2008-11-18 13:57 ManateeLazyCat   sjanssen: Why? I check it, it depend libxt-dev
+2008-11-18 13:58 ManateeLazyCat   sjanssen: libghc6-x11-dev 's Depends: ghc6 (>= 6.8.2), ghc6 (<< 6.8.2+), libx11-dev, libxt-dev, libxinerama-dev
+2008-11-18 13:58 sjanssen         ManateeLazyCat: yes, I see that now
+2008-11-18 13:58 sjanssen         but it is strange, I don't think the actual source package uses the XT parts of X11
+2008-11-18 13:58 ManateeLazyCat   I want to know why cabal download package is so slow?
+2008-11-18 13:58 b4taylor         sjanssen: Prolly just inept apt packaging.
+2008-11-18 13:59 b4taylor         I'm a little more proud of myself for that line than I think I should be.
+2008-11-18 14:00 dmwit            /quit Read error: 110 (Connection timed out)
+2008-11-18 14:01 b4taylor         ManateeLazyCat: Because hackage.haskell.org is overloaded/slow right now?
+2008-11-18 14:02 b4taylor         I'd imagine that hackage is mirrored though.
+2008-11-18 14:02 b4taylor         I don't use cabal-install personally.
+2008-11-18 14:03 b4taylor         Ha! I didn't realize that the tarball for all the latest versions of packages was 30MB.
+2008-11-18 14:03 ManateeLazyCat   b4taylor: I don't know, but i use cabal install Xmonad, and cabal download X11-xft-0.3 long time.
+2008-11-18 14:04 sjanssen         ManateeLazyCat: ahh, you were having trouble with libxft-dev, not libxt-dev
+2008-11-18 14:05 ManateeLazyCat   sjanssen: No, is libxt-dev. 
+2008-11-18 14:05 ManateeLazyCat   sjanssen: Before i install libxt-dev, cabal can't pass check for X libraries.
+2008-11-18 14:06 b4taylor         Sweet, hayoo isn't broken anymore.
+2008-11-18 14:06 b4taylor         ManateeLazyCat: Does "ghc-pkg check" return any errors?
+2008-11-18 14:07 ManateeLazyCat   b4taylor: No, not any errors 
+2008-11-18 14:08 b4taylor         Not that it mattered, but it would tell me if you break and don't fix packages.
+2008-11-18 14:08 ManateeLazyCat   b4taylor: Now i have install libxt-dev, and cabal have pass check for X libraries, but download is slow, so i'm wait result cabal.
+2008-11-18 14:09 sjanssen         libxt-dev is not actually required to build X11 on Ubuntu 8.10
+2008-11-18 14:09 sjanssen         ManateeLazyCat: I think libxt-dev must have pulled in another package you were missing
+2008-11-18 14:11 b4taylor         I wonder if that summer of code project for extending cabal s.t. some uncabalizible packages could be cabalized ever worked out.
+2008-11-18 14:11 dmwit_           /quit Read error: 104 (Connection reset by peer)
+2008-11-18 14:11 ManateeLazyCat   sjanssen: Yeah, it's not require to build X11, problem is i use Debian to install GHC 6.8.2, and everything is okay, but today i install GHC 6.10.1 with binary package, and look likes missing some X11 libraries.
+2008-11-18 14:11 sjanssen         b4taylor: I heard code was produced, but it's a long road to integrate all of it
+2008-11-18 14:11 dmwit_           /join 
+2008-11-18 14:12 e-Jah            I profit sjanssen is here to ask my question again, maybe you could give me more information on how to accomplish that :) how can I set a window in Fullscreen or tell it to use Full layout directly, without having to go through all the Layouts
+2008-11-18 14:14 ManateeLazyCat   sjanssen: I think i missing libghc6-x11-dev like you say, but i don't want install GHC at Debian sources, so i install depends that libghc6-x11-dev that need.
+2008-11-18 14:14 sereven          e-Jah: look at Layout.MultiToggle and ToggleLayouts modules documentation to make toggle Full
+2008-11-18 14:17 e-Jah            thanks sereven
+2008-11-18 14:22 e-Jah            sereven: great thanks, ToggleLayouts did the trick :)
+2008-11-18 14:22 sereven          good. glad you're set.
+2008-11-18 14:22 e-Jah            now I just wish I could toggle layout for all the screens at the same time...
+2008-11-18 14:22 e-Jah            any idea? :)
+2008-11-18 14:25 sjanssen         e-Jah: use broadcastMessage rather than sendMessage
+2008-11-18 14:32 e-Jah            sjanssen: thanks for the advice, unfortunately it isn't working right. I will look more at it, maybe I just made something wrong
+2008-11-18 14:34 Exteris          /join 
+2008-11-18 14:35 e-Jah            ho
+2008-11-18 14:35 e-Jah            in fact it's working
+2008-11-18 14:35 e-Jah            but the effect is not instantaneous
+2008-11-18 14:36 e-Jah            sjanssen: after have broadcastMessage I have to move my mouse to get it done
+2008-11-18 14:36 e-Jah            is it an issue or I am missing something?
+2008-11-18 14:36 e-Jah            My config looks like that:
+2008-11-18 14:36 e-Jah            ((mod4Mask .|. shiftMask, xK_f), broadcastMessage (Toggle "Full"))
+2008-11-18 14:36 sjanssen         oh, you also need to refresh the screen when using broadcastMessage
+2008-11-18 14:38 e-Jah            ha ok :) ho can I modify my settings to accomplish that?
+2008-11-18 14:39 sjanssen         stick >> refresh at the end
+2008-11-18 14:40 e-Jah            sjanssen: perfect!
+2008-11-18 14:40 e-Jah            sjanssen: thank you very much :)
+2008-11-18 14:40 Flathead         /quit "Leaving"
+2008-11-18 14:41 sjanssen         do we have a disproportionate number of xmonad users on reddit, or are there just tons of xmonad users?
+2008-11-18 14:42 sjanssen         it seems like every time the subject of WMs comes up on reddit, I see a comment about xmonad
+2008-11-18 14:42 ManateeLazyCat   I have build XMonad use cabal success, but when install XMonad-contrilb use cabal got error "xmonad-contrib-0.8 failed during the building phase", and xmonad-utils have same problem. Any ideas?
+2008-11-18 14:43 sjanssen         ManateeLazyCat: contrib might not be 6.10 compatible yet
+2008-11-18 14:43 e-Jah            one more question, I love the functionality Mod-Enter to switch the focus window to master pane, but is it possible to have the reverse effect once we do the shortcut again?
+2008-11-18 14:44 ManateeLazyCat   sjanssen: Oh, too bad.
+2008-11-18 14:44 sjanssen         e-Jah: not really
+2008-11-18 14:44 ManateeLazyCat   sjanssen: Are you use XMonad with 6.10? Stable? Buggy?
+2008-11-18 14:45 e-Jah            ok, anyway I guess with the Togglt shortcut it's enough. I often swith some window to the master pane just for a quick look, so it would have be nice to be able to switch back
+2008-11-18 14:46 e-Jah            but as now I can put the window in full screen in just one shortcut, should be enough
+2008-11-18 14:46 sjanssen         ManateeLazyCat: I'm on 6.8
+2008-11-18 14:46 tibbe            /quit 
+2008-11-18 14:46 sjanssen         ManateeLazyCat: I think the darcs version of xmonad and contrib have some fixes for GHC 6.10
+2008-11-18 14:47 ManateeLazyCat   sjanssen: Oh, thanks I have to darcs version of xmonad
+2008-11-18 14:48 ManateeLazyCat   sjanssen: I want to ask a question, how to uninstall xmonad use cabal?
+2008-11-18 14:49 sjanssen         ManateeLazyCat: cabal doesn't support uninstall
+2008-11-18 14:50 sjanssen         you can "ghc-pkg unregister xmonad" to make GHC forget about the xmonad package, but it won't delete the files
+2008-11-18 14:50 mephx            /quit Read error: 113 (No route to host)
+2008-11-18 14:51 ManateeLazyCat   sjanssen: This way is safe? Delete xmonad file or directory in "~/.cabal/packages/hackage.haskell.org/" and use "ghc-pkg unregister xmonad".
+2008-11-18 14:54 sjanssen         ManateeLazyCat: that still leaves files behind
+2008-11-18 14:54 ManateeLazyCat   sjanssen: Delete correspond files in "~/.cabal/" and use "ghc-pkg unregister PackageName" equal uninstall?
+2008-11-18 14:54 sjanssen         ManateeLazyCat: there are more files than the ones in /packages
+2008-11-18 14:55 sjanssen         ManateeLazyCat: there will also be files in .cabal/lib
+2008-11-18 14:55 ManateeLazyCat   sjanssen: So delete all files or directory in "~/.cabal", it's okay?
+2008-11-18 14:55 sjanssen         ManateeLazyCat: you don't want to do that, that will delete way more than just xmonad
+2008-11-18 14:56 ManateeLazyCat   sjanssen: How to do?
+2008-11-18 14:57 ManateeLazyCat   sjanssen: Strange, why cabal not support uninstall?
+2008-11-18 14:57 sjanssen         reading the awesome bug tracker is interesting, seeing some issues that we've encountered in the past http://awesome.naquadah.org/bugs/index.php?do=details&task_id=334 (easy fix)
+2008-11-18 14:57 lambdabot        Title: FS#334 : Ghosting windows on dualhead
+2008-11-18 14:57 sjanssen         ManateeLazyCat: it just doesn't
+2008-11-18 14:57 sjanssen         personally, I would not worry too much about the few files it leaves behind
+2008-11-18 14:59 ManateeLazyCat   sjanssen: So you mean is it's no problem if i leaves old version files of XMonad?
+2008-11-18 15:00 aculich          /join 
+2008-11-18 15:01 sjanssen         ManateeLazyCat: yes, it won't hurt anything
+2008-11-18 15:01 ManateeLazyCat   sjanssen: Thank you very much! 
+2008-11-18 15:01 ManateeLazyCat   :)
+2008-11-18 15:02 sjanssen         man, the code in refresh is absolutely gross
+2008-11-18 15:02 sjanssen         I can't believe I wrote most of it :/
+2008-11-18 15:03 ManateeLazyCat   sjanssen: Are you use gtk2hs, can compatible with 6.10?
+2008-11-18 15:04 sjanssen         ManateeLazyCat: I don't know whether it is
+2008-11-18 15:04 ManateeLazyCat   sjanssen: http://www.haskell.org/gtk2hs/. I think it's okay if i use darcs version.
+2008-11-18 15:04 lambdabot        Title: Gtk2Hs
+2008-11-18 15:12 ManateeLazyCat   sjanssen: darcs version just have xmonad and xmonad-contrib, not have xmonad-utils?
+2008-11-18 15:14 sjanssen         ManateeLazyCat: the darcs repo for xmonad-utils is somewhere, but I can't remember where
+2008-11-18 15:15 sjanssen         ManateeLazyCat: xmonad-utils is not required, by the way
+2008-11-18 15:16 ManateeLazyCat   sjanssen: Thanks
+2008-11-18 15:20 dmwit_           /quit Read error: 104 (Connection reset by peer)
+2008-11-18 15:20 dmwit_           /join 
+2008-11-18 15:25 dmwit_           /quit Read error: 104 (Connection reset by peer)
+2008-11-18 15:26 dmwit_           /join 
+2008-11-18 15:26 tibbe            /join 
+2008-11-18 15:32 ManateeLazyCat   sjanssen: Looks like ghc 6.10 have many problem, now gtk2hs darcs version compile error. It's make me crazy... I will back to GHC 6.8, wait those compatible problem fixed
+2008-11-18 15:33 tibbe            /quit 
+2008-11-18 15:33 dmwit_           That's probably a wise move, over all.
+2008-11-18 15:34 twifkak          fun fact: the only english word that rhymes with "Haskell" is "rascal"
+2008-11-18 15:35 dmwit_           Do you require double rhymes?
+2008-11-18 15:35 dmwit_           "skull", "cull", "mull" all seem to fit if not.
+2008-11-18 15:40 twifkak          hrm. indeed.
+2008-11-18 15:40 twifkak          though using them in the "deemphasized" tone is a little difficult.
+2008-11-18 15:40 dmwit_           right
+2008-11-18 15:40 twifkak          the rhyming dictionary only turned up rascal. boo rhyming dictionary.
+2008-11-18 15:53 sjanssen         I wonder if it better to unmap old windows before mapping windows or vice versa ...
+2008-11-18 15:53 twifkak          example?
+2008-11-18 15:54 sjanssen         in XMonad.Operations.windows we do the latter
+2008-11-18 15:54 sjanssen         we map all windows that should be visible, then we unmap all windows that should not be visible
+2008-11-18 15:54 twifkak          causing potential double paint?
+2008-11-18 15:55 sjanssen         possibly
+2008-11-18 15:55 sjanssen         though the visible windows may be higher in the stacking order
+2008-11-18 15:56 twifkak          may, and probably are. hrm, i wonder if that has to do with this pixel motion.
+2008-11-18 15:56 sjanssen         pixel motion?
+2008-11-18 15:56 twifkak          when i move from urxvt to firefox (both unbordered), the urxvt content shifts down and right a pixel before being painted over
+2008-11-18 15:56 sjanssen         I'm testing, and the one problem is that you see a flicker of the root window when changing workspaces
+2008-11-18 15:57 sjanssen         twifkak: nah, that's unrelated
+2008-11-18 15:57 twifkak          ohk
+2008-11-18 15:57 sjanssen         smartBorders removes the border before xmonad has a chance to unmap
+2008-11-18 15:57 twifkak          okay
+2008-11-18 15:57 twifkak          well, root flicker bad
+2008-11-18 15:58 sjanssen         it is a bit annoying
+2008-11-18 15:58 twifkak          i switch workspaces relentlessly sometimes, and it would be quite annoying.
+2008-11-18 15:59 sjanssen         you'll always see some flicker, it's just whether the flicker involves the root window or the contents of your old windows
+2008-11-18 16:00 sjanssen         the contents of old windows look similar to the contents of the new windows, so you might not notice as much
+2008-11-18 16:00 twifkak          i don't see any flicker now.
+2008-11-18 16:01 twifkak          new windows get mapped. if above, then painting, and then old unmapping causes no repainting. if below, then no painting until old unmapped. right?
+2008-11-18 16:01 sjanssen         you'd probably notice when switching between workspaces of different colors
+2008-11-18 16:02 sjanssen         twifkak: well, you get a mix of the two when some windows are higher and some are lower
+2008-11-18 16:02 twifkak          well, i'm giving myself a headache tryring to reproduce (just opened a bright red term to switch to) - perhaps it's faster than my monitor's refresh?
+2008-11-18 16:02 sjanssen         I don't notice the flicker at all when my background is plain white, but that hardly helps :)
+2008-11-18 16:03 sjanssen         you might actually see no flicker if the newly mapped windows are higher in the stacking order
+2008-11-18 16:03 twifkak          what's wrong with my logic above? seems to me no flicker. just maybe not all windows painted at the same time.
+2008-11-18 16:04 sjanssen         the logic is okay
+2008-11-18 16:05 sjanssen         I worry about cases where half the window is exposed, but the other half is obscured
+2008-11-18 16:06 twifkak          okay.
+2008-11-18 16:06 sjanssen         and I think there might be some performance gain when mapping applications and exposing them simultaneously
+2008-11-18 16:06 twifkak          ooh, benchmark it! :)
+2008-11-18 16:06 sjanssen         actually, if they're below there will be two paints
+2008-11-18 16:06 twifkak          okay, i have to sleep. presentation tomorrow.
+2008-11-18 16:06 sjanssen         because windows only receive expose events, never obscure events
+2008-11-18 16:06 sjanssen         g'night
+2008-11-18 16:06 twifkak          night
+2008-11-18 16:06 sjanssen         /action searches for precedent in other WMs
+2008-11-21 18:01 ManateeLazyCat   /join 
+2008-11-21 18:01 kornbluth.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-21 18:14 a-9              /join 
+2008-11-21 18:21 a-9              /quit ":)"
+2008-11-21 18:28 guinea           /join 
+2008-11-21 18:46 zerny            /join 
+2008-11-21 18:56 jnwhiteh         /join 
+2008-11-21 19:15 aculich          /join 
+2008-11-21 19:23 nikki93          /join 
+2008-11-21 20:38 Debugger         /join 
+2008-11-21 21:15 aculich          /quit Read error: 60 (Operation timed out)
+2008-11-21 21:43 mephx            /join 
+2008-11-21 22:03 te__             /join 
+2008-11-21 22:14 skorpan          /join 
+2008-11-21 22:16 skorpan          /quit Remote closed the connection
+2008-11-21 22:23 zerny            /part #xmonad "ERC Version 5.3 (IRC client for Emacs)"
+2008-11-21 22:25 aculich          /join 
+2008-11-21 22:26 te__             /quit Connection timed out
+2008-11-21 22:45 mephx            /quit No route to host
+2008-11-21 22:53 te               /join 
+2008-11-21 23:18 te               /quit Remote closed the connection
+2008-11-21 23:24 te               /join 
+2008-11-21 23:24 uhsf             /join 
+2008-11-21 23:37 dmwit__          /join 
+2008-11-22 18:03 ManateeLazyCat   /join 
+2008-11-22 18:03 niven.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-22 18:27 pen              thx anyway cya guys
+2008-11-22 18:27 pen              /part #xmonad 
+2008-11-22 18:35 nikki93          /join 
+2008-11-22 18:35 nikki93          How do I resize a window on SimpleFloat?
+2008-11-22 18:36 dmwit            /join 
+2008-11-22 18:38 shepheb          nikki93: drag the bottom-right corner
+2008-11-22 18:47 dmwit            /quit Read error: 104 (Connection reset by peer)
+2008-11-22 18:48 dmwit            /join 
+2008-11-22 18:53 SparFux          /join 
+2008-11-22 18:53 SparFux          Hi! I want to use window transparency, but xcompmgr give a lot of errors like: "error 177 request 154 minor 8 serial 16570" with the last number counting up. What can I do?
+2008-11-22 18:56 sjanssen         SparFux: sounds like your server/driver doesn't have support for the necessary extensions?
+2008-11-22 18:57 SparFux          I have composite enabled.
+2008-11-22 18:57 SparFux          xdpyinfo | grep Composite returns Composite.
+2008-11-22 18:58 SparFux          That's the extension I need.
+2008-11-22 19:00 sjanssen         I dunno
+2008-11-22 19:00 sjanssen         all I can say is "works for me"
+2008-11-22 19:01 SparFux          perhaps I need  xcompmgr DAMAGE and XFIXES extensions too.
+2008-11-22 19:01 SparFux          what graphics card do you use?
+2008-11-22 19:01 sjanssen         some old nvidia card
+2008-11-22 19:01 SparFux          hm...
+2008-11-22 19:01 sjanssen         MX 440
+2008-11-22 19:01 SparFux          you use xcompmgr?
+2008-11-22 19:02 sjanssen         not usually, but it does work
+2008-11-22 19:02 SparFux          what extensions do you have installed? xdpyinfo output?
+2008-11-22 19:03 SparFux          do you see the background image behind transparent windows?
+2008-11-22 19:03 sjanssen         I have too many extensions to list
+2008-11-22 19:04 sjanssen         xcompmgr's man page says that XFIXES, DAMAGE and COMPOSITE are required.  Do you have all of those?
+2008-11-22 19:05 guinea_          /join 
+2008-11-22 19:07 SparFux          Yes, I have these.
+2008-11-22 19:07 SparFux          Do you use Xorg or XFree?
+2008-11-22 19:08 sjanssen         Xorg
+2008-11-22 19:09 dabd             /join 
+2008-11-22 19:09 SparFux          Strange.
+2008-11-22 19:12 SparFux          Do you have XRender extension? I only have Render.
+2008-11-22 19:13 justcme          /join 
+2008-11-22 19:13 sjanssen         those are just two names for the same thing
+2008-11-22 19:14 SparFux          are you sure?
+2008-11-22 19:14 sjanssen         I'm fairly certain
+2008-11-22 19:14 sjanssen         I have RENDER in my list of extensions
+2008-11-22 19:14 SparFux          I see.
+2008-11-22 19:15 SparFux          The bug is listed in debian bug reports for xcompmgr! :-)
+2008-11-22 19:15 SparFux          But no solution.
+2008-11-22 19:15 SparFux          It might really be there is some dependency missing.
+2008-11-22 19:16 SparFux          But I cannot find any homepage telling me what compile requirements of anything xcompmgr needs.
+2008-11-22 19:18 Entroacceptor    not much
+2008-11-22 19:18 SparFux          It would look really nice with transparency.
+2008-11-22 19:19 Entroacceptor    and shadows
+2008-11-22 19:19 SparFux          Wtih this picture: http://ljplus.ru/img2/p/y/pycaky/Snow-Covered-Trees,-Varmland,-Sweden.jpg
+2008-11-22 19:19 SparFux          :-D
+2008-11-22 19:19 lambdabot        http://tinyurl.com/66bsjl
+2008-11-22 19:19 Entroacceptor    maybe
+2008-11-22 19:22 Entroacceptor    I've tried hacking around in the xcompmgr source
+2008-11-22 19:22 Entroacceptor    to make "focus shadows"
+2008-11-22 19:23 Entroacceptor    and it doesn't depend on much
+2008-11-22 19:24 Entroacceptor    you could just try to build it yourself
+2008-11-22 19:32 lnxz             /join 
+2008-11-22 19:41 sbahra           /join 
+2008-11-22 19:46 justcme          /quit "WeeChat 0.2.6"
+2008-11-22 20:06 ajhager          /join 
+2008-11-22 20:07 herself          /part #xmonad ";P"
+2008-11-22 20:09 surgeon          /join 
+2008-11-22 20:25 Philonous        /join 
+2008-11-22 20:25 plcplc           /join 
+2008-11-22 20:32 Philonous        /quit Remote closed the connection
+2008-11-22 21:16 Paul-S           /join 
+2008-11-22 21:27 Darksair         /join 
+2008-11-22 21:33 Paul-S           /quit "Lost terminal"
+2008-11-22 21:39 Paul-S           /join 
+2008-11-22 21:43 dmwit            /quit Read error: 104 (Connection reset by peer)
+2008-11-22 21:44 dmwit            /join 
+2008-11-22 21:45 Philonous        /join 
+2008-11-22 21:48 aeolist          /join 
+2008-11-22 21:49 aeolist          /quit Client Quit
+2008-11-22 21:57 aeolist          /join 
+2008-11-22 22:00 aeolist          /quit Client Quit
+2008-11-22 22:00 skorpan          /join 
+2008-11-22 22:00 aeolist          /join 
+2008-11-22 22:06 te               /join 
+2008-11-22 22:13 nikki93          Hey guys! Is there anyway to get the SimpleFloat layout to display the titlebar for the full length of the window, and possible with an 'x' close button?
+2008-11-22 22:13 nikki93          I usually use tiled mode, for sure, but this is for those 'rare floatation' moments. (like friend using computer)
+2008-11-22 22:14 nikki93          *full width
+2008-11-22 22:25 Feuerbach        /join 
+2008-11-22 22:29 dmwit_           /join 
+2008-11-22 22:36 LoneTech         possible, yes.. the question is how much programming, and I don't know
+2008-11-22 22:37 rcirc.el         /error irc.freenode.net: connection broken by remote peer (closed)
+2008-11-23 21:07 ManateeLazyCat   /join 
+2008-11-23 21:07 clarke.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-23 21:07 aculich          /join 
+2008-11-23 21:13 vegai            /join 
+2008-11-23 21:16 pierre-          /join 
+2008-11-23 21:20 vegai            /quit Read error: 104 (Connection reset by peer)
+2008-11-23 21:20 vegai            /join 
+2008-11-23 21:53 dmwit__          /join 
+2008-11-23 21:55 ajhager_         /join 
+2008-11-23 21:55 ajhager_         /quit Client Quit
+2008-11-23 21:57 surgeon          /join 
+2008-11-23 22:13 ertai            what font have a good unicode support to be used as a terminal font
+2008-11-23 22:14 p_l              Consolas?
+2008-11-23 22:14 p_l              but it screws JIS-ART, remember
+2008-11-23 22:17 surgeon          /quit "Lost terminal"
+2008-11-23 22:18 surgeon          /join 
+2008-11-24 08:35 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-11-24 09:58 ManateeLazyCat   /join 
+2008-11-24 09:58 zelazny.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-24 10:02 gwern            @where real
+2008-11-24 10:02 lambdabot        http://book.realworldhaskell.org/read/ <-- the comprehensive xmonad configuration syntax reference
+2008-11-24 10:27 Darksair         /join 
+2008-11-24 10:30 sjanssen         gwern: did this haddock section thing work in previous versions?
+2008-11-24 10:31 gwern            sjanssen: I have no idea. we'd have to ask someone with 0.8 to try I guess
+2008-11-24 10:31 gwern            (since I don't think anything earlier would work with xmc)
+2008-11-24 10:31 sjanssen         I would imagine it must have worked -- why else would they be there in the first place?
+2008-11-24 10:31 gwern            *haddock 0.8
+2008-11-24 10:31 sjanssen         gwern: for now, I think the resolution should be to remove the section links
+2008-11-24 10:31 sjanssen         I'm a bit tired of hearing about the broken links
+2008-11-24 10:31 gwern            sjanssen: perhaps people simply borrowed it from mediawiki markup
+2008-11-24 10:32 gwern            where [[foo#bar]] does in fact take you to section bar in article foo
+2008-11-24 10:32 sjanssen         possible
+2008-11-24 10:32 sjanssen         actually, shouldn't these docs be wiki pages anyway?
+2008-11-24 10:33 gwern            the specific 'Extending' module you mean?
+2008-11-24 10:33 sjanssen         all of XMonad.Doc*
+2008-11-24 10:33 sjanssen         what is the advantage to having these in source code?
+2008-11-24 10:33 gwern            I think we discussed keeping the docs out of the repo, yes, but we decided that then they wouldn't be obviously available to darcs users
+2008-11-24 10:33 gwern            nor would they get packaged up
+2008-11-24 10:33 gwern            and they would get out of sync
+2008-11-24 10:34 sjanssen         it is true that they wouldn't be packaged, but I don't think the out of sync thing applies
+2008-11-24 10:34 gwern            /action is merely summarizing what I remember from the discussions here back around 0.2 or something like that
+2008-11-24 10:35 sjanssen         gwern: if you look at the doc modules, there isn't any actual code in them, nothing to guarantee that the prose is in sync with the code
+2008-11-24 10:35 sjanssen         we could also mirror the wiki's text in the repo, so all source users have a copy to reference
+2008-11-24 10:36 gwern            how would we sync wiki and darcs versions?
+2008-11-24 10:37 chandler1        sjanssen: didn't you work on xmobar?
+2008-11-24 10:37 sjanssen         I guess one advantage to the docs is that it is easy to link to modules
+2008-11-24 10:37 sjanssen         chandler1: yes, I work on it occasionally
+2008-11-24 10:37 chandler1        sjanssen: i have two bugs, one more important than the other
+2008-11-24 10:37 abbe             /join 
+2008-11-24 10:37 chandler1        one, it doesn't work with ghc 6.10
+2008-11-24 10:37 chandler1        two, it has a memory leak, the strings displayed aren't getting GC'ed correctly
+2008-11-24 10:38 sjanssen         gwern: require that all edits happen on the wiki, and periodically (every release or so) update the copy in darcs
+2008-11-24 10:38 chandler1        (easy to repro that one, just scroll threw diff window titles fast, watch the memory footprint grow)
+2008-11-24 10:38 sjanssen         chandler1: I don't use GHC 6.10, so I can't help with the first issue
+2008-11-24 10:38 chandler1        damn
+2008-11-24 10:38 chandler1        that's the one that won't even let me install it
+2008-11-24 10:38 sjanssen         chandler1: also, "doesn't work" isn't helpful at all
+2008-11-24 10:39 chandler1        i can paste the error, but i doubt it'll help
+2008-11-24 10:39 chandler1        ok, fair enough
+2008-11-24 10:39 chandler1        lame bug report on my part
+2008-11-24 10:39 sjanssen         chandler1: ah, compile error?  Feel free to paste it, we might be able to figure it out
+2008-11-24 10:39 sjanssen         I was expecting some sort of run time error which is more difficult
+2008-11-24 10:39 gwern            sjanssen: sounds kind of icky
+2008-11-24 10:40 chandler1        sjanssen: here:
+2008-11-24 10:40 chandler1        Plugins/StdinReader.hs:29:15:
+2008-11-24 10:40 chandler1            Ambiguous type variable `e' in the constraint:
+2008-11-24 10:40 chandler1              `GHC.Exception.Exception e'
+2008-11-24 10:40 chandler1                arising from a use of `catch' at Plugins/StdinReader.hs:29:15-78
+2008-11-24 10:40 chandler1            Probable fix: add a type signature that fixes these type variable(s)
+2008-11-24 10:40 chandler1        this is out of darcs btw, not the release
+2008-11-24 10:40 sjanssen         chandler1: re: the second issue, are you absolutely certain xmobar is actually leaking memory, or is it just small growth due to garbage collection?
+2008-11-24 10:40 dmwit__          /join 
+2008-11-24 10:40 chandler1        sjanssen: i can get its resident memory to be 60mb
+2008-11-24 10:41 chandler1        once it was 80mb
+2008-11-24 10:41 chandler1        seems a bit much for xmobar. ;]
+2008-11-24 10:41 sjanssen         ah, I've never seen that
+2008-11-24 10:41 sjanssen         do you use xft?
+2008-11-24 10:41 chandler1        yes
+2008-11-24 10:41 chandler1        (i think)
+2008-11-24 10:41 sjanssen         well, what does your font string look like?
+2008-11-24 10:41 chandler1        as soon as i get it installed, i'll repro, and make sure its not just the version i have installed on the other machine
+2008-11-24 10:42 chandler1        ^^, haven't repro'ed on this machine yet... hmm, but i do have access to one with it.
+2008-11-24 10:42 chandler1        "xft:Monospace-9"
+2008-11-24 10:42 sjanssen         chandler1: yeah, xft fonts might leak
+2008-11-24 10:43 sjanssen         I use a core font, and it doesn't leak
+2008-11-24 10:43 chandler1        interesting
+2008-11-24 10:43 chandler1        is it actually an X issue?
+2008-11-24 10:43 sjanssen         nah, probably an xmobar problem
+2008-11-24 10:43 chandler1        mk
+2008-11-24 10:43 sjanssen         one that only manifests in the xft code path
+2008-11-24 10:43 chandler1        lemme know if i can help diagnose in any way
+2008-11-24 10:43 chandler1        (once its installed that is)
+2008-11-24 10:44 sjanssen         chandler1: it would be helpful to make sure it is an xft thing -- reproduce the bug with xft on, and determine that it doesn't appear without xft
+2008-11-24 10:44 sjanssen         /action kind of dislikes GHC's new exception mechanism
+2008-11-24 10:44 sjanssen         "catch (hGetLineSafe stdin) (\e -> do hPrint stderr e; return "")" should that code really be illegal?
+2008-11-24 10:45 sjanssen         chandler1: the GHC 6.10 issue should be fixed in darcs now
+2008-11-24 13:36 ManateeLazyCat   /join 
+2008-11-24 13:36 verne.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-24 13:36 Debugger         Then, get it and compile :(
+2008-11-24 13:36 pen              get it...where?
+2008-11-24 13:37 Debugger         google: x11 xft
+2008-11-24 13:37 Debugger         First link
+2008-11-24 13:37 shepheb          direct from hackage, probably
+2008-11-24 13:38 pen              should I get 0.3? or just for safe 0.2?
+2008-11-24 13:38 shepheb          newest versions
+2008-11-24 13:38 pen              0.3?
+2008-11-24 13:39 pen              but I think I see 0.4?
+2008-11-24 13:40 shepheb          0.3 is good
+2008-11-24 13:40 pen              ok
+2008-11-24 13:40 pen              how to install it?
+2008-11-24 13:40 pen              there is no makefile
+2008-11-24 13:40 shepheb          no. the standard Cabal dance is thus:
+2008-11-24 13:40 shepheb          runghc Setup configure --user --prefix=$HOME
+2008-11-24 13:41 shepheb          runghc Setup build
+2008-11-24 13:41 shepheb          runghc Setup install
+2008-11-24 13:41 pen              so prefix is home for the most part?
+2008-11-24 13:41 shepheb          generally, yes
+2008-11-24 13:41 pen              ok I will try that
+2008-11-24 13:43 pen              it says it cannot found pkg-config package xft
+2008-11-24 13:43 pen              ??
+2008-11-24 13:44 Debugger         Install the xft development package from debian..
+2008-11-24 13:44 pen              you mean by libxft2-dev?
+2008-11-24 13:44 Debugger         Probably
+2008-11-24 13:44 pen              or libxft-dev?
+2008-11-24 13:45 Debugger         No idea :/
+2008-11-24 13:45 pen              maybe I will just install 2
+2008-11-24 13:47 pen              it works
+2008-11-24 13:48 pen              weird
+2008-11-24 13:49 pen              after I install xft 0.3
+2008-11-24 13:49 pen              it still says X11-xft is missing
+2008-11-25 11:47 ManateeLazyCat   /join 
+2008-11-25 11:47 calvino.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-25 11:51 xuser            /join 
+2008-11-25 12:08 nDuff            /join 
+2008-11-25 12:14 xuser            /part #xmonad 
+2008-11-25 12:17 aculich          /join 
+2008-11-26 22:32 ManateeLazyCat   /join 
+2008-11-26 22:32 calvino.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-26 22:50 tibbe            /join 
+2008-11-27 09:36 ManateeLazyCat   /join 
+2008-11-27 09:36 leguin.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-27 09:45 alasdair_        /join 
+2008-11-27 10:14 Paul-S           /join 
+2008-11-27 10:29 xhanjian         /join 
+2008-11-27 10:37 loupgaroublond   /join 
+2008-11-27 10:41 xhanjian         /quit "WeeChat 0.2.6"
+2008-11-27 11:16 blast_hardcheese /join 
+2008-11-27 11:17 blast_hardcheese Hey, Trying to use Gimp in xmonad, All the windows are floating which is nice; Unfortunately one window seems to want to be on top of every other window, which is very hard to work with.
+2008-11-27 11:20 blast_hardcheese How do I get that window to not be on top of everything?
+2008-11-27 11:26 semifor          /part #xmonad 
+2008-11-27 11:26 semifor          /join 
+2008-11-27 11:32 shepheb          blast_hardcheese: push it through the stacking order with mod+shift+{j,k}
+2008-11-27 11:32 shepheb          unfortunately you're suffering from xmonad's unsophisticated floating layer
+2008-11-27 11:33 shepheb          a layout like SimpleFloat might help
+2008-11-27 11:42 aculich          /join 
+2008-11-27 11:52 te               hello all
+2008-11-27 11:53 te               i asked earlier about an issue im having compiling xmobar
+2008-11-27 11:53 te               i have the dependencies it is asking for (utf8 and xft libs)
+2008-11-27 11:53 te               but it can't find them
+2008-11-27 11:56 te               nevermind, i used cabal install and it worked
+2008-11-27 11:56 te               compiling from source wasn't liking me
+2008-11-27 11:58 bogner           /join 
+2008-11-27 11:58 bogner           /part #xmonad 
+2008-11-27 11:59 shepheb          te: likely you have the dependencies installed locally (--user, the default for cabal-install) and were trying to install xmobar globally. it couldn't find the locally installed libs.
+2008-11-27 11:59 shepheb          but that's academic, you've solved the issue
+2008-11-27 11:59 legis            I don't know what I press sometimes in some workspaces that I can't switch between apps with mod-j
+2008-11-27 12:00 shepheb          legis: do other xmonad commands works?
+2008-11-27 12:00 shepheb          work
+2008-11-27 12:00 legis            shepheb: yeah, and other workspaces work fine.
+2008-11-27 12:00 shepheb          odd
+2008-11-27 12:01 shepheb          is there any pattern to the apps on that workspace?
+2008-11-27 12:01 legis            no
+2008-11-27 12:02 legis            If I move those two apps for example to another workspace the same happens.
+2008-11-27 12:03 shepheb          no, I mean does it always happen to particular apps
+2008-11-27 12:03 legis            I have to put them each one in a different workspace to be able to switch between.
+2008-11-27 12:03 blast_hardcheese /quit Read error: 110 (Connection timed out)
+2008-11-27 12:04 shepheb          is Firefox always involved, for example?
+2008-11-27 12:04 legis            shepheb: no, earlier I had this problem between firefox/uxterm now with epdfview
+2008-11-27 12:04 shepheb          hm
+2008-11-27 12:04 legis            yeah, weird
+2008-11-27 12:05 shepheb          what version of xmonad are you running, and on what distro?
+2008-11-27 12:06 legis            also, opening a new app with dmenu or a new terminal doesn't put it on top, it just hides it.
+2008-11-27 12:06 legis            shepheb: debian sid
+2008-11-27 12:06 shepheb          hm
+2008-11-27 12:06 shepheb          are the apps perhaps floating?
+2008-11-27 12:06 legis            xmonad 0.8
+2008-11-27 12:08 legis            don't know still what virtual workspaces
+2008-11-27 12:08 legis            ooops
+2008-11-27 12:08 shepheb          next time it happens, try pressing mod+t
+2008-11-27 12:08 legis            don't still what floating means in xmonad.
+2008-11-27 12:08 shepheb          floating windows are always on top of the others
+2008-11-27 12:09 legis            that was it heh
+2008-11-27 12:09 shepheb          mod+t, for reference, sends the focused window back to the tiling layer
+2008-11-27 12:11 legis            yeah, thanks! this was annoying me heh
+2008-11-27 12:13 legis            what button is button1?
+2008-11-27 12:13 shepheb          left click
+2008-11-27 12:13 shepheb          accidental mod-leftclicking is the probable cause
+2008-11-27 12:15 legis            that was the cause indeed :)
+2008-11-27 12:15 legis            now to install xmobar
+2008-11-27 12:17 shepheb          dons,sjanssen: have we got a wiki page on the status of xmonad under 6.10.1?
+2008-11-27 12:20 legis            are there any plans for integrating xmonad with xmobar?
+2008-11-27 12:21 shepheb          meaning what? they are seperate project deliberately.
+2008-11-27 12:22 te               I can't get xmobar to play nice with my custom workspaces
+2008-11-27 12:22 legis            oh ok.
+2008-11-27 12:23 shepheb          te: oh?
+2008-11-27 12:23 legis            /action shuts up and goes to really read the docs.
+2008-11-27 12:23 te               i have the fancy alpha, beta, etc. symbols in xmonad.hs as my named workspaces, i compiled with_xft, and i set the font to xft:Consolas-10:bold
+2008-11-27 12:24 te               they show up as little <?>s
+2008-11-27 12:24 shepheb          legis: John Goerzen's xmonad tutorial has detailed information on setting up xmobar
+2008-11-27 12:24 te               any ideas?
+2008-11-27 12:24 shepheb          @wiki goerzen
+2008-11-27 12:24 lambdabot        http://www.haskell.org/haskellwiki/goerzen
+2008-11-27 12:24 shepheb          er, well
+2008-11-27 12:25 shepheb          te: are you importing System.IO.UTF8 in your xmonad.hs?
+2008-11-27 12:25 te               ah-ha!
+2008-11-27 12:25 te               you rule
+2008-11-27 12:26 te               does hPutStrLn change if i add UTF8 support, and should I have System.IO in there as well shepheb
+2008-11-27 12:26 te               or should i swap them
+2008-11-27 12:26 te               omg yes, booya
+2008-11-27 12:26 te               fixed
+2008-11-27 12:29 shepheb          te: it shouldn't matter, there's some C preprocessor magic or something to make the UTF8 versions override the default versions
+2008-11-27 12:29 te               i actually had to remove System.IO
+2008-11-27 12:29 te               and just use IO.UTF8, in order for it to work
+2008-11-27 12:29 te               it yelled at me for using hPutStrLn
+2008-11-27 12:29 shepheb          ah, okay
+2008-11-27 12:30 shepheb          ah, because it was ambiguous
+2008-11-27 12:30 te               /action is learning Haskell totally unintentionally
+2008-11-27 12:32 shepheb          te: xmonad is a leading Haskell gateway drug
+2008-11-27 12:32 te               im already getting suckered in
+2008-11-27 12:32 te               it's like learning C,  but more fun
+2008-11-27 12:32 te               is xmonad.org down?
+2008-11-27 12:33 shepheb          te: it is for me
+2008-11-27 12:33 te               just checking
+2008-11-27 12:38 te               shepheb: maybe you could counsel me while there is no access to docs
+2008-11-27 12:38 shepheb          te: sure, what do you need?
+2008-11-27 12:40 te               I'm trying to figure out how to explain this
+2008-11-27 12:40 te               basically I grabbed an extension to let me search google with my browser by using a hotkey
+2008-11-27 12:40 Paul-S           /quit "Lost terminal"
+2008-11-27 12:40 te               I wanted to change the location and colors of the prompt that comes up
+2008-11-27 12:40 gwern            easy enough
+2008-11-27 12:41 te               so I assumed I needed to change the default XPConfig
+2008-11-27 12:41 gwern            indeed
+2008-11-27 12:41 te               I've done that, but I'm not seeing any changes
+2008-11-27 12:41 gwern            promptSearch newXP google, eg
+2008-11-27 12:41 gwern            sure you actually reloaded or made use of the newXP?
+2008-11-27 12:41 te               not sure i made use of the newXP
+2008-11-27 12:42 te               first off im doing this:
+2008-11-27 12:42 te               import XMonad.Prompt (XPPosition(Bottom), XPConfig(historySize, height, position, promptBorderWidth, fgColor, bgColor, font, fgHLight, bgHLight, borderColor), defaultXPConfig)
+2008-11-27 12:43 te               I use this in `additionalKeys`
+2008-11-27 12:43 te                       ((mod1Mask, xK_s), SM.submap $ searchEngineMap $ S.promptSearch P.defaultXPConfig)
+2008-11-27 12:43 te               changing defaultXPConfig to P.myXPConfig breaks it
+2008-11-27 12:43 gwern            /action sees the problem...
+2008-11-27 12:43 te               oh goodie
+2008-11-27 12:43 gwern            yes, P.myXPConfig can't possibly be right
+2008-11-27 12:43 shepheb          /action apologizes for vanishing, but gwern's got it covered
+2008-11-27 12:44 te               no prob shepheb i appreciate all of the help everyone
+2008-11-27 12:44 gwern            incidentally, are you sure you aren't doing import qualified XMonad.Prompt as P?
+2008-11-27 12:44 te               ah-ha, yes I am
+2008-11-27 12:44 gwern            otherwise I can't see why you're doing P.defaultXPConfig
+2008-11-27 12:44 te               I didn't even see that little bugger
+2008-11-27 12:44 te               I added it as part of the use-case
+2008-11-27 12:45 gwern            te: yes, well anyway, one would typically do something like 'myXPConfig = defaultXPConfig { borderColor = "green" etc. }' and then bind 'promptSearch myXPConfig google'
+2008-11-27 12:46 gwern            P.myXPconfig is quite impossible - what you are saying is that the module denoted by P, Prompt, exports a function by the name of myXPConfig - which it obviously doesn't, Prompt only has defaultXPConfig
+2008-11-27 12:46 te               im following you
+2008-11-27 12:47 te               i cant overwrite defaultXPConfig because of how Haskell operates, right?  non-destructive and all that..
+2008-11-27 12:48 gwern            yes. you are creating a new value by the name of myXPConfig
+2008-11-27 12:48 gwern            defaultXPConfig is exactly the same as it ever was
+2008-11-27 12:48 te               so, how can i get myXPConfig to fit in there, i wonder
+2008-11-27 12:48 gwern            you are copying defaultXPConfig, but only partially
+2008-11-27 12:48 gwern            I've already said how
+2008-11-27 12:49 te               you explained the typical way of doing it, i was just trying to figure out how to fit it into the subMap + promptSearch
+2008-11-27 12:49 te               it seems like there's got to be a way to do that
+2008-11-27 12:50 b4taylor         shepheb: submap totally works on my power button.
+2008-11-27 12:50 gwern            hm. I probably should look at promptSearch. I didn't write that one
+2008-11-27 12:50 b4taylor         It was awesome.
+2008-11-27 12:50 te               gwern: I understand what you're saying and thank you
+2008-11-27 12:50 b4taylor         err, to be more precise, as the sol'n to my power button thing.
+2008-11-27 12:50 te               gwern: I'm just trying to get fancy and get this to work
+2008-11-27 12:50 shepheb          b4taylor: so what, you have xmonad bound to <powerkey> {s,h}?
+2008-11-27 12:51 b4taylor         powerkey powerkey for shutdown
+2008-11-27 12:51 gwern            wait, promptSearch's first argument is an XPCOnfig... what's the problem?
+2008-11-27 12:51 b4taylor         powerkey mediakey for hibernate.
+2008-11-27 12:52 te               gwern: I---I don't know..
+2008-11-27 12:52 te               heh
+2008-11-27 12:53 shepheb          b4taylor: sweet
+2008-11-27 12:54 shepheb          I'll probably just walk my Eee around powered up, it's solid state so it's safe enough to move around with
+2008-11-27 12:55 te               gwern: it says myXPConfig is not in scope
+2008-11-27 12:56 gwern            sounds like you didn't define it
+2008-11-27 12:56 te               myXPConfig = defaultXPConfig
+2008-11-27 12:57 te               { font = ... }
+2008-11-27 12:57 te               is that no sufficient?
+2008-11-27 12:57 te               not*
+2008-11-27 12:57 gwern            te: maybe you could just hpaste your entire config
+2008-11-27 12:57 Paul-S           /join 
+2008-11-27 12:58 te               gwern: http://pastie.org/325110
+2008-11-27 12:58 lambdabot        Title: #325110 - Pastie
+2008-11-27 12:58 ryz              /join 
+2008-11-27 12:59 gwern            and the error?
+2008-11-27 12:59 te               no error, just no change to my prompt
+2008-11-27 12:59 gwern            and so we loop back to the beginning of the discussion...
+2008-11-27 12:59 te               if i use P.myXPConfig, it says it's out of scope
+2008-11-27 12:59 gwern            replace P.defaultXPConfig with myXPConfig
+2008-11-27 12:59 gwern            no P.
+2008-11-27 12:59 gwern            I Explained Why That Would Not Work
+2008-11-27 13:01 te               gwern: I was confused because you made it sound like Prompt would accept an XPConfig
+2008-11-27 13:01 te               im not understanding the difference between the P.myXPConfig, versus just myXPConfig
+2008-11-27 13:01 gwern            well, you really shouldn't've imported qualified, that's just confusing you
+2008-11-27 13:02 te               so promptSearch will accept an XPConfig as an argument
+2008-11-27 13:02 te               but in order to access defaultXPConfig, it needs the P
+2008-11-27 13:02 te               because defaultXPConfig lives in Prompt
+2008-11-27 13:02 gwern            P.myXPConfig tells the haskell language/compiler that it *MUST* find a function in the module P with the *exact* name myXPConfig. there could be a billion myXPConfigs defined in the actual file, but the haskell compiler/language is never ever ever allowed to use the local myXPConfig
+2008-11-27 13:03 gwern            te: see, that's why I said the qualified thing was a mistake to do
+2008-11-27 13:03 te               ah-ha, hence the error with scope
+2008-11-27 13:03 te               it's not even looking locally
+2008-11-27 13:04 te               gwern: thank you, oh wise one
+2008-11-27 13:04 AndyWxy          /join 
+2008-11-27 13:05 Vintendo_        /join 
+2008-11-27 13:07 AndyWxy          /quit Client Quit
+2008-11-27 13:08 AndyWxy          /join 
+2008-11-27 13:41 mlesniak         /join 
+2008-11-27 13:48 ivanm            /join 
+2008-11-27 14:19 Exteris          /join 
+2008-11-27 14:30 Raevel           /join 
+2008-11-27 14:34 Exteris          /quit "So long, and thanks for all the fish."
+2008-11-27 14:35 AndyWxy          /quit "leaving"
+2008-11-27 20:33 ManateeLazyCat   /join 
+2008-11-27 20:33 wolfe.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-27 20:37 goundoul1        /join 
+2008-11-27 20:45 AndyWxy          /join 
+2008-11-27 20:47 AndyWxy          /quit Read error: 54 (Connection reset by peer)
+2008-11-27 20:48 AndyWxy          /join 
+2008-11-27 21:10 Plouj            /part #xmonad ":("
+2008-11-27 21:14 vs93taras        /join 
+2008-11-27 21:14 vs93taras        /quit Remote closed the connection
+2008-11-27 21:15 vs93taras        /join 
+2008-11-27 21:52 AndyWxy          /quit "leaving"
+2008-11-27 21:53 AndyWxy          /join 
+2008-11-27 21:59 xhanjian         /join 
+2008-11-27 22:15 quantax_         /join 
+2008-11-27 22:21 vs93taras        /quit "Leaving."
+2008-11-27 22:28 te               /join 
+2008-11-27 22:45 bremner          /join 
+2008-11-28 08:16 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-11-28 21:58 ManateeLazyCat   /join 
+2008-11-28 21:58 clarke.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-28 22:00 Darksair`        /join 
+2008-11-28 22:00 Darksair`        /quit Connection reset by peer
+2008-11-28 22:00 Darksair         /join 
+2008-11-28 22:19 xhanjian         /join 
+2008-11-28 22:26 sklaatz          /join 
+2008-11-29 23:11 ManateeLazyCat   /join 
+2008-11-29 23:11 verne.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-11-29 23:12 mikeX            so, here's the scenario, the same monitor has been tested on a different setup, a pc I had borrowed to her, which run a similar setup, debian testing with xmonad 0.8, and an even slower nvidia card, an onboard 6150E, and it worked _fine_
+2008-11-29 23:12 mikeX            s/borrowed/lend
+2008-11-29 23:13 drdo`            /join 
+2008-11-29 23:13 schme            Ya so maybe something is hogging all the computer resources.
+2008-11-29 23:16 b0fh_ua          /join 
+2008-11-29 23:16 b0fh_ua          hello! is it possible to get different layout types for different "workspaces"?
+2008-11-29 23:16 Miko2            /part #xmonad 
+2008-11-29 23:16 mauke            yes, there's a PerWorkspace module
+2008-11-29 23:18 jimki            /join 
+2008-11-29 23:18 b0fh_ua          cool, thanks ;) Also I am using the ResizableTall layout, can I have it splitted horizontally - not vertically?
+2008-11-29 23:18 b0fh_ua          I've heard something about mirror, but not sure how to  use it
+2008-11-29 23:19 verne.freenode.net /names jimki b0fh_ua drdo` ManateeLazyCat xhanjian jony drdo athos skorpan abbe mikeX Esine DuClare Darksair zerny xmon00b pierre- schme surgeon AndyWxy smeea renke BONUS thingwath ajhager sklaatz ksf obk shachaf ryz aculich vs93taras araujo bremner te sebbe1991 Raevel _sh3 rine clanehin_ shapr webframp muhkoenig sainthuck plutonas p_l sbahra lostson vcrash semifor ertai twifkak nybyn fryguy sscj mornfall shepheb ramok nornagon Hunner dons chandlerc[g]  thedward iggly_ davidL inimino theDon kamatsu DRMacIver s25_ regulate AlexanderS taihen adimit Nafai gaqzi sjanssen wjt LoneTech bmc_ mattp sereven mauke preflex b4taylor Zepp andrewsw Ycros al_sh bmalee chandlerc And1 jones- guinea_ hanneso gwern fabjan vegai fophillips Michitux Absurd-Mind [31d1] t4d Zao get nDuff byorgey legis _Raku_ tajkor_ Entroacceptor Shimei sutats jimt mentalmonkey loupgaroublond dylan transacid pippijn goundoul1  TheMoken|away Paul-S xAFFE lambdabot allbery_b piroko rikur  
+2008-11-29 23:19 mauke            basically, you just write Mirror (ResizableTall ...) instead of ResizableTall ...
+2008-11-29 23:20 sereven          mikeX: don't know about 9000 series, but for 8000 cards, nvidia-drivers <177.* did not work nearly as well, latest driver might help
+2008-11-29 23:20 ManateeLazyCat   Hi, everyone. I have a emacs extension that need use xprop get root window property "_NET_ACTIVE_WINDOW", but XMonad can't support this root window property. So i want to suggestion, can add "_NET_ACTIVE_WINDOW" property in XMonad?
+2008-11-29 23:20 mikeX            hmm, I'll check that out, thanks sereven, schme
+2008-11-29 23:20 gwern            /quit Read error: 110 (Connection timed out)
+2008-11-29 23:21 b0fh_ua          oh, thanks
+2008-11-29 23:21 sereven          b0fh_ua: might need to swap keybindings around too, since direction of MirrorShrink is rotated
+2008-11-29 23:21 b0fh_ua          I doubt I could ever to get solid imagination how all of this stuff works
+2008-11-29 23:21 mauke            ManateeLazyCat: XMonad.Hooks.EwmhDesktops
+2008-11-29 23:22 ManateeLazyCat   mauke: Thanks, i try.
+2008-11-29 23:23 jony             /quit Read error: 104 (Connection reset by peer)
+2008-11-29 23:23 jony             /join 
+2008-11-29 23:24 b0fh_ua          sereven: is it possible to have some predefined keystroke to switch to desired layout instead of moving through all of them sequentially?
+2008-11-29 23:24 Darksair         /quit "(define zero (lambda (f) (lambda (x) x)))"
+2008-11-29 23:25 sereven          b0fh_ua: there are toggle modules in xmonad-contrib, sorry don't remember which ones do that, maybe MultiToggle?
+2008-11-29 23:26 xmon00b          i am having an issue running xmonad under gnome..
+2008-11-29 23:26 mauke            beware MultiToggle, it's incompatible with layouts that manage their own resources. this includes anything that draws title bars on windows (AFAIK)
+2008-11-29 23:26 xmon00b          i cannot get gnome-settings to run, so i do not have sound
+2008-11-29 23:27 drdo             /quit Connection timed out
+2008-11-29 23:27 xmon00b          i'm not using the gnome tray, i'm using xmobar and trayer
+2008-11-29 23:28 xmon00b          i've read thru the using xmonad & gnome docs but haven't come up w/any answers
+2008-11-29 23:29 b0fh_ua          I think I can live with default bahavior :)
+2008-11-29 23:30 b0fh_ua          configuring xmonad it still too complicated task for newbies
+2008-11-29 23:30 mikeX            schme: there is a high load, but only when xmonad operations are occuring (in which case Xorg ranges from 30 to 90% cpu usage)
+2008-11-29 23:31 xmon00b          x is generally the greedest thing running on my system, it wrestles with firefox for biggest piggie
+2008-11-29 23:31 mauke            you may be doing it wrong
+2008-11-29 23:31 b0fh_ua          sereven: globalLayout = ResizableTall 1 (3/100) (3/4) [] ||| layoutHints (noBorders Full) ||| layoutHints (Mirror tiled)
+2008-11-29 23:32 b0fh_ua          like this, correct?
+2008-11-29 23:32 mauke            my xmonad is using 0.4% memory
+2008-11-29 23:33 xmon00b          xmonad very very rarely hits the top/msg NickServ VERIFY REGISTER xmon00b semszctclmfw
+2008-11-29 23:33 xmon00b           10 in my top
+2008-11-29 23:33 xmon00b          wtf.. sorry, for some reason i get a wierd paste on occasion
+2008-11-29 23:33 mauke            you might want to change your password now
+2008-11-29 23:33 xmon00b          what is the keystroke for paste in xmonad?
+2008-11-29 23:33 xmon00b          heh, ya think? :)
+2008-11-29 23:34 mauke            xmonad doesn't care about pasting
+2008-11-29 23:34 ManateeLazyCat   mauke: Thank you very much, i have success to get value of "_NET_ACTIVE_WINDOW".
+2008-11-29 23:35 sereven          b0fh_ua: didn't you want `Mirror (ResizableTall 1 (3/100) (3/4) [])' though?
+2008-11-29 23:35 xmon00b          does it care about my sound not working?
+2008-11-29 23:36 mauke            not really
+2008-11-29 23:36 mauke            xmonad doesn't interact with the clipboard or sound
+2008-11-29 23:43 drdo`            /nick drdo
+2008-11-29 23:44 rob|             /join 
+2008-11-29 23:45 b0fh_ua          sereven: well, true
+2008-11-29 23:49 xmon00b          yes, i knew that it did not care about my sound..
+2008-11-29 23:50 xmon00b          but i do and it does not work :-/
+2008-11-29 23:51 xmon00b          i've got some screen shots up @ http://www.flickr.com/photos/37387554@N00/sets/72157609920842253/
+2008-11-29 23:51 lambdabot        Title: Screenshots - xmonad/Ubuntu - a set on Flickr
+2008-11-29 23:52 aeolist          /join 
+2008-11-29 23:52 xmon00b          i want to nice work lambdabot
+2008-11-30 00:02 rcirc.el         /error irc.freenode.net: deleted (closed)
+2008-12-02 21:02 ManateeLazyCat   /join 
+2008-12-02 21:02 calvino.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-12-02 21:02 calvino.freenode.net /names ManateeLazyCat aeolist renke animesh nikki93 bjoernb dmwit BONUS plutonas dabd Darksair andywxy yitz ksf sjanssen novas0x2a mlesniak rob| aculich jrw maskm ryz jcsa gecjr xhanjian legis intrados surgeon xAFFE Paul-S C-Keen mephx fophillips bendo rine te rikur sbahra sebbe1991 wastrel sainthuck JohnNy64-konik goundoulf _sh3 mikeX _Raku__ ik ajhager vs93taras shachaf murjoh tredonth1 DuClare vcrash thingwath Shimei jimt Intensity semifor_  chandlerc[g] LoneTech mattp davidL preflex Esine sutats alphakamp clanehin shepheb jimki bremner webframp p_l semifor TheMoken|away lambdabot allbery_b piroko pippijn transacid dylan loupgaroublond mentalmonkey Entroacceptor tajkor_ byorgey nDuff get Zao [31d1] Absurd-Mind Michitux vegai fabjan hanneso guinea_ jones- And1 chandlerc bmalee al_sh Ycros andrewsw Zepp b4taylor mauke sereven bmc_ wjt gaqzi Nafai adimit taihen AlexanderS regulate  s25_ DRMacIver kamatsu theDon inimino iggly_ thedward dons Hunner nornagon ramok ertai twifkak nybyn fryguy sscj mornfall  
+2008-12-02 21:05 ManateeLazyCat   Hi all, I install darcs version of XMonad with GHC 6.10.1, but i found my xft font is not effect, but it effect with XMonad 0.8. Any help?
+2008-12-02 21:05 animesh_         /join 
+2008-12-02 21:07 sjanssen         ManateeLazyCat: you need to install X11-xft
+2008-12-02 21:07 animesh          /quit Read error: 60 (Operation timed out)
+2008-12-02 21:08 ManateeLazyCat   sjanssen: Sry, guys. I forgot it. ;-)
+2008-12-02 21:08 hark             /join 
+2008-12-02 21:08 hark             /quit Client Quit
+2008-12-02 21:09 sjanssen         wow, mbsync is much better than offlineimap.  It syncs my 70k message Haskell folder instantly
+2008-12-02 21:13 hark             /join 
+2008-12-02 21:13 hark             /quit Client Quit
+2008-12-02 21:15 hark             /join 
+2008-12-02 21:15 hark             /quit Client Quit
+2008-12-02 21:15 hark             /join 
+2008-12-02 21:15 hark             /quit Client Quit
+2008-12-02 21:18 animesh_         /quit "Lost terminal"
+2008-12-02 21:22 dmwit            /quit Read error: 104 (Connection reset by peer)
+2008-12-02 21:22 Feuerbach        /join 
+2008-12-02 21:23 dmwit            /join 
+2008-12-02 21:25 ksf              sjanssen, did you ever consider porting xmonad over to xhb? it's a way cleaner library than libX.
+2008-12-02 21:25 hark             /join 
+2008-12-02 21:28 tredonth1        /quit Read error: 104 (Connection reset by peer)
+2008-12-03 09:18 ManateeLazyCat   /join 
+2008-12-03 09:18 wolfe.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2008-12-03 09:20 maek             gwern: thanks
+2008-12-03 09:24 ManateeLazyCat   Hi all, i have compile success XMonad with GHC 6.10.1, but someone in mailing say "XMonad have a bug with x86_64 architecture. XMonad.Prompt will not work correctly", so i want to ask, now this bug resolved? I use darcs version of XMonad.
+2008-12-03 09:25 gwern            no. I meant darcs xmonad; if you are on x86_64 and experience the prompt bug that'd be valuable to know for the bug report
+2008-12-03 09:25 gwern            we don't know for sure it's architecture related
+2008-12-03 09:26 gwern            (obviously you meant darcs xmonad, as hackage xmonad doesn't work with 6.10)
+2008-12-03 09:27 ManateeLazyCat   gwern: Thanks!
+2008-12-03 09:33 gwern            ack! -Werror is broken on 6.10!
+2008-12-03 09:40 gwern            /action sends an email about that
+2008-12-03 09:44 rcirc.el         /error irc.freenode.net: deleted (closed)
+2009-01-05 16:34 ManateeLazyCat   /join 
+2009-01-05 16:34 niven.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Sat Sep  6 07:49:43 2008)
+2009-01-05 16:35 nikki_           /join 
+2009-01-05 16:35 nikki_           Hey guys!
+2009-01-05 16:35 nikki_           Been quite a while eh?
+2009-01-05 16:35 junmin           /join 
+2009-01-05 16:35 nikki_           /nick nikki93
+2009-01-05 16:36 nikki93          Hello?
+2009-01-05 16:37 dmwit            It's late.
+2009-01-05 16:37 dmwit            =)
+2009-01-05 16:39 dmwit            /quit Read error: 104 (Connection reset by peer)
+2009-01-05 16:40 dmwit            /join 
+2009-01-30 12:13 ManateeLazyCat`  /join 
+2009-01-30 12:13 anthony.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8.1 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Tue Jan 20 05:20:14 2009)
+2009-01-30 12:26 jcsa             /join 
+2009-01-30 12:26 twadleigh        /join 
+2009-01-30 12:26 jrockway         /join 
+2009-01-30 12:26 ydo              /join 
+2009-01-30 12:26 vrthra           /join 
+2009-01-30 12:46 junmin           Is possible use tray in xmobar?
+2009-01-30 12:48 f4hy             /join 
+2009-01-30 12:59 Schmidt          /join 
+2009-01-30 13:02 uhsf             junmin: I make a little space for a 3 icons wide trayer tray in between xmobar statuses and clock.
+2009-01-30 13:03 uhsf             It's my temporary solution.
+2009-01-30 13:04 f4hy             uhsf: I put standalone tray ontop of xmbar
+2009-01-30 13:05 uhsf             'stalone' tray?
+2009-01-30 13:43 ManateeLazyCat   /join 
+2009-01-30 13:43 calvino.freenode.net /topic xmonad: a tiling window manager | xmonad 0.8.1 released! | http://xmonad.org | rss: http://xmonad.wordpress.com/feed (dons on Tue Jan 20 05:20:14 2009)
+2009-01-30 13:44 portnov          /join 
+2009-01-30 13:44 mmmdonuts        /join 
+2009-01-30 13:54 Schmidt          /join 
+2009-01-30 14:19 f4hy             hmm i need a way to change works space with just the mouse, since i want to be able to check my ims while eating a taco
+2009-01-30 14:19 mauke            hmm, how many mouse buttons do you have?
+2009-01-30 14:24 f4hy             mauke: more than enough, but I cant seem to get some of them to work when i set them up in xmonad, but i think that is not an xmonad issue
+2009-01-30 14:30 Ralith           f4hy: reach your right hand over to the keyboard? :P
+2009-01-30 14:32 f4hy             but my change workspace binding is three keys
+2009-01-30 14:32 f4hy             it is not even possible with one hand
+2009-01-30 14:32 f4hy             I guess I could change that...
+2009-01-30 14:33 Ralith           three? O.o
+2009-01-30 14:33 Ralith           /action swaps workspaces way too much to use that many
+2009-01-30 14:35 sereven          f4hy: there is a mouse gesture module ala opera browser, graphics apps. haven't tried it but that could maybe work for you.
+2009-01-30 14:36 f4hy             Ralith: I got used to the gnome workspace bindings of ctrl+alt+left right
+2009-01-30 14:36 f4hy             I cant switch now, It is just instinct to hit those keys
+2009-01-30 14:36 f4hy             sereven: I will look into that
+2009-01-30 14:37 f4hy             sereven: never got the hang of mouse gestures but might be good for this issue
+2009-01-30 14:37 Ralith           f4hy: relative binds?
+2009-01-30 14:37 Ralith           absolute is much nicer.
+2009-01-30 14:38 Ralith           I use super-[1..9]
+2009-01-30 14:38 f4hy             Ralith: I have those as well
+2009-01-30 14:38 f4hy             Ralith: but use the relative, becuase I use ctrl+alt+shift to bring my window with me, so I bubble sort
+2009-01-30 14:39 Ralith           super-shift[1..9]
+2009-01-30 14:39 Ralith           :]
+2009-01-30 14:40 f4hy             Ralith: yes, I have those but I have just always used my workspaces relative to each other
+2009-01-30 14:45 ivanm            /join 
