@@ -15,13 +15,13 @@ Linux Deepin 用户: sudo apt-get install deepin-emacs -y
 * 目录说明:
 emacs-24.0.94.1_xwidget/     Emacs 24.0.94.1 源代码 (编译用, 包括xwidget支持, 可以直接在Emacs中打开Webkit浏览器)
 
-site-lisp
+Site-Lisp
  |
- |--- lazycat-configure/     LazyCat 自己的配置文件
+ |--- Configure/             LazyCat 自己的配置文件
  
-site-lisp
+Site-Lisp
  |
- |--- lazycat-packages/      LazyCat 收集和开发的 Emacs 扩展
+ |--- Packages/              LazyCat 收集和开发的 Emacs 扩展
  
 .emacs                       Deepin Emacs 配置文件, 放置在 HOME 目录下
 
