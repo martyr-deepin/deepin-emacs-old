@@ -39,7 +39,7 @@ sudo make install
 sudo aptitude install gdb w3m w3m-img aspell aspell-en texinfo unclutter exuberant-ctags cscope global mplayer2 mp3info libnotify-bin imagemagick wget ghostscript ghostscript-x ghostscript-doc gs-cjk-resource findutils zsh archmage scrot xtrlock git git-core gnutls-bin stardict sdcv ttf-freefont mairix starttls getmail4 msmtp leafnode libotf0 libm17n-0 pyflakes npm -y && npm install jslint
 
 * 安装 Deepin Emacs:
-sudo cp ./site-lisp /usr/share/deepin-emacs && cp .emacs ~/
+sudo cp ./site-lisp /usr/share/deepin-emacs/ && cp .emacs ~/
 
 5> 启动 Emacs 开始玩吧! :)
 
