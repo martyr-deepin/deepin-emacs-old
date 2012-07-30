@@ -13,27 +13,41 @@ Linux Deepin 用户: sudo apt-get install deepin-emacs -y
 4> Deepin Emacs 编译安装:
 
 * 目录说明:
-emacs-24.0.94.1_xwidget/     Emacs 24.0.94.1 源代码 (编译用, 包括xwidget支持, 可以直接在Emacs中打开Webkit浏览器)
+emacs-24.0.94.1_xwidget/           Emacs 24.0.94.1 源代码 (编译用, 包括xwidget支持, 可以直接在Emacs中打开Webkit浏览器)
 
-Site-Lisp
+lazycat-lisp/
  |
- |--- Configure/             LazyCat 自己的配置文件
- 
-Site-Lisp
+ |--- Site-Lisp
+      |
+      |--- Configure/              LazyCat 自己的配置文件
+  
+lazycat-lisp/
  |
- |--- Packages/              LazyCat 收集和开发的 Emacs 扩展
+ |--- Site-Lisp
+      |
+      |--- Packages/               LazyCat 收集和开发的 Emacs 扩展
+  
+lazycat-lisp/
+ |
+ |--- Configure-File               Deepin Emacs 扩展配置文件存放目录 
  
-Configure-File               Deepin Emacs 扩展配置文件存放目录 
-
-Document                     一些文档文件
-
-Gnus                         Gnus 数据文件
-
-Mail                         Gnus 数据文件
-
-Image                        一些图片
+lazycat-lisp/
+ |
+ |--- Document                     一些文档文件
  
-.emacs                       Deepin Emacs 配置文件, 放置在 HOME 目录下
+lazycat-lisp/
+ |
+ |--- Gnus                         Gnus 数据文件
+ 
+lazycat-lisp/
+ |
+ |--- Mail                         Gnus 数据文件
+ 
+lazycat-lisp/
+ |
+ |--- Image                        一些图片
+ 
+.emacs                             Deepin Emacs 配置文件, 放置在 HOME 目录下
 
 * 安装Emacs编译依赖: 
 sudo apt-getinstall libxaw7-dev libxpm-dev libpng12-dev libjpeg-dev libtiff4-devlibgif-dev libncurses5-dev libgtk2.0-dev libxpm-dev libgif-devlibtiff4-dev librsvg2-dev libdbus-1-dev libgconf2-dev -y
@@ -49,11 +63,14 @@ sudo make install
 sudo aptitude install gdb w3m w3m-img aspell aspell-en texinfo unclutter exuberant-ctags cscope global mplayer2 mp3info libnotify-bin imagemagick wget ghostscript ghostscript-x ghostscript-doc gs-cjk-resource findutils zsh archmage scrot xtrlock git git-core gnutls-bin stardict sdcv ttf-freefont mairix starttls getmail4 msmtp leafnode libotf0 libm17n-0 pyflakes npm -y && npm install jslint
 
 * 安装 Deepin Emacs:
-sudo cp Configure-File Document Gnus Image Mail Site-Lisp /usr/share/deepin-emacs/ && cp .emacs ~/
+sudo cp ./lazycat-lisp/* /usr/share/deepin-emacs/ && cp .emacs ~/
 
 5> 启动 Emacs 开始玩吧! :)
 
 其他注意事项:
+
+* Hacking for patch:
+sudo rm -r /usr/share/deepin-emacs && sudo ln -s ~/deepin-emacs/lazycat-lisp /usr/share/deepin-emacs
 
 * 如果要在Emacs里面使用IBus输入法， 按照下面方法做：
 1. 建立 ~/.Xresources 这个文件， 并在文件中写入：
