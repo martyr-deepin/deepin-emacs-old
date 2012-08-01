@@ -1,0 +1,7 @@
+;win;$Revision: 2.44 $
+
+;;buffer-list
+((nil ((truncate-partial-width-windows . 50) (make-backup-files . t) (version-control . t) (visible-bell) (file-name-history) (buffer-name-history) (minibuffer-history "catstar"))) 1 0)
+
+;;window-configurations
+(1 (134 40 ((0 0 136 39)) ((nil "*scratch*" 1 1))) ((top . 0) (left . 0) (minibuffer . t) (menu-bar-lines . 0) (vertical-scroll-bars)) "")
