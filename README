@@ -8,7 +8,10 @@ Deepin Emacs 是专门为Linux Deepin团队研发的玩具.
 编辑器, 调试器, 浏览器, 音乐播放器, 文件管理器, 终端, IRC客户端, 邮件客户端, 新闻阅读器, 电子书阅读器, Debian包管理器, 英文翻译助手, 语音助手, Emacs安装器, 代码补全, 代数计算系统, 日历, GTD客户端, 电驴客户端, 下载管理器, 进程管理器, 图片浏览器, Wiki编辑器, 粘贴客户端, Vi模式, 正则表达式反馈助手, 自动补全, 代码索引, 实时语法检查, 代码画图, Anything超强搜索, Man/Woman, 键盘宏, 代码锁屏, 自动记忆session ... 只有你想不到的, 没有Emacs做不到的
 
 3> Deepin Emacs 快捷安装:
-Linux Deepin 用户: sudo apt-get install deepin-emacs -y
+Linux Deepin 用户: 
+sudo apt-get install deepin-emacs -y
+
+键入 deepin-emacs 就可以使用
 
 4> Deepin Emacs 编译安装:
 
@@ -64,8 +67,9 @@ sudo aptitude install gdb w3m w3m-img aspell aspell-en texinfo unclutter exubera
 
 * 安装 Deepin Emacs:
 sudo cp ./lazycat-lisp/* /usr/share/deepin-emacs/ && cp .emacs ~/
+mkdir -p ~/.emacs.d/deepin-emacs/ && sudo cp -r /usr/share/deepin-emacs/Configure-File ~/.emacs.d/deepin-emacs/
 
-5> 启动 Emacs 开始玩吧! :)
+5> 启动 emacs 开始玩吧! :)
 
 其他注意事项:
 
