@@ -78,7 +78,7 @@
 
 (bbdb-initialize 'gnus 'message)                              ;初始化 BBDB
 (bbdb-define-all-aliases)                                     ;定义别名
-(setq bbdb-file "/usr/share/deepin-emacs/Configure-File/Bbdb/database") ;数据库文件
+(setq bbdb-file "~/.emacs.d/deepin-emacs/Configure-File/Bbdb/database") ;数据库文件
 (setq bbdb-north-american-phone-numbers-p nil)                ;不使用北美标准的电话号码
 (setq bbdb-user-mail-names my-mail)                           ;把你的 email 地址告诉bbdb
 (setq bbdb-complete-name-allow-cycling t)                     ;补全 email 地址的时候循环往复

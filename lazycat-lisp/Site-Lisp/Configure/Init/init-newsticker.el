@@ -76,7 +76,7 @@
 
 ;;; Code:
 
-(setq newsticker-dir "/usr/share/deepin-emacs/Configure-File/Newsticker")  ;种子目录
+(setq newsticker-dir "~/.emacs.d/deepin-emacs/Configure-File/Newsticker")  ;种子目录
 (setq newsticker-url-list-defaults nil)                      ;设置默认的列表为空
 (setq newsticker-automatically-mark-items-as-old t)          ;自动标记项目为已经检索的项目
 (setq newsticker-automatically-mark-visited-items-as-old t)  ;自动标记已经访问过的项目

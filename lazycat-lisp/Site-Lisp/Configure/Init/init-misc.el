@@ -169,14 +169,14 @@
 ;;; ### Windows ###
 ;;; --- 用于保存和管理窗口的配置方案
 (win:startup-with-window)
-(setq win:configuration-file "/usr/share/deepin-emacs/Configure-File/Windows/windows-configure") ;窗口布局管理保存文件
+(setq win:configuration-file "~/.emacs.d/deepin-emacs/Configure-File/Windows/windows-configure") ;窗口布局管理保存文件
 
 ;;; ### Revive ###
 ;;; --- 用于记录恢复特定窗口配置方案
 (autoload 'save-current-configuration "revive" "Save status" t)
 (autoload 'resume "revive" "Resume Emacs" t)
 (autoload 'wipe "revive" "Wipe Emacs" t)
-(setq revive:configuration-file "/usr/share/deepin-emacs/Configure-File/Revive/revive-configure") ;窗口布局设置保存文件
+(setq revive:configuration-file "~/.emacs.d/deepin-emacs/Configure-File/Revive/revive-configure") ;窗口布局设置保存文件
 
 ;;; ### Mode-line ###
 ;;; --- mode-line
@@ -218,7 +218,7 @@ from tradition chinese to simple chinese" t)
 (recentf-mode 1)
 (setq recentf-max-saved-items 100)      ;最近打开文件的最大数量
 (setq recentf-auto-cleanup 300)         ;自动清理最近打开文件列表中重复或其他文件的时间间隔 (秒)
-(setq recentf-save-file "/usr/share/deepin-emacs/Configure-File/Recentf/recentf-list") ;最近打开的文件列表
+(setq recentf-save-file "~/.emacs.d/deepin-emacs/Configure-File/Recentf/recentf-list") ;最近打开的文件列表
 
 ;;; ### Uniquify ###
 ;;; --- 相同缓存名字时加上路径以区别
@@ -323,7 +323,7 @@ from tradition chinese to simple chinese" t)
 
 ;;; ### Save-abbreviation ###
 ;;; --- Elisp 命令别名
-(setq save-abbreviation-file "/usr/share/deepin-emacs/Configure-File/Save-Abbreviation/abbreviation") ;Lisp别名存储的位置
+(setq save-abbreviation-file "~/.emacs.d/deepin-emacs/Configure-File/Save-Abbreviation/abbreviation") ;Lisp别名存储的位置
 (save-abbreviation-mode)
 
 ;;; ### Ibuffer ###
@@ -393,7 +393,7 @@ from tradition chinese to simple chinese" t)
 
 ;;; ### Breadcrumb ###
 ;;; --- 文件书签管理
-(setq bc-bookmark-file "/usr/share/deepin-emacs/Configure-File/Breadcrumb/bookmark") ;设置书签的保存位置
+(setq bc-bookmark-file "~/.emacs.d/deepin-emacs/Configure-File/Breadcrumb/bookmark") ;设置书签的保存位置
 (setq bc-bookmark-limit 300)                                               ;设置书签的最大数量
 
 ;;; ### Tramp ###
@@ -507,7 +507,7 @@ from tradition chinese to simple chinese" t)
 ;;; ---
 (setq fj-journal-size 10)               ;设置保留文件的天数
 (setq fj-journal-file                   ;设置配置文件的保留位置
-      "/usr/share/deepin-emacs/Configure-File/File-Journal/file-journal")
+      "~/.emacs.d/deepin-emacs/Configure-File/File-Journal/file-journal")
 
 ;;; ### babel ###
 ;;; --- 网络翻译接口

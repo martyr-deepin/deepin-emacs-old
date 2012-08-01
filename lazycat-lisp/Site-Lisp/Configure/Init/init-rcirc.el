@@ -81,7 +81,7 @@
 (setq rcirc-default-user-name (eval my-name))      ;名字
 (setq rcirc-server-alist                           ;rcirc服务器和加入频道
       `(("irc.freenode.net" :channels ,my-irc-channel-list)))
-(setq rcirc-log-directory "/usr/share/deepin-emacs/Configure-File/Rcirc/logs") ;rcirc聊天记录
+(setq rcirc-log-directory "~/.emacs.d/deepin-emacs/Configure-File/Rcirc/logs") ;rcirc聊天记录
 (setq rcirc-notify-open t)                                       ;默认打开消息提醒模式
 (setq rcirc-notify-timeout 1)           ;同一个人发信息给我的延迟 (单位: 秒)
 (setq rcirc-authinfo                    ;rcirc用户名和密码
