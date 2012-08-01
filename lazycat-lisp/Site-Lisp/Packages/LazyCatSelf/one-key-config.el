@@ -406,6 +406,7 @@
         (("p" . "Projects") . (lambda () (interactive) (shell-aliase "bakp")))
         (("l" . "Package List") . (lambda () (interactive) (shell-aliase "bakl")))
         (("h" . "Hanatee") . (lambda () (interactive) (shell-aliase "bakh")))
+        (("d" . "Deepin Emacs") . (lambda () (interactive) (shell-aliase "bakd")))
         (("a" . "All") . (lambda () (interactive) (shell-aliase "bak")))
         ))
 
