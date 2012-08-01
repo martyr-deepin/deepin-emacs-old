@@ -853,7 +853,7 @@
    ("m" . speedbar-create-directory)    ;创建目录
    ("K" . speedbar-buffer-kill-buffer)  ;关闭当前buffer
    )
- speedbar-mode-map
+ speedbar-key-map
  )
 ;;; ### Top ###
 ;;; --- 进程管理器
