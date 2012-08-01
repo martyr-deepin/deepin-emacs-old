@@ -32,7 +32,7 @@ lazycat-lisp/
   
 lazycat-lisp/
  |
- |--- Configure-File               Deepin Emacs 扩展配置文件存放目录 
+ |--- Configure-File               Deepin Emacs 初始化配置文件, 用户自己的配置文件会在 ~/.emacs.d/deepin-emacs/Configure-File 下保存
  
 lazycat-lisp/
  |
@@ -73,7 +73,10 @@ mkdir -p ~/.emacs.d/deepin-emacs/ && sudo cp -r /usr/share/deepin-emacs/Configur
 
 其他注意事项:
 
-* Hacking for patch:
+* Deepin Emacs 个人的使用数据保存在目录:
+  ~/.emacs.d
+
+* Hacking Deepin Emacs:
 sudo rm -r /usr/share/deepin-emacs && sudo ln -s ~/deepin-emacs/lazycat-lisp /usr/share/deepin-emacs
 
 * 如果要在Emacs里面使用IBus输入法， 按照下面方法做：
