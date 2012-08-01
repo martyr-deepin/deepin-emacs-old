@@ -288,7 +288,7 @@ from tradition chinese to simple chinese" t)
 
 ;;; ### Mail-notify ###
 ;;; --- 邮件提醒
-(setq mail-notify-directory "/usr/share/deepin-emacs/Mail/inbox/new/") ;新邮件存放目录
+(setq mail-notify-directory "~/.emacs.d/deepin-emacs/Mail/inbox/new/") ;新邮件存放目录
 (setq mail-notify-status t)                                  ;默认打开邮件提醒
 (setq mail-notify-repeat 60)                                 ;邮件提醒的周期 (秒)
 

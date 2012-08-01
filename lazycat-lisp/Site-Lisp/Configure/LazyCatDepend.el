@@ -214,6 +214,7 @@
 (require 'magit)                       ;Emacs Git 客户端
 ;; (require 'egg)                          ;基于 magit 的界面
 ;; (require 'egg-grep)                     ;egg grep 支持
+(require 'speedbar)
 (require 'sr-speedbar)           ;集成speedbar到当前frame
 (require 'winpoint)              ;记录每一个窗口buffer的特定位置
 ;; (require 'xray)                         ;显示Emacs对象的内部结构
@@ -255,8 +256,8 @@
 (require 'w3m-extension)                ;W3m扩展
 (require 'thing-edit)                   ;基于thingatpt的编辑扩展
 (require 'thing-edit-extension)         ;thing-edit 增强
-(require 'rcirc-notify+)                ;rcirc提醒
-(require 'rcirc-extension)              ;rcirc的扩展
+;; (require 'rcirc-notify+)                ;rcirc提醒
+;; (require 'rcirc-extension)              ;rcirc的扩展
 (require 'doc-view-extension)           ;doc-view扩展
 (require 'org-extension)                ;Org增强
 (require 'org-w3m)                      ;Org w3m 交互转换
