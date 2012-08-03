@@ -66,7 +66,10 @@ sudo make install
 sudo aptitude install gdb w3m w3m-img aspell aspell-en texinfo unclutter exuberant-ctags cscope global mplayer2 mp3info libnotify-bin imagemagick wget ghostscript ghostscript-x ghostscript-doc gs-cjk-resource findutils zsh archmage scrot xtrlock git git-core gnutls-bin stardict sdcv ttf-freefont mairix getmail4 msmtp leafnode libotf0 libm17n-0 pyflakes npm -y && npm install jslint
 
 * 安装 Deepin Emacs:
-cd ./deepin-emacs/lazycat-lisp/ 
+cd ./deepin-emacs/
+cp .emacs ~/
+
+cd ./lazycat-lisp/ 
 
 mkdir -p /usr/share/deepin-emacs/
 sudo cp -r Document Image Mail Site-Lisp /usr/share/deepin-emacs/
