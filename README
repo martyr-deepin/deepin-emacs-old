@@ -66,8 +66,13 @@ sudo make install
 sudo aptitude install gdb w3m w3m-img aspell aspell-en texinfo unclutter exuberant-ctags cscope global mplayer2 mp3info libnotify-bin imagemagick wget ghostscript ghostscript-x ghostscript-doc gs-cjk-resource findutils zsh archmage scrot xtrlock git git-core gnutls-bin stardict sdcv ttf-freefont mairix getmail4 msmtp leafnode libotf0 libm17n-0 pyflakes npm -y && npm install jslint
 
 * 安装 Deepin Emacs:
-sudo cp ./lazycat-lisp/* /usr/share/deepin-emacs/ && cp .emacs ~/
-mkdir -p ~/.emacs.d/deepin-emacs/ && sudo cp -r /usr/share/deepin-emacs/Configure-File ~/.emacs.d/deepin-emacs/
+cd ./deepin-emacs/lazycat-lisp/ 
+
+mkdir -p /usr/share/deepin-emacs/
+sudo cp -r Document Image Mail Site-Lisp /usr/share/deepin-emacs/
+
+mkdir -p ~/.emacs.d/deepin-emacs/
+cp -r Configure-File Gnus ~/.emacs.d/deepin-emacs/
 
 5> 启动 emacs 开始玩吧! :)
 
