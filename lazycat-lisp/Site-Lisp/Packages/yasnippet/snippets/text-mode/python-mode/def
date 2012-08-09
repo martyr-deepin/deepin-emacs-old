@@ -4,5 +4,7 @@
 # contributor: Yasser González Fernández <yglez@uh.cu>
 # --
 def ${1:name}($2):
-    '''${3:docs}'''
+    '''
+    ${3:docs}
+    '''
     $0

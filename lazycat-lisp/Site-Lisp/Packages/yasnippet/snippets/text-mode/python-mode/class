@@ -5,7 +5,11 @@
 # contributor: Yasser González Fernández <yglez@uh.cu>
 # --
 class ${1:ClassName}(${2:object}):
-    '''${3:class docs}'''
+    '''
+    ${3:class docs}
+    '''
 	
     def __init__(self$4):
-        '''${5:init docs}'''
+        '''
+        ${5:init docs}
+        '''
