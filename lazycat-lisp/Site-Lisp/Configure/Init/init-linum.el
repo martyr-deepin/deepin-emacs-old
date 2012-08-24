@@ -97,6 +97,7 @@
                'css-mode-hook
                'apt-utils-mode-hook
                'tuareg-mode-hook
+               'go-mode-hook
                ))
   (add-hook hook (lambda () (linum-mode 1))))
 
