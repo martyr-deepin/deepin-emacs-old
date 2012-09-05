@@ -605,6 +605,10 @@ from tradition chinese to simple chinese" t)
 (add-hook 'js-mode-hook
           (lambda () (flymake-mode 1)))
 
+;; Asm mode.
+(add-hook 'asm-mode-hook
+          (lambda () (setq tab-stop-list '(4 8 12 16 20 24 28 32 36 40 44 48 52 56 60))))
+
 (provide 'init-misc)
 
 ;;; init-misc.el ends here
