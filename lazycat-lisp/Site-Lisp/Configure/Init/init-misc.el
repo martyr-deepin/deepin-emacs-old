@@ -289,8 +289,8 @@ from tradition chinese to simple chinese" t)
 ;;; ### Mail-notify ###
 ;;; --- 邮件提醒
 (setq mail-notify-directory "~/.emacs.d/deepin-emacs/Mail/inbox/new/") ;新邮件存放目录
-(setq mail-notify-status t)                                  ;默认打开邮件提醒
-(setq mail-notify-repeat 60)                                 ;邮件提醒的周期 (秒)
+(setq mail-notify-status t)                                            ;默认打开邮件提醒
+(setq mail-notify-repeat 60)                                           ;邮件提醒的周期 (秒)
 
 ;;; ### Speedbar ###
 ;;; --- 资源管理器
@@ -394,7 +394,7 @@ from tradition chinese to simple chinese" t)
 ;;; ### Breadcrumb ###
 ;;; --- 文件书签管理
 (setq bc-bookmark-file "~/.emacs.d/deepin-emacs/Configure-File/Breadcrumb/bookmark") ;设置书签的保存位置
-(setq bc-bookmark-limit 300)                                               ;设置书签的最大数量
+(setq bc-bookmark-limit 300)            ;设置书签的最大数量
 
 ;;; ### Tramp ###
 ;;; --- 多协议远程访问
@@ -521,7 +521,7 @@ from tradition chinese to simple chinese" t)
 ;;; ### Auto-Install ###
 ;;; --- 自动下载安装代码
 (setq auto-install-directory "/usr/share/deepin-emacs/Site-Lisp/Packages/LazyCatCollect/") ;设置默认的安装目录
-(setq auto-install-from-w3m-confirm nil)                                         ;从w3m安装不提醒
+(setq auto-install-from-w3m-confirm nil) ;从w3m安装不提醒
 
 ;;; ### Winner-mode ###
 ;;; --- 窗口设置的撤销和返回

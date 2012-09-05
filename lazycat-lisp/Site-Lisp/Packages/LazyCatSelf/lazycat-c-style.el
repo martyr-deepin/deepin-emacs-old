@@ -65,6 +65,7 @@
 (defun lazycat-c-mode ()
   "My C Style."
   (c-set-style "k&r")
+  (setq c-basic-offset 4)
   ;; (c-toggle-auto-newline 1)
   (c-toggle-hungry-state 1)
   (overwrite-alist (quote ((defun-open after)
