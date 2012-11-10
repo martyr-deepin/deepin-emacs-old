@@ -1,4 +1,5 @@
 ;;; 搜集的扩展加载
+(require 'python)                  ;Python mode
 (require 'tooltip)                 ;工具提示
 (require 'eldoc)                   ;函数参数提示
 (require 'avoid)                   ;鼠标行为
@@ -323,5 +324,6 @@
 (require 'chm-view)                     ;CHM 文件阅读
 (require 'org-oddmuse)                  ;转换 Org-mode 到 Oddmuse 模式
 (require 'gtk2hs)                       ;gtk2hs绑定工具
+(require 'python-mode-utils)            ;Python 工具
 
 (provide 'LazyCatDepend)

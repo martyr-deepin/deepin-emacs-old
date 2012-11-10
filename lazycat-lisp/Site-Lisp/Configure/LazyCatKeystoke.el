@@ -188,6 +188,13 @@
  emms-playlist-mode-map
  )
 (lazy-set-key vi-move-key-alist emms-playlist-mode-map) ;vi-move 的局部按键
+;;; ### Python ###
+;;; --- Python mode
+(lazy-set-key
+ '(
+   ("C-S-j" . jump-to-import)
+   )
+ python-mode-map)
 ;;; ### JS2 Mode ###
 ;;; --- JS2 模式
 (lazy-set-key
