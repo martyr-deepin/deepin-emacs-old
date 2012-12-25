@@ -98,6 +98,7 @@
                'apt-utils-mode-hook
                'tuareg-mode-hook
                'go-mode-hook
+               'coffee-mode-hook
                ))
   (add-hook hook (lambda () (linum-mode 1))))
 

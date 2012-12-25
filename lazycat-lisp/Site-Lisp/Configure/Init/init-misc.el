@@ -241,6 +241,9 @@ from tradition chinese to simple chinese" t)
 ;;; ### auto-mode-alist ###
 ;;; --- 绑定扩展名到特定的模式
 (dolist (elt-cons '(
+                    ("\\.coffee$" . coffee-mode)
+                    ("\\.iced$" . coffee-mode)
+                    ("Cakefile" . coffee-mode)
                     ("\\.stumpwmrc\\'" . lisp-mode)
                     ("\\.[hg]s\\'" . haskell-mode)
                     ("\\.hi\\'" . haskell-mode)

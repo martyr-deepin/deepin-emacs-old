@@ -90,7 +90,7 @@
   (remember-init)
   ;; Jump to `import ...` position.
   (goto-char (point-min))
-  (search-forward-regexp "^import" nil t)
+  (search-forward-regexp "\\(^import\\|^from\\)" nil t)
   )
 
 (provide 'python-mode-utils)
