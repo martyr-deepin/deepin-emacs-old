@@ -86,6 +86,10 @@
 
 (setq coffee-tab-width 4)
 
+(add-hook 'coffee-mode-hook
+          (lambda () (setq tab-stop-list '(4 8 12 16 20 24 28 32 36 40 44 48 52 56 60))))
+
+
 (provide 'init-coffee-mode)
 
 ;;; init-coffee-mode.el ends here
