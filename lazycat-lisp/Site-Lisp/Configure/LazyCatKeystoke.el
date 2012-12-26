@@ -1437,6 +1437,12 @@
    )
  html-helper-mode-map
  )
+;;; ### coffee-mode ###
+(lazy-set-key
+ '(
+   ("C-m" . comment-indent-new-line)
+   )
+ coffee-mode-map)
 ;;; ### kill-ring-search ###
 ;;; --- 删除环的递增式搜索
 (lazy-set-key
