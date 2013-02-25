@@ -90,6 +90,7 @@
                'makefile-gmake-mode-hook
                'python-mode-hook
                'js-mode-hook
+               'go-mode-hook
                ))
   (add-hook hook '(lambda () (paredit-mode 1))))
 
