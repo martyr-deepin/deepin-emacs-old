@@ -326,5 +326,6 @@
 (require 'org-oddmuse)                  ;转换 Org-mode 到 Oddmuse 模式
 (require 'gtk2hs)                       ;gtk2hs绑定工具
 (require 'python-mode-utils)            ;Python 工具
+(require 'qml-mode)                     ;QML mode
 
 (provide 'LazyCatDepend)

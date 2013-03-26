@@ -265,6 +265,7 @@ from tradition chinese to simple chinese" t)
                     ("\\.mly\\'" . tuareg-mode)
                     ("\\.mll\\'" . tuareg-mode)
                     ("\\.mlp\\'" . tuareg-mode)
+                    ("\\.qml\\'" . qml-mode)
                     ))
   (add-to-alist 'auto-mode-alist elt-cons))
 

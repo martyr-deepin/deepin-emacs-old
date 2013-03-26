@@ -99,6 +99,7 @@
                'tuareg-mode-hook
                'go-mode-hook
                'coffee-mode-hook
+               'qml-mode-hook
                ))
   (add-hook hook (lambda () (linum-mode 1))))
 
