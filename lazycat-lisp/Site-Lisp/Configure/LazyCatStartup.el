@@ -3,9 +3,9 @@
   "Just eval current buffer when startup.")
 
 (when LazyCatStartup-execute
-  (server-start)                        ;启动emacs服务
-  (if (file-exists-p emms-source-file-default-directory)
-      (emms-history-load))              ;自动加载播放列表历史
+  (server-start)                      ;启动emacs服务
+  ;; (if (file-exists-p emms-source-file-default-directory)
+  ;;     (emms-history-load))              ;自动加载播放列表历史
   (fullscreen)                          ;启动时全屏函数
   (maximize)                            ;最大化窗口， 新版 Chrome 全屏窗口时打开新标签和全屏冲突
   (startup-open)                        ;打开指定的文件
