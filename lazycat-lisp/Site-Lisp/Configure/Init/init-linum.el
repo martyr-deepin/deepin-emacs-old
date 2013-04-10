@@ -100,6 +100,7 @@
                'go-mode-hook
                'coffee-mode-hook
                'qml-mode-hook
+               'markdown-mode-hook
                ))
   (add-hook hook (lambda () (linum-mode 1))))
 
