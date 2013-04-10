@@ -241,6 +241,8 @@ from tradition chinese to simple chinese" t)
 ;;; ### auto-mode-alist ###
 ;;; --- 绑定扩展名到特定的模式
 (dolist (elt-cons '(
+                    ("\\.markdown" . markdown-mode)
+                    ("\\.md" . markdown-mode)
                     ("\\.coffee$" . coffee-mode)
                     ("\\.iced$" . coffee-mode)
                     ("Cakefile" . coffee-mode)

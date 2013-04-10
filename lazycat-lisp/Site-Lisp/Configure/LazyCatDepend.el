@@ -244,6 +244,7 @@
 (require 'flymake-jslint)               ;flymake for javascript
 (require 'go-mode-load)                 ;Go language
 (require 'coffee-mode)
+(require 'markdown-mode)                ;Markdown
 
 ;;; 自己的扩展加载
 (require 'basic-edit-toolkit)           ;基础编辑包
