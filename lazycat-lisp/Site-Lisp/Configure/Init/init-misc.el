@@ -274,6 +274,7 @@ from tradition chinese to simple chinese" t)
 ;; Zencoding mode.
 (add-hook 'sgml-mode-hook 'zencoding-mode)
 (add-hook 'html-helper-mode-hook 'zencoding-mode)
+(add-hook 'markdown-mode-hook 'zencoding-mode)
 (setq zencoding-preview-default nil)
 
 ;;; ### Doxymacs ###
