@@ -81,8 +81,7 @@
 (defun newsticker--treeview-browse-url-with-chromium-browser ()
   "View url with Chromium-Browser."
   (interactive)
-  (newsticker-treeview-browse-url-with-external-browser "chromium-browser"))
-;; (newsticker-treeview-browse-url-with-external-browser "google-chrome"))
+  (newsticker-treeview-browse-url-with-external-browser "google-chrome"))
 
 (defun newsticker-treeview-browse-url-with-external-browser (browser)
   "Call `browse-url' for the link of the item at point."

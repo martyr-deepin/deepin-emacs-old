@@ -4184,9 +4184,7 @@ Standalone XHTML output is identified by an occurrence of
 When OUTPUT-BUFFER-NAME is given, insert the output in the buffer with
 that name."
   (interactive)
-  ;; (browse-url-of-buffer (markdown markdown-output-buffer-name))
-  (markdown-export-and-preview)
-  )
+  (browse-url-of-buffer (markdown markdown-output-buffer-name)))
 
 (defun markdown-export-file-name (&optional extension)
   "Attempt to generate a filename for Markdown output.
@@ -4233,7 +4231,7 @@ current filename, but with the extension removed and replaced with .html."
 (defun markdown-export-and-preview ()
   "Export to XHTML using `markdown-export' and browse the resulting file."
   (interactive)
-  (gnome-open-file (markdown-export)))
+  (browse-url (markdown-export)))
 
 (defun markdown-open ()
   "Open file for the current buffer with `markdown-open-command'."

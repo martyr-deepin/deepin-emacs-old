@@ -635,8 +635,8 @@ This function is useful for read html book in directory."
   (interactive)
   (let* ((url (or (w3m-anchor) w3m-current-url)))
     (when (y-or-n-p (format "Browse <%s> ? " url))
-      (start-process "Newsticker-External-Browser" "*Newsticker-External-Browser*" "chromium-browser" url))))
-;; (start-process "Newsticker-External-Browser" "*Newsticker-External-Browser*" "google-chrome" url))))
+      (start-process "Newsticker-External-Browser" "*Newsticker-External-Browser*" "google-chrome" url)
+      )))
 
 (provide 'w3m-extension)
 

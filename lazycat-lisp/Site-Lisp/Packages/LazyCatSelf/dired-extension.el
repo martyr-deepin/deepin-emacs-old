@@ -262,8 +262,7 @@ In a repertory DIR with the name name + the start number start."
   "gnome-opens the specified file."
   (interactive "fFile to open: ")
   (let ((process-connection-type nil))
-    (start-process "" nil "xdg-open" filename)
-    ))
+    (start-process "" nil "/usr/bin/xdg-open" filename)))
 
 (defun gnome-open-buffer ()
   "Open current buffer file with gnome."
