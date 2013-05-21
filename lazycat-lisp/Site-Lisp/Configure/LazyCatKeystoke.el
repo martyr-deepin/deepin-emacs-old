@@ -1645,6 +1645,13 @@
 ;;; --- 拼写检查
 (lazy-set-key
  '(("s-v s-v" . ispell-buffer)))        ;检查当前buffer
+;;; ### Markdown ###
+;;; --- Markdown mode
+(lazy-set-key
+ '(
+   ("<tab>" . yas/expand))
+ markdown-mode-map
+ )
 ;;; ### Toolkit ###
 ;;; --- 工具函数
 (lazy-set-key
