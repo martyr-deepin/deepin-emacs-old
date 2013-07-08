@@ -245,6 +245,7 @@
 (require 'go-mode-load)                 ;Go language
 (require 'coffee-mode)
 (require 'markdown-mode)                ;Markdown
+(require 'slime)
 
 ;;; 自己的扩展加载
 (require 'basic-edit-toolkit)           ;基础编辑包
