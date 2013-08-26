@@ -134,7 +134,7 @@ If not marked any files, default is current file or directory."
       (apply 'call-process "/usr/bin/du" nil t nil "-sch" files)
       (message "Size of all marked files: %s"
                (progn
-                 (re-search-backward "\\(^[0-9.,]+[A-Za-z]+\\).*\\(total\\|总计\\)$")
+                 (re-search-backward "\\(^[0-9.,]+[A-Za-z]+\\).*\\(total\\|总用量\\)$")
                  (match-string 1))))))
 
 (defun dired-rename-with-copy ()
