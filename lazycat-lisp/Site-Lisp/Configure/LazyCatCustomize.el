@@ -17,6 +17,7 @@
      "#ghc"
      "#python"
      "#debian"
+     "#lisp"
      ))
  ;; 打开或关闭文件
  '(startup-open-file-list               ;启动打开的文件列表
