@@ -1645,6 +1645,15 @@
 ;;; --- 拼写检查
 (lazy-set-key
  '(("s-v s-v" . ispell-buffer)))        ;检查当前buffer
+;;; ### Slime mode ###
+(lazy-set-key
+ '(
+   ("M-n" . go-to-next-pair-left)
+   ("M-p" . go-to-next-pair-right)
+   ("C-m" . comment-indent-new-line)
+   )
+ slime-mode-map
+ )
 ;;; ### Markdown ###
 ;;; --- Markdown mode
 (lazy-set-key
