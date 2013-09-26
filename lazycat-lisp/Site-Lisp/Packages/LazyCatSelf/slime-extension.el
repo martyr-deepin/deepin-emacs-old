@@ -86,6 +86,7 @@
 
 (defun slime-load-current-file ()
   (interactive)
+  (save-buffer)
   (slime-load-file buffer-file-name)
   (slime-switch-to-output-buffer))
 
