@@ -1651,6 +1651,7 @@
    ("M-n" . go-to-next-pair-left)
    ("M-p" . go-to-next-pair-right)
    ("C-m" . comment-indent-new-line)
+   ("C-c C-l" . slime-load-current-file)
    )
  slime-mode-map
  )

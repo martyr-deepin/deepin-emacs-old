@@ -76,16 +76,18 @@
 
 ;;; Code:
 
-(defun erc-autologin (nick passwd)
+(defun erc-autologin (nick)
   "Auto longing erc."
-  (interactive "sNick: \nsPassword: \n")
-  (erc
-   :server erc-server
-   :port erc-port
-   :full-name erc-user-full-name
-   :nick nick
-   :password passwd
-   ))
+  (interactive "sNick: \n")
+  (let ((passwd (read-passwd "Password: ")))
+    (erc
+     :server erc-server
+     :port erc-port
+     :full-name erc-user-full-name
+     :nick nick
+     :password passwd
+     ))
+  )
 
 (defun switch-to-erc ()
   "Switch to an erc buffer, or run `erc-select'.

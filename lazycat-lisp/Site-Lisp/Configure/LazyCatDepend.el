@@ -329,5 +329,6 @@
 (require 'gtk2hs)                       ;gtk2hs绑定工具
 (require 'python-mode-utils)            ;Python 工具
 (require 'qml-mode)                     ;QML mode
+(require 'slime-extension)              ;Slime mode
 
 (provide 'LazyCatDepend)

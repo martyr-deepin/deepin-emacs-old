@@ -27,23 +27,23 @@
    '(
      ))
  ;; 目录设置
- '(my-home-directory "~/")                                              ;HOME目录
- '(my-mldonkey-download-directory "~/.aMule/Incoming/")                 ;mldonkey的下载目录
- '(my-default-download-directory "/test/Download/")                     ;默认下载目录
- '(my-resource-backup-directory "/data/Backup/")                        ;资料备份目录
- '(my-book-directory "/data/Book/")                                     ;图书目录
- '(my-reading-directory "/data/Book/Reading/")                          ;看书目录
- '(my-translate-png-directory "/data/Book/Doc-View_Translate_Book")     ;PDF转换成图片的目录
- '(my-picture-directory "/data/Picture/")                               ;图片目录
- '(my-lyrics-directory "/data/Lyrics/")                                 ;歌词目录
- '(my-screenshots-storage-directory "/data/Picture/Screenshots/")       ;屏幕截图目录
- '(my-emlue-download-directory "/test/WindowsDownload/eMule/")          ;电驴目录
- '(my-notes-directory "/usr/share/deepin-emacs/Org/")                             ;笔记目录
- '(my-emacs-backup-directory "/usr/share/deepin-emacs/Backup/")                   ;备份文件目录
+ '(my-home-directory "~/")                                          ;HOME目录
+ '(my-mldonkey-download-directory "~/.aMule/Incoming/")             ;mldonkey的下载目录
+ '(my-default-download-directory "/test/Download/")                 ;默认下载目录
+ '(my-resource-backup-directory "/data/Backup/")                    ;资料备份目录
+ '(my-book-directory "/data/Book/")                                 ;图书目录
+ '(my-reading-directory "/data/Book/Reading/")                      ;看书目录
+ '(my-translate-png-directory "/data/Book/Doc-View_Translate_Book") ;PDF转换成图片的目录
+ '(my-picture-directory "/data/Picture/")                           ;图片目录
+ '(my-lyrics-directory "/data/Lyrics/")                             ;歌词目录
+ '(my-screenshots-storage-directory "/data/Picture/Screenshots/")   ;屏幕截图目录
+ '(my-emlue-download-directory "/test/WindowsDownload/eMule/")      ;电驴目录
+ '(my-notes-directory "/usr/share/deepin-emacs/Org/")               ;笔记目录
+ '(my-emacs-backup-directory "/usr/share/deepin-emacs/Backup/")     ;备份文件目录
  '(my-emacs-lisp-package-directory "/usr/share/deepin-emacs/Site-Lisp/Packages/") ;elisp 目录
  '(my-elisp-directory "/usr/share/deepin-emacs/Site-Lisp/Packages/LazyCatSelf/")  ;自己扩展目录
  '(my-config-directory "/usr/share/deepin-emacs/Site-Lisp/Configure/Init/")       ;配置目录
- '(my-windows-share-directory "/test/WindowsShare/")                    ;Windows 共享目录
+ '(my-windows-share-directory "/test/WindowsShare/")                              ;Windows 共享目录
  ;; ERC
  '(erc-server "irc.freenode.net")       ;设置服务器
  '(erc-port 6667)                       ;设置端口
