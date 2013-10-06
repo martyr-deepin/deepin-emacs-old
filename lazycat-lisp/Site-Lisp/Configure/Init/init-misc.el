@@ -363,6 +363,8 @@ from tradition chinese to simple chinese" t)
 ;;; ### Doc View ###
 ;;; --- PDF, PS, DVI 图书浏览器
 (setq doc-view-cache-directory my-translate-png-directory) ;doc-view转换的图书目录
+(setq doc-view-image-width (- (display-pixel-width) 16))
+(setq doc-view-resolution 300)
 
 ;;; ### Color moccur ###
 ;;; --- 增强的Buffer搜索
