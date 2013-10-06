@@ -76,14 +76,14 @@
 
 ;;; Code:
 
-(setq anything-idle-delay 1.0)                            ;设定开始显示 `延迟源' 的空闲间隔时间
-(setq anything-quick-update t)                            ;不显示提示窗口外的变量, 加快刷新速度
-(setq anything-candidate-number-limit 10000)              ;候选数量限制
-(setq anything-c-yas-display-key-on-candidate t)          ;补全 YAsnippet 时显示 YAsnippet 的名称
-(setq anything-etags-enable-tag-file-dir-cache t)         ;使用缓存的tag文件
-(setq anything-c-use-standard-keys nil)                   ;不使用标准按键
+(setq anything-idle-delay 1.0)                    ;设定开始显示 `延迟源' 的空闲间隔时间
+(setq anything-quick-update t)                    ;不显示提示窗口外的变量, 加快刷新速度
+(setq anything-candidate-number-limit 10000)      ;候选数量限制
+(setq anything-c-yas-display-key-on-candidate t)  ;补全 YAsnippet 时显示 YAsnippet 的名称
+(setq anything-etags-enable-tag-file-dir-cache t) ;使用缓存的tag文件
+(setq anything-c-use-standard-keys nil)           ;不使用标准按键
 (setq anything-etags-cache-tag-file-dir "/usr/share/deepin-emacs/") ;tag缓存文件的目录
-(setq anything-c-google-suggest-url                       ;设置Google建议允许访问的URL
+(setq anything-c-google-suggest-url                                 ;设置Google建议允许访问的URL
       "http://www.google.cn/complete/search?hl=en&js=true&qu=")
 (setq anything-sources                  ;Anything 源列表
       (list
@@ -100,7 +100,7 @@
        anything-c-source-w3m-bookmarks            ;w3m 书签
        anything-c-source-extended-command-history ;Emacs命令历史
        ;; anything-c-source-info-elisp               ;Info Elisp
-       ;; anything-c-source-info-cl                  ;Info Common-Lisp
+       ;; anything-c-source-info-cl        ;Info Common-Lisp
        ;; anything-c-source-info-pages               ;Info Pages
        anything-c-source-fixme          ;FIX ME
        ;; anything-c-source-etags-select             ;etags
