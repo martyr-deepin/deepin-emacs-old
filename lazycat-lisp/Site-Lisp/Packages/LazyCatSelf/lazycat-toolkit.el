@@ -238,6 +238,12 @@ use function `completion-delete'."
   (setq cycle-buffer-filter (cons '(eq major-mode special-mode) cycle-buffer-filter))
   (cycle-buffer-backward-permissive 1))
 
+(defun cycle-buffer-in-special-mode-except-buffer (special-mode except-buffer-name)
+  "Cycle in special mode."
+  (setq cycle-buffer-filter nil)
+  (setq cycle-buffer-filter (cons '(and (eq major-mode special-mode) (not (equal (buffer-name) except-buffer-name))) cycle-buffer-filter))
+  (cycle-buffer-backward-permissive 1))
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Compile ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (defun compile-dwim-compile+ ()
   "Same as `compile-dwim-compile', except save file before compile."

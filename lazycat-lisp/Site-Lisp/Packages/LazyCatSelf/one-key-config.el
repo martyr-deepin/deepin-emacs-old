@@ -384,7 +384,7 @@
         (("s" . "CSS") . (lambda () (interactive) (cycle-buffer-in-special-mode 'css-mode)))
         (("h" . "html") . (lambda () (interactive) (cycle-buffer-in-special-mode 'html-helper-mode)))
         (("m" . "OCaml") . (lambda () (interactive) (cycle-buffer-in-special-mode 'tuareg-mode)))
-        (("u" . "Lisp") . (lambda () (interactive) (cycle-buffer-in-special-mode 'lisp-mode)))
+        (("u" . "Lisp") . (lambda () (interactive) (cycle-buffer-in-special-mode-except-buffer 'lisp-mode " *slime-fontify*")))
         ))
 
 (defun one-key-menu-cycle-buffer ()
