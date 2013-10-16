@@ -1614,6 +1614,11 @@
    ("C-c SPC" . senator-completion-menu-popup) ;弹出补全菜单
    ("M-/" . hippie-expand)                     ;智能补全
    ))
+;;; ### Golang ###
+(lazy-set-key
+ '(
+   ("C-c C-c" . go-run-buffer)
+   ))
 ;;; ### VC ###
 ;;; --- 版本控制
 (lazy-set-key
