@@ -1615,10 +1615,22 @@
    ("M-/" . hippie-expand)                     ;智能补全
    ))
 ;;; ### Golang ###
+(lazy-unset-key
+ '("C-k" "M-o")
+ go-mode-map)
 (lazy-set-key
  '(
    ("C-c C-c" . go-run-buffer)
-   ))
+   ("C-c C-f" . gofmt)
+   ("C-c C-d" . godoc)
+   ("C-c C-a" . go-import-add)
+   ("C-8" . godef-jump)
+   ("C-u C-8" . godef-jump-other-window)
+   ("C-k" . go-kill)
+   ("M-o" . go-backward-delete)
+   )
+ go-mode-map
+ )
 ;;; ### VC ###
 ;;; --- 版本控制
 (lazy-set-key

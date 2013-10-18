@@ -81,12 +81,23 @@
 
 ;;; Require
 
-
 ;;; Code:
 
 (defun go-run-buffer()
   (interactive)
   (shell-command (concat "go run " (buffer-name))))
+
+(defun go-kill()
+  (interactive)
+  (if (go-mode-in-string)
+      (paredit-kill-line-in-string)
+    (paredit-kill)))
+
+(defun go-backward-delete()
+  (interactive)
+  (if (go-mode-in-string)
+      (paredit-backward-delete-in-string)
+    (paredit-backward-delete)))
 
 (provide 'init-golang)
 

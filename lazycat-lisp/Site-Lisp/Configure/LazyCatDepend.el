@@ -242,7 +242,8 @@
 (require 'tuareg)                       ;ocaml edit mode
 (require 'ocamldebug)                   ;ocaml debug mode
 (require 'flymake-jslint)               ;flymake for javascript
-(require 'go-mode-load)                 ;Go language
+(require 'go-mode)                      ;Go language
+(require 'go-flymake)                   ;Go flymake
 (require 'coffee-mode)
 (require 'markdown-mode)                ;Markdown
 (require 'slime)
