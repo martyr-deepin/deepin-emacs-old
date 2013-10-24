@@ -115,10 +115,9 @@
   (ac-go-get-candidates (ac-go-format-autocomplete (ac-go-invoke-autocomplete))))
 
 (defun ac-go-prefix ()
-  (or (ac-prefix-symbol)
-      (let ((c (char-before)))
-        (when (eq ?\. c)
-          (point)))))
+  (let ((c (char-before)))
+    (when (eq ?\. c)
+      (point))))
 
 ;; (ac-define-source go
 (defvar ac-source-go
@@ -133,11 +132,6 @@
     (symbol . "g")))
 
 (add-to-list 'ac-modes 'go-mode)
-
-(add-hook 'go-mode-hook #'(lambda ()
-                            (auto-complete-mode 1)
-                            (add-to-list 'ac-sources 'ac-source-go)
-                            (call-process "gocode -s")))
 
 (provide 'go-autocomplete)
 ;;; go-autocomplete.el ends here
