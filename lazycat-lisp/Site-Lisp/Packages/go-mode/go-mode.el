@@ -255,7 +255,7 @@ For mode=set, all covered lines will have this weight."
      (,(go--regexp-enclose-in-symbol (regexp-opt go-builtins t)) . font-lock-builtin-face)
      (,(go--regexp-enclose-in-symbol (regexp-opt go-constants t)) . font-lock-constant-face)
      (,go-func-regexp 1 font-lock-function-name-face)
-     (go-mode-font-lock-cs-string 0 font-lock-string-face t)
+     ;; (go-mode-font-lock-cs-string 0 font-lock-string-face t)
      ) ;; function (not method) name
 
    (if go-fontify-function-calls

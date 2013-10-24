@@ -331,5 +331,6 @@
 (require 'python-mode-utils)            ;Python ¹¤¾ß
 (require 'qml-mode)                     ;QML mode
 (require 'slime-extension)              ;Slime mode
+(require 'go-autocomplete)
 
 (provide 'LazyCatDepend)

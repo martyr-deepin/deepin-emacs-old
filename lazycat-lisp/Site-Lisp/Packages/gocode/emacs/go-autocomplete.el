@@ -120,21 +120,24 @@
         (when (eq ?\. c)
           (point)))))
 
-(ac-define-source go
-                  '((candidates . ac-go-candidates)
-                    (candidate-face . ac-candidate-face)
-                    (selection-face . ac-selection-face)
-                    (document . ac-go-document)
-                    (action . ac-go-action)
-                    (prefix . ac-go-prefix)
-                    (requires . 0)
-                    (cache)
-                    (symbol . "g")))
+;; (ac-define-source go
+(defvar ac-source-go
+  '((candidates . ac-go-candidates)
+    (candidate-face . ac-candidate-face)
+    (selection-face . ac-selection-face)
+    (document . ac-go-document)
+    (action . ac-go-action)
+    (prefix . ac-go-prefix)
+    (requires . 0)
+    (cache)
+    (symbol . "g")))
 
 (add-to-list 'ac-modes 'go-mode)
 
 (add-hook 'go-mode-hook #'(lambda ()
-                            (add-to-list 'ac-sources 'ac-source-go)))
+                            (auto-complete-mode 1)
+                            (add-to-list 'ac-sources 'ac-source-go)
+                            (call-process "gocode -s")))
 
 (provide 'go-autocomplete)
 ;;; go-autocomplete.el ends here

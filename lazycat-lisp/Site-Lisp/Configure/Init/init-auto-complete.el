@@ -97,15 +97,17 @@
                         haskell-mode literate-haskell-mode
                         emms-tag-editor-mode
                         asm-mode
-                        org-mode))
+                        org-mode
+                        go-mode
+                        ))
 ;; (add-to-list 'ac-trigger-commands 'org-self-insert-command) ; if you want enable auto-complete at org-mode, uncomment this line
 
 ;; The sources for common all mode.
 (custom-set-variables
  '(ac-sources
    '(
-     ac-source-yasnippet ;this source need file `auto-complete-yasnippet.el'
-     ;; ac-source-semantic    ;this source need file `auto-complete-semantic.el'
+     ac-source-yasnippet                ;this source need file `auto-complete-yasnippet.el'
+     ;; ac-source-semantic                 ;this source need file `auto-complete-semantic.el'
      ac-source-imenu
      ac-source-abbrev
      ac-source-words-in-buffer
@@ -144,4 +146,3 @@
 (provide 'init-auto-complete)
 
 ;;; init-auto-complete.el ends here
-
