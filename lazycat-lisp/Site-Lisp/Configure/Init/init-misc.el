@@ -163,6 +163,7 @@
                'emms-tag-editor-mode-hook
                'sh-mode-hook
                'haskell-cabal-mode-hook
+               'qml-mode-hook
                ))
   (add-hook hook '(lambda () (setq indent-tabs-mode nil))))
 
@@ -622,6 +623,24 @@ from tradition chinese to simple chinese" t)
 ;; Slime mode.
 (setq inferior-lisp-program "/usr/bin/sbcl")
 (slime-setup '(slime-fancy))
+
+(defun remove-python-comment()
+  (interactive)
+  (goto-char (point-min))
+  (goto-line 3)
+  (while (< (point) (point-max))
+    (progn
+      (comment-indent)
+      (unless (elisp-format-in-string-p)
+        (if (elisp-format-in-comment-p)
+            (progn
+              (delete-region (point) (save-excursion
+                                       (end-of-line)
+                                       (point)))
+              (backward-delete-char 2))
+          ))
+      (forward-line 1)
+      )))
 
 (provide 'init-misc)
 
