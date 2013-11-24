@@ -150,7 +150,6 @@
 ;; (require 'eperiodic)              ;化学元素周期表
 (require 'gnus-srvr)                    ;gnus虚拟服务器
 (require 'gnus-demon)                   ;Gnus固守程序
-(require 'apropos)                      ;帮助系统
 (require 'redo+)                        ;Extension redo.el
 (require 'uptimes)                      ;记录运行时间
 ;; (require 'ub)                     ;强大的撤销系统
@@ -164,7 +163,7 @@
 (require 'macros+)                      ;macro的扩展
 (require 'switch-to-new-buffer)         ;切换到一个新的buffer
 (require 'apropos)                      ;参数查询
-(require 'apropos-fn+var)               ;apropos增强
+;; (require 'apropos-fn+var)               ;apropos增强
 (require 'pp+)                          ;pp增强
 ;; (require 'elscreen)                     ;工作区
 (require 'breadcrumb)                   ;快速书签导航
