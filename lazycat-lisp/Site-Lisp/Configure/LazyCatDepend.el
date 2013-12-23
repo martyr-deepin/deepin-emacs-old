@@ -150,7 +150,7 @@
 ;; (require 'eperiodic)              ;化学元素周期表
 (require 'gnus-srvr)                    ;gnus虚拟服务器
 (require 'gnus-demon)                   ;Gnus固守程序
-(require 'redo+)                        ;Extension redo.el
+;;(require 'redo+)                        ;Extension redo.el
 (require 'uptimes)                      ;记录运行时间
 ;; (require 'ub)                     ;强大的撤销系统
 (require 'cal-china-x)                  ;中文日历

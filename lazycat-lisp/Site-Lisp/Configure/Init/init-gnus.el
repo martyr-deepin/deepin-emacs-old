@@ -226,7 +226,7 @@
               gnus-sum-thread-tree-vertical
               "]*"))
 ;; 最后设置
-(gnus-compile)                          ;编译一些选项, 加快速度
+;;(gnus-compile)                          ;编译一些选项, 加快速度
 
 (provide 'init-gnus)
 

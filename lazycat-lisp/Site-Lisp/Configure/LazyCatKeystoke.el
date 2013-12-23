@@ -1174,9 +1174,9 @@
 (lazy-set-key vi-move-key-alist sys-apropos-mode-map) ;vi-mode 的局部按键
 ;;; ### Help ###
 ;;; --- 帮助模式
-(lazy-unset-key
- '("e" "h" "y")
- view-mode-map)                         ;卸载按键
+;;(lazy-unset-key
+;; '("e" "h" "y")
+;; view-mode-map)                         ;卸载按键
 (lazy-set-key
  '(
    ("C-h". one-key-menu-help)           ;帮助菜单
